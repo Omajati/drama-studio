@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 17 «Acerico»
+
+Ключевая мысль-крючок: брат требует себе долю наследства сестры, потому что «у тебя нет семьи», а она достаёт из маминой игольницы-помидора свёрнутую бумажку с его же подписью. Раскрытие — в первые 3 минуты (расписка брата 1998 г. на семь с половиной миллионов песет, «вычесть из моей доли», 2:28–2:56).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 64-year-old Southern European woman with short grey hair and a side fringe, small silver hoop earrings, a tape measure around her neck and a mustard knitted cardigan, holding up a small red velvet tomato-shaped pincushion full of coloured pins in one hand and a thin rolled paper in the other, calm, quietly determined, looking straight at the viewer; behind her, softly blurred, a dark wood notary's office. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+MI HERMANO QUERÍA                        — белый
+MI PARTE DE LA HERENCIA.                 — жёлтый
+«TÚ NO TIENES FAMILIA».                  — белый, «NO TIENES FAMILIA» красный
+DENTRO DEL ACERICO DE MAMÁ               — белый
+HABÍA UN PAPEL CON SU FIRMA.             — белый, «SU FIRMA» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: 7.500.000 PESETAS
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding up the red velvet pincushion from reference R8 and a thin rolled paper, calm and determined, looking at the viewer; blurred dark notary's office behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: MI HERMANO QUERÍA
+line 2 yellow: MI PARTE DE LA HERENCIA.
+line 3 white with NO TIENES FAMILIA in red: «TÚ NO TIENES FAMILIA».
+line 4 white: DENTRO DEL ACERICO DE MAMÁ
+line 5 white with SU FIRMA in green: HABÍA UN PAPEL CON SU FIRMA.
+Below the text, a red rectangle with white bold uppercase text: 7.500.000 PESETAS
+No other text, no logos. Check accents and quotes exactly (QUERÍA, TÚ, MAMÁ, HABÍA, « »).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: красная игольница в руке, «HERENCIA» и плашка с суммой. Если строки сливаются — убрать строку 4.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Tú no tienes familia, Tere: tu parte me la debes», dijo mi hermano. Yo reservé un vuelo
+Название даёт обиду цитатой и странный ответ (полёт). Превью добавляет предмет (мамина игольница) и бумагу с подписью брата. Плашка — сумма в песетах: старый долг, но какой и чей, не ясно.
