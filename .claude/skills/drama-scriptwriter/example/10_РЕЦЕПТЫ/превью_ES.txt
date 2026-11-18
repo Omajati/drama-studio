@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 10 «Lata de recetas»
+
+Ключевая мысль-крючок: в коробке с рецептами матери последняя карточка называется «Arroz con leche para Lola», и в ней нет ни риса, ни молока. Раскрытие — в первые 3 минуты (рукописное завещание, 2:55).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a sturdy 66-year-old Southern European woman with short curly grey hair, round tortoiseshell glasses, rosy cheeks, a dark green wool cardigan, holding a round blue metal biscuit tin (no brand) against her chest with both hands, one yellowed recipe card sticking out of it, calm, quietly determined, looking straight at the viewer; behind her, softly blurred, a kitchen window with a grey stormy sea. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+MI MADRE ME DEJÓ                         — белый
+CIENTO DOCE RECETAS.                     — жёлтый
+LA ÚLTIMA SE LLAMABA                     — белый
+«ARROZ CON LECHE PARA LOLA».             — жёлтый
+LA LEÍ A LAS TRES DE LA MAÑANA.          — белый, «TRES DE LA MAÑANA» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: NO TENÍA ARROZ
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding the round blue biscuit tin from reference R8 against her chest, a yellowed card sticking out, calm and determined, looking at the viewer; blurred kitchen window with a grey sea behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: MI MADRE ME DEJÓ
+line 2 yellow: CIENTO DOCE RECETAS.
+line 3 white: LA ÚLTIMA SE LLAMABA
+line 4 yellow: «ARROZ CON LECHE PARA LOLA».
+line 5 white with the words TRES DE LA MAÑANA in green: LA LEÍ A LAS TRES DE LA MAÑANA.
+Below the text, a red rectangle with white bold uppercase text: NO TENÍA ARROZ
+No other text, no logos. Check accents exactly (DEJÓ, ÚLTIMA, LEÍ, MAÑANA, TENÍA).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «ARROZ CON LECHE PARA LOLA», синяя коробка в руках и плашка NO TENÍA ARROZ. Если строки сливаются — убрать строку 5.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Tú sigue con tus croquetas», se rió mi cuñado: a mi hermana, la casa; a mí, la lata de recetas
+Название даёт обиду и несправедливость (дом — сестре, коробка — ей). Превью продолжает: что в коробке и какая карточка последняя. Плашка — парадокс без ответа: что было в карточке вместо рецепта, не ясно.
