@@ -1,0 +1,32 @@
+ПРЕВЬЮ ES — 25 «Bolso» 🎄
+РАСКЛАДКА: E — Кино-кадр
+
+Ключевая мысль-крючок: в Рождество свекровь возвращается в сидрерию за телефоном, официантка запирает за ней дверь и прячет за ширмой — свекровь слышит, как невестка смеётся «моя свекровь ничего не замечает». Раскрытие — в первые 3 минуты (запись камеры: невестка фотографирует её паспорт и карту из сумочки, 2:34).
+
+СТИЛЬ ПРЕВЬЮ (раскладка E, отличается от 24 — F и 10–23 — A)
+Кинокадр во весь экран без чёрной стены: тёплый рождественский зал сидрерии, официантка на переднем плане поворачивает ключ в двери, героиня за деревянной ширмой с бордовой лаковой сумкой у груди, за столом вдали — блондинка, смеётся. Мягкая виньетка. Одна огромная строка-цитата и одна строка ответа внизу по центру. Маленькая красная плашка над строками. Цветовая схема 1: белый + жёлтый + одно красное слово.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic cinematic YouTube thumbnail, 16:9, full frame, no black areas. A warm traditional Spanish cider house on Christmas Day with wooden beams and string lights. Foreground left: a waitress (38, dark hair in a bun, black shirt, white apron) turning a key in the front door, looking over her shoulder. Middle right: a 67-year-old Southern European woman with elegant short ash-blonde hair and pearl earrings, in a black coat, half hidden behind a wooden folding screen, clutching a burgundy patent-leather handbag with a gold clasp to her chest, eyes wide but calm, looking toward the viewer. Background, slightly blurred: a blonde woman with long nails laughing at a table with coffee cups. Soft dark vignette at the edges; the lower 35% of the frame darker and calm for text. No text, no letters, no logos.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, 2 строки внизу по центру)
+«MI SUEGRA NO SE ENTERA DE NADA»         — белый
+LA CÁMARA LO GRABÓ TODO.                 — жёлтый, «GRABÓ» красный
+
+3. ПЛАШКА
+Красный прямоугольник, белые буквы: QUÉDESE CALLADA
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1, R4 и R8)
+Photorealistic cinematic YouTube thumbnail, 16:9, full frame: the cider house scene from reference R6 on Christmas Day; the waitress from reference R4 turning a key in the front door in the foreground; the woman from reference R1 half hidden behind the wooden screen, clutching the handbag from reference R8; a blonde woman laughing at a table in the blurred background; soft dark vignette, darker bottom third. Bottom centre, bold condensed uppercase text, two lines:
+line 1 white, very large: «MI SUEGRA NO SE ENTERA DE NADA»
+line 2 yellow with GRABÓ in red: LA CÁMARA LO GRABÓ TODO.
+Just above the lines, a small red rectangle with white bold uppercase text: QUÉDESE CALLADA
+No other text, no logos. Check accents and quotes exactly (CÁMARA, GRABÓ, QUÉDESE, « »).
+Файл: THUMB_ES.png — запасной вариант; с версии 214 программа сама рисует раскладку E.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: цитата в кавычках, «GRABÓ», сумка в руках и ключ в двери. Если цитата мелкая — оставить одну строку цитаты, вторую убрать.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Mi suegra no se entera de nada», reía mi nuera. La camarera me encerró para que lo oyera
+Название — обида цитатой и странный поступок официантки. Превью повторяет цитату крупно (в раскладке E цитата — главный образ) и добавляет новое: «камера всё записала». Плашка — слова официантки, обрыв.
