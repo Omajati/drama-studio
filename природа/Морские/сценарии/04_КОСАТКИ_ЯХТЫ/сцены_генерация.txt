@@ -1,0 +1,322 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: an 18-minute English YouTube documentary for adults, channel "Sea Creatures" (ocean animals network), titled "One Orca Started Breaking Boats. Now Her Whole Pod Does It". Story: since 2020 a small, critically endangered population of orcas off Spain and Portugal (about 40 animals that hunt Atlantic bluefin tuna) has been grabbing and breaking the rudders of sailboats. Researchers linked the first encounters to an adult female called White Gladis and two juveniles; the behavior spread mostly among young orcas, around nine boats have sunk, yet no person has been hurt by the orcas. The video compares it to the 1987 "salmon hat" fad of orcas near Seattle and explains why wild orcas leave people alone. Night sea, deep blue water, tuna, sailboats, moonlight and bioluminescence.
+
+Visual style (used for every image): dark cinematic underwater photorealism, deep navy and black water, shafts of light from above, natural bioluminescence where it exists in nature, documentary wildlife photography. Surface scenes: dark cinematic ocean photorealism with moonlight or overcast light. Scale diagrams: clean scientific illustration on dark navy background without labels.
+
+Recurring characters (keep identical across shots):
+WHITE GLADIS — an adult female orca of the Iberian population, about six meters long, stocky, glossy black with crisp white eye patch, white belly and a light grey saddle patch behind a curved, medium-height dorsal fin with one small notch near its tip.
+JUVENILES — young orcas of the same population, about four meters long, slimmer, with short curved dorsal fins, same black-and-white pattern, playful.
+THE SAILBOAT — a white twelve-meter cruising sloop with a single white spade rudder, navy stripe on the hull, no name, no flag, no logos.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no boat names, no flags, no blood, no wounds, no animals being torn apart, no recognisable real people. People appear only as silhouettes, from behind or in diving gear with faces hidden. Below 200 meters light comes only from torches or bioluminescence. Phone screens, newspapers and documents are always blurred and unreadable. Orcas always have realistic anatomy: one dorsal fin, two pectoral fins, horizontal tail fluke.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of an adult female orca (White Gladis) in side view and three-quarter view: about six meters long, stocky, glossy black, crisp white eye patch, white belly, light grey saddle patch behind a curved medium-height dorsal fin with one small notch near the tip. Style: photorealistic, clear blue water, even light, 16:9, no text.
+
+REFERENCE R2. Reference sheet of a juvenile orca of the same population in side and top view: about four meters long, slimmer body, short curved dorsal fin, same black-and-white pattern, playful posture. Style: photorealistic, clear blue water, even light, 16:9, no text.
+
+REFERENCE R3. Reference of a white twelve-meter cruising sloop with a navy hull stripe, no name, no flag: one view above the water under sail, one underwater view of the stern showing a single white spade rudder. Style: photorealistic, neutral light, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. An adult female orca (R1) seen from below and slightly in front at night, mouth closed, pressing her head against the white rudder blade of a sailboat (R3); the dark hull and rudder above, faint moonlight from the surface, deep navy water fading to black below. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S002. A white sailboat (R3) alone on a flat black sea at three in the morning, mast light glowing, a faint coastline far away, stars, calm water. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S003. Over-the-shoulder view from behind a sailor in a dark jacket and hood at the wheel of the sailboat (R3), face not visible, only the glowing compass and instruments, black sea ahead. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Close-up of two gloved hands gripping a stainless-steel ship's wheel as it jerks sharply to one side, motion blur, dim red cockpit light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S005. View under the stern of the sailboat (R3): the rudder blade twisted sideways, a dark orca shape (R2, juvenile) gripping its trailing edge with its mouth, moonlight shafts, black water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A beam of a flashlight across black water at night, a curved black dorsal fin about the height of a child cutting the surface right beside the hull. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Three orca dorsal fins of different sizes (one adult female R1, two juveniles R2) surfacing in a row behind a sailboat's stern at night, faint moonlight on wet skin. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S008. Wide underwater shot: three orcas (R1 and two R2 juveniles) circling below the hull of a sailboat, the rudder at the center like a toy, bioluminescent plankton sparkling where they move. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S009. Wide aerial night view of the Strait of Gibraltar: two dark coastlines almost touching, a few ship lights in the channel, one tiny sailboat. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S010. Portrait of the adult female orca (R1) in deep blue water, three-quarter view, calm eye visible, sunlight shafts from above, the curved dorsal fin and grey saddle patch clear. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S011. The adult female orca (R1) swimming toward camera with two smaller juvenile orcas (R2) tucked close behind her, open blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A sailor silhouette leaning over the stern rail at night, looking down at dark shapes in the water below, face hidden, moody moonlight. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S013. The adult female orca (R1) gliding past camera very close, the eye sliding by, deep navy background. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S014. Distant view of a sailboat (R3) at dawn with its rudder gone, drifting on grey water, a rescue boat's lights approaching far away. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S015. A juvenile orca (R2) mouthing the edge of a rudder blade gently, like a dog with a toy, light from above, small bubbles. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S016. Top-down view through clear water of a family of orcas swimming in a tight group along a coastline, soft morning light. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S017. A fishing harbor at dusk on the southern coast of Spain, generic white houses, small boats, the strait and the mountains of Africa on the horizon, no signs. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S018. A small family group of orcas (R1 and juveniles R2) cruising through the strait in blue water, a cargo ship's hull far above them as a dark shape. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S019. A big Atlantic bluefin tuna in open blue water, metallic silver-blue body, side view, shafts of light from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S020. A school of Atlantic bluefin tuna streaking through blue water at speed, motion blur, sunlight from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S021. Two orcas (R2) chasing a single bluefin tuna in open water, the tuna ahead, everything streaked by speed, no contact. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S022. Wide shot: a relay of orcas spaced out across blue water behind a tiring tuna, the chase seen from far away, calm and tense. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S023. An exhausted bluefin tuna slowing down, an orca (R1) closing in from behind in the soft blue distance, moment before the catch, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S024. Scale comparison: an adult female orca silhouette beside a family minivan silhouette and a standing adult human silhouette, all side view on a dark navy background, orca slightly longer than the van. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S025. Scale comparison: the curved dorsal fin of an adult female orca next to a kitchen counter silhouette, and the tall straight dorsal fin of an adult male orca next to a standing man silhouette, dark navy background. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S026. Close-up of an orca's head (R1) underwater, the eye and white eye patch in sharp focus, calm and intelligent, deep blue background. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A family of orcas (R1 and juveniles R2) swimming side by side, the calves copying the adult's movement exactly. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S028. An old wooden whaling ship painted in dark tones on a stormy sea, eighteenth-century style, orca fins in the foreground waves, moody painterly realism. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S029. A pod of orcas swimming past a large baleen whale in the far blue distance, peaceful, no attack. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S030. Calm afternoon in the strait: a ferry, a fishing boat and orca fins surfacing nearby in peaceful coexistence, golden light, no logos. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S031. Orcas swimming under the dark hull of a big fishing boat without touching it, shafts of light around the hull. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S032. A sailboat (R3) heading out of a marina into the strait at sunrise, calm sea, peaceful. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S033. Dark clouds gathering over the strait, a single sailboat (R3) small on the horizon, quiet before something happens. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S034. View from below of the sailboat (R3) hull in daylight, three orca shapes (R1, R2) approaching from behind toward the stern, blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S035. An orca (R2) nudging the rudder blade of a sailboat (R3) with its rostrum, bubbles streaming, blue water, daylight from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S036. Aerial view of a sailboat (R3) spinning in a tight circle on blue water, a white wake curling around it, three orca fins at the stern. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S037. A sailboat (R3) turned sideways in the water, sails flapping, a dark orca back breaking the surface beside the stern, daylight. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S038. Aerial view of the Atlantic coast of Portugal with small sailboats along the coastline and long beaches, summer light, no text. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S039. The green rocky coast of Galicia in northwestern Spain from the sea, a sailboat in the foreground, overcast light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S040. A dark navy map-like illustration of the Iberian Peninsula coastline with a soft glowing path along the sea from the Strait of Gibraltar north to Galicia, small tuna and orca silhouettes along the path, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S041. Close-up of a camera with a long lens held by a researcher on a small research boat, back to camera, face hidden, orca fins in the distance. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S042. Side view of an orca dorsal fin with small nicks and a scar on its trailing edge, sharp detail, blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S043. Three orca dorsal fins side by side underwater, each with a different shape and pattern of nicks, like fingerprints. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S044. Two juvenile orcas (R2) swimming together, playful, blue water, sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S045. The adult female orca (R1) in a clear side view, full body, light from above, calm. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S046. The adult female orca (R1) leading two juveniles (R2) past the camera, blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S047. Close-up of the rudder blade of a sailboat underwater with orca tooth marks on its edge, a juvenile orca (R2) swimming away in the background. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S048. Underwater view of the sailboat (R3) hull and sails above the surface, orcas ignoring the hull and circling only the rudder. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S049. A sailboat (R3) stopped and quiet on calm water, sails down, the crew silhouettes sitting still, orca fins moving away in the distance. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S050. Three orcas (R1, R2) swimming away from a still sailboat into deeper blue water, relaxed, light from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S051. The adult female orca (R1) alone in dim blue water, slow and still, moody, light fading above her. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S052. A modern research office at night by the sea, laptop screen glowing with blurred unreadable orca fin photos, a researcher seen from behind, face hidden. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S053. The adult female orca (R1) close to a dark boat hull in murky water, a sense of collision, dramatic shafts of light, no injury shown. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S054. A fishing line drifting in dark water near an orca's tail fluke (R1), tension, no wound, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S055. The adult female orca (R1) swimming fast away from a dark hull, bubbles behind her, alarmed motion. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S056. The adult female orca (R1) approaching a rudder blade slowly from behind, focused, deep blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S057. Two juvenile orcas (R2) watching the adult female (R1) from a short distance, curious posture. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S058. A calf orca copying an adult's turning movement side by side, blue water, sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S059. A pile of newspapers on a dark wooden table, front pages with large orca photos, all headlines blurred and unreadable. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A smartphone in a hand showing a blurred feed of orca images, glowing in a dark room, all text blurred and unreadable. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S061. The adult female orca (R1) swimming with her family: two siblings and two younger calves (R2-like), a close family group in blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S062. A family group of orcas (R1 and relatives) passing close to a rudder blade, curious. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S063. Empty dark sea at night with fog, no boats, mysterious. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S064. The adult female orca (R1) in heavy shadow, half her body lost in darkness, question hanging in the frame. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A juvenile orca (R2) shoving the rudder blade of a sailboat (R3) with its head while the adult female (R1) swims calmly at a distance, not taking part. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S066. Researcher's hands spreading printed photos of orca fins on a table, all fin shapes, no writing visible, warm lamp light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S067. A group of four juvenile orcas (R2) rushing toward the camera together, energetic, blue water, sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S068. A coast guard style rescue boat with orange hull moving fast across grey sea, no logos, no text. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S069. Aerial view of a long coastline from the south of Spain to the north, small sailboats scattered along it, hazy summer light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S070. A busy summer sea with many sailboats, orca fins appearing among them, wide aerial view. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S071. A group of juvenile orcas (R2) under the stern of a different sailboat, taking turns at the rudder, bubbles. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S072. Scale comparison: a juvenile orca silhouette beside a small pickup truck silhouette and a standing human silhouette, dark navy background. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S073. Two juvenile orcas (R2) play-wrestling in blue water near the surface, rolling over each other. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S074. Cutaway illustration of a sailboat's stern: the rudder blade, the rudder post going up through the bottom of the hull, small cracks around the post, dark navy background, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S075. Close-up underwater: a rudder post where it enters the hull, a hairline crack, small bubbles of water seeping in. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Inside a sailboat cabin at night, a few centimeters of seawater spreading across the wooden floor, a flashlight beam, no people visible. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A sailboat (R3) sitting low in the water, stern sinking, grey sea, Atlantic swell, crew silhouettes in a life raft nearby. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S078. A large tanker on the horizon at sea, a small life raft with two orange-clad silhouettes waving, calm sea, no logos. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S079. The mast of a sinking sailboat sticking out of the sea at an angle in the Strait of Gibraltar, distant coastlines, late afternoon light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S080. A French-style sailboat far off the Portuguese coast near a rocky headland, grey sea, mood of trouble, no flags. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S081. A rescue helicopter silhouette above a stricken sailboat off a green rocky coast, overcast sky, no markings. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S082. Underwater view of a broken half rudder blade dangling from a hull, two juvenile orcas (R2) swimming away, blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S083. A crew silhouette on deck watching orca fins at the stern, holding on, eight tense minutes, motion in the waves. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S084. Calm sea with two survivors wrapped in blankets on a rescue boat seen from behind, faces hidden, sunrise. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S085. Simple illustration on dark navy background: a row of tiny glowing boat silhouettes stretching away to the horizon, a few of them dimmed and sinking, no numbers, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S086. A single orca (R2) slowly swimming away into blue haze, the end of a game. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S087. Orca fins far below a passing sailboat that sails on undisturbed, peaceful. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S088. Puget Sound in the late nineteen eighties: dark green forested shores, grey water, a misty morning, orca fins in the distance. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S089. An adult female orca at the surface in grey northern water with a whole dead silver salmon balanced on top of her head, side view, eerie and comic, no blood. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S090. Several orcas in a row at the surface of misty northern water, each with a silver salmon draped on its head, documentary realism, no blood. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S091. Old-style faded colour photograph look: a research boat in Puget Sound in the late nineteen eighties with silhouettes watching orcas, no faces. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S092. The same northern waters a year later, orcas surfacing with nothing on their heads, misty morning. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S093. Two young orcas copying each other's spin in blue-green water, playful. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S094. A photographer silhouette on a rocky shore near Seattle with a long lens, back to camera, evening light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S095. An old male orca with a very tall straight dorsal fin at the surface, a silver fish draped across his head, evening light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A modern meeting room with large windows over the sea, a group of scientist silhouettes around a table covered with orca photos, faces not visible, no text. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S097. A juvenile orca (R2) pushing a rudder blade and then circling back to push again, like a ball, playful bubbles. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S098. Three juvenile orcas (R2) taking turns with the same rudder blade, one waiting, one pushing, one watching. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S099. A single bluefin tuna twisting fast in blue water, its tail flexing, side view. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S100. A rudder blade in the water twisting sideways in the same arc as a fish tail, an orca (R2) chasing it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A juvenile orca (R2) practicing a fast turn behind a moving rudder, precise, sunlight shafts. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S102. Generic tuna fishing boat with nets in a calm Mediterranean harbour, seen from far, no logos. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A huge school of bluefin tuna, hundreds of fish shining in blue water, abundance. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S104. An adult female orca (R1) resting at the surface with full belly, relaxed, sunlight above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S105. Young orcas (R2) playing with a floating piece of kelp, passing it between them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S106. The adult female orca (R1) watching the young ones play from a distance, calm. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S107. Juvenile orcas (R2) racing toward a sailboat hull far above, excited, light from the surface. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A sailor silhouette leaning over a sailboat's rail toward the water at night with a flashlight, an orca fin a few meters away, tension, face hidden. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S109. An orca passing a large great white shark in deep blue water at a distance, menace, no attack, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S110. A wave washing over an Antarctic ice floe with a seal on it, orca fins making the wave, cold blue light, no blood. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S111. An orca's open mouth seen from the side showing its teeth, calm, in deep blue water, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S112. Underwater view: a sailor's legs hanging down from a boat's swim ladder, an orca (R2) swimming right past them toward the rudder, ignoring the person. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S113. A sailor silhouette on the stern of a sailboat looking straight down at an orca's head surfacing next to the boat, calm stillness, face hidden. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S114. A world map illustration on dark navy background with soft glowing spots along coastlines where orcas live, no labels, no text. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S115. California coastline near Point Sur in the early nineteen seventies, rocky cliffs and surf, a lone surfer silhouette on a board far out, faded film look. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S116. An orca seen from below, a surfer's board silhouetted against the bright surface far above, moment before contact, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A harbour seal silhouette against the surface seen from below, looking almost the same as the surfer from the previous shot. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S118. An orca swimming away from a surfboard silhouette at the surface, the encounter over. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S119. An empty concrete marine park tank at night, still water, cold lights, no people, no logos. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S120. An orca swimming free in endless open blue water, sunbeams, freedom. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A pod of orcas swimming near divers in the distance, peaceful, divers in full gear with faces hidden. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S122. An orca hunting salmon in a green northern river mouth, the fish ahead, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S123. Orcas surrounding a seal on a rocky shore from the water at a distance, tense, no attack shown. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S124. A bluefin tuna and a scuba diver silhouette side by side in blue water at different depths, the orca between them looking only at the tuna. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S125. A garden snail on a wet green leaf, macro photo, morning light. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A juvenile orca (R2) touching a rudder blade gently with its rostrum, testing, curious, blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S127. An orca circling a swimmer silhouette at a respectful distance in clear blue water, the person small, not touched. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S128. The adult female orca (R1) in a slow portrait, half in light half in shadow, quiet and mysterious. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S129. A fishing line tangled on a rocky shore at dusk, faded and old, no wildlife. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S130. The three founders (R1 and two juveniles R2) swimming together toward a rudder, the beginning of the game. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S131. A sailor silhouette taking both hands off a ship's wheel, palms open, calm, cockpit light at dusk, face hidden. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S132. A sailboat (R3) with sails down and engine stopped, drifting calmly, orca fins leaving. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S133. Under the stern: a rudder blade with a rough, bumpy textured surface, an orca (R2) losing interest and swimming away. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S134. A small Iberian family of orcas surfacing together at dusk in the strait, golden light, peaceful, protected. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S135. The adult female orca (R1) and a young calf swimming close together, the calf against her side, blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S136. A sailboat (R3) alone on a flat black sea at three in the morning, mast light glowing, the same view as the opening. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S137. Over-the-shoulder view of a sailor at the wheel at night, hood up, face hidden, a black fin visible at the stern. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S138. A juvenile orca (R2) under the stern at night, mouthing the rudder, moonlight and sparkling bioluminescence. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S139. Hands resting on the knees of a seated sailor in the cockpit, the wheel untouched, quiet night. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S140. Orcas swimming away from the hull into deep darkness, their shapes outlined by sparkling bioluminescent plankton. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A school of tuna glinting far ahead in moonlit water, orca shapes following them into the dark. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S142. A sailboat (R3) at dawn drifting with no rudder, crew silhouettes looking at the empty stern, a mix of relief and disbelief. Style: dark cinematic ocean photorealism above the water, deep navy, black and grey sea tones, moonlight or soft overcast light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S143. A huge sperm whale's square head looming out of dark blue water toward the camera, a tiny scuba diver with a torch in the lower corner for scale. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S144. A family of sperm whales resting vertically near the surface in blue Caribbean water, sunlight shafts, quiet and mysterious. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S144.png, R1.png … R3.png for references), one file per number, no UUID names, no numbers or text drawn inside the images.
