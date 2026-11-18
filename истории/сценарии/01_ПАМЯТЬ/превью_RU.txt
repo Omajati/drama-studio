@@ -1,0 +1,34 @@
+ПРЕВЬЮ RU — 01 «Память»
+РАСКЛАДКА: A — Стена слева
+
+Ключевая мысль-крючок: человек, который не мог забыть ничего, пытался сжечь свою память на бумаге — и видел цифры сквозь пепел. Название обещает «не мог забыть» и «зачем ты забываешь»; превью добавляет абсурдную сцену с огнём. Раскрытие: «чтобы понять, надо забыть» — 2:55, сцена с горящей бумагой анонсирована в 1:00 и показана на 12:50–14:40.
+
+СТИЛЬ КАНАЛА (раскладка A, первая на канале)
+Тёмный фон, справа портрет героя крупно, слева три строки огромного узкого капса. Абсурдная деталь — горящий лист в руке героя. Цветовая схема 2: жёлтый основной + белый + одно красное слово.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic cinematic YouTube thumbnail, 16:9. Right 40% of the frame: a thin 40-year-old man from 1920s Moscow, dark wavy hair combed back, high forehead, attentive dark calm eyes looking straight at the viewer, worn grey three-piece suit and narrow dark tie; in his raised hand he holds a burning sheet of paper, the edges curling into black ash, faint glowing marks visible on the charred part, warm firelight on his face. Left 60% of the frame: almost black, empty, only a soft warm glow from the flame and a few floating sparks. Dark film grain. No text, no letters, no numbers, no logos.
+
+2. ТЕКСТ (капс, жирный узкий рубленый шрифт, 3 строки слева)
+ОН СЖЁГ                                  — белый
+СВОЮ ПАМЯТЬ                              — жёлтый
+А ЦИФРЫ ОСТАЛИСЬ                         — белый, «ОСТАЛИСЬ» красный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: ЗАБЫТЬ НЕ ВЫШЛО
+
+4. ПРОМТ THUMB_RU ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic cinematic YouTube thumbnail, 16:9: the man from reference R1 at 40 on the right 40% of the frame, looking at the viewer, holding the burning sheet from reference R8 in his raised hand, firelight on his face; the left 60% is almost black with a few sparks. On the left, bold condensed uppercase text, three lines:
+line 1 white: ОН СЖЁГ
+line 2 yellow, larger: СВОЮ ПАМЯТЬ
+line 3 white with ОСТАЛИСЬ in red: А ЦИФРЫ ОСТАЛИСЬ
+Bottom left, a red rectangle with white bold uppercase text: ЗАБЫТЬ НЕ ВЫШЛО
+No other text, no logos. Check the letters exactly (СЖЁГ with Ё).
+Файл: THUMB_RU.png — запасной вариант; с версии 214 программа сама рисует раскладку A.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до 168×94. Должны читаться: «СВОЮ ПАМЯТЬ», красное «ОСТАЛИСЬ», лицо и огонь. Если третья строка мелкая — оставить «А ЦИФРЫ ОСТАЛИСЬ» без первой строки.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: Он не мог ЗАБЫТЬ ничего. Учёный изучал его 30 лет и понял, зачем ты забываешь
+Название — феномен и обещание про зрителя. Превью не повторяет «не мог забыть», а добавляет странную сцену: человек жжёт память, а она не горит. Плашка — обрыв. Всё правда: по книге Лурии Шерешевский сжигал бумажки с цифрами и продолжал их видеть.

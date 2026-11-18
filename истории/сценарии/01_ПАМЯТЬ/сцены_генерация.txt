@@ -1,0 +1,280 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 30-minute Russian-language YouTube documentary for adults, channel «Истории RU», titled "Он не мог ЗАБЫТЬ ничего. Учёный изучал его 30 лет и понял, зачем ты забываешь". Story: in 1920s Moscow a newspaper reporter, Solomon Shereshevsky, never takes notes because he remembers everything. The young psychologist Alexander Luria studies him for thirty years: unlimited memory, colours and tastes for every sound, memorising by walking down a street in his mind. The gift ruins his life: he cannot understand poems or abstract ideas, cannot recognise faces, cannot forget, even tries to burn papers with numbers and still sees them on the ashes. He learns to forget only by not looking. Mirror story: Luria's wounded patient Lev Zasetsky who lost his memory and rebuilt it in a diary of thousands of pages. Today: people with superior autobiographical memory, sleep that cleans the brain, and smartphones as memory without a bottom.
+
+Visual style (used for every image): photorealistic cinematic documentary stills of 1920s–1950s Soviet Moscow (muted colours, warm lamps, film grain); surreal glowing dream images for the inner world of memory and synaesthesia; cool modern documentary photos for the present day.
+
+Recurring characters (keep identical across shots):
+SHERESHEVSKY — in the 1920s a thin 40-year-old man, dark wavy hair combed back, high forehead, attentive dark calm eyes, clean-shaven, worn grey three-piece suit, white shirt with a narrow dark tie; in the 1950s a 68-year-old man with thinning grey hair, the same eyes, dark stage suit with a bow tie.
+LURIA — in the 1920s–1930s a 28-year-old man with dark wavy hair, small round wire glasses, lively smile, white lab coat over a shirt and tie or a grey suit; in the 1950s–1960s a bald 60-year-old man with round glasses and a dark suit.
+VYGOTSKY — a thin pale 32-year-old man with dark hair swept back, high forehead, intense eyes, dark suit.
+ZASETSKY — in 1943 a 23-year-old junior officer in a plain Soviet army tunic without insignia, head bandaged; later a 45-year-old man with short greying hair and a scar on the left side of the head, cardigan, writing at a desk.
+EDITOR — a stout 50-year-old man with a moustache, sleeves rolled up, waistcoat, pencil behind his ear.
+MODERN WOMAN — a woman in her 40s seen from behind or in profile, dark hair, cardigan, in a sunny California living room (not a real person).
+VIEWER — a person in their 30s, casual clothes, seen in profile or from behind, holding a smartphone.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no shop signs, no flags, no political symbols, no license plates, no violence, no blood, no recognisable real people (historical figures are described by period appearance only). Documents, newspapers, notebooks, chalkboards, tables of digits and phone screens are always blurred and unreadable. Recurring motifs: the empty notebook, a chalkboard with a blurred grid, burning paper, the grey suit, the street of memory with objects placed along it.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Character reference sheet, front and three-quarter views, of SHERESHEVSKY at 40: thin man, dark wavy hair combed back, high forehead, attentive dark calm eyes, clean-shaven, worn grey three-piece suit, white shirt, narrow dark tie; second look at 68: thinning grey hair, dark stage suit with bow tie. Style: photorealistic, neutral light, plain grey background, 16:9, no text.
+
+REFERENCE R2. Character reference sheet of LURIA at 28: dark wavy hair, small round wire glasses, lively smile, white lab coat over shirt and tie; second look at 60: bald, round glasses, dark suit. Style: photorealistic, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Character reference sheet of VYGOTSKY: thin pale 32-year-old man, dark hair swept back, high forehead, intense eyes, dark suit. Style: photorealistic, neutral light, plain background, 16:9, no text.
+
+REFERENCE R4. Character reference sheet of ZASETSKY: at 23 a junior officer in a plain army tunic without insignia, head bandaged; at 45 short greying hair, scar on the left side of the head, brown cardigan. Style: photorealistic, neutral light, plain background, 16:9, no text.
+
+REFERENCE R5. A 1920s Moscow newspaper editorial room: long wooden table, green-shaded lamps, stacks of newsprint (blurred), typewriters, tall windows, cigarette smoke in the light. Style: photorealistic, film grain, 16:9, no text, no signs.
+
+REFERENCE R6. A small 1920s psychology laboratory: dark wooden desk, brass lamp, a black chalkboard with a blurred grid of chalk marks, a metronome, a stopwatch, an armchair. Style: photorealistic, warm lamp light, 16:9, no text.
+
+REFERENCE R7. Prop: a small empty reporter's notebook with a worn black cover lying open on a wooden table next to a pencil; the pages are blank. Style: photorealistic macro, warm light, 16:9, no text.
+
+REFERENCE R8. Prop: a sheet of paper with a blurred grid of handwritten marks burning on an iron tray, edges curling into black ash, faint glowing marks still visible on the charred part. Style: photorealistic macro, dark background, 16:9, no text, no readable digits.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Wide shot of the 1920s Moscow newspaper editorial room (R5): reporters around a long table writing hurriedly in notebooks, the stout EDITOR standing and dictating, morning light through tall windows. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S002. Close-up of hands scribbling in notebooks around the table, pencils moving fast, blurred handwriting. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S003. SHERESHEVSKY (R1, at 40) sitting calmly with folded arms among busy writing colleagues, his small black notebook lying closed in front of him. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S004. Macro of the empty reporter's notebook (R7) open on the table, blank pages, a pencil untouched beside it. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S005. The EDITOR leaning over the table, frowning, pointing a pencil at SHERESHEVSKY; colleagues looking up. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S006. SHERESHEVSKY speaking calmly, eyes half-closed as if reading something invisible; the EDITOR and colleagues frozen in astonishment. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S007. Surreal: the editorial room dissolving into floating glowing fragments of addresses and faces drifting around SHERESHEVSKY's head, all blurred, none readable. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S008. Portrait of SHERESHEVSKY (R1, at 40) by a window, thoughtful, heavy calm eyes, dust in the light. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S009. VIEWER in a modern room looking at their own reflection in a dark window, thoughtful, phone in hand. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S010. The small psychology laboratory (R6) at night, a single lamp on, the chalkboard with a blurred grid of chalk marks. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S011. A sheet of paper burning on an iron tray (R8), faint glowing marks visible through the black ash, dark background. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S012. A woman in her 40s (MODERN WOMAN) seen from behind, sitting in a sunny California living room, looking at a wall of photo albums. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S013. SHERESHEVSKY walking up the stairs of an old Moscow building with a hat in his hand, a note from the editor in his pocket. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S014. LURIA (R2, at 28) opening the laboratory door with a curious smile, white lab coat, round glasses. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S015. LURIA reading aloud from a sheet of paper (blurred) while SHERESHEVSKY listens, sitting in the armchair, eyes closed. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S016. Close-up of LURIA's hand writing long columns of words in a lab journal, handwriting blurred, lamp light. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S017. SHERESHEVSKY repeating the list with closed eyes; LURIA checking the journal, eyebrows raised. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S018. Surreal: an endless row of glowing word-shapes stretching into darkness like lanterns, none readable, a man walking along them. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S019. LURIA leaning back in his chair, stopwatch in hand, staring at SHERESHEVSKY in disbelief. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S020. LURIA reading a short story from a book to SHERESHEVSKY, who frowns, confused, hands pressed to his temples. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S021. Surreal: dozens of vivid overlapping images (houses, horses, faces, rivers) piling on top of each other around a man's head until nothing is clear. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S022. SHERESHEVSKY on a Moscow street looking at a passer-by's face as it shifts between a smile and a shadow, multiple exposure effect. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S023. VIEWER talking with a loved one at a kitchen table in warm evening light, cups of tea, a calm conversation. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S024. Surreal: a human brain made of soft light, most of its threads fading away into darkness, one bright thread remaining. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S025. LURIA and VYGOTSKY (R3) talking in a narrow corridor of the institute, papers under their arms, 1920s. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S026. VYGOTSKY speaking to SHERESHEVSKY in the laboratory; SHERESHEVSKY tilting his head, listening intently. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S027. Surreal: a voice visualised as crumbly glowing yellow powder flowing from a man's lips in a dark room. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S028. Surreal: a man's face lit by colours that come from sounds: notes of music turning into ribbons of red, blue and gold around him. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S029. Surreal: a flame with fine dark veins floating in the air like a voice, dark background. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S030. Surreal: a proud slender human figure made of light standing alone on a dark plane, like a living symbol. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S031. LURIA writing notes while SHERESHEVSKY describes something with expressive hands, lamp light. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S032. A 1930s Moscow street kiosk selling ice cream, a woman vendor in a white apron handing a cone to SHERESHEVSKY. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S033. Surreal: black glowing cinders pouring out of a vendor's mouth as she speaks, SHERESHEVSKY stepping back in dismay. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S034. SHERESHEVSKY walking away from the kiosk without the ice cream, hands in pockets, autumn leaves. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S035. LURIA standing at the window of the laboratory, thinking, lab journals stacked on the desk behind him. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S036. Wide shot of a long Moscow street of the 1930s at dawn, empty, wide pavements, old buildings, misty light. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S037. Surreal: a transparent man walking down an empty misty street placing glowing objects along the way: a table by a gate, a lamp over a wicket gate, a bird on a windowsill. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S038. Surreal close-up: a glowing lamp hanging over a wooden wicket gate on an empty street at dawn. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S039. Surreal: a white egg placed against a white wall, almost invisible, soft light. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S040. Surreal: a pencil leaning against a grey wooden fence, blending into the boards. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S041. LURIA and SHERESHEVSKY looking at the journal together, LURIA pointing to a line, both smiling. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S042. An ancient Greek banquet hall in ruins, columns and fallen roof beams, dust in the light. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S043. A modern memory championship hall: young competitors with headphones staring at cards, concentration (faces not recognisable). Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S044. SHERESHEVSKY with eyes closed holding his right hand over a hot stove and his left hand around a block of ice, LURIA watching a thermometer. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S045. VIEWER at home in the evening placing a list of groceries in their mind: an apple on the doorstep, bread on a chair, milk on a shelf; soft warm light. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S046. Close-up of an old wall calendar flipping its pages in the wind, dates blurred. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S047. LURIA, older (about 40), in a grey suit, sitting at a table in his apartment opposite SHERESHEVSKY in an armchair; evening light. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S048. SHERESHEVSKY with closed eyes, a slight smile, as if seeing a room from the past. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S049. Surreal: a room from the past materialising in glowing transparent layers around SHERESHEVSKY: a table, a lamp, a man in a grey suit. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S050. LURIA comparing an old yellowed table in a folder with his notes, both blurred, eyes wide behind round glasses. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S051. Surreal: a man being pulled into a swirling tunnel made of old rooms, faces and lamps. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S052. Surreal: a dark warehouse full of chalkboards with blurred grids piled to the ceiling, dust in a beam of light. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S053. SHERESHEVSKY (at 50) on a small theatre stage in a dark suit, a chalkboard behind him, the audience in shadow. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S054. Audience members in a 1930s theatre shouting words, hands raised, warm stage lights. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S055. SHERESHEVSKY backstage alone, sitting on a stool, tired, looking at his hands. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S056. LURIA handing SHERESHEVSKY a thin book of poems; SHERESHEVSKY reading with a tense frown. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S057. Surreal: a real red anatomical heart floating above an open poetry book in darkness, glowing. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S058. Surreal: an open book whose pages turn into a pile of mismatched glowing pictures spilling onto the floor. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S059. Surreal: a man trying to grasp a cloud of grey smoke with both hands in a dark empty space. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S060. SHERESHEVSKY reading a novel at a kitchen table at night, rubbing his eyes, several books piled around him. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S061. Surreal: two different houses colliding in the air above an open book, bricks and windows overlapping. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S062. VIEWER reading a book on a train, a small smile, morning light. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S063. Surreal: a heart made of grey stone held in an open palm, soft light. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S064. Surreal: a young man lying in a dark room surrounded by countless glowing leaves, each one different. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S065. SHERESHEVSKY sitting on the edge of his bed at night, head in his hands. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S066. SHERESHEVSKY at a small table at night writing columns on sheets of paper (blurred), a kerosene lamp. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S067. SHERESHEVSKY crumpling a sheet and throwing it into a wastepaper basket full of crumpled paper. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S068. SHERESHEVSKY striking a match over an iron tray in a dark room, a sheet of paper ready. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S069. Macro: a sheet of paper with a blurred grid catching fire on an iron tray (R8), flames curling the edges. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S070. Macro: the charred black sheet on the tray with faint glowing marks still visible through the ash (R8), smoke rising. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S071. SHERESHEVSKY's face lit from below by the dying flame, eyes wide, despair. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S072. Surreal: several chalkboards with blurred grids layered on top of one another like ghosts, glowing in the dark. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S073. LURIA writing in his journal by lamp light, a serious face, a burnt match on the desk next to the journal. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S074. Surreal: a swamp at night in which glowing objects, rooms and faces are sinking, mist above the water. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S075. Surreal: a human brain made of soft light being gently swept clean by streams of light, like a night cleaning. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S076. SHERESHEVSKY standing backstage before a performance, looking at an empty black chalkboard; calm light. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S077. Close-up: a clean empty black chalkboard, only dust, a hand lowering a piece of chalk. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S078. SHERESHEVSKY smiling for the first time in a long while, sitting opposite LURIA in the laboratory. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S079. Surreal: a man turning his back to a glowing wall of memories and walking toward a dark calm doorway. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S080. Surreal: a white monkey made of mist sitting in an empty room, a person covering their eyes. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S081. A dusty 1930s road in a Central Asian village, low clay houses and poplars, a small group of scientists with notebooks. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S082. LURIA at about 48, in a grey suit, packing books into a cardboard box in a 1950s office, a sad calm face. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S083. A 1940s military rehabilitation hospital ward: wounded soldiers with bandaged heads practising writing at small tables, a doctor bending over them. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S084. LURIA (bald, about 65, R2 second look) at a desk in the 1960s writing a manuscript, a small stack of finished pages. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S085. A thin book lying on a desk under a lamp, cover blurred, a pair of round glasses beside it. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S086. 1943, a shell-torn field near a forest in early spring, smoke on the horizon, no people visible. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S087. ZASETSKY (R4, at 23) in a hospital bed, head bandaged, staring at a cup on the bedside table as if he doesn't know what it is. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S088. ZASETSKY trying to read a page held in front of him, the letters a blurred chaos, his face strained. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S089. LURIA (about 45) sitting next to ZASETSKY at a hospital table, showing him simple pictures on cards. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S090. ZASETSKY (later, about 30) at a table writing slowly, one word at a time, a pencil gripped hard, a pile of notebooks. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S091. A tall stack of worn school notebooks tied with string on a windowsill, covers blurred, winter light. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S092. Two thin books standing side by side on a shelf like mirror images, a lamp casting their two shadows. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S093. ZASETSKY (R4, at 45) writing at a desk in a cardigan, an old photo of a woman propped against the lamp, a calm face. Style: photorealistic cinematic documentary still, 1940s Soviet military hospital and post-war rooms, cold grey light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S094. Surreal: two hands cupped together holding glowing water in which tiny images of a life float. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S095. A modern sunny California street with palm trees, a mailbox, a woman's hand dropping a letter into it. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S096. MODERN WOMAN seen from behind sitting in front of a desk calendar, a cup of coffee, morning light; the calendar blurred. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S097. A modern university laboratory with brain scanners and computer monitors, screens blurred, a researcher in a white coat. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S098. Surreal: a woman standing in a corridor lined with doors that all stand open, each glowing with a different day. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S099. MODERN WOMAN in profile, eyes closed, tired, a heavy expression, soft window light. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S100. A 19th-century study: a desk with a candle, a pocket watch and stacks of cards with blurred syllables; a man's silhouette working. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S101. A person sleeping peacefully in a dark bedroom with a faint blue night light, calm. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S102. Surreal: a glowing network of neurons at night with some dim threads dissolving and bright ones getting stronger. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S103. VIEWER in bed scrolling a phone gallery full of thousands of tiny thumbnails (blurred), face lit by the screen. Style: modern documentary photo at night, phone-screen glow in a dark room, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S104. A phone on a bedside table lighting up with a memory notification (screen blurred), the owner asleep. Style: modern documentary photo at night, phone-screen glow in a dark room, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S105. VIEWER rereading an old chat on the phone late at night, a tense jaw, the screen blurred. Style: modern documentary photo at night, phone-screen glow in a dark room, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S106. A person on a sofa watching a slideshow of happy photos with a partner on a phone (blurred), tears in the eyes. Style: modern documentary photo at night, phone-screen glow in a dark room, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S107. VIEWER scrolling a feed in bed in the dark, endless blurred images reflected in the eyes. Style: modern documentary photo at night, phone-screen glow in a dark room, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S108. Surreal: images stacked in endless transparent layers above a sleeping person, pressing down. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S109. LURIA (60, R2 second look) at a desk with two thin books and a stack of journals, a thoughtful look. Style: photorealistic cinematic documentary still, Soviet psychology laboratory 1920s–1930s, warm desk lamp, dark wood, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S110. Surreal: a scale balancing a mountain of glowing details on one side and a single bright point of light on the other. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S111. A hand closing a paper diary on a wooden table in the morning, a cup of tea, calm light. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S112. SHERESHEVSKY (R1, at 68) sitting by a window in the late 1950s, grey hair, the same calm eyes, a faint smile. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S113. Callback: the empty reporter's notebook (R7) on the editorial table, now in soft golden light, dust floating. Style: photorealistic cinematic documentary still, Moscow 1920s–1930s, muted sepia-green palette with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S114. A clean white notebook page in morning light on a modern desk, a pen lying across it. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S115. VIEWER opening the curtains in the morning, sunlight filling the room, a calm expression. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S116. Final image: a long empty misty street at dawn, the glowing objects of memory gently fading away one by one. Style: surreal photorealistic dream image, deep dark background, glowing colours, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … last scene, R1.png … for references), one file per number, no UUID names, no numbers drawn inside the images.
