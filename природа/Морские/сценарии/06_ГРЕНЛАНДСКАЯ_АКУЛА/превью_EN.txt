@@ -1,0 +1,27 @@
+ПРЕВЬЮ EN — 06 «Гренландская акула»
+РАСКЛАДКА: C — Шапка
+
+Ключевая мысль-крючок: у старой гренландской акулы, датированной по хрусталику глаза (Nielsen и др., Science, 2016), лучшая оценка рождения — около 1620 года, раньше Ньютона (1642), но с запасом ±120 лет. Превью задаёт вопрос «родилась в 1620?» — со знаком вопроса, потому что это оценка, а не метрика. Раскрытие — хук (0:00–0:45) и главы 2–3 (до ≈ 5:00).
+
+СТИЛЬ ПРЕВЬЮ (раскладка C, в 05 была E, в 04 — C; третьей подряд одинаковой нет)
+Акула во весь кадр анфас-в-три-четверти, глаз с бледным паразитом ловит свет фонаря крошечного дайвера; верхние 35% — тёмная спокойная вода под еле видимым ледяным потолком, место под два огромных слова. Цветовая схема канала: белый + одно слово красным.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic YouTube thumbnail, 16:9, dark cinematic underwater scene. A huge old Greenland shark in three-quarter front view filling the lower two thirds of the frame, thick grey-brown mottled body with pale old scars, short blunt rounded snout, a small pale cloudy eye with a pale ribbon-like parasite hanging from its center, the eye catching the torchlight of a tiny scuba diver on the left (face hidden, dark wetsuit) for scale. Cold green-grey water fading to black. The upper 35% of the frame is dark calm water under a dim, barely visible ceiling of sea ice, empty for text. No text, no letters, no logos, no watermark.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, сверху по центру, очень крупно)
+BORN                                     — белый
+1620?                                    — красный
+
+3. ПЛАШКА
+нет
+
+4. ПРОМТ ДЛЯ FLOW (с точным текстом, запасной путь)
+Same image as section 1. Bold condensed uppercase text at the top centre, two very large lines: line 1 white: BORN / line 2 red: 1620? No other text.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: тупая серая голова акулы с бледным «хвостиком» на глазу, точка света от фонаря дайвера, два слова — «BORN» белым и «1620?» красным (5 знаков, крупно). Плашки нет — мелкое не ставим.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: The Shark That Might Be Older Than Isaac Newton
+Превью даёт год, название — Ньютона; вместе: «она могла родиться раньше Ньютона — откуда известно?». Слова не повторяют название. Как узнали (хрусталик, ядерные испытания) — гл. 2, честная вилка (1500-е … 1740-е) — гл. 3, ответ на сквозной вопрос — в финале. Кадр превью = сцена S001 (первые 5 секунд).

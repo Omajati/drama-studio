@@ -1,0 +1,351 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 17-minute English YouTube documentary for adults, channel "Sea Creatures" (ocean animals network), titled "The Shark That Might Be Older Than Isaac Newton". Story: the Greenland shark lives in near-freezing Arctic and North Atlantic water, swims slower than a person walks and usually carries a pale parasitic copepod on each eye. In 2016 Danish scientists dated the centers of shark eye lenses and estimated the biggest female, about five meters long, at roughly 392 years old, give or take 120 years, so she may have been born before Isaac Newton. The video covers its slow hunting of seals, the parasite and its surprisingly healthy retina, its genome and aging heart, the Icelandic dish hákarl, bycatch, a sleeper shark caught off a coral atoll in Belize in 2022, and a Greenland shark stranded in Ireland in 2026. It ends with a teaser for the next video about walruses. Cold blue-green and black water, sea ice ceilings, Arctic fjords, research boats, laboratories.
+
+Visual style (used for every image): dark cinematic underwater photorealism, deep navy and black water, shafts of light from above, natural bioluminescence where it exists in nature, documentary wildlife photography. Surface and shore scenes: dark cinematic ocean photorealism with cold natural Arctic light. Laboratory and historical scenes: dark cinematic documentary photorealism, muted colors. Scale diagrams: clean scientific illustration on dark navy background without labels.
+
+Recurring characters (keep identical across shots):
+OLD GREENLAND SHARK — a huge old female Greenland shark about five meters long, thick heavy cigar-shaped body, rough grey-brown skin with faint darker mottling and pale old scars, short rounded blunt snout, very small eyes with a pale cloudy cornea, a pale ribbon-like parasitic copepod about the length of a paper clip hanging from the center of each eye, two small low dorsal fins set far back, short rounded pectoral fins, no anal fin, a long asymmetric tail with a bigger upper lobe, small mouth with no visible teeth when closed.
+THE RESEARCH BOAT — a small grey steel Arctic research boat about fifteen meters long with a low wheelhouse and a winch at the stern, no name, no flag, no logos.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no boat names, no flags with symbols, no blood, no wounds, no animals being torn apart, no recognisable real people. People appear only as silhouettes, from behind or in diving gear with faces hidden; historical figures never appear, only their era and objects. Below 200 meters light comes only from torches or bioluminescence. Phone screens, magazines, books, papers and screens are always blurred and unreadable. Greenland sharks always have realistic anatomy: small eyes, blunt snout, small low dorsal fins, no fearsome toothy grin, slow heavy body; never a great white shark shape. Walruses have realistic anatomy: two long ivory tusks, thick whiskers, wrinkled brown skin.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of a huge old female Greenland shark in side view and three-quarter front view: about five meters long, thick heavy cigar-shaped body, rough grey-brown skin with faint darker mottling and pale old scars, short rounded blunt snout, very small eyes with pale cloudy corneas, a pale ribbon-like parasitic copepod about the length of a paper clip hanging from the center of each eye, two small low dorsal fins set far back, short rounded pectoral fins, no anal fin, long asymmetric tail with a bigger upper lobe. Style: photorealistic, clear cold blue water, even light, 16:9, no text.
+
+REFERENCE R2. Reference of a small grey steel Arctic research boat about fifteen meters long with a low wheelhouse and a stern winch, no name, no flag, no logos, on a calm grey fjord with icebergs. Style: photorealistic, neutral light, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. A huge old Greenland shark (R1) in three-quarter front view filling the lower two thirds of the frame, blunt rounded snout, small cloudy eye with a pale ribbon-like parasite hanging from it catching a diver's torchlight, a tiny scuba diver with a torch on the left for scale, the upper third of the frame dark calm water under a dim, barely visible ceiling of sea ice. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Slow side view of the Greenland shark (R1) gliding through dark cold water beneath a ceiling of sea ice, pale blue light filtering faintly through cracks above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S003. A giant old tortoise on a misty rocky shore, and far out at sea under a grey Arctic sky the faint blow of a bowhead whale. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S004. A deep coral reef wall dropping into darkness off a tropical atoll, a single baited line descending into the blue-black, a large grey shark shape rising faintly from below. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S005. A small plate of pale cubes of fermented shark meat on a rough wooden table next to a small glass of clear spirit, dim Nordic kitchen light, steam-free, moody close-up. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A large dark shark heart resting on a steel examination tray in a museum laboratory, gloved hands at the edge of the frame, cool clinical light, no blood, clean and respectful. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Close-up of the head of the Greenland shark (R1) emerging slowly from darkness, the pale parasite trailing from its eye, cold green-grey water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S008. The Greenland shark (R1) seen from below in silhouette against the faint light of the ice ceiling, immense and old. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S009. The Greenland shark (R1) passing slowly beneath a diver who hovers motionless with a torch, the beam lighting the shark's grey back, deep navy water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A wide view of an Arctic fjord at dusk, drifting sea ice, dark water, a low grey sky, utterly still. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S011. Extreme close-up of the Greenland shark's (R1) rough grey-brown skin with faint mottling, a thin beam of torchlight grazing across it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A section of a fish skull and ear stone held in gloved fingers, then a shark's flexible pale cartilage beside it on a lab bench, cool light. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S013. Cross-section of a tree trunk with clear growth rings on a dark workbench, beside it a strip of pale flexible shark cartilage with no rings at all, soft side light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S014. An empty lab bench at night with a lone desk lamp, a notebook with blurred unreadable pages and a pencil, a sense of a question left unanswered. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S015. A young scientist seen from behind in a dark parka on the deck of a small research boat (R2) in Greenland waters, looking down at the dark sea, grey icebergs in the distance. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S016. Gloved hands holding a small, clear, round shark eye lens up to cool laboratory light, the lens glowing like a glass bead. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S017. Cross-section diagram of an eye lens on dark navy background, shown as concentric glowing layers like an onion, the tiny dense core at the very center glowing brightest. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S018. A small round lens core inside a sealed glass vial on a lab rack, labelled only with a blank white sticker, soft blue lab light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S019. A grey Arctic sea with the small research boat (R2) hauling a long fishing line over the side, sea spray, dark clouds, icebergs on the horizon. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S020. Twenty-odd small sealed sample vials lined up in a rack in a clean laboratory, each holding a tiny pale lens core, shallow depth of field. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A tall radiocarbon accelerator instrument in a dim laboratory, cables and steel tubes, a technician silhouette far in the background. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S022. A distant historical nuclear test mushroom cloud over a remote ocean horizon at dawn, seen from very far away, muted colors, no people. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S023. Two shark eye lens cores of different sizes side by side in small glass dishes on a lab bench, the smaller one glowing faintly under blue light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S024. A stack of printed scientific pages with blurred unreadable text on a dark desk under a lamp, a magnifying glass resting on top. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S025. Scale diagram: a five-meter Greenland shark silhouette beside a family car silhouette and a standing adult human silhouette, the shark clearly longer than the car, all on a dark navy background. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S026. The full body of the huge female Greenland shark (R1) seen from the side in deep dark water, a diver far behind her looking tiny. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S027. The Greenland shark (R1) turning slowly in the dark, her small eye with the pale parasite catching faint light, a sense of great age. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S028. A horizontal bar on dark navy background glowing in a gradient, a bright central point and two long faint arms extending far to the left and right, a small shark silhouette on the central point. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S029. A blurred stack of sensational tabloid-style magazines and a phone screen with an unreadable glowing headline, dim room. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S030. The Greenland shark (R1) drifting past slowly, half in shadow, as if in a museum of the deep. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S031. A lone Greenland shark (R1) in silhouette against a faint pale patch of light in the ice far above, very small in a vast dark space. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S032. A frozen Arctic coastline under a low winter sun, ancient glacier ice meeting dark still water, timeless and empty. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S033. A seventeenth-century wooden sailing ship crossing a grey stormy Atlantic, full sails, no flags with symbols, dramatic cold light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S034. A seventeenth-century harbor with wooden sailing ships at anchor at dawn, grey light, no people in focus. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A snowy English country manor at Christmas in the sixteen-forties, candlelight in a small window, seen from outside at night, no people visible. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S036. An old leather-bound book lying open on a wooden desk under candlelight, pages blurred and unreadable, a quill and an apple beside it. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S037. A smaller, younger Greenland shark (R1 body plan, about two meters long, cleaner skin, no parasite) moving slowly through dark water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S038. A human fingertip resting next to a small fresh notch carved in an old wooden post, warm light, close-up. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S039. The Greenland shark (R1) passing a diver hovering beside her, the shark more than twice the diver's length, deep navy water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S040. A grand eighteenth-century hall with tall windows, empty chairs, a long table with a scroll, candlelight, no people. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S041. The Greenland shark (R1) as a younger adult, smoother skin, swimming slowly in the cold dark, a single pale parasite on one eye. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S042. A gilded eighteenth-century salon with an empty chair, a powdered wig resting on a stand, candlelight, wry mood. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S043. A grey North Atlantic in wartime fog, the faint silhouette of an old warship far away, no flags, cold dawn light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S044. The dark hull of an early nineteenth-century paddle steamship far above at the surface, seen from below in dim water, the Greenland shark (R1) passing far below it in darkness, unseen. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A fishing net being hauled aboard a modern trawler in grey Arctic sea, a large grey shark shape tangled in the mesh, no blood, sea spray. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S046. A dim old library with a single guttering candle and an empty chair by a window, eighteenth-century, a quiet sense of an ending. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S047. An early sixteenth-century caravel sailing on a calm sea at sunset, viewed from far away, no flags with symbols. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S048. The Greenland shark (R1) turning slowly in a lazy curve in the dark. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S049. The Greenland shark (R1) hanging almost motionless in black water, only its tail moving slightly, a single diver's torch beam touching its flank. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S050. A long slow tracking shot feel: the Greenland shark (R1) seen from behind, its long upper tail lobe swaying slowly into darkness. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S051. A ringed seal resting at the surface of a calm Arctic fjord among small ice floes, eyes half closed, grey morning light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S052. A researcher seen from behind on the small research boat (R2) holding a small black motion logger tag, an Arctic fjord with snowy mountains behind. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S053. The Greenland shark (R1) swimming slowly with a small black tag clipped near its dorsal fin, dim cold water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S054. Scale diagram on dark navy background: a walking human silhouette and a Greenland shark silhouette moving in the same direction, the human clearly ahead, faint motion trails showing the human trail four times longer. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S055. A person seen from behind walking slowly along a snowy harbor path, looking at a phone, a dark fjord beside them, wry everyday mood. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S056. Close-up of the Greenland shark's (R1) long asymmetric tail sweeping once, very slowly, faint particles hanging in the water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S057. The Greenland shark (R1) at its fastest, a slight curve in its body, still unhurried, dark water with drifting particles. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S058. Several Greenland sharks of different sizes cruising slowly in the same direction near the seabed, seen from a distance in torchlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S059. A whale carcass lying on the dark seabed in faint torchlight, the Greenland shark (R1) approaching slowly, no gore, only the grey shape of bones and skin. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A reindeer standing on an Arctic shore at the edge of dark water, snow on the ground, low winter light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S061. Faint remains of a large white-furred animal on the dark seabed, softly blurred, a grey shark shape far away, respectful and not graphic. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S062. Gloved hands laying out small fish bones and pieces of seal fur on a white lab tray, clean and clinical, no blood. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S063. Gloved hands sorting small fragments of seal fur and fish bones into glass dishes on a lab bench, clean and clinical, no blood. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S064. A ringed seal swimming fast just below the surface, silver bubbles streaming off its body, light from above. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A cod and a wolffish swimming close to the dark seabed in torchlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S066. A ringed seal floating vertically asleep just below the surface of an ice-covered fjord, nose near the surface, eyes closed, dim blue light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S067. View from below: a dark seal silhouette resting at the surface against faint light, and far below a large grey shark shape rising very slowly, no attack shown. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S068. The Greenland shark (R1) rising slowly from the dark toward faint light above, almost no wake behind it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S069. An empty patch of calm dark water under ice where a seal had been, a few bubbles drifting up, the moment after, no blood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S070. The Greenland shark (R1) gliding on, unhurried, into the deep dark. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S071. Extreme close-up of the Greenland shark's (R1) eye, a pale ribbon-like copepod parasite about the length of a paper clip hanging from the center of the cornea, swaying in the current, torchlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S072. The Greenland shark (R1) head-on, the pale parasites trailing from both eyes like small tassels, cold green-grey water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S073. Scale diagram on dark navy background: a human hand silhouette holding a paper clip outline, and beside it a copepod silhouette of the same length. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S074. Macro view of the parasitic copepod anchored to the shark's cornea, its small body and two long pale egg sacs, cold water, realistic and not grotesque. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S075. A diver with a torch hovering near the Greenland shark (R1), the beam lighting the parasite on its eye. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Three Greenland sharks passing slowly in the dark, each with pale parasites on both eyes. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A line of Greenland sharks passing one by one through a torch beam, each with pale parasites on both eyes. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S078. An old-fashioned laboratory microscope with a slide of grey tissue, late twentieth-century lab, soft yellow light, blurred notes beside it. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S079. Close-up of a shark's eye with a cloudy, scarred patch around the parasite's anchor point, dim cold light, not gory. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S080. The Greenland shark (R1) moving through total darkness, lit only by a distant faint torch, lonely and seemingly blind. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S081. Two researchers seen from behind in a modern eye laboratory, a large monitor showing a blurred microscope image of a retina, blue light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A thin slice of retina on a glass slide under a microscope lamp, glowing faint blue. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S083. Microscope image of densely packed slender rod cells of a retina, glowing faint blue, scientific photography. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S084. Deep ocean seen from below, only a faint deep blue glow left from the surface far above, the Greenland shark (R1) passing through it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S085. A beam of pale blue light reaching down through very deep dark water, the Greenland shark (R1) passing through it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S086. A small lab instrument shining a beam of light through a cloudy shark cornea held in a clamp, most of the light passing through to a sensor. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S087. The Greenland shark's (R1) eye seen through a soft blur, as if looking through frosted glass, the parasite in the foreground. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A diver in the dark holding a torch while the Greenland shark (R1) slowly turns its head toward the diver, following its movement. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S089. The Greenland shark (R1) circling slowly around a diver, keeping its head toward him. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S090. Close-up of the parasite on the eye of the Greenland shark (R1) as the shark glides on, settled and permanent, wry mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S091. Dark Arctic water under sea ice, the temperature of the scene felt in the breath-like fog on the ice surface above, pale blue light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S092. A glass of water with ice cubes floating in it on a dark table, cold condensation on the glass, cool blue light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S093. The Greenland shark (R1) almost motionless in near-freezing water, ice crystals drifting past. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S094. The Greenland shark (R1) resting near the seabed in cold water, barely moving. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S095. A school of small Arctic cod darting quickly past the slow Greenland shark (R1), dim cold water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A modern genetics laboratory at night, rows of sequencing machines with small glowing lights, a scientist silhouette far away. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S097. Two glowing spirals of DNA on dark navy background, one about twice as long as the other, a small human silhouette under the shorter and a shark silhouette under the longer. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S098. A glowing computer screen in a dark lab showing a blurred, unreadable colored genome map. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S099. Gloved hands holding a small tube of cloudy DNA solution up to the light, blue laboratory glow. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S100. The Greenland shark (R1) seen in profile, slow and steady, faint light along its body suggesting endurance. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A scientist silhouette standing before a large wall of blurred unreadable printed data and diagrams, thoughtful pose. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A large preserved shark heart in a clear container on a laboratory shelf, cool clinical light, respectful. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A microscope view of heart muscle tissue with faint pale scar streaks and small yellowish granules, scientific photography. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S104. The Greenland shark (R1) gliding with steady strokes, an impression of a slow heartbeat in the dark. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S105. Slow close-up of the Greenland shark's (R1) gill slits opening gently in cold dark water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S106. An old ship's clock with a slowly swinging pendulum in a dim room, warm light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S107. The Greenland shark (R1) fading slowly into the deep, its outline dissolving in the dark. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A rocky Icelandic shore in grey light, a gutted shark carcass partly covered by a mound of gravel and stones, no blood. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S109. A rough pile of stones and gravel on a black volcanic beach, mist, an empty wooden cart nearby. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S110. The Greenland shark (R1) deep in dark water, an impression of immense pressure, fine particles drifting. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S111. The Greenland shark (R1) deep in near-freezing water, ice crystals drifting. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S112. A figure seen from behind staggering slightly on a snowy village path at night, lantern light, blurred and atmospheric. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S113. A traditional wooden drying shed on an Icelandic farm, strips of pale shark meat hanging inside, cold wind, mountains behind. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S114. Close-up of pale strips of drying shark meat hanging in a dim wooden shed, slats of light between the boards. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S115. A small plate of pale hákarl cubes on toothpicks next to a small glass of clear spirit on a wooden table, dim cozy light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A traveller seen from behind holding a toothpick with a pale cube of shark meat, the other hand near the face as if bracing for the smell, wry mood. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A tray of pale shark cubes in a market display under cold light, a small blank label. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S118. A modern fishing trawler at sea in heavy grey North Atlantic swell, gulls overhead, cold light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S119. A longline with baited hooks coming up over the side of a fishing boat, sea spray, a large grey shark shape below the surface. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A Greenland shark tangled in the mesh of a trawl net in dark water, no blood, slow and heavy. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A young small Greenland shark swimming alone in the dark, and far above it a fishing line descending. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S122. The Greenland shark (R1) seen from far away, a lone shape in a vast dark ocean. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S123. Several Greenland sharks spread far apart in a dark cold sea, each one isolated, under a faint ice ceiling. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S124. A tropical atoll from above, turquoise lagoon ringed by white sand and reef, deep dark blue water dropping away just outside the reef. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S125. A small open boat at the edge of a coral atoll, a researcher seen from behind lowering a baited line over the side, bright tropical light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A steep coral reef wall dropping into darkness, a baited line descending past it into the deep blue-black. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S127. Researchers seen from behind on a small boat pulling up a line, their hands on the rope, tense posture, tropical light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S128. A slow, grey, heavy shark with a blunt head and tiny eyes held at the side of a small boat in clear tropical water, no blood, the reef below. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S129. A sleeper shark gliding in dark deep water below a tropical reef, its grey body against the black. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S130. A world map shape on dark navy background, a faint glowing arc from Greenland in the far north down to the western Caribbean, a small shark silhouette at each end. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S131. A turquoise tropical lagoon with white sand and a wooden boat, holiday postcard light, completely calm. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S132. Split view at the waterline of a tropical reef: bright turquoise surface above, and below the surface the reef wall falling away into cold blue-black darkness. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S133. Scale diagram on dark navy background: a depth column with a small human diver silhouette at the top, four stacked tall skyscraper silhouettes reaching down beside it, and a shark silhouette at the very bottom. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S134. A Greenland shark (R1) moving through the deepest dark, lit only by faint bioluminescent specks drifting around it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S135. Many faint grey shark silhouettes far apart across a vast black seabed, almost invisible, out of sight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S136. A wide grey Atlantic beach on the west coast of Ireland at dawn, a large dark shape lying at the waterline far away, cliffs and a mountain behind. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S137. Two figures seen from behind walking toward a large grey shark lying on wet sand, gentle surf, overcast sky. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S138. A close view of a dead three-meter Greenland shark lying on wet sand, grey skin, blunt snout, small eyes, respectful, no wounds. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S139. Scale diagram on dark navy background: a three-meter shark silhouette beside a sofa silhouette and a half, and a standing human silhouette. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S140. Museum workers seen from behind carefully lifting a shark onto a stretcher on a beach, overcast light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A quiet Victorian-era harbor town at dusk in the eighteen-seventies, gas lamps, sailing ships at anchor, no people in focus. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S142. A large dark shark heart on a steel tray in a laboratory, gloved hands beside it, cool clinical light, no blood. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S143. Scale diagram on dark navy background: a shark heart silhouette on one side of a balance and a standing child silhouette on the other, the balance level. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S144. Gloved hands placing a small eye lens into a glass sample vial in a lab, cool blue light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S145. The huge old Greenland shark (R1) hanging in dark water beneath the ice, the parasite on her eye, an impression of great age. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S146. The huge old Greenland shark (R1) passing a faint patch of light, half lit, half in shadow. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S147. Several Greenland sharks of different sizes moving slowly through cold dark water, the old and the young together. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S148. Dark Arctic water under ice, near-freezing, faint ice crystals, calm and timeless. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S149. Close-up of the Greenland shark's (R1) skin and side in slow motion, steady and enduring. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S150. Night over the frozen Arctic sea, a faint aurora above the ice, empty and silent. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S151. Under the ice at night: a grey shape moving slowly through the dark at walking pace, a pale parasite trailing from its eye, faint blue light through the ice. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S152. The Greenland shark (R1) seen from directly below against the faint ice ceiling, a slow dark silhouette. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S153. The Greenland shark (R1) passing close to the camera in the dark, its small eye looking past us, the parasite swaying. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S154. An old family photograph album lying open on a table with blurred faded photographs, warm lamp light. Style: dark cinematic documentary photorealism, muted natural colors, soft directional light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S155. The Greenland shark (R1) disappearing slowly into total darkness beneath the ice. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S156. Close-up of the Greenland shark's (R1) eye in near darkness, the parasite drifting gently, cold green-grey water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S157. A small boat on a dark calm Arctic sea at night, a single lantern, the ice edge beyond, quiet. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S158. A large walrus resting on an Arctic ice floe, long ivory tusks, whiskered face, wrinkled brown skin, low cold light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S159. A huge walrus hauling its heavy body out of freezing water onto the ice by digging its long tusks into the ice edge, spray and cold light. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S160. A walrus swimming underwater beneath sea ice, tusks forward, whiskers spread, dim blue light from above. Style: dark cinematic ocean photorealism, cold natural light, deep muted blues and greys, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S160.png, R1.png … R2.png for references), one file per number, no UUID names, no numbers or text drawn inside the images.
