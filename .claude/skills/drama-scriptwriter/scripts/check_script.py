@@ -75,9 +75,11 @@ def main():
         th = root / f"превью_{lang}.txt"
         if th.is_file():
             tt = th.read_text("utf-8")
-            for h in ("1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА", "2. ТЕКСТ СЛЕВА", "3. ПЛАШКА"):
+            for h in ("1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА", "2. ТЕКСТ", "3. ПЛАШКА"):
                 if h not in tt:
                     errors.append(f"{th.name}: нет секции «{h}»")
+            if not re.search(r"(?m)^РАСКЛАДКА:\s*[A-H]\b", tt):
+                warns.append(f"{th.name}: нет строки «РАСКЛАДКА: <A–H>» (см. 10_превью_раскладки.md)")
 
     sc = root / "сцены_генерация.txt"
     if sc.is_file():
