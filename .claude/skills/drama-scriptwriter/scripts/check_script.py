@@ -104,8 +104,8 @@ def main():
             w = len((root / f"озвучка_{langs[0]}.txt").read_text("utf-8").split())
             per = w / wpm * 60 / max(len(ids), 1)
             print(f"   ≈ {per:.0f} с на сцену")
-            if not 12 <= per <= 30:
-                warns.append(f"Сцена в среднем {per:.0f} с; норма образца ~20 с (одна на 50 слов)")
+        if ids and not 50 <= len(ids) <= 100:
+            errors.append(f"сцены_генерация.txt: сцен {len(ids)}, нужно от 50 до 100 (решение 18.11)")
 
     for w in warns:
         print("ПРЕДУПРЕЖДЕНИЕ:", w)
