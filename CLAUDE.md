@@ -39,4 +39,4 @@
 ## Истории RU
 - Навык `.claude/skills/history-ru/` (SKILL.md, разбор конкурентов, хартия, банк тем, упаковка, формат, журнал, скрипты). В начале работы — его SKILL.md и `references/09_журнал.md`.
 - Исходники: `истории/сценарии/<NN>_<КЛЮЧ>/`, архив рядом; разбор — `истории/разбор_конкурентов.md` и `истории/_разбор/`; метрики — `истории/performance_log.md`.
-- Сдача: `python3 .claude/skills/history-ru/scripts/check_script.py <папка>` → `make_archive.py` → строка в журнал → один коммит в `main` («Сценарий Истории 01 ДОМИНАНТА, RU») и push → архив в `Omajati/avto-scenarii` в папку `Истории RU/`, коммит «Сценарий: <NN>_<КЛЮЧ>» и push → архив владельцу файлом.
+- Сдача: `python3 .claude/skills/history-ru/scripts/check_script.py <папка>` → `make_archive.py` → строка в журнал → один коммит в `main` («Сценарий Истории 01 ПАМЯТЬ, RU») и push → архив в `Omajati/avto-scenarii` в папку `Истории RU/`, коммит «Сценарий: <NN>_<КЛЮЧ>» и push → архив владельцу файлом.
