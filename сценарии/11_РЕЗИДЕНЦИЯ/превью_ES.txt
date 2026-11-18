@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 11 «Residencia»
+
+Ключевая мысль-крючок: в Сочельник дочь дарит матери буклет дома престарелых, завёрнутый в бумагу со звёздами, а мать возвращает ей конверт, подписанный ещё в октябре. Раскрытие — в первые 3 минуты (продажа голой собственности с пожизненным правом проживания, 2:42–2:55).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a slim 68-year-old Southern European woman with a chin-length silver-white bob, small gold hoop earrings, a burgundy wool cardigan over a cream blouse, holding a plain white envelope against her chest with both hands, calm, quietly determined, a faint dignified smile, looking straight at the viewer; behind her, softly blurred, a warm Christmas living room with a small nativity scene of unpainted wooden figures and a glass cabinet. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+MI HIJA ENVOLVIÓ                         — белый
+UN FOLLETO DE RESIDENCIA                 — жёлтый
+EN PAPEL DE ESTRELLAS.                   — белый
+YO LE DEVOLVÍ UN SOBRE                   — белый
+QUE FIRMÉ EN OCTUBRE.                    — белый, «OCTUBRE» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: ÁBRELO AHORA
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding a plain white envelope against her chest, calm and determined, looking at the viewer; blurred warm Christmas living room with the wooden nativity figures from reference R8 behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: MI HIJA ENVOLVIÓ
+line 2 yellow: UN FOLLETO DE RESIDENCIA
+line 3 white: EN PAPEL DE ESTRELLAS.
+line 4 white: YO LE DEVOLVÍ UN SOBRE
+line 5 white with the word OCTUBRE in green: QUE FIRMÉ EN OCTUBRE.
+Below the text, a red rectangle with white bold uppercase text: ÁBRELO AHORA
+No other text, no logos. Check accents exactly (ENVOLVIÓ, DEVOLVÍ, FIRMÉ, ÁBRELO).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «FOLLETO DE RESIDENCIA», белый конверт в руках и плашка ÁBRELO AHORA. Если строки сливаются — убрать строку 3.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Aquí estarás mejor, mamá»: en Nochebuena mi hija me regaló un folleto de residencia. Yo, un sobre
+Название даёт обиду (цитата дочери, буклет вместо подарка) и обещание ответа (конверт). Превью продолжает: подарок был завёрнут в рождественскую бумагу, а конверт подписан ещё в октябре, то есть героиня знала заранее. Плашка — приказ без ответа: что в конверте, не ясно (завещание, деньги, продажа, письмо).
