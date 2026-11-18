@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 23 «Número»
+
+Ключевая мысль-крючок: дочь решила увезти мать из больницы в Мадрид; мать звонит сыну, ошибается одной цифрой — и попадает на женщину, которую в 1994 году пять месяцев прятала в чулане консьержной. Через час та входит в палату: она старшая медсестра этой больницы. Раскрытие — в первые 3 минуты (2:27–2:49).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 72-year-old Southern European woman with short wavy grey hair, a round face and small pearl earrings, in a pale blue hospital gown, holding a beige bedside phone receiver to her ear, moved and calm, looking straight at the viewer; behind her, softly blurred, a hospital room with a nurse in white in the doorway. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+DESDE EL HOSPITAL                        — белый
+ME EQUIVOQUÉ EN UN NÚMERO.               — жёлтый
+CONTESTÓ LA NIÑA                         — белый
+QUE ESCONDÍ EN 1994.                     — белый, «1994» зелёный
+UNA HORA DESPUÉS ENTRÓ.                  — белый, «ENTRÓ» красный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: UN 7 POR UN 1
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1 in a hospital gown, head and shoulders, holding the beige bedside phone from reference R8 to her ear, moved and calm, looking at the viewer; blurred hospital room with a nurse in the doorway behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: DESDE EL HOSPITAL
+line 2 yellow: ME EQUIVOQUÉ EN UN NÚMERO.
+line 3 white: CONTESTÓ LA NIÑA
+line 4 white with 1994 in green: QUE ESCONDÍ EN 1994.
+line 5 white with ENTRÓ in red: UNA HORA DESPUÉS ENTRÓ.
+Below the text, a red rectangle with white bold uppercase text: UN 7 POR UN 1
+No other text, no logos. Check accents exactly (EQUIVOQUÉ, NÚMERO, CONTESTÓ, NIÑA, ESCONDÍ, DESPUÉS, ENTRÓ).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «NÚMERO», «1994», телефон у уха и плашка. Если строки сливаются — убрать строку 1.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Ya no puedes vivir sola, mamá», dijo mi hija. Desde el hospital marqué mal un número
+Название — обида цитатой дочери и загадочная ошибка в номере. Превью раскрывает, кто ответил (девочка из 1994), но не кто она теперь и что будет с домом. Плашка — сама ошибка «семь вместо единицы».
