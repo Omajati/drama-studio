@@ -1,0 +1,8 @@
+# search «Людвик Флек» за 12 мес., длина от 8 мин
+просм	подп	просм/подп	мин	дата	канал	название	id
+289	1K	0.2×	59.7	2026-06-08	Ciência & afins	Ludwik Fleck: o fato científico tem história | Aula 1/5	UvYCPEoNvew
+68	43	1.6×	8.3	2026-04-09	Felipe Higuita	Ludwik Fleck  El Hecho Científico	1e2Ueu0rNyY
+60	66	0.9×	33.3	2026-05-18	SCIPLU Project	Workshop Fleck in Discussion - Anna Zielinska: Ludwik Fleck on Democracy and Objectivity in Sciences	Ngh28Hbv6Og
+55	1K	0.0×	43.3	2026-07-15	Geschichten aus der Geschichte	GAG374: Ludwik Fleck und das Fleckfieber - Geschichten aus der Geschichte	p0QvZdTWgIw
+54	1K	0.0×	17.8	2026-08-03	Korzenie Rzeczypospolitej	Ludwik Fleck: biografia i życie prywatne prekursora filozofii nauki	Cq68c9pjkE4
+13	13	1.0×	74.0	2026-03-19	AME Italia	Ludwik Flek   M Marini 21.01.2025	Ii8chnZMq6M
