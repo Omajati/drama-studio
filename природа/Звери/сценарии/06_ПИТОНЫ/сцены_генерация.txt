@@ -1,0 +1,285 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 20-minute English-language wildlife documentary for adults, channel of land animals, titled "Something Ate the Everglades' Raccoons. It Came From a Pet Store". Story: night road surveys in Everglades National Park showed raccoons, opossums, bobcats, rabbits and foxes almost vanished; radio-collared marsh rabbits proved invasive Burmese pythons were eating them. The pythons came from the pet trade (the Hurricane Andrew story is only one theory); record snakes of nineteen feet and two hundred and fifteen pounds; they eat deer and alligators; searchers almost never see them. Scientists use radio-tagged male "scout" pythons to find big breeding females; the state pays hunters and runs the yearly Python Challenge. Side effects: mosquitoes now bite cotton rats that carry Everglades virus. Risk to people is very low; the snakes spread to the Keys and north toward Lake Okeechobee; a 2010 freeze may have made them more cold-tolerant. Nobody knows how many there are. Ending teaser: dangerous animals of Australia (cassowary, dingo, saltwater crocodile).
+
+Visual style (used for every image): cinematic wildlife documentary photograph, natural light, earthy muted palette with one warm accent (headlights, a headlamp, golden hour). Pet-trade and 1990s flashbacks look like archival faded color photographs. Comparisons, maps and diagrams are naturalist engraving-style illustrations on warm parchment with one human silhouette for scale and no labels.
+
+Recurring characters (keep identical across shots):
+PYTHON — a very large female Burmese python, tan-olive skin with dark chocolate-brown blotches outlined in black, a dark arrowhead mark on top of the head, thick as a man's thigh.
+RABBIT — a small dark-brown marsh rabbit with short rounded ears and a thin black radio collar with a short antenna.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no signs, no flags. No blood, no wounds, no bodies, no animals fighting, killing or swallowing prey in close-up: predation is shown only before or after (a still snake with a bulge in its middle, an empty road, an empty burrow). Animals with true-to-species anatomy, never cartoonish; snakes have no legs and no ears. Hunters, researchers, rangers and tourists are generic people, never recognisable real persons; they are seen from behind, in silhouette or with faces out of frame. Papers, screens, maps, tape measures and labels are always blurred and unreadable.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet, top and side views, of a very large female Burmese python: tan-olive skin with dark chocolate-brown blotches outlined in black, a dark arrowhead-shaped mark on top of the head, heavy thick body, about eighteen feet long when stretched beside a human silhouette. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet, side and three-quarter views, of a marsh rabbit: small, dark brown fur, short rounded ears, small feet, wearing a thin black radio collar with a short wire antenna. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Night, a straight two-lane road through the southern Everglades in the headlights of a slow pickup truck, sawgrass on both sides, the asphalt completely empty, a few insects in the beams. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Night, a huge Burmese python (R1) stretched across the entire width of the same two-lane road in the headlights, as long as the pickup truck stopped in front of it; a man in a field shirt stands by the open truck door, clearly visible, about a third of the frame height, frozen. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S003. Close-up of a glass pet-shop terrarium under warm store lights, a small patterned baby Burmese python coiled on bark chips, its pattern identical to R1. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Aerial view at dusk of the vast Everglades sawgrass sea, and far on the horizon the glowing skyline and suburbs of Miami, a single road cutting toward the city. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S005. Triptych feeling in one frame: a marsh rabbit (R2) wearing a small radio collar in wet grass on the left, a coiled python in the middle shadows, a mosquito on a reed on the right, soft dawn light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A wooden boardwalk over the Everglades at golden hour, a lone hiker seen from behind looking out over sawgrass and tree islands. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S007. A raccoon in the beam of headlights crossing a wet road at night, eyes glowing, sawgrass behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S008. The same road at night, same angle, completely empty, only the reflection of the headlights on wet asphalt. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S009. Biologists' pickup truck seen from behind on a dark park road, a spotlight held out of the window sweeping the sawgrass, generic people in silhouette. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A clipboard with a blurred, unreadable tally sheet on a truck dashboard at night, a flashlight resting on it, warm dashboard glow. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S011. Night, open truck window, an opossum frozen in the beam at the roadside, sawgrass and a warm humid haze. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A marsh rabbit bolting from the edge of a road into the reeds, caught mid-leap in headlights. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S013. Engraving-style comparison: on the left a crowd of small mammals (raccoons, opossums, rabbits, a fox, a bobcat) beside a human silhouette, on the right the same space almost empty with one faint raccoon outline. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S014. A bobcat half hidden in palmetto at night, looking toward the camera, tense. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S015. An empty fox burrow at the base of a pine, cobwebs across the entrance, morning light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S016. A park ranger in a generic uniform seen from behind kneeling at a roadside, examining empty grass, no animals, flat grey morning. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S017. Engraving-style map of southern Florida without labels: the southern tip of the Everglades shaded darkest, fading lighter toward the edges, one human silhouette standing in the corner for scale. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S018. A long Burmese python (R1) lying motionless and almost invisible in tall sawgrass, only part of its patterned body visible. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S019. A biologist seen from behind wading through flooded sawgrass at noon, holding a long pole, scanning, nothing visible. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S020. Close portrait of a marsh rabbit (R2) sitting in wet grass, small dark ears, alert eye, soft morning light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A small radio collar with a short antenna resting on a researcher's gloved palm, field station table blurred behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S022. Gloved hands gently fitting a radio collar on a calm marsh rabbit (R2), face of the researcher out of frame. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S023. A wire carrier opening at the edge of the park's sawgrass, a collared marsh rabbit hopping out into the grass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S024. A researcher seen from behind holding a hand-held antenna and receiver at dawn in the marsh, mist over the water. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S025. Close-up of a handheld radio receiver in a gloved hand, a researcher's boots in shallow water behind, morning haze. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S026. A heavy python (R1) lying perfectly still in dense wet vegetation, a slight bulge in its middle, a researcher's boots at the edge of the frame. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S027. Engraving-style illustration: a row of rabbit silhouettes, most of them shaded as gone, beside one human silhouette for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S028. A bobcat walking along a dry pine forest edge outside the park, ordinary daylight. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S029. A red-shouldered hawk on a dead branch above a marsh, watching the grass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S030. A python (R1) slowly sliding off a dirt levee into dark water at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S031. A map-like aerial view of the Everglades meeting the ocean at the southern tip, late light, empty of roads. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S032. A hand holding a baby Burmese python, small enough to rest in the palm, warm indoor light. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S033. A small pet shop in the early nineties, a glass tank under a warm lamp with a hatchling python coiled on bark, a child seen from behind tapping the glass, a parent beside him, all signs blurred. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S034. Stacked shipping crates in a humid port warehouse at Miami, light through high windows, all labels blurred and unreadable. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A suburban living room where a large python fills an oversized glass enclosure, a generic owner seen from behind looking at it uncertainly. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S036. Engraving-style growth comparison: a hatchling python as long as a forearm, a juvenile, and an adult longer than a human silhouette lying beside it. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S037. At dusk, an open car trunk at the end of a dirt road by the swamp edge, an empty plastic tub on the ground, the car's taillights glowing red. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S038. Satellite-like view of a giant hurricane spiral approaching the southern tip of Florida, no labels. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S039. A wrecked building of reptile enclosures after a hurricane, broken glass panels and scattered roof sheets, palm trees stripped, grey sky, no animals, no people. Style: archival-look faded color photograph from the early nineteen nineties, natural light, slight grain, generic people, 16:9, no text, no letters, no watermark.
+
+SCENE S040. A young python slipping out of storm debris into flooded grass, overcast light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S041. Engraving-style timeline as images only: small python silhouettes appearing one by one along a winding marsh line over many seasons, one human silhouette for scale. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S042. A python nest of white leathery eggs in leaf litter on a tree island, a female's coils curved around them, dappled light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S043. Tiny python hatchlings emerging from leathery eggs in leaf litter, morning light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S044. Night, a pickup truck stopped on a road in Big Cypress, a very long python crossing in the headlights, generic young men seen from behind running toward it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S045. Several generic young men from behind grappling a huge python on the roadside in a flashlight beam, the snake's body spanning all of them. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S046. A huge python laid out straight on a lab floor beside a measuring tape, scientists in generic clothes from behind, clinical light, tape markings unreadable. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S047. Engraving-style comparison: a nineteen-foot python stretched horizontally beside a giraffe of the same height, and a human silhouette. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S048. A massive, thick-bodied female Burmese python (R1) coiled on a tree island, as thick as a man's thigh, late light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S049. Engraving-style illustration of a pile of more than a hundred leathery python eggs beside a human silhouette. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S050. Engraving-style menu chart as images only: a raccoon, a marsh rabbit, a heron, a young alligator and a white-tailed deer arranged around a coiled python, one human silhouette. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S051. A wood stork and egrets wading at dawn, a python's head just breaking the water surface in the foreground. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S052. A white-tailed doe at the edge of a cypress dome at dawn, ears up, unaware of a patterned shape in the leaves nearby. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S053. A python (R1) lying motionless and swollen in the middle with a large meal, resting in shade on a tree island, no blood. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S054. Endless sawgrass to the horizon under a huge sky, water channels and tree islands, a tiny human silhouette on a levee. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S055. Extreme close-up of the python's (R1) blotched skin blending perfectly into brown sawgrass and mud. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S056. A hidden-picture photograph: sawgrass and leaf litter in which a coiled python is almost impossible to see. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S057. A line of searchers in generic field clothes seen from behind walking slowly across wet prairie, poles in hand, midday heat. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S058. Engraving-style illustration: a vast marsh with one tiny python outline and a single human silhouette with a pole, the scale emphasizing how much space there is. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S059. A researcher from behind holding an antenna up, the receiver beeping, looking at an apparently empty patch of grass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S060. Low angle through grass blades: a python's eye and head just visible between stems, a pair of boots blurred in the background. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S061. A woman biologist seen from behind, antenna in hand, standing in knee-high grass, scanning, heat haze. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S062. The same scene from ground level: a large python coiled among grass stems less than a meter from her boots, perfectly still. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S063. A single person seen from far away on a levee at the edge of an immense flooded landscape at sunset. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S064. Close-up of a radio receiver and antenna on the seat of a swamp buggy, dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A male Burmese python with a calm expression being held by gloved hands, a small healed scar on its side, field station background blurred. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S066. A veterinary-style field table, a python under a towel, gloved hands preparing a tiny transmitter, faces out of frame. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S067. A python released from gloved hands sliding into sawgrass on the Gulf Coast side of the swamp, cypress in the distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S068. Cool winter morning in Southwest Florida, mist over pine flatwoods, a python moving along a scent line through the grass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S069. Researchers seen from behind following an antenna signal into dense palmetto scrub, sun low. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S070. Under dense palmetto: a huge female python with two smaller males coiled around her, partly hidden, no violence. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S071. A medium-sized male python (scout) lying beside a much larger female (R1) in leaf litter, scale contrast clear. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S072. Engraving-style illustration: one male python silhouette at the center connected by faint lines to several large female silhouettes and a human silhouette, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S073. A field researcher's truck parked at a dirt track by a cypress strand at night, antenna on the roof, a single headlamp beam in the trees. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S074. Engraving-style illustration: a heap of python coils beside a pickup truck and a human silhouette, conveying tons of snake. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S075. Night, a contractor's pickup with roof spotlights slowly driving a gravel levee, beams sweeping across the canal. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S076. A python hunter seen from behind holding a long python by the tail end in a spotlight beam, levee at night. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A tape measure stretched beside a long python on a tailgate, flashlight light, markings blurred. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S078. Close-up of worn hunting gloves and a snake hook on a truck tailgate, dawn. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S079. Many pickup trucks and generic participants gathered at dawn at a dirt lot by the Everglades, seen from behind, sun rising. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S080. A generic hunter seen from behind carrying a large python across his shoulders on a levee at sunrise, all faces hidden. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S081. Engraving-style illustration: rows of python silhouettes stacked like cordwood beside a single human silhouette. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S082. An immense sawgrass horizon at dusk, a single small truck on a levee far away. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S083. A python (R1) gliding through dark water at night, only its head and a ripple visible. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A hunter seen from behind standing in grass, flashlight beam, looking the wrong way, a python lying behind him in the dark. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S085. Macro photograph of a mosquito resting on a sawgrass blade at dusk, wings shimmering, warm backlight. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S086. Macro photograph of a mosquito next to a grain of rice on a leaf, the mosquito noticeably smaller. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S087. A mosquito light trap hanging from a branch in a hardwood hammock at night, a generic researcher from behind checking it with a headlamp. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S088. Close-up of glass vials and pipettes in a field lab, labels blurred, warm desk lamp. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S089. A hispid cotton rat in grass, coarse brown fur, beady eyes, morning light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S090. Engraving-style illustration: a mosquito silhouette with faint lines to a raccoon, an opossum, a deer and a rabbit, most of them faded, one bold line to a cotton rat, a human silhouette in the corner. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S091. Several hispid cotton rats scurrying in dense grass at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S092. A mosquito landing on the back of a cotton rat in grass, macro. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S093. A python (R1) resting in the grass while cotton rats move around nearby, unaware. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S094. A hiker's forearm resting on a boardwalk rail at dusk, a mosquito about to land, soft focus. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S095. A quiet Everglades campground at dusk, a tent, a lantern glowing, a generic camper from behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S096. Night, a canal at the edge of a South Florida suburb, a python swimming past, backyard lights in the distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S097. Two generic field scientists from behind at a park research station desk, papers blurred, a python skin shed on a shelf. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S098. A boardwalk with generic tourists from behind looking at the marsh, safe midday light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S099. A biologist from behind wading knee-deep through murky flooded marsh, carrying a clipboard in a waterproof bag. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S100. Close-up of a python's head rising slightly from murky water near a pair of waders, tense but no contact. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S101. The python turning away and sliding off through the water plants, the biologist stepping back. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A coiled python behind glass in a dim private reptile room in a house, a lamp glowing, ominous but calm. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A family picnic at a park lake edge on a sunny day, seen from behind, nothing threatening in sight. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A raccoon-sized silhouette shadow in grass next to a python's head, dusk, implied threat without violence. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S105. A Key Largo woodrat (small brown rodent with large ears) on a branch in a tropical hardwood hammock. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S106. A researcher from behind holding an antenna toward a python lying under a fallen palm frond in the Keys. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S107. Aerial view of the Overseas Highway crossing turquoise water toward the Florida Keys. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A python in a suburban backyard pool area at dusk, palm trees, lit windows, no people. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S109. Engraving-style map of the Florida peninsula without labels, a shaded area spreading north from the southern tip to around a large lake, a human silhouette in the margin. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S110. Frost on sawgrass at dawn in South Florida, breath-like mist over the water, a cold grey sky. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S111. A python lying sluggish on a cold sunlit levee in winter, frost melting on the grass around it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S112. Close-up of a DNA sample tube and a python scale in a gloved hand in a lab, labels blurred. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S113. Night aerial: the dark Everglades and the bright grid of Miami suburbs meeting at a hard line. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S114. Engraving-style illustration: a crowd of python silhouettes fading into fog in a marsh, impossible to count, one human silhouette at the edge. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S115. A female python coiled around a clutch of eggs on a tree island at dawn. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A python (R1) lying perfectly still in sawgrass in full daylight, almost invisible, a road and a passing car far behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A housing development under construction at the edge of the Everglades at dusk, sawgrass meeting fresh concrete. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S118. An empty roadside at the edge of the marsh where a raccoon trail fades into the mud, morning. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S119. A mosquito on a cotton rat's ear in the grass at dusk, macro, soft light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S120. Night, the main park road again, the pickup truck rolling slowly with the windows down, headlights sweeping the sawgrass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S121. The empty asphalt in the headlights, nothing crossing, insects in the beams. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S122. In the dark grass beside the road, a scout python crawling, a faint glow of moonlight on its scales; far away a researcher's headlamp. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S123. The truck's taillights disappearing down the empty road into the dark, the python (R1) silently crossing behind it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S124. A python hunter's flashlight beam on a levee at night, the hunter seen from behind, the truck door open beside him. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S125. A southern cassowary standing tall at the edge of a tropical Australian rainforest, glossy black feathers, bright blue and red neck, helmet-like casque, as tall as a human silhouette beside it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A dingo on a white sand beach on an Australian island, looking back over its shoulder at a person walking far away along the shore. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S127. A huge saltwater crocodile's eyes and snout just above the surface of a muddy Australian river at dusk, a small boat far in the distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S127.png, R1.png … R2.png for references), one file per number, no UUID names, no numbers drawn inside the images, no blood, no wounds, no text anywhere.

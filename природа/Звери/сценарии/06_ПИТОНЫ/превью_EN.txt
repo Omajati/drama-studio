@@ -1,0 +1,19 @@
+ПРЕВЬЮ EN — 06 «Питоны»
+РАСКЛАДКА: D — Подвал
+
+Ключевая мысль-крючок: ночью на дороге через Эверглейдс лежит питон длиннее легковой машины — а таких, которых никто не видит, тысячи.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic YouTube thumbnail, 16:9. Night, a straight two-lane road through the Florida Everglades seen from slightly above and behind a stopped small white hatchback car, its headlights blazing forward. Across the whole width of the road, sharp and huge in the beams, lies a giant Burmese python, tan-olive with dark brown blotches, clearly longer than the car, its head raised toward the light. Beside the open driver's door on the left stands a man in a light field shirt, seen in three-quarter view from behind, clearly visible, about a third of the frame height, frozen. Sawgrass on both sides; far on the horizon the faint orange glow of city lights. Bottom 30% of the frame dark asphalt, calm and plain for words; top-right corner dark sky clear for a label. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт)
+WHERE'S THE REST?     — жёлтый с чёрной обводкой, снизу, очень крупно, во всю ширину
+
+3. ПЛАШКА
+Красная лента наискосок в правом верхнем углу, белые буквы: FLORIDA
+
+4. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: яркая полоса дороги в фарах, тёмный узор питона поперёк неё (длиннее машины), светлая рубашка человека у двери (треть высоты кадра), жёлтая строка «WHERE'S THE REST?» на тёмном асфальте, красная плашка FLORIDA.
+
+5. СВЯЗКА С НАЗВАНИЕМ
+Название: Something Ate the Everglades' Raccoons. It Came From a Pet Store. Превью не повторяет слов названия: показывает «убийцу» в масштабе (длиннее машины, рядом человек) и задаёт вопрос, на который отвечает ролик, — где остальные, почему их никто не может найти.

@@ -1,0 +1,23 @@
+ПРЕВЬЮ EN — 06 «Австралия: 10 жуков, от которых держатся подальше даже эксперты»
+РАСКЛАДКА: D — Подвал
+
+Ключевая мысль-крючок: все ждут, что самый опасный в Австралии — паук. Нет: никого не убил паук больше сорока лет, а на вершине списка — клещ размером с кунжутное зерно. На превью клещ-горошина на кончике пальца крупно у камеры, а за ним на втором плане большой чёрный паук; слова говорят: худший — не паук. Обещание раскрывается в первые 5 секунд («no spider there has been proven to kill anyone in more than forty years») и полностью на 10:03.
+
+СТИЛЬ ПРЕВЬЮ (раскладка D; в 05 была C, в 04 — F; правка после независимой перепроверки)
+Кадр во весь экран: красная пустыня на закате, нижняя треть затемнена под две строки слов. Два героя, контраст «огромный и не главный / маленький и главный»: справа у самой камеры крупным планом кончик пальца с раздувшимся клещом размером с горошину — первое, что видит глаз; слева на втором плане, чуть не в фокусе, большой глянцево-чёрный воронковый паук. Муравья нет — на 168×94 три существа сливались.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic YouTube thumbnail, 16:9, red Australian outback at sunset, deep orange sky, a lone gum tree far in the background. On the right, very close to the camera and large in frame, a human fingertip pointing up, sharp and well lit, with an engorged paralysis tick the size of a pea attached to it: swollen pale grey-blue oval body, small brown head and eight short legs at the front, no antennae, crisp texture, warm rim light so it stands out. On the left, in the middle distance and slightly out of focus, a glossy blue-black male Sydney funnel-web spider on red earth with fangs raised, eight legs, no antennae. Strong contrast, clean simple background. The bottom third of the frame darkened to near black and empty for text. No text, no letters, no labels, no logos, no watermark.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, две строки снизу по центру)
+WORST?             — белый, снизу, первая строка
+NOT THE SPIDER     — красный, снизу, вторая строка, крупнее
+
+3. ПЛАШКА
+Без плашки (на D слова и так в подвале; лишний элемент на 168×94 мешает).
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: крупный палец с клещом-горошиной справа, чёрный паук слева, красная пустыня, две строки внизу: WORST? и NOT THE SPIDER. Палец задаёт масштаб, клещ — главная точка кадра. Всего четыре слова. Если тесно — оставить только NOT THE SPIDER.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: 10 Bugs in Australia So Dangerous Even Experts Keep Their Distance. Превью не повторяет ни одного слова названия: название обещает список и страх экспертов, превью — переворот «худший — не паук». Честность: пауки в Австралии никого доказанно не убили больше сорока лет; по смертям лидируют пчёлы и осы (27 за 2000–2013, пауки — 0), а вершина списка — клещ паралича (по тревоге экспертов, рост аллергии на мясо, первая подтверждённая смерть — коронер, 2026). Паук на превью — сиднейский воронковый, он в ролике на 8-й ступени.
