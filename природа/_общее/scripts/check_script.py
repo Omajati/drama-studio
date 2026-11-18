@@ -5,7 +5,7 @@ python3 check_script.py природа/<канал>/сценарии/04_ЛЮТЫ
 
 Проверяет: три файла формата; в озвучке нет цифр, служебных пометок и запрещённых оборотов; хронометраж;
 сцены S001… подряд, по абзацу, со Style и «no text», 6–10 секунд озвучки на сцену; разделы файла загрузки,
-промпт и слова превью в форме, которую читает программа. Выход 1, если есть ошибки (предупреждения не валят).
+превью: превью_EN.txt с РАСКЛАДКОЙ или промпт и слова в «2. Превью» в форме, которую читает программа. Выход 1, если есть ошибки (предупреждения не валят).
 """
 import re
 import sys
@@ -38,9 +38,20 @@ def main():
     expected = {"озвучка_EN.txt", "сцены_генерация.txt", "загрузка_YouTube_EN.md"}
     for n in sorted(expected - names):
         errors.append(f"Нет файла {n}")
-    for n in sorted(names - expected):
-        (errors if n.startswith("превью_") else warns).append(
-            f"Лишний файл {n}" + (": у каналов природы превью задаётся в «2. Превью» файла загрузки" if n.startswith("превью_") else ""))
+    for n in sorted(names - expected - {"превью_EN.txt"}):
+        warns.append(f"Лишний файл {n}: в архиве только файлы формата")
+    th = root / "превью_EN.txt"
+    if th.is_file():
+        tt = th.read_text("utf-8")
+        lay = re.search(r"(?m)^\s*РАСКЛАДКА:\s*([A-H])", tt)
+        if not lay:
+            errors.append("превью_EN.txt: нет строки «РАСКЛАДКА: <буква> — <название>»")
+        elif lay.group(1) in "ABH":
+            warns.append(f"превью_EN.txt: раскладка {lay.group(1)} — стиль драм; природе подходят C, D, E, F, G")
+        for h in (r"1\.\s+ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА", r"2\.\s+ТЕКСТ", r"3\.\s+ПЛАШКА"):
+            if not re.search(r"(?m)^\s*" + h, tt):
+                errors.append(f"превью_EN.txt: нет раздела «{h.replace(chr(92), '')}»")
+        print(f"превью_EN.txt: раскладка {lay.group(1) if lay else '?'}")
 
     words = 0
     voice = root / "озвучка_EN.txt"
@@ -85,12 +96,16 @@ def main():
                 warns.append(f"{up.name}: название {n} знаков, у хитов ниши 40–70")
         thumb = re.search(r"(?ms)^## 2\. Превью\s*\n(.*?)(?=^## )", ut)
         body = re.split(r"(?i)\*\*\s*запасн", thumb.group(1))[0] if thumb else ""
-        if not re.search(r"(?m)^\s*>\s*\S", body):
+        if th.is_file():
+            pass  # превью рисуется по превью_EN.txt; раздел 2 — краткая запись и запасные идеи
+        elif not re.search(r"(?m)^\s*>\s*\S", body):
             errors.append(f"{up.name}: в «2. Превью» нет промпта картинки строкой «> …»")
         elif "no text" not in body.lower():
             warns.append(f"{up.name}: в промпте превью нет «no text»")
         pairs = re.findall(r"([^\n—;,*]+?)\s+—\s+(чёрн\w*|черн\w*|бел\w*(?:\s+в\s+красн\w*\s+плашк\w*)?|красн\w*)", body)
-        if not re.search(r"(?i)текст[^:\n]*:", body):
+        if th.is_file():
+            pass
+        elif not re.search(r"(?i)текст[^:\n]*:", body):
             warns.append(f"{up.name}: в «2. Превью» нет строки «Текст: СЛОВА — цвет» (превью будет без слов)")
         elif not pairs:
             errors.append(f"{up.name}: строка «Текст:» не в форме «СЛОВА — чёрный; СЛОВО — белый в красной плашке»")
