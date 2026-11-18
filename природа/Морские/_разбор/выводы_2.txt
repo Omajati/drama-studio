@@ -1,0 +1,56 @@
+# Морские — второй проход разбора (18.11.2026). Сырые выводы.
+Источник: yt_research.py (search ×3, четвёртый search отклонён API: HTTP 429; channel ×16; video ×12; thumbs ×20), комментарии — commentThreads через call() (4 ролика × 100).
+Файлы: search1_2_sea_creatures_60d.txt, search2_2_whale_orca_shark_60d.txt, search3_2_long_films_90d.txt, каналы_2/, каналы_сводка_2.txt, videos_top_2.txt, комментарии_2.txt, хиты_2.jpg.
+Старые каналы (каналы/*.txt) сняты сегодня же — повторно не снимал, выбросы за 60 дней взяты из них.
+
+## Выбросы за 60 дней (с 19.09.2026), только море
+ApexMorph (8K, медиана 42K)        The Only Animals That Make Orcas Run Away          3.8M  ×90.6  10 мин  26.10
+ApexMorph                          Why Orcas Are Terrified Of Humpback whales         3.1M  ×72.8  10 мин  28.10
+ApexMorph                          Why Millions Of Colossal Squids Only Live In One Spot? 278K ×6.6 11 мин 03.11
+ApexMorph                          The Only Animals That Make Great Whites Run Away   5K    ×0.1   (12.11 — формула на акуле не взлетела)
+Wild Lore (3K, медиана 1K)         Why The Giant Manta Ray Is Nothing Like Any Other Ocean Animal 417K ×336.1 22 мин 12.10
+Wild Lore                          Why Great White Sharks Can't Survive In Captivity  22K   ×17.9  20 мин  21.10
+Wild Lore                          Why The Seahorse Is Nothing Like Any Other Ocean Animal 4K ×3.0  01.11 (та же формула, слабее)
+The Animals World (2K, мед. 2K)    The Only Three Predators That Orcas Actively Avoid 397K  ×196.6 30 мин  16.10
+Benny Goes Wild (8K, мед. 164K)    8 Ocean Bites Ranked. The Last One Would Crush You 344K  ×2.1   11 мин  21.10
+Ocean Atlas (173 подп.)            From the Cutest Sea Creature to the One That Can Kill You in Minutes 6K ×6.5 13.11
+All.About.Nature (176K, мед. 68K)  The Strangest Sea Monster Encounters               418K  ×6.1   31 мин  10.10
+Fossil Fruw (31K, мед. 62K)        9 Sea Animals Scientists Are Terrified to Cage     2.0M  ×32.4  11 мин  26.08 (старше 60 дн., но свежий канал)
+Fossil Fruw                        3 Sea Animals That Mimicked Human Speech (Real Recordings) 990K ×15.9 8 мин 08.06
+OctoLab (из снимка 18.11)          False Killer Whales Are Terrifying...Here's Why    383K  ×4.2   34 мин  14.11
+OctoLab                            Why Do Animals Hate Albinos, But Whales Don't      372K  ×4.0   34 мин  13.10
+OctoLab                            Why The World's Largest Predator Refuses to Kill Us 594K ×6.5   31 мин  08.10
+OctoLab                            Why Elephant Seals Don't Want to Grow Up           198K  ×2.2   30 мин  31.10
+BeyondTheBlue                      The Only 3 Animals That Make Orcas Run Away        1.3M  ×3.6   34 мин  06.11 (через 11 дней после ApexMorph)
+BeyondTheBlue                      Why Does Every Colossal Squid Live in One Spot      768K  ×2.2   28.10
+Из поиска (просм./подп.): Ambrose Discovery «Marine Biologists Finally Solved the Mystery of the Missing Great White» 637K (5.8/подп., 13.10).
+
+## Длинные фильмы (последние 90 дней)
+Работают: GaiaDocs «WILD OCEAN | The Apex Predators Of The Ocean Depths» 2.2M ×31.3 63 мин (07.10); «WILD PACIFIC | Battle of the Ocean's Fiercest Predators» 909K ×13.0 79 мин; «OCEAN MYSTERIES | Unseen Invisible Creatures of the Abyss» 772K ×11.0 85 мин.
+Underwater Earth 4K: «Mariana Trench: What Exists at Earth's Deepest Point?» 265K ×17.5 216 мин (05.10); «Mariana Trench: What Lives in the Deepest Place on Earth?» 571K ×37.7 180 мин (21.08); «OCEAN GIANTS | Hidden Giants of the Pacific Depths» 71K ×4.7.
+The Unseen Earth (7K): TINY WORLDS II 166K ×8.8; MARINE VEGETATION 116K ×6.1; DEEP SEA CREATURES 103K ×5.4; BLUE PLANET III 76K ×4.0 (все ≈3 ч); COASTAL SEAS 640K (88/подп.).
+Unreal Planet Earth (56K, мед. 6K): PACIFIC OCEAN | Why Is the World's Largest Ocean So Dangerous? 370K ×61.3 189 мин; SOUTHERN OCEAN 67K ×11.1.
+Не работают: «for sleep» про места-загадки без животных (Life Beyond Seen 31K подп.: 1–16K; Just About Earth про древние верования об океане 4–24K ×0.1–0.4); 12-часовые (715 мин) 2–22K; ежедневные 3-часовые у одного канала — большинство ×0.2–0.5.
+
+## Комментарии (4 хита × 100, по релевантности)
+- Олицетворение и «характер»: «Humpback = Cops, Sperm Whale = Bodyguards» (19), «ocean gang wars» (215), «neighborhood watch of the ocean» (126), «Forget nothing. Forgive no one.» (17).
+- Цифру, которую можно повторить, цитируют с таймкодом: «5:08 … 89% of the hunts humpbacks disrupted weren't even other humpbacks» (198 лайков).
+- Эмоциональный момент: «The researcher crying underwater when she saw the baby on the ultrasound got me» (55, манта).
+- Неволя — главная эмоция под «Terrified to Cage»: «There are no documented cases of a wild Orca killing a human, only captive ones» (1445), «Sensory deprivation…» (732).
+- «No AI» — автор Fossil Fruw закрепил «no ai images, video, or voice were used» (118), зрители благодарят. Ошибки в произношении (Tilikum, La Jolla) и в именах косаток замечают.
+- Просьбы: False Killer Whales (под ApexMorph), Leopard Seals (под горбачами), «part 2: blobfish, anglerfish, red devil squid, bioluminescence».
+
+## Превью (хиты_2.jpg)
+- 3.8M ApexMorph: тёмный монохромный фотореализм, косатка + силуэты горбачей с горящими глазами, красная стрелка, THEIR ONLY / FEAR (белый + красный).
+- 3.1M ApexMorph: пасть горбача в серой гамме, красные шрамы, ORCA / KILLER (белый / красный).
+- 2.0M и 990K Fossil Fruw: чёрно-белое фото белухи, тонкий красный шрифт: SCIENTISTS ABANDONED THE STUDY; THEY SOUNDED HUMAN.
+- 417K Wild Lore: манта снизу, крошечный дайвер, THE MOST + INTELLIGENT FISH (красная плашка).
+- OctoLab: цветной реализм, белый шрифт с засечками и красный подчерк: Worse than Orca?, We can't Explain, Most Extreme Lives, Ultimate MUTANT — единый узнаваемый стиль.
+- Benny Goes Wild: белая сетка мультяшных зверей с цифрами укуса (2,900 LB … 0 LB, ??? LB NEVER MEASURED).
+- Фильмы: синий фон, огромное название места (MARIANA TRENCH / 11,000 METERS DOWN; DEEP SEA; REEF «4K · Relaxing · No AI»).
+- Слова хитов — про НИХ или НАС (THEIR ONLY FEAR, THEY HUNT US, THEY NEVER LEAVE, WE CAN'T EXPLAIN, THEY SOUNDED HUMAN); слова провалов первого прохода — угроза ТЕБЕ (YOU'RE NEXT, YOU HAVE ZERO CHANCE, DON'T GO IN).
+
+## Свежая наука (WebSearch, сверить перед роликом)
+- Pitman et al. 2016/2017, Marine Mammal Science: 115 взаимодействий горбачей и косаток, 89% спасённых — не горбачи (nationalgeographic.com/animals/article/humpback-whales-save-animals-killer-whales-explained).
+- Косатки охотятся на китовых акул, Калифорнийский залив, самец «Моктесума» в 3 из 4 охот; Frontiers in Marine Science, 29.11.2024 (smithsonianmag.com …/a-pod-of-orcas-learned-to-target-and-feast-on-whale-sharks…).
+- 2026: камеры на 10 китовых акулах (Нингалу, Marine Biology); воспроизведение голосов гринд — косатки меняют строй и уходят (2026, предварительно, без рецензии); косатки таранят рыбу-луну (Frontiers in Ethology, июль 2026); 24 новых вида амфипод в зоне Кларион-Клиппертон (ZooKeys, март 2026).

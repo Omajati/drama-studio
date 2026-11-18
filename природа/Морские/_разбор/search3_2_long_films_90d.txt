@@ -1,0 +1,50 @@
+# search «ocean documentary for sleep» за 3 мес., длина от 60 мин
+просм	подп	просм/подп	мин	дата	канал	название	id
+763K	1.1M	0.7×	72.8	2026-08-31	Natural World Facts	The Coral Triangle | A World Beneath the Surface (4K)	2pTGdH0A4Qs
+640K	7K	88.3×	180.6	2026-08-25	The Unseen Earth	COASTAL SEAS | Life, Waves and Secrets Along the World’s Shores | FULL DOCUMENTARY	soPxOWqQpUc
+604K	29K	20.8×	85.2	2026-09-06	Paleora	Sir David Attenborough: A Billion Years of Earth's History Are Missing | Full Documentary	UrE8WqoIP3Q
+571K	30K	18.7×	180.2	2026-08-21	Underwater Earth 4K	Mariana Trench: What Lives in the Deepest Place on Earth ?	4nj4NjxK6vI
+564K	14.6M	0.0×	66.6	2026-09-12	BBC Earth	Blue Planet II in 4K Narrated By Sir David Attenborough | BBC Earth	fPzadO3WXdk
+320K	7K	44.1×	181.6	2026-09-08	The Unseen Earth	BLUE PLANET II | The Hidden Life That Connects Earth’s Oceans | FULL EPISODE | 4K DOCUMENTTARY	AfPgM2bdxYc
+179K	148K	1.2×	239.7	2026-10-17	Nature's Moments	The Most Dangerous Lions in the Deadliest Battles | FULL EPISODE | Wildlife Documentary	cvnV94aj5s4
+174K	67K	2.6×	215.3	2026-10-18	Just About Earth	The First Ice Age in Earth's History | Documentary For Sleep	pcgk26vu8uU
+154K	67K	2.3×	201.8	2026-09-01	Just About Earth	How We Survived the Ice Age | Documentary For Sleep	hy3BpWG6xkc
+132K	363K	0.4×	265.0	2026-09-30	Sleepy Science Channel	Fall Asleep To Science | 4 Hours of Facts About Ocean Life	uDs8IIaozcM
+121K	217	555.9×	121.8	2026-09-24	THE FAR QUIET	This Is Why You Can’t Go to Antarctica | Documentary For Sleep	yMV5ahE5Yqs
+109K	30K	3.6×	215.3	2026-09-24	Underwater Earth 4K	The Deep Ocean | What Really Lives in Earth’s Darkest Waters?	O6c8Quaw8g8
+58K	63K	0.9×	169.0	2026-09-21	Silence of the Earth	The Strange 450 Million Year Evolution of Sharks | Documentary for Sleep	j9QysZ2T92w
+38K	351K	0.1×	480.8	2026-11-12	Good Knights Sleep	Fall Asleep to Unexplained Mysteries From the Ocean Depths	Jm2ra7N5mDw
+31K	7K	4.2×	190.1	2026-10-15	The Unseen Earth	MARINE INVERTEBRATES | How the Ocean’s Strangest Creatures Survive | FULL DOCUMENTARY	QG53fkEQgY8
+24K	67K	0.4×	222.2	2026-10-28	Just About Earth	What Did Ancient Chinese Believe Was Beneath the Ocean? | Documentary For Sleep	6jUCO9TLWak
+24K	63K	0.4×	174.3	2026-09-17	Silence of the Earth	When Oxygen Almost Killed Life on Earth | Documentary for Sleep	8VYngjJD_gM
+23K	63K	0.4×	110.4	2026-09-30	Silence of the Earth	The Jurassic Seas: When Monsters Ruled the Oceans | Documentary for Sleep	O1JBaI9EVSA
+16K	31K	0.5×	227.2	2026-09-15	Life Beyond Seen	Why the Sirena Deep Still Terrifies Scientists | Documentary For Sleep	KQoyGJxZoCU
+15K	63K	0.2×	171.0	2026-09-27	Silence of the Earth	When Antarctica Froze (The Oligocene Epoch) | Documentary for Sleep	-Qi01izJzis
+14K	67K	0.2×	218.8	2026-10-10	Just About Earth	The Ice Age That Nearly Wiped Out Ocean Life | Documentary For Sleep	sqAEJRMSNJE
+13K	67K	0.2×	214.6	2026-09-08	Just About Earth	The Forgotten Explosion of Life | Documentary For Sleep	kPeX9SuVUME
+12K	67K	0.2×	186.5	2026-10-02	Just About Earth	When Antarctica Suddenly Froze | Documentary For Sleep	wHqu64JjX5c
+11K	31K	0.4×	230.1	2026-10-17	Life Beyond Seen	Diamantina Deep Still Hides Creatures No Human Has Ever Seen | Documentary For Sleep	eFAXNPsd61g
+11K	31K	0.4×	171.4	2026-08-31	Life Beyond Seen	The Underwater Village Older Than the Pyramids | Documentary For Sleep	Xka1p7plK4g
+9K	31K	0.3×	193.8	2026-10-18	Life Beyond Seen	Who Built This Giant Stone Wall Beneath the Sea? | Documentary For Sleep	xvY-VTEKZhA
+9K	7K	1.2×	180.5	2026-10-05	The Unseen Earth	ONE COAST, MANY WORLDS | From Shoreline To Open Blue | FULL DOCUMENTARY	UDk-bhJSDSc
+6K	67K	0.1×	235.1	2026-10-27	Just About Earth	How We Survived the Little Ice Age | Documentary For Sleep	wIXS7J8lvzc
+5K	31K	0.2×	222.6	2026-09-22	Life Beyond Seen	The Mountain With Creatures Found Nowhere Else on Earth | Documentary For Sleep	hiVYEFMn7oo
+5K	67K	0.1×	222.9	2026-11-04	Just About Earth	The Ice Age That Sparked the Rise of Animals | Documentary For Sleep	A1eT5XMMur0
+5K	31K	0.2×	214.3	2026-09-08	Life Beyond Seen	The Underwater Monolith Scientists Still Can’t Explain | Documentary For Sleep	cyznl5YNEK8
+4K	67K	0.1×	209.2	2026-11-06	Just About Earth	What Did the Celts Believe Was Hidden in the Atlantic Ocean? | Documentary For Sleep	WZz_FetI21U
+4K	31K	0.1×	189.8	2026-09-29	Life Beyond Seen	What Made 1,300 Perfect Circles on the Ocean Floor? | Documentary For Sleep	wUbalK5kJyA
+4K	31K	0.1×	195.3	2026-08-23	Life Beyond Seen	The Underwater City That Wasn’t Built by Humans | Documentary For Sleep	pKmgDFJGR3U
+3K	67K	0.1×	228.0	2026-10-07	Just About Earth	What If Intelligence Evolved Underwater — Would It Build Cities? | Documentary For Sleep	z5MxtEmOMhY
+3K	31K	0.1×	209.9	2026-10-07	Life Beyond Seen	The Expedition That Discovered the Deep Ocean | Documentary For Sleep	sCLB64krg1w
+3K	3K	1.0×	76.8	2026-10-14	Bright Side Sleep	The Whole Truth About Life Under Antarctica’s Ice | Relaxing Sleep Documentary	gMpqZR6b_ZQ
+3K	594	5.7×	84.0	2026-09-16	Unseen Ocean History	Sleep Documentary | The Baltic Sea Anomaly: What's Really Sitting on the Seafloor | No Ads	ttPpbv96dbM
+3K	67K	0.0×	254.2	2026-10-26	Just About Earth	The Ice Age That Ended the Age of Fishes | Documentary For Sleep	2BrbA904MB8
+3K	31K	0.1×	229.3	2026-09-23	Life Beyond Seen	Why We Can't Truly Explore Factorian Deep | Documentary For Sleep	Dk69krQHGUs
+3K	31K	0.1×	198.3	2026-10-22	Life Beyond Seen	The Ship Sent One Final Radio Message — Then Disappeared | Documentary For Sleep	ZF9VopC9xjI
+3K	67K	0.0×	218.1	2026-11-05	Just About Earth	What Was Earth Like During the Age of Megalodon? | Documentary For Sleep	srziogSbnZ0
+3K	31K	0.1×	211.5	2026-10-09	Life Beyond Seen	Why Scientists Still Avoid the Deepest Point in the Arctic Ocean | Documentary For Sleep	lOqDg6mkpRs
+3K	31K	0.1×	185.5	2026-10-02	Life Beyond Seen	The World’s Largest Sailing Ship Vanished Without a Trace | Documentary For Sleep	FqYjTwLA6b4
+2K	31K	0.1×	170.7	2026-09-03	Life Beyond Seen	The Largest Waterfall on Earth Is Hidden Beneath the Ocean | Documentary For Sleep	HbNXonPzROA
+2K	31K	0.1×	217.4	2026-10-01	Life Beyond Seen	Why Scientists Still Avoid the Deepest Parts of Brownson Deep | Documentary For Sleep	dUT7hvjDOe0
+2K	15	108.0×	109.2	2026-11-18	Ages of Silence	Every Ancient Ocean: 4 Billion Years of Lost Seas | Documentary for Sleep	tbxRYaA0sr4
+1K	31K	0.0×	186.3	2026-10-10	Life Beyond Seen	The Mysterious Holes on the Ocean Floor No One Can Explain | Documentary For Sleep	5tTs3EqTpCQ
