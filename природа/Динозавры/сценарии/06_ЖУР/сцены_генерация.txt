@@ -1,0 +1,333 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 17-minute English science documentary for adults on the YouTube channel about dinosaurs and the prehistoric world, titled "This Wolf Pup Slept for 57,000 Years. Then a Gold Miner Woke Her". Story: in July 2016 a gold miner thawing frozen mud with a water cannon at Last Chance Creek near Dawson City (Yukon, Canada) uncovered Zhùr, a mummified gray wolf pup about seven weeks old who lived about 57,000 years ago, the most complete Ice Age wolf mummy ever found (Meachen, Zazula et al., Current Biology, 2020). Her hair and teeth show a diet based on river food, probably salmon; she most likely died instantly when her den collapsed; she was found alone. Other permafrost babies: the baby mammoth Nun cho ga (Yukon, 2022), the cave lion cubs Boris and Sparta (Yakutia, born about 15,000 years apart), the baby woolly rhino Sasha, the puppy Dogor (a wolf), and the Tumat "puppies" (a 2025 study: wolf sisters whose last meal was woolly rhinoceros). Twist: the river signal in a seven-week pup comes largely through her mother's milk, so Zhùr is a record of a fishing mother wolf never found. Opens and ends at the frozen mine wall and the water cannon; teaser for Nanotyrannus.
+
+Visual style (used for every image): painterly realism paleoart for the Ice Age world and living animals; documentary photograph look for the mine, labs, museums and mummies; overcast northern documentary look with mist and spray for the Klondike and Siberian digs; clean flat scientific illustration for size comparisons, maps, timelines and diagrams.
+
+Recurring characters (keep identical across shots):
+ZHÙR (MUMMY) — a small mummified gray wolf pup about seven weeks old, curled on her side like a sleeping puppy: two small upright ears, short snout, front paws tucked under the chin, thin tail along the body, dark brown and grey fur still on, skin darkened and slightly shrunken, eyelids closed and sunken. Always clearly a puppy, never a rat, never a lump of mud.
+ZHÙR (ALIVE) — the same pup alive in the Ice Age: a fluffy grey-brown wolf pup with big paws, round belly, dark eyes, small ears.
+MOTHER WOLF — an Ice Age gray wolf: robust, heavy head with strong jaws, thick grey-brown coat, long legs, often wet from the river.
+KLONDIKE MINE — a placer gold mine in a creek valley: tall cliffs of black-grey frozen muck, a large water cannon on a stand, mud, gravel, excavators, spruce hills, no signs or logos.
+SIBERIAN RIVERBANK — a thawing permafrost bank on a remote river in Yakutia: larch trees, grey water, exposed frozen soil.
+Miners, hunters, scientists and elders are generic figures seen from behind or with faces out of frame.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no company names, no signs, no flags, no blood, no wounds, no fighting, no hunting contact, no cartoon style, no recognisable real people. Screens, papers, journals and diagrams are always blurred and unreadable. Dinosaurs follow modern science: feathered tyrannosaurs where appropriate, lips covering the teeth. Woolly mammoths have small ears. Mummies are shown with respect, never as gore.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of the mummified Ice Age wolf pup Zhùr, top and side views: small curled pup about seven weeks old, two small upright ears, short snout, paws tucked under the chin, thin tail, dark brown and grey fur intact, darkened slightly shrunken skin, eyelids closed and sunken, a plain adult human hand silhouette beside it for scale. Style: documentary photograph, neutral lab light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of the same pup alive: a fluffy grey-brown seven-week-old gray wolf pup with big paws, round belly, dark eyes and small ears, side and front views. Style: painterly realism paleoart, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Reference sheet of an Ice Age gray wolf mother: robust, heavy head, strong jaws, thick grey-brown coat, long legs, side and three-quarter views, an adult human silhouette beside her for scale. Style: painterly realism paleoart, scientifically accurate reconstruction, neutral light, plain background, 16:9, no text.
+
+REFERENCE R4. Location reference: a placer gold mine in a Klondike creek valley in summer: a tall cliff of black-grey frozen muck, a large water cannon on a stand spraying it, mud and gravel, an excavator, spruce hills, overcast. Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text.
+
+REFERENCE R5. Location reference: a thawing permafrost riverbank in Yakutia, Siberia: larch trees, a grey river, exposed frozen soil with roots and bones. Style: documentary photograph, overcast northern summer light, natural grain, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Thumbnail image, cinematic close shot: a small mummified Ice Age wolf pup lying curled on its side on a ledge of pale grey-brown silt, unmistakably a puppy: two small upright ears, short snout, front paws tucked under the chin, thin tail curled along the body, dark brown and grey fur intact, eyelids closed and sunken as if asleep; strong warm rim light on the pup's fur so its outline glows against the pale silt; a miner's gloved hand rests on the silt beside it for scale, only the glove and sleeve in frame; behind, soft white spray of a water cannon against a grey permafrost wall, out of focus; calm darker band across the top of the frame (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S002. A placer miner seen from behind in a hard hat and rain gear aiming a large water cannon at a tall wall of frozen grey-brown mud, a powerful jet of water, mist rising, northern summer hills behind (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S003. Close-up of thawing frozen mud collapsing under the water jet, and a small curled dark shape with fur and two tiny ears appearing in the wet wall (mummified pup from reference R1). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S004. The mummified pup lying alone on dark wet mud, seen from slightly above, small and quiet, the huge permafrost wall towering behind it (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S005. A painted Ice Age riverbank at dusk with a small dark den entrance in a silt bank, no animals in sight, empty and still. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A grey Ice Age wolf standing in a shallow cold river at dawn, head lowered over the water, a salmon flashing silver near its legs (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Two small fluffy cave lion cubs lying in frozen mud on a Siberian riverbank, side by side but faded into different tones as if from different times (Siberian riverbank from reference R5). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S008. A palaeontologist's work table at night: a magnifying lamp, small bones, a fur sample in a dish, field notebooks blurred and unreadable. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S009. Aerial view of the Klondike gold fields in summer: brown creek valleys stripped to gravel, ponds, small machines, green hills of spruce around. Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A frozen wall of black-grey permafrost muck in a mine cut, with mammoth tusk tips, bones and roots sticking out of it (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S011. A row of Ice Age bones laid out on a tarp at a mine: a mammoth molar, a horse jaw, a bison skull with horn cores, rain-wet (placer mine from reference R4). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A narrow creek valley outside Dawson City in July, willows, a muddy creek, a small mining camp with trailers and an excavator, no signs (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S013. A miner in rain gear and gloves at the controls of a water cannon, seen from the side, face hidden by the hood, water arcing into the frozen cliff (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S014. A small dark furry shape sliding down a slope of wet thawed mud at the base of the cliff, like a sleeping dog, the miner's boots in the foreground (mummified pup from reference R1). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S015. Two cupped human hands in work gloves holding the small mummified pup, curled and complete, fur, paws and tail visible (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S016. Extreme close-up of the pup's head: short snout, tiny upright ears, fur on the cheeks, sunken closed eye sockets, soft side light (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S017. A palaeontologist seen from behind in a lab coat examining the pup on a padded tray under a lamp, face out of frame (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S018. Side-view size comparison: the curled pup next to the silhouette of an adult human hand and a coffee mug on a flat light background, no labels (mummified pup from reference R1). Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S019. A tiny Ice Age fly trapped inside a clear block of ice, the common idea of a frozen animal, cold blue light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S020. A close-up cross-section of frozen silt: fine dark grey sediment with ice crystals and thin roots, the edge of fur visible inside it (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S021. Diagram: a cut-away of a hillside with a frozen permafrost layer drawn in pale blue, a tiny curled animal shape deep inside it, sun above that never reaches it, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S022. An old chest freezer in a dim shed with frost on its lid, cold light inside, as a quiet metaphor for permafrost. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S023. Northern river town of Dawson at summer evening, wooden buildings by the wide river, people gathered outdoors around a small table covered with a blanket, faces not visible. Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S024. A Neanderthal family group seen from a distance at the edge of a European forest in the Ice Age, wearing hides, around a small fire, faces not detailed. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S025. A lab bench with a radiocarbon sample vial, a tiny tuft of wolf fur in a dish and a pulled milk tooth under a microscope, blurred screens behind. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S026. Three faint lines on a flat timeline drawing meeting at one point, a small wolf pup silhouette at that point, no labels, no numbers. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A Neanderthal hunter seen from behind on a cold European hillside in the Ice Age, wearing hides, looking over a misty valley, face not visible. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S028. Human footprints pressed in pale gypsum mud next to giant sloth tracks on a white plain, low morning light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S029. View from just inside a den entrance on an Ice Age riverbank at dawn: a pale sky, a cold grassland and a distant river, the world a pup would first see (living pup from reference R2, seen from behind at the entrance). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S030. The curled pup on a dark background with a faint glow, as if seen across a huge distance of time (mummified pup from reference R1). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S031. Map illustration of the northern Pacific in the Ice Age: Siberia and Alaska joined by a wide pale land bridge, ice sheets in white, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S032. Comparison map: the outline of Great Britain laid over the width of the Beringian land bridge, plain shapes, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S033. The mammoth steppe of Ice Age Beringia: endless cold grassland, a herd of woolly mammoths with small ears, wild horses and bison in the distance, pale sky. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S034. Caribou and a cave lion pair crossing a dry grassy plain near a braided river in Ice Age Beringia. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A museum drawer full of Ice Age bones and teeth, numbered tags blurred, dusty light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S036. The mummified pup laid on a museum tray with soft light, fur glowing, a striking contrast to a pile of bare bones nearby (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S037. An X-ray image of the curled pup's skeleton glowing white on black, small bones and milk teeth visible, no labels (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S038. Side-by-side drawing of a young puppy's leg bone with soft growth zones and an adult bone fully hardened, simple shapes, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S039. A scientist's gloved hand pointing at an X-ray on a light box, face out of frame, blurred notes. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S040. A sleeping human baby smiling in a cot, soft morning light, warm and gentle, face simple and generic. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S041. A living seven-week-old grey wolf pup tumbling out of a den entrance in an earth bank, oversized paws, fluffy coat (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S042. The living pup chewing on a stick near the den, tiny milk teeth showing, grassy Ice Age riverbank around (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S043. Low view from inside a den entrance looking out: a slope of earth, a patch of pale sky, the legs of an adult wolf passing by (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S044. The living pup well-fed and round-bellied, sleeping in the mouth of the den in warm light (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A researcher seen from behind examining the mummy's body under a lamp, measuring tape and tools on the tray (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S046. The den entrance in shadow, a small trickle of loose silt falling from its roof, ominous stillness. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A wide Ice Age valley with woolly mammoths, horses and bison grazing far off while, in the foreground, a wolf stands in a river holding a salmon (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S048. A gray wolf on a gravel bar carrying a large silver salmon toward the riverbank, morning mist (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S049. Close-up of a single wolf hair and a tooth fragment on a glass slide under a lab lamp. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S050. A stable isotope lab: a mass spectrometer with tiny sample capsules on a tray, a scientist seen from behind, blurred screens. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S051. Diagram: two simple food paths, grass and a grazing horse on one side, a river and a fish on the other, both flowing toward a small wolf silhouette, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S052. A balance-scale illustration tipping toward a fish symbol and away from a grass symbol, simple shapes, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S053. Chinook salmon swimming upstream in a clear northern river, red-tinged bodies, gravel below, sunlight through the water. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S054. The modern Klondike River winding between forested hills in summer, quiet water. Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S055. Size comparison: a large Chinook salmon laid next to the silhouette of an adult human arm, flat light background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S056. An Ice Age wolf family on a riverbank in summer, adults catching fish in the shallows, the living pup watching from the bank (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S057. A heavy Ice Age Beringian wolf skull on a dark museum shelf, strong jaws and large teeth, dramatic side light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S058. A pack of robust Ice Age wolves trotting through tall dry grass toward a distant herd of horses and bison, no attack shown. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S059. A young woolly mammoth with its mother on the steppe, a few wolves watching from far off, tense but calm. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A modern coastal gray wolf wading in a stream in a rainforest in British Columbia, a salmon in its jaws. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S061. A gray wolf walking along a rocky ocean shoreline at low tide in Alaska, kelp and seabirds. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S062. A grey Ice Age wolf standing in a river at sunset, salmon jumping around its legs (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S063. Split painting: an Ice Age wolf fishing on the left, a modern wolf fishing on the right, the same pose, soft divide. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S064. The mother wolf on the riverbank at dusk, wet fur, a fish at her feet, looking back toward the hills (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A close-up of the mummy's small front paw, fur still intact, soft light (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S066. Inside a dark den, a cut-away view: the living pup curled asleep in the chamber, a crack running across the earth ceiling above (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S067. A wolf den entrance dug into a soft sandy riverbank, a narrow dark opening among roots. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S068. Size comparison: a narrow den opening next to the silhouette of a large bear that cannot fit through it, flat light background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S069. The silt bank sliding down in one smooth mass, dust in the air, the den entrance disappearing, no animals visible. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S070. A cut-away of the collapsed den: the pup's small curled shape sealed in dark silt, perfectly still (mummified pup from reference R1). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S071. Time-lapse style painting of an exposed old bone on open tundra with ravens nearby and grass growing around it. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S072. A bleached Ice Age bone half-buried in grass under bright sun, cracked and weathered. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S073. The sealed pup in the dark earth, frost crystals beginning to form around her as the ground freezes (mummified pup from reference R1). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S074. A long cross-section of layered frozen ground, the tiny curled shape deep within, seasons passing above as bands of light and snow, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S075. A bag of frozen peas at the back of a home freezer covered in frost, cold light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Three simple icons in a row: a snowflake, a dark moon, an empty air bubble crossed out, plain shapes, no labels, no text. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S077. The empty den chamber in a cut-away painting with a single small pup and empty space where siblings would lie (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S078. A wolf mother with several pups at a den in a modern forest, peaceful scene. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S079. Paw prints of adult wolves leading away from a den along a muddy path toward a river. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S080. A dark, quiet permafrost wall at the mine with no other shapes in it, rain falling (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S081. The Bering land bridge from above at dusk with wolf trails crossing it in both directions, faint and painterly. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A DNA double helix drawn as a thin line flowing from a Siberian wolf silhouette across a map to a Yukon wolf silhouette, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S083. A quiet northern town street of old wooden houses, a new family seen from behind carrying boxes into a house where another family once lived, soft evening light, a metaphor for one wolf population replacing another, no signs. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A map drawing with soft arrows moving back and forth between Siberia and Alaska over a pale land bridge, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S085. A modern gray wolf in the Yukon in autumn, standing on a ridge above a spruce valley. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S086. A faded painting of an Ice Age wolf pack slowly dissolving into mist while a new pack appears from the south, quiet and symbolic. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S087. A muddy mine cut on Eureka Creek in June rain, an excavator stopped, workers seen from behind gathered at the base of a frozen wall (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A mummified baby woolly mammoth lying on its side in dark mud, trunk curled, skin and reddish-brown hair intact, small ears. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S089. Close-up of the baby mammoth's trunk with its two finger-like tips, wrinkled skin, wet light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S090. Size comparison: the baby mammoth standing in side view next to a plain kitchen counter and an adult human silhouette, flat light background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S091. Elders seen from behind at a riverside gathering in the Yukon, a blanket laid on the grass, quiet respect, faces not visible. Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S092. Side by side on a dark background: the curled wolf pup mummy and the baby mammoth mummy, both small and young (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S093. A muddy Siberian riverbank with two small wooden stakes in the mud about a city bus length apart, an empty stretch of mud between them (Siberian riverbank from reference R5). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S094. A remote Siberian river valley in Yakutia in summer, low hills, larch trees, a thawing riverbank with exposed frozen soil (Siberian riverbank from reference R5). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S095. Tusk hunters seen from behind with water pumps washing a permafrost bank, mist and mud (Siberian riverbank from reference R5). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A mummified cave lion cub, male, lying curled in mud, fluffy pale fur, small rounded ears, paws tucked (Siberian riverbank from reference R5). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S097. Close-up of a second mummified cave lion cub, female, whiskers and paw fur perfectly preserved, lying on a white tray. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S098. Two cave lion cubs painted side by side in an Ice Age den as littermates would be, soft fur, sleeping, warm light. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S099. A timeline drawn as a long road with two small cub silhouettes standing far apart on it, empty road between them, no labels, no numbers. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S100. A genetics lab: sample tubes, a fume hood, a researcher seen from behind, blurred screens. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A wheat field and an ancient city skyline fading into a long road of time, symbolising the history of farming, no text. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A hunter seen from behind in a Siberian stream valley bending over a small furry shape on the bank (Siberian riverbank from reference R5). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A mummified baby woolly rhinoceros lying on its side, pale strawberry-blond fur, two small horn stubs, on a white tray in a lab. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S104. The Indigirka River in Siberia in summer, a broad grey river and a thawed muddy bank (Siberian riverbank from reference R5). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S105. A mummified two-month-old puppy lying curled, whiskers, eyelashes and nose intact, dark fur, on a white lab cloth. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S106. Close-up of the mummified puppy's face with whiskers and eyelashes, soft lab light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S107. A puzzle illustration: a dog silhouette and a wolf silhouette facing each other with a question-like gap between them, plain shapes, no symbols, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A large family tree of ancient wolf genomes drawn as branching thin lines, a small puppy silhouette resting on one wolf branch, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S109. The curled Siberian puppy mummy fading into shadow, a faint wolf outline above it, quiet and still. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S110. A small village in Yakutia at the edge of a river and taiga in summer, wooden houses, no signs. Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S111. Ivory hunters seen from behind digging into a frozen riverbank with shovels, mammoth tusk fragments on the mud (Siberian riverbank from reference R5). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S112. Two small mummified pups with dark black fur lying side by side on a white lab tray, curled, soft light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S113. A close-up of the dark fur of one of the pups, frost glittering on it. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S114. Mammoth bones scattered on a Siberian dig site, one bone with faint cut-like marks, archaeologists seen from behind. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S115. An Ice Age human camp at dusk: hide tents, a fire, people seen from a distance cutting meat from a mammoth carcass, no blood. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S116. Two dark pups sitting by an Ice Age campfire beside people seen from behind, a hopeful imagined scene, soft painterly glow. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A modern university lab: a researcher seen from behind loading DNA samples into a sequencer, blurred screens. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S118. Close-up of two small canine teeth next to a ruler-like plain bar on a dark tray, no markings. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S119. A gloved hand holding a sample tube with a tiny piece of stomach tissue under bright lab light. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S120. Two dark wolf pup silhouettes standing together beside a wolf silhouette on a family tree branch, plain shapes, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A microscope view of preserved stomach contents: tiny hairs, plant fragments and a scrap of thick skin, no labels. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A woolly rhinoceros cow and her calf on the mammoth steppe, long front horn on the mother, thick reddish-brown coat. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S123. Size comparison: a full-grown woolly rhinoceros in side view next to a pickup truck silhouette and a human silhouette, flat light background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S124. A pack of Ice Age wolves at a distance circling a lone young woolly rhino calf in tall grass at dawn, no contact shown. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S125. Wolf pups at a den mouth on a Siberian bank waiting as an adult wolf returns at dawn, nothing in its mouth shown in detail. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A stack of scientific journals and printouts on a desk, all blurred and unreadable, a desk lamp. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S127. An Ice Age scene of a human camp and a few wolves lying at a respectful distance, early closeness between the species, dusk light. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S128. A balance scale illustration tipped clearly toward a wolf silhouette and away from a dog silhouette, plain shapes, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S129. Three mummies in a row on a dark background: the Yukon wolf pup, the Siberian puppy and the two dark sisters, all small and curled (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S130. A single wolf silhouette standing on a hill at dusk, howling, over a landscape of permafrost cliffs. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S131. The living pup asleep in her den, the earth roof above in a cut-away, warm and safe in the moment before (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S132. A water cannon jet striking a frozen wall, a small curled shape coming into light (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S133. The living pup nursing beside the mother wolf in the den, belly to belly, soft amber light (living pup from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S134. A simple chain drawing: a river with a fish, an arrow to a wolf mother silhouette, an arrow to a small pup silhouette, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S135. Close-up of a few pup hairs under a lab lamp, glowing like threads. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S136. The mother wolf alone at the river at first light, standing in the shallows watching for salmon, mist around her legs (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S137. The mother wolf trotting up the bank toward the den with a fish, the den entrance small in the distance (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S138. The mother wolf stopping on the slope, ears up, facing a fresh scar of fallen silt where the den entrance used to be, no pup visible (mother wolf from reference R3). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S139. The mummified pup's fur in macro under soft light, as if writing were hidden in it (mummified pup from reference R1). Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S140. A vast frozen Klondike cliff in fog with countless dark layers, somewhere inside a hidden story (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A Late Cretaceous forest in Montana at dawn, ferns and conifers, a slim feathered tyrannosaur with closed lips walking along a riverbank. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S142. A museum gallery with a big T. rex skeleton and a smaller slender tyrannosaur skeleton standing apart, visitors seen from behind. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S143. Two plain silhouettes side by side: a large adult T. rex and a smaller slender tyrannosaur with longer arms, flat light background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S144. A famous fossil block lying in a lab with a tyrannosaur skeleton and a horned dinosaur skeleton preserved in the same rock, preparators seen from behind. Style: documentary photograph, museum, lab or field-dig lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S145. A miner seen from behind standing still beside a silent water cannon, looking at a small curled shape on the mud (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S146. The final shot: a tall frozen mine wall in the evening, water trickling down it, and a faint small curled shape just beginning to show in the mud (placer mine from reference R4). Style: documentary photograph, overcast northern summer light, mist and water spray, natural grain, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S146.png, R1.png … R5.png for references), one file per number, no UUID names, no numbers or text drawn inside the images. Check: the mummified pup is always clearly a small curled wolf puppy with ears, snout, paws and fur; woolly mammoths have small ears; tyrannosaurs have lips over their teeth; no blood, no wounds, no fighting, no logos, no recognisable real people.

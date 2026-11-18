@@ -1,0 +1,26 @@
+ПРЕВЬЮ EN — 06 «Жур»
+РАСКЛАДКА: E — Кино-кадр
+
+Ключевая мысль-крючок: золотодобытчик в Юконе размыл мерзлоту и нашёл целого волчонка возрастом около 57 тысяч лет — с шерстью, ушами и лапами. Превью — кино-кадр «человек и находка лицом к лицу»: волчонок крупно, свернулся как спящий щенок, рядом рука горняка в перчатке. Крупная строка WHY ALONE? задаёт второй вопрос ролика (почему она одна в норе). Плашки нет: по перепроверке маленькая плашка YUKON на 168×94 не читается — убрана. Ответ превью не подсказывает: обрушение норы — гл. 5 (≈6:38), где была мать и почему это видно по её шерсти — финал. «Волчонок, золотодобытчик, 57 тысяч лет» — в первые 15 секунд, «почему одна» — вопросом к ≈0:20.
+
+СТИЛЬ ПРЕВЬЮ (раскладка E, первая E на канале; в 05 была F, в 04 — G)
+Кадр во весь экран без чёрной стены, мягкое затемнение по краям. В центре-внизу крупно — волчонок-мумия целиком, свернулся на боку на уступе светлого серо-бурого ила (контраст с тёмной шерстью): два маленьких стоячих уха, короткая морда, передние лапы под подбородком, хвост вдоль тела, тёмно-бурая и серая шерсть. Слева рядом лежит рука горняка в рабочей перчатке — масштаб (волчонок чуть больше двух ладоней). Позади — белая пелена брызг водяной пушки на серой стене мерзлоты. Сильный тёплый контровой свет по шерсти — силуэт щенка «светится» на светлом иле. Верхняя треть кадра спокойная и темнее — под крупную строку. Схема: одна жёлтая строка, без плашки. Кадр превью — сцена S001, появляется в первые 5 секунд.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Cinematic documentary thumbnail, 16:9, full frame, soft dark vignette at the edges. In the lower centre, large and sharp: a small mummified Ice Age wolf pup lying curled on its side on a ledge of pale grey-brown silt, unmistakably a puppy: two small upright ears, short snout, front paws tucked under the chin, thin tail curled along the body, dark brown and grey fur intact, eyelids closed and sunken as if asleep. On the left, a miner's gloved hand rests on the mud beside the pup for scale, only the glove and sleeve in frame. Behind, soft white spray from a water cannon against a grey permafrost cliff, out of focus. Strong warm rim light on the pup's fur so its outline glows against the pale silt, cool grey background. The upper third of the frame is calm and darker for large text. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, очень крупно)
+WHY ALONE?               — жёлтый, сверху по центру
+
+3. ПЛАШКА
+Нет (плашка YUKON убрана после перепроверки: на 168×94 не читалась). Кадр держится на строке и щенке.
+
+4. ПРОМТ ДЛЯ FLOW (с точным текстом)
+Same image as above. In the upper third, one very large bold condensed uppercase line in yellow: WHY ALONE? No other text.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: свернувшийся щенок с ушами и мордой (силуэт «спящего щенка», подсвечен контровым светом на светлом иле), перчатка рядом для масштаба, жёлтое WHY ALONE?.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: This Wolf Pup Slept for 57,000 Years. Then a Gold Miner Woke Her
+Превью не повторяет слов названия (нет WOLF, PUP, SLEPT, YEARS, GOLD, MINER) и не отвечает на его вопрос «как она пролежала так долго»: добавляет второй — почему она одна. Обещание честное: щенок, горняк и возраст — 0:00–0:15; «одна» — 0:20; объяснение (обрушение норы) — ≈6:38, мать и её рацион — финал.
