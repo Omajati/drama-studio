@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 15 «Normas»
+
+Ключевая мысль-крючок: невестка вешает на холодильник семь «правил дома» для свекрови, первое — «стучать перед тем, как войти»; свекровь в тот же вечер вешает рядом свою бумагу, которую невестка никогда не видела. Раскрытие — в первые 3 минуты (договор займа на первый взнос за этот дом и восемь пустых клеток неоплаты, 2:33–2:57).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 66-year-old Southern European woman with short chestnut hair with grey roots, a small gold chain, round face, warm brown eyes, an olive-green cardigan over a striped blouse, holding up a stapled document with a red marker in her other hand, calm, quietly determined, looking straight at the viewer; behind her, softly blurred, a white fridge door with a handwritten list under a small shell-shaped magnet. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+MI NUERA PEGÓ                            — белый
+7 NORMAS PARA MÍ                         — жёлтый
+EN LA NEVERA DE MI HIJO.                 — белый
+YO PEGUÉ AL LADO UNA HOJA                — белый
+QUE ELLA NUNCA HABÍA LEÍDO.              — белый, «NUNCA» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: CLÁUSULA SÉPTIMA
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding up the stapled contract from reference R8 and a red marker, calm and determined, looking at the viewer; blurred white fridge with the handwritten list under a shell-shaped magnet behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: MI NUERA PEGÓ
+line 2 yellow: 7 NORMAS PARA MÍ
+line 3 white: EN LA NEVERA DE MI HIJO.
+line 4 white: YO PEGUÉ AL LADO UNA HOJA
+line 5 white with the word NUNCA in green: QUE ELLA NUNCA HABÍA LEÍDO.
+Below the text, a red rectangle with white bold uppercase text: CLÁUSULA SÉPTIMA
+No other text, no logos. Check accents exactly (PEGÓ, MÍ, PEGUÉ, LADO, HABÍA, LEÍDO, CLÁUSULA, SÉPTIMA).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «7 NORMAS PARA MÍ», бумага в руке и плашка CLÁUSULA SÉPTIMA. Если строки сливаются — убрать строку 3.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Norma número uno: llamar antes de entrar», pegó mi nuera en la nevera. Yo puse otra hoja al lado
+Название даёт обиду цитатой (правило для свекрови в доме сына) и обещание ответа (её бумага). Превью продолжает: правил семь, холодильник — сына, бумагу героини невестка «никогда не читала». Плашка «CLÁUSULA SÉPTIMA» — обрыв: ясно, что это договор, но не ясно какой и что в седьмом пункте.
