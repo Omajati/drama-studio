@@ -1,0 +1,124 @@
+# Провалы (<0.5× медианы) тех же каналов
+0.0	1K	19.7	2026-04-15	mintz	The Final Photos of Animals Right Before They Went Extinct	HEtQ9M58jN8
+0.0	1K	19.9	2026-04-07	mintz	These Ants Are Taking Over the World	7ukHhcflbEQ
+0.0	2K	16.0	2026-05-05	mintz	Why Even Giant Squid Fear Sperm Whales	_KNP7Lfnmr8
+0.0	332	10.8	2026-11-12	DeadlyTier	The 7 Levels of DEADLIEST Mosquitoes! | DeadlyTier	pmknoCO3rog
+0.0	4K	12.3	2026-08-20	mintz	They Let Beavers Take Over a $2 Million Restoration	oljmWW6j0EI
+0.0	946	18.1	2026-07-01	mintz	Why Some Animals Are Impossible To Keep in Captivity	nkOzlEbDi98
+0.1	10K	30.2	2026-07-30	OctoLab	Why The Jungle's Deadliest Predator Is TERRIFIED Of Gaurs	m_QZkrWr7BI
+0.1	10K	31.9	2026-11-17	OctoLab	Why Are Orcas STILL Attacking Boats?	becSDvfPDbE
+0.1	10K	32.0	2026-07-18	OctoLab	Woolly Mammoth Shouldn't Exist, So Why Do They?	EBopR2R_8p0
+0.1	122	16.3	2026-08-18	Mr_Vees_Untamed_Lens	This Owl Raises Its Family Underground and Uses Dung to Hunt	s2OPuZN2XN0
+0.1	12K	33.2	2026-08-01	OctoLab	Why Great White Shark Never Want To Kill Us	w4CFMZrVoYA
+0.1	153	21.4	2026-07-12	American_Predators	9 Most Dangerous Animals in America That Attack Faster Than You Can React	hCHNWW7K-lw
+0.1	157	13.8	2026-10-23	Hayes_Wild	China Eliminated a 25-Gram Bird to Protect Its Crops — Then the Locusts Came	NljnEBB-yoA
+0.1	1K	18.4	2026-11-10	Dark_Creatures	The Only Animals That Make Lions Run Away	Br5owdBI31Q
+0.1	1K	18.5	2026-11-05	Dark_Creatures	Who Is the Smartest Ape That Ever Lived?	RklFOvwrDoU
+0.1	26	20.0	2026-11-14	Invasive_America	They Thought They Caught Piranhas in Michigan. The Truth Was Stranger.	1C20yuUQbpI
+0.1	2K	12.2	2026-10-22	Wildlife_Professor	The Animals That Murder Their Own Families	4qJMNQ-ScQk
+0.1	2K	50.0	2026-07-21	Wildlife_Professor	50 Minutes of the Most DANGEROUS Animals, Explained	eD3Xf-Ziqtk
+0.1	312	24.0	2026-07-24	American_Predators	11 American Animals Ranked by How Likely They Are to Kill You	zj8Uugvc4WA
+0.1	328	21.0	2026-10-27	American_Predators	The Panthers in the Everglades Are Turning Into Something Different And Nobody Knows Why	hv6jfhT7ycg
+0.1	41K	16.9	2026-11-08	Depth_Theory	Why You'd Never Survive In Every Prehistoric Ocean	HCbO5TRzer8
+0.1	51K	16.9	2026-11-17	Depth_Theory	Why You'd Never Want To Meet Livyatan	lQq5bcvZSzE
+0.1	68	22.0	2026-10-27	Animals_Unknown	10 California Animals So Dangerous Experts Won't Go Near Them	u-irkAk_-G4
+0.1	6K	20.0	2026-01-18	mintz	Why Florida Can't Stop 20ft Invasive Pythons	8GzwnyZCgsY
+0.1	8K	33.8	2026-08-05	OctoLab	Why Some Apex Predators Don't Hunt Humans	gURzuGVZk3A
+0.1	9K	16.8	2026-03-06	mintz	The Most Dangerous Bear Species (It’s Not What You Think)	7WX9bdWggFc
+0.1	9K	30.6	2026-10-26	OctoLab	Mega Piranhas Were Terrifying...Here's Why	rMp_oGQfqy0
+0.2	15K	17.7	2026-08-06	mintz	Could Apex Predators Save America From Invasive Species?	l5VBPsTcsoE
+0.2	179	21.0	2026-11-04	Animals_Unknown	10 Texas Insects So Dangerous Experts Won't Touch Them	PZaLSZkQwzg
+0.2	17K	32.4	2026-10-24	OctoLab	Why Killer Whales Share This Human Trait (While Others Don't)	0BNMb9DCxA0
+0.2	17K	32.4	2026-11-06	OctoLab	Why Penguins Choose to Freeze Into Antarctica’s Deadliest Winter	JFO0iNrENHY
+0.2	197	21.9	2026-11-10	Animals_Unknown	Texas Winter Is About to Change Everything for Wildlife — Biologists Are Already Worried	1FcBQhnaWp8
+0.2	1K	21.1	2026-11-17	Agriculture_Flow	Black Bears Have Started Hunting People in the Smoky Mountains — And It's Worse Than Anyone Thought	_df14hn3x94
+0.2	201	22.5	2026-11-14	Animals_Unknown	Scientists Found Something Strange in the DNA of California’s Foxes — And It Shocked Everyone	c6vdlddevBA
+0.2	271	13.9	2026-09-12	Mr_Vees_Untamed_Lens	6 Dangerous Animals That Like To Hide in Shoes	mybUKgW9rwE
+0.2	2K	21.2	2026-11-18	Agriculture_Flow	200 Bowfin Were Released Into Snakehead-Infested Rivers — What Happened Next Was Unreal	XrJsrBcq2QM
+0.2	2K	21.3	2026-11-01	Agriculture_Flow	Florida Released 120 Robotic Rabbits Into Python-Infested Swamps — What Happened Next Is BRUTAL!	2G2FulkMoxs
+0.2	2K	21.3	2026-11-14	Agriculture_Flow	Oregon’s New Predator Isn’t a Black Bear — And It HUNTS Humans	3Q4yO7j5Mj4
+0.2	32K	12.9	2026-03-07	BeyondTheGreen	Spiders: The Animal That Just Doesn't Make Sense	vnUzmd1mNu4
+0.2	3K	15.4	2026-06-30	Wildlife_Professor	The Craziest Animals Facts You NEVER Knew	CSO-7C5izTA
+0.2	3K	18.1	2026-11-03	Dark_Creatures	Why Komodo Dragons Are The Weirdest Apex Predator on Earth	Iy_dTEXXooM
+0.2	40	21.4	2026-11-16	Invasive_America	10 Animals That Were Never Supposed to Be in America — But Now They’re Living Wild	JBpOT5NQfe8
+0.2	408	21.5	2026-09-08	LovingFeral	10 Reasons Why Your Cat Scratches You	mKTz2PrsWOY
+0.2	425	22.8	2026-11-06	American_Predators	Florida’s Feral Cats Are Turning Into the State’s Deadliest Predator — And Scientists Know Why	5i7eIu-SxT0
+0.2	476	25.1	2026-09-18	American_Predators	9 Hybrid Animals That Are Taking Over America And It's Already Too Late to Stop Them	s6jzuLHdYik
+0.2	477	25.1	2026-08-02	American_Predators	Something Extinct Is Still Alive Inside Texas Coyotes — And No One Can Explain How	F2rl668_W_o
+0.2	4K	11.7	2026-03-19	Wildlife_Professor	Every Type of Pet & What They Mean About Their Owners	rBDdI5cphw4
+0.2	4K	19.1	2026-10-03	Wildlife_Professor	How Long You'd Last in Every Prehistoric Era	VFwuq3RBskg
+0.2	505	24.7	2026-09-07	LovingFeral	7 Of The Most Expensive Horse Breeds In The World	DsRQrGT1sZg
+0.2	519	20.9	2026-08-18	LovingFeral	6 Animals That Evolved To Avoid Extinct Predators	pIwcKP9cjuM
+0.2	548	21.6	2026-08-22	LovingFeral	7 Of The Deadliest Wild Animals Found In America	wJOWTZySDIw
+0.2	64	16.4	2026-11-11	Predator_Code	Nothing in the Jaguar is Normal… I'll Explain Why.	yJWFCEY1jx8
+0.2	65	24.9	2026-11-07	Predator_Code	Why You'd Never Want to Meet a Moose	iwcXw2tda-I
+0.2	70	26.6	2026-10-31	Predator_Code	UNREAL CONGO: Why This River Is More Dangerous Than the Amazon	7QB29mESZ8c
+0.2	78	20.6	2026-11-11	Predator_Code	Why Humans Will NEVER Explore the Deep Amazon	HHADimn3Y8Y
+0.2	80	25.6	2026-10-23	Predator_Code	How Close Are We to Reviving the First Mammoth	g714rpqPLys
+0.2	850	22.8	2026-11-16	WildExtinct	Could a T. Rex Dominate Every Prehistoric Era?	0YDgifVz_7c
+0.3	100	26.3	2026-11-05	Predator_Code	Secrets of the Largest River on Earth: What's Really Hiding?	tmeg1p3JjtA
+0.3	120	30.5	2026-10-25	Predator_Code	Orangutans Are Terrifying… Here's Why	ona-m3aQVOE
+0.3	121	24.4	2026-10-28	Predator_Code	Why Does NOBODY Talk About the Predator Humans Drove to Extinction?	Ed_sVwBjPBw
+0.3	196K	11.9	2026-11-05	Depth_Theory	Why The Ocean’s Deadliest Predator Never Hunts You	HvJdBGbMYCY
+0.3	20K	10.1	2026-11-09	DeadlyTier	The 7 Levels of DEADLIEST CENTIPEDES! | DeadlyTier	2d1lwg4S2O8
+0.3	233	20.5	2026-10-29	Animals_Unknown	Scientists Tested the DNA of America’s “Antelope” — What They Found Surprised Everyone	RJ0NivsA400
+0.3	248	20.8	2026-11-06	Animals_Unknown	STUNG by a Bark Scorpion — Arizona’s Most Dangerous Sting	Adb2rdl2wb8
+0.3	26K	30.1	2026-07-16	OctoLab	Why The Harpy Eagle Is the Most Terrifying Predator in the Americas	xVY9dqtbm3o
+0.3	28K	30.9	2026-08-27	OctoLab	Why Keeping Orcas In Captivity Is A CRIME	AxeENpQqlK8
+0.3	2K	20.5	2026-10-31	Agriculture_Flow	Scientists Dropped a Cow Into the Deep Sea — And Discovered Something Nobody Expected	8D40kJx2WBw
+0.3	32K	30.1	2026-10-02	OctoLab	Why Young Orcas Hate Old Ones	zXSG8nvnq_E
+0.3	36K	21.0	2026-08-18	BeyondTheGreen	How We Accidentally Created Dogs	_Pi7WrNd9Wg
+0.3	390	15.5	2026-08-14	Mr_Vees_Untamed_Lens	Every Wild Cat in North America Explained	8IzKH9nwWC4
+0.3	41K	15.0	2026-02-20	BeyondTheGreen	Giant Fungi Ruled Earth Before Dinosaurs	2DBUwOgTgU4
+0.3	42K	16.1	2026-06-14	BeyondTheGreen	Why Do Elephants Always Run Away From Bees?	caSUCJ8ECU4
+0.3	43K	17.5	2026-11-10	BeyondTheGreen	How Vertebrates Ultimately Beat the Giant Insects	2YuQlhPRIqw
+0.3	45K	12.7	2026-02-11	BeyondTheGreen	The Terrifying Age of Giant Insects	osWP87HCYkE
+0.3	48K	20.1	2026-09-27	BeyondTheGreen	Earth's Deadliest Dinosaur from Every Single Period	NMofeSnwBtU
+0.3	4K	17.4	2026-11-17	Dark_Creatures	No Predator Wants to Fight a Honey Badger... Here's Why	beqjdXMAMQw
+0.3	4K	18.9	2026-10-15	Dark_Creatures	Why Elephants Get Creepier the More You Know Them	WhQSph_vQ20
+0.3	5K	11.2	2026-07-17	Wildlife_Professor	Every Carnivorous Plant and Its BRUTAL Traps, Explained	x3zg2Ka6ZCk
+0.3	5K	12.8	2026-04-12	Wildlife_Professor	The Entire Food Chain Explained in 12 Minutes	GTn53uKtte0
+0.3	5K	13.0	2026-06-16	Wildlife_Professor	The Craziest Ocean Animals Ever Recorded	hluj3bNtJy8
+0.3	5K	16.2	2026-10-10	Wildlife_Professor	The Most Advanced Animal Societies on Earth	-59fb8AE3j0
+0.3	5K	17.2	2026-06-22	Wildlife_Professor	The RAREST Animals on The Brink Of Extinction	-H-sIA1aT_o
+0.3	600	16.9	2026-10-21	American_Predators	Scientists Just Found Out What Georgia’s Black Bears Actually Are	TqInBiMc7LU
+0.3	603	22.4	2026-10-31	American_Predators	Wild Javelinas Are Invading Texas Neighborhoods And They Aren’t Hogs at All	URWIGUFr67s
+0.3	617	22.9	2026-10-09	American_Predators	Scientists Tested North Carolina’s Wild Horses — And Their DNA Changed What We Know About Them	zRx1o5LpxUk
+0.3	631	25.0	2026-08-17	American_Predators	7 Predators Hiding in the Northeast That Are Turning Into Something Bigger	iUzs6W5B1LA
+0.3	632	22.5	2026-10-18	American_Predators	The Joro Spider is Spreading Fast in South Carolina — And It’s More Dangerous Than You Think	UEQbdBOd3O8
+0.3	66	15.6	2026-11-11	Invasive_America	Why You'd Never Want To Meet A Silver Carp (It Flies At Your Face)	WhPExsAL4jw
+0.3	695	23.7	2026-07-20	American_Predators	15 Deadliest Animals in the Smoky Mountains	lKosufkT5GI
+0.3	6K	12.2	2026-07-14	Wildlife_Professor	Animals That Hijack Other Animals Minds	LB_kn4UUpgY
+0.3	6K	14.1	2026-05-03	Wildlife_Professor	Animals With Secretly DEPRESSING Lives, Explained	zBkjt-QSgpk
+0.3	6K	15.5	2026-03-14	Wildlife_Professor	The Deadliest Place on Earth, Explained	mOQ65UVpStg
+0.3	6K	17.4	2026-10-30	Wildlife_Professor	Every Predator That HUNTS Humans	F_DXD1VxsOg
+0.3	75	17.6	2026-11-06	Invasive_America	Coyotes Now Live in 49 States. Here’s How They Took Over.	Q0A0nkQj0TY
+0.3	795	23.9	2026-09-06	LovingFeral	10 Deadly Animals People Eat Around The World	6grHMtR6V1M
+0.3	818	21.6	2026-08-24	LovingFeral	5 Cat Breeds That Can't Digest Cat Food	o1wHPNwm-2o
+0.3	821	23.0	2026-09-25	American_Predators	7 Predators Are Multiplying in North Carolina And They're More Dangerous Than You Think	ALsnUe8Q9bE
+0.3	96	25.4	2026-11-10	Predator_Code	Why You'd Never Want to Meet a Saltwater Crocodile	hGlTarxJAKY
+0.4	127	10.8	2026-07-16	Beast_Territory	10 Predators Lurking In The Florida Everglades That Hunt AFTER DARK	xvC4ZMu2vJg
+0.4	152	26.3	2026-11-02	Predator_Code	Why Some Predators See Humans as Prey	UnLzgJQP_gM
+0.4	208	28.6	2026-08-13	Apex_Origin	14 Dangerous Animals Lurking in Alberta's Backwoods Most People Never See	4GGTmVJnaoY
+0.4	224	28.2	2026-09-17	Apex_Origin	7 Predators in Nunavut That Can Track You Across Open Ice	41L7gcQxAUc
+0.4	27K	10.1	2026-09-13	DeadlyTier	The 7 Levels of DEADLIEST OCEAN CREATURES! | DeadlyTier	G9YPddmJN64
+0.4	33K	30.0	2026-09-02	OctoLab	Why an Entire Coastline is TERRIFIED of Two Orcas	Fy4ul8K8CO8
+0.4	39K	32.5	2026-11-11	OctoLab	Why Polar Bears Are Terrified of Walruses	E5D5T4qcp2Y
+0.4	3K	21.1	2026-11-04	Agriculture_Flow	No One Had Ever Killed These Giants in the Great Lakes Until These Assassins Showed Up	-xf-ElZqMCY
+0.4	405	21.2	2026-10-31	Animals_Unknown	9 Fish in Lake Okeechobee That Anglers Are Afraid to Pull Up	5pQN4jYzPWE
+0.4	482	11.1	2026-08-16	Mr_Vees_Untamed_Lens	5 Ways Buffalo Turn Dangerous And Will Hurt You	_EvUIiiRllc
+0.4	495	15.1	2026-10-25	Mr_Vees_Untamed_Lens	The 5 Most Dangerous Animals That Hunt Players in GTA 6!	OtZ5YJRIEqc
+0.4	502	12.5	2026-08-17	Mr_Vees_Untamed_Lens	The 5 Most Painful Insect Stings in Illinois Ranked	7q-GNVIWWlE
+0.4	50K	18.1	2026-10-02	BeyondTheGreen	Why Sloths Were the Weirdest Apex Predators on Earth	riemPAl2dvM
+0.4	53K	15.1	2026-07-09	BeyondTheGreen	Why Sabertooth Tigers Made No Sense	hyuJMecWwBg
+0.4	54K	17.1	2026-11-16	BeyondTheGreen	Why We Can't Truly Explore Deep Siberia	GdzRY7ipjU4
+0.4	60K	12.2	2026-01-21	BeyondTheGreen	Why Were Prehistoric Crocodiles So Much More Terrifying Than Modern Ones?	BjfV1qV748k
+0.4	60K	22.8	2026-10-29	BeyondTheGreen	Nothing About Chimpanzee Strength is Normal... Here's Why	HZBfYizAtKo
+0.4	64K	17.5	2026-08-12	BeyondTheGreen	When Evolution Made the Same Animal 7 Times	d4BntQPz_Ec
+0.4	670	28.9	2026-11-08	Sentinel_Wild	Why Whalers Feared The Sperm Whale More Than The Sea	NRjkELg7Hzg
+0.4	859	24.5	2026-08-15	American_Predators	Alligators in Florida Are Growing Far Bigger Than They Should — And No One Can Explain Why	ns-pnfcQe0s
+0.4	860	24.7	2026-08-16	LovingFeral	13 Exotic Pets That Are Actually Easy To Care For	rZbAKyon8Vw
+0.4	8K	12.1	2026-05-22	Wildlife_Professor	Every Animal That Broke the Rules of Nature	0mLKXSowZU4
+0.4	8K	13.0	2026-04-22	Wildlife_Professor	Animals That Hunt Things Way Bigger Than Them	AgePn_tKDV8
+0.4	942	25.8	2026-09-03	LovingFeral	10 Animals That Are Almost Going Extinct	YcodJnboDsE
+0.4	980	23.8	2026-07-10	American_Predators	11 Most Dangerous Animals Roaming the Appalachian Wilderness That Come Out After Dark	YZEef2m_5_Y
