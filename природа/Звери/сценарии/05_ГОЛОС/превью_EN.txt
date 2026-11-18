@@ -1,0 +1,20 @@
+ПРЕВЬЮ EN — 05 «Голос»
+РАСКЛАДКА: F — Предмет крупно
+
+Ключевая мысль-крючок: двухтонный носорог в панике убегает от водопоя — а напугал его не лев, а обычный человеческий разговор из маленькой коробки на дереве.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic YouTube thumbnail, 16:9. Bright late-afternoon light at a South African waterhole. In the center, huge and sharp, a southern white rhino bull mid-turn, running away from the water toward the viewer's right, dust and water spray flying from its feet, eye wide, ears pinned back. In the middle ground on the left, next to a tree trunk with a small olive-green speaker box strapped on with webbing, a man in a khaki shirt and a bush hat stands talking casually on a phone, mouth open mid-word, clearly visible, about a quarter of the frame height. Warm golden savanna. Top-left corner a dark dusty brown-grey sky, calm and plain for words, bottom-right corner calm dusty ground for a yellow label. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт)
+WHY RUN?          — жёлтый с чёрной обводкой, сверху слева (на тёмном пыльном небе)
+HI.               — чёрный на жёлтой плашке, снизу справа, очень крупно
+
+3. ПЛАШКА
+Жёлтая прямоугольная плашка снизу справа под словом HI., чёрные буквы.
+
+4. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: силуэт бегущего носорога, жёлтые «WHY RUN?» на тёмном небе, жёлтая плашка «HI.» и человек с телефоном слева у дерева (≈четверть высоты кадра) — видно, кто «сказал привет».
+
+5. СВЯЗКА С НАЗВАНИЕМ
+Название: Africa's Animals Fear Your Voice More Than a Lion. Превью не повторяет слов названия: показывает самого «бесстрашного» зверя в бегстве и абсурдный ответ «HI.» — его напугало «привет».

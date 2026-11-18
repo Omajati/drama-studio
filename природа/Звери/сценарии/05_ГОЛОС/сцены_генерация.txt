@@ -1,0 +1,394 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 20-minute English-language wildlife documentary for adults, channel of land animals, titled "Africa's Animals Fear Your Voice More Than a Lion". Story: in the Greater Kruger in South Africa, scientists hid camera-speaker boxes at waterholes and played birdsong, lions snarling and growling, dogs and gunshots, and people calmly talking; giraffes, leopards, hyenas, warthogs, elephants and rhinos ran from the human voices more than from the lions. Earlier experiments: pumas in the Santa Cruz Mountains of California abandoned their kills when they heard people talking on the radio; badgers in Wytham Woods near Oxford stopped feeding when they heard people reading aloud. Why: humans are a "super predator" that kills prime adults and other predators. Mammals worldwide shift into the night near people. Why some animals still hunt people (the Tsavo lions of 1898, Sundarbans tigers, campsite bears), how to use your voice with pumas and bears, and a plan to steer southern white rhinos away from poachers with recorded voices. Ending teaser: Burmese pythons in the Florida Everglades.
+
+Visual style (used for every image): cinematic wildlife documentary photograph, natural light, earthy muted palette with one warm accent (golden hour, firelight, a red recording light). The 1898 Tsavo flashback looks like an archival sepia photograph. Comparisons, maps and diagrams are naturalist engraving-style illustrations on warm parchment with one human silhouette for scale and no labels.
+
+Recurring characters (keep identical across shots):
+RHINO — a big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear.
+SPEAKER BOX — a small olive-green weatherproof box with a round speaker grille and a camera lens, strapped to a tree trunk with webbing.
+PUMA — a lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no signs, no flags. No blood, no wounds, no bodies, no animals fighting or killing in close-up: hunts and kills are shown only before or after, or hidden in shadow and ferns. Animals with true-to-species anatomy, never cartoonish. Researchers, rangers, hikers and villagers are generic people, never recognisable real persons; scientists are seen from behind or in profile. Books, screens, papers and maps are always blurred and unreadable.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet, side and three-quarter views, of a big southern white rhino bull: grey hide with red dust in the skin folds, long front horn and shorter rear horn, square wide lips, a small notch in the left ear, heavy shoulders. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of a small olive-green weatherproof field box, the size of a shoebox, with a round speaker grille and a small camera lens, strapped to a tree trunk with black webbing, a tiny red recording light. Style: cinematic documentary product photograph, neutral light, plain background, 16:9, no text, no logos.
+
+REFERENCE R3. Reference sheet of a lean adult puma: plain tawny coat, pale muzzle and chest, black-tipped ears and tail tip, long heavy tail, amber eyes. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. A wide savanna waterhole at dusk in South Africa, zebras, giraffes and warthogs drinking together, golden light on the water. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Close-up of a male lion's face in the dark grass beside the water, mouth slightly open mid-growl, eyes catching the last light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S003. Zebras and impala lifting their heads from the water at once, frozen and tense, water dripping from their muzzles. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Close-up of the camera-speaker box (R2: small olive-green weatherproof box with a round speaker grille and a camera lens, strapped to a tree trunk with webbing), a tiny red recording light glowing in the dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S005. Two field biologists in khaki, seen from behind, strapping the camera-speaker box (R2: small olive-green weatherproof box with a round speaker grille and a camera lens, strapped to a tree trunk with webbing) to a marula tree beside a waterhole at midday. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A giraffe galloping away from the water in long strides, legs blurred, the tree with the box in the foreground. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Two spotted hyenas loping away from a waterhole at night, looking back over their shoulders. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S008. the rhino (R1: big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear) turning away from the water mid-stride and running, dust rising around its legs. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S009. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) crouched in a dark redwood forest at night, ears turned back toward the sound, a deer carcass shape hidden in ferns behind it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S010. An ancient English oak forest at dusk, a European badger frozen at the mouth of its sett, looking up. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S011. An open hardcover book lying on a moss-covered log in a dim forest, pages blurred and unreadable. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A man in an outdoor jacket talking to a friend at the edge of a bushveld track, seen from behind, a herd of impala in the distance all looking toward him. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S013. Close-up of a kudu's huge ears turned toward the camera, alert, soft dusk light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S014. A lone lioness walking along a dusty road at night in the beam of headlights, eyes glowing. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S015. A wide aerial-feeling shot of the Greater Kruger bushveld at golden hour, a river winding through, herds as specks. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S016. A herd of elephants crossing a dry riverbed at sunset, calm, unhurried. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S017. A woman biologist in her fifties in field clothes, seen in profile, holding a pair of binoculars at the edge of the bush, generic face, not a real person. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S018. A man biologist in his fifties in field clothes checking a camera trap on a tree, seen from behind, not a real person. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S019. A song sparrow perched on a branch, singing, soft morning light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S020. A Canadian university campus in winter, red-brick buildings and snow, a lit laboratory window at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S021. An impala ram standing perfectly still, head up, listening, every muscle tense. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S022. A map-like naturalist illustration of northeastern South Africa, a large protected area shaded in soft green along the Mozambique border, rivers as thin lines, one human silhouette in the corner for scale. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S023. A pride of lions resting under an acacia tree in the heat of the day, flies around their faces. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S024. A dirt track running into endless bushveld under a huge sky, a single research vehicle small in the distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S025. A shrinking muddy waterhole in the dry season, cracked mud around it, animal tracks everywhere. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S026. Close-up of the camera-speaker box (R2: small olive-green weatherproof box with a round speaker grille and a camera lens, strapped to a tree trunk with webbing) on a tree trunk, grass seeds caught in the webbing. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A warthog trotting into range of the box on the tree, tail straight up. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S028. A white-browed robin-chat singing on a branch, the birdsong control, soft light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S029. Two lions in the grass at night snarling at each other, faces close, no contact, teeth showing. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S030. A hunting dog barking in the bush at the edge of a farm, seen at a distance, dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S031. Two women talking calmly by a fence at the edge of a village, seen from far away, relaxed body language. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S032. A giraffe at a waterhole with its front legs splayed to drink, head jerking up toward the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S033. The same giraffe running away through mopane trees, dust behind it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S034. A naturalist illustration of two simple columns of animal silhouettes, one column twice as tall as the other, a human silhouette beside the taller column, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S035. A leopard at the edge of a waterhole at dusk, crouched to drink, ears snapping back. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S036. A family of warthogs bolting away in single file, tails up. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S037. Elephants turning away from a waterhole together, ears spread, dust swirling. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S038. A male lion lying in the grass forty metres from a waterhole, watching zebras drink, the zebras watching him back. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S039. Zebras nervously drinking with their heads half raised, ears forward, tense. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S040. Impala crashing into thick bush in panic, leaves flying, motion blur. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S041. An old bolt-action hunting rifle leaning against a fence post at the edge of the bush, no person, late light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S042. Two farm dogs barking at the edge of a field at dusk, seen from a distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S043. A buffalo herd lifting their heads at a distant sound but staying put, unimpressed. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S044. A single puff of dust far away on a ridge, as if from a distant shot, the savanna quiet and wide. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A group of people walking single file along a bush path, talking, seen from inside the bushes at animal height. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S046. An impala ewe and her fawn standing close together, both staring toward the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A coil of wire snare hanging between two bushes, seen from animal height, dew on the wire, no animal in it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S048. A male lion with a dark mane roaring on a rock at dawn, mouth wide, breath visible in the cold air. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S049. A collage-like naturalist illustration: one sound wave drawn as a wide calm arc travelling across a landscape from a lion silhouette, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S050. Two lionesses at close quarters growling at each other over a waterhole, low and tense, no contact. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S051. A lion drinking at a waterhole at night, ears forward, lit by moonlight. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S052. Animals at the waterhole lifting their heads together at a low growl in the grass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S053. A herd of African buffalo drinking calmly, packed together, mud on their horns. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S054. A pack of African wild dogs resting in the shade, mottled coats, round ears. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S055. A single kudu bull who keeps drinking while the others have left, alone at the water. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S056. A giraffe and a warthog drinking side by side at the same waterhole, absurd difference in height. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S057. A pride of lions sprawled in the grass, utterly relaxed, one lion yawning. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S058. A naturalist illustration of a simple vertical ladder of animal silhouettes, a lion on the second rung and a single human silhouette on the top rung, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S059. A male lion staring into the distance from a termite mound at sunset, alone. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S060. The Santa Cruz Mountains of California at dawn, fog in the redwood valleys, a highway and town lights at the edge. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S061. A young woman researcher in a fleece and a cap kneeling by a GPS collar receiver in a forest, seen from behind, not a real person. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S062. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) walking along a fallen redwood log at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S063. A suburban backyard at night bordering a dark forest, a porch light on, a trail camera on the fence. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S064. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) dragging a fern-covered shape into deep shadow, only the cat clearly visible, no blood, no carcass details. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A small speaker hidden in ferns beside a dark forest clearing, a motion sensor next to it, dew on the plastic. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S066. A Pacific tree frog on a wet leaf at night, throat pouch inflated as it calls. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S067. A vintage-looking radio studio microphone in a dim room, out-of-focus, no people visible. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S068. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) crouched low over a hidden kill in the ferns at night, eyes catching a faint light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S069. Close-up of the puma's face as it freezes, ears pinned back, mid-chew. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S070. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) leaping away into the dark forest, a blurred streak of tawny fur. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S071. An empty fern-covered clearing at dawn, the cat gone, a faint path through wet ferns. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S072. A naturalist illustration comparing a whole deer silhouette and half a deer silhouette, a human silhouette for scale, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S073. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) lying on a mossy rock in daylight, thin, watching. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S074. A black-tailed deer in a forest clearing, alert, the puma a faint shape in the background shadows. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S075. A car radio glowing in a dark car parked at a forest trailhead at night. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Wytham Woods near Oxford, England, an ancient beech and oak forest at dusk, mist low on the ground. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A naturalist illustration of a brown bear and a wolf drawn as faded ghostly outlines over a map of Britain, one human silhouette for scale, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S078. A European badger snuffling through leaf litter at night, its black-and-white striped face lit by infrared. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S079. A small flock of sheep in an English field at dusk, one bleating. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S080. A badger ignoring a speaker on a tree, calmly eating. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S081. A badger frozen mid-step on a forest floor, head raised, looking toward the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A badger diving back into its sett entrance among tree roots, only its rear end and tail visible. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S083. An open paperback novel resting on a fallen beech log in the dark, pages unreadable. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A badger at the sett entrance, peeking out, eating a worm while constantly looking up. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S085. A sepia archival-look photograph of an English countryside scene with two terriers and a man with a shovel by a hedge, period clothing, no recognisable face. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S086. Moss-covered earth mounds of an old badger sett in the woods, dawn light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S087. A badger cub following its mother through bluebells at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A coastal rainforest in British Columbia at dawn, misty fjord, a small university research boat. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S089. A man researcher in a rain jacket looking at a laptop in a cabin, seen from behind, not a real person, screen unreadable. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S090. A wolf pack chasing a limping old elk through snow at a distance, no contact. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S091. A big healthy adult red stag with full antlers standing proud in morning mist. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S092. A naturalist illustration of two prey silhouettes: a small old animal and a large prime adult, a human hunter silhouette pointing toward the large one, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S093. A fishing boat at sea hauling a net full of large adult fish, grey sky, seen from a distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S094. A hunting trophy wall in a dim lodge, mounted horns only, out of focus, sombre mood. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S095. A naturalist illustration of a lion, a wolf and a bear silhouette side by side with a human silhouette towering much larger behind them as a shadow, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S096. A grey wolf watching from a ridge at dusk, wary. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S097. A lone hunter's silhouette standing on a ridge at dawn with a rifle, seen from very far away, tiny in the landscape. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S098. A lioness stalking in grass, very close to a zebra herd, crouched, showing how close she must get. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S099. A tired lioness lying panting in the shade after a chase. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S100. A group of people walking at night with torches on a road, seen from the bush at animal height. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A naturalist illustration of concentric rings of distance around a human silhouette, animals keeping to the outer ring, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S102. Close-up of a kudu bull's eye and spiral horns, head turned toward a sound. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A kudu bull vanishing into dense bush at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A herd of impala grazing at night under a full moon, eyes shining. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S105. A woman researcher in her thirties studying camera-trap printouts in an office at Berkeley, seen from behind, papers blurred, not a real person. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S106. A naturalist illustration of a world map with tiny animal silhouettes scattered across six continents, a moon above, parchment background, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S107. A North American black bear crossing a forest road at night in the glow of a distant streetlight. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S108. Hikers walking a mountain trail in daylight while, unseen to them, a deer watches from deep in the trees. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S109. A coyote trotting through a moonlit meadow at the edge of town. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S110. A white-tailed deer browsing in a suburban garden at night, porch light off, house dark. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S111. A crowded safari vehicle on a dirt road at midday, tourists with long lenses, bush empty around them. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S112. A leopard resting on a marula branch at night, relaxed, eyes half closed. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S113. The same tree in harsh noon light, empty branches. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S114. A quiet person sitting alone in an open safari vehicle at dawn, a herd of zebras close by, calm. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S115. Zebras huddled in darkness, wide eyes reflecting a faint light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A lioness moving through grass at night, eyes glowing, the zebras unaware. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A naturalist illustration of a balance scale with a sun and human silhouette on one side and a moon and lion silhouette on the other, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S118. A lioness teaching cubs at the edge of the bush, the cubs crouched behind her watching a distant road. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S119. A baboon mother and her baby fleeing from the sound of a passing truck on a dirt road. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A young spotted hyena sniffing at a rubbish bin at the edge of a village at night. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A tigress walking alone through tall grass at dusk, looking back. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A naturalist illustration of a mother animal silhouette and a cub silhouette with a dotted line between them, a human silhouette far ahead, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S123. the rhino (R1: big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear) grazing near a dirt road while a vehicle passes slowly, not even lifting its head. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S124. An archival-look sepia photograph of an 1898 railway workers' tent camp in dry thorn scrub at night, a thorn fence and a low fire, period clothing, no recognisable faces. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S125. A big maneless male lion, short sparse ginger ruff, scar on the muzzle, standing outside a thorn fence at night, staring at the tents. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S126. Close-up of a maneless lion yawning, a broken lower canine visible, dusk light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S127. The inside of a dark canvas tent at night, workers asleep on thin mats, still shapes, firelight through the canvas. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S128. Two maneless lions walking side by side through dry scrub at dawn. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S129. A Bengal tiger watching from between mangrove roots at low tide, mud on its legs. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S130. A fisherman bent over in grey mangrove mud collecting crabs, his back to the forest, seen from far away. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S131. A black bear standing on its hind legs at an open cooler on a campsite picnic table at night. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S132. A ranger in uniform fixing a bear-proof food locker at a campsite, seen from behind, not a real person. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S133. A black bear walking calmly past an empty tent at night, the camp lights low. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S134. A hiker on a dry California trail facing a puma on a rock ahead, arms raised high, jacket held open, seen from behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S135. the puma (R3: lean adult puma, plain tawny coat, pale muzzle, black-tipped ears and tail) on a rock, crouched, looking down at the hiker, uncertain. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S136. Close-up of the hiker's face from the side, mouth open, speaking firmly, generic face not a real person. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S137. Two hikers on a forested trail in Montana walking around a blind corner, one calling out with hands cupped around the mouth. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S138. A grizzly bear in a meadow lifting its head toward the trail and turning away into the trees. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S139. A naturalist illustration of a human silhouette standing tall with arms raised next to a crouching puma silhouette, a running human silhouette crossed out faintly beside, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S140. A mother grizzly with two cubs on a riverbank, the mother staring straight at the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A bull elephant with ears spread, mid mock charge on a dusty road, seen from a distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S142. A calm guide in khaki standing still on a walking safari, one hand raised to the group behind him, seen from behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S143. A herd at a waterhole slipping away quietly as human figures appear on the horizon. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S144. A southern white rhino mother and calf grazing in short grass at sunrise, wide lips to the ground. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S145. the rhino (R1: big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear) standing broadside, enormous, a small ranger figure far behind it for scale. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S146. A naturalist illustration of a white rhino silhouette beside a pickup truck silhouette and a human silhouette for scale, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S147. Two rangers in camouflage on a night patrol, seen from behind, torches off, moonlight on the bush. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S148. A naturalist illustration of a reserve seen from above with a curved invisible line of small speaker symbols, rhino silhouettes moving away from a shaded danger zone, parchment background, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S149. Close-up of the camera-speaker box (R2: small olive-green weatherproof box with a round speaker grille and a camera lens, strapped to a tree trunk with webbing) mounted on a fence post at the edge of a reserve at dusk. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S150. the rhino (R1: big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear) stopping, ears swivelling forward toward the speaker on a tree. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S151. the rhino (R1: big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear) turning and walking away from the speaker into the safety of thick bush. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S152. A white rhino female at a dung midden, head raised, ears turned, highly alert. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S153. A white rhino calf pressed against its mother's side, both looking toward a sound. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S154. the rhino (R1: big southern white rhino bull, grey hide with red dust, long front horn, square wide lips, a notch in the left ear) grazing peacefully at dawn in an open valley, no people anywhere. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S155. A naturalist illustration of a tall pyramid of animal silhouettes with a lion near the top and a single human silhouette at the very top, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S156. A large herd of wildebeest crossing a plain, seen from high above. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S157. A naturalist illustration of a wolf, a bear and a lion as three separate small framed engravings on one page, a human silhouette beside them. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S158. Tourists on a raised boardwalk at a game lodge photographing animals, the animals far away and wary. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S159. A herd of impala at a waterhole lifting their heads together toward the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S160. Giraffes walking away from a group of tourists at a respectful distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S161. A brown bear at the edge of a forest at night, keeping to the shadows beyond a lit cabin. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S162. A Greater Kruger landscape from a hilltop at golden hour, rivers and bush to the horizon. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S163. An impala looking at a safari vehicle full of tourists with cameras. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S164. An anti-poaching ranger with a tracking dog on a dirt track at dawn, seen from behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S165. An old female elephant leading a young calf away from a road, the calf copying her steps. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S166. Close-up of a giraffe's face and ear, turned toward the viewer. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S167. A naturalist illustration of a single human silhouette standing in the centre of a wide landscape, many animal silhouettes at the edges all facing it, parchment background. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S168. Close-up of a person's lips mid-word in soft light, no identifiable face. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S169. A lion in the grass at night, unbothered, while all other animals have fled. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S170. The waterhole at late afternoon in the dry season, giraffe spreading its legs wide to drink. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S171. Two warthogs kneeling at the water's edge to drink. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S172. Lion eyes glowing in the grass, a low growl implied by tense poses of the drinkers. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S173. Close-up of the camera-speaker box (R2: small olive-green weatherproof box with a round speaker grille and a camera lens, strapped to a tree trunk with webbing) on the tree, red light on. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S174. The empty waterhole seconds later, dust settling, ripples on the water. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S175. An empty quiet bush trail at dusk, a pair of eyes glinting deep in the bushes beside it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S176. A group of hikers standing silently on a trail, looking around at a forest that has gone still. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S177. A long straight road through the Florida Everglades at dusk, sawgrass on both sides, empty. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S178. A raccoon's face peering from mangrove roots, then the same spot empty. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S179. A huge Burmese python stretched across a boardwalk in the Everglades at night, longer than a small car parked nearby. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S180. A Burmese python's head in the sawgrass, tongue flicking, the lights of Miami far on the horizon. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S180.png, R1.png … R3.png for references), one file per number, no UUID names, no numbers drawn inside the images, no blood, no wounds, no text anywhere.
