@@ -1,0 +1,22 @@
+ПРЕВЬЮ EN — 05 «Ядовитые пауки в доме, лестница»
+РАСКЛАДКА: C — Шапка
+
+Ключевая мысль-крючок: восемь пауков, которые реально живут в домах, — от безобидного до настоящей угрозы; среди них ровно один с бесспорным счётом смертей (сиднейский воронковый паук, 13 смертей до антидота). Зритель ищет глазами «который?». Обещание раскрыто в хуке (0:00–0:45: «which ones can actually hurt you», «a spider so dangerous…») и полностью в 9:45–11:45.
+
+СТИЛЬ ПРЕВЬЮ (раскладка C, сетка-коллекция на белом; в 04 была F; правка после независимой перепроверки)
+Сетка из восьми разных пауков на чистом белом фоне, верхняя треть пустая под слова. Самый опасный (воронковый) — примерно вдвое крупнее остальных, справа внизу, чуть заходит на сетку, рядом монета для масштаба — глаз находит его первым. Чёрная вдова — в верхнем ряду слева, подальше от воронкового, чтобы два чёрных паука не сливались. Бледные пауки — с чётким тёмным контуром и мягкой тенью. Текст одной строкой сверху по центру — красный, крупно; плашка жёлтая с чёрными буквами.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic YouTube thumbnail, 16:9, pure white background, a collection of eight different real house spiders arranged in two neat rows in the lower two-thirds of the frame, each facing the camera, crisp macro detail, every spider rendered with strong contrast, a crisp dark outline and soft shadow so pale spiders stand out on white: top row left to right — a glossy jet-black black widow showing a red hourglass, a pale long-legged cellar spider, a small round brown common house spider, a pale straw-yellow sac spider; bottom row left to right — a large brown hairy giant house spider, a glossy dark-brown false widow with cream markings, a tan brown recluse with a dark violin mark, and in the lower right, about twice the size of the others and slightly overlapping the grid, a glossy blue-black male Sydney funnel-web with fangs raised, a small silver coin beside it for scale. Every spider has exactly eight legs and no antennae, eight eyes in groups, fine leg hairs. Upper third of the frame plain white and empty for text. No text, no letters, no labels, no logos, no watermark.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, одна строка сверху по центру)
+ONE CAN KILL       — красный, крупно, сверху по центру
+
+3. ПЛАШКА
+Жёлтый прямоугольник у правого края верхней трети, чёрные буквы: WHICH?
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: восемь силуэтов пауков двумя рядами, крупный чёрный паук справа внизу (вдвое больше остальных), красная строка ONE CAN KILL, жёлтая плашка WHICH?. Всего четыре слова. Если тесно — плашку убрать, строка остаётся.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: Every Venomous Spider That Could Be in Your House, Ranked. Превью не повторяет ни одного слова названия: название обещает список и дом, превью — ставку («один может убить») и вопрос «который?». Честность: у сиднейского воронкового паука 13 зарегистрированных смертей (последняя — 1980), с антидотом 1981 года смертей нет — ролик говорит об этом прямо. Ответ на «which?» — в 9:45.
