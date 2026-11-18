@@ -1,0 +1,173 @@
+# Выбросы ≥3× медианы своего канала за 60 дней (с 19.09.2026), 22 канала channels_2/, 18.11.2026 (второй проход)
+×мед	просм	мин	дата	канал	название	id
+1178.0	192K	14.5	2026-10-22	Rethink_Wild	Biologists Finally Know What the “Panthers” in Missouri Actually Are	XJTXxsVhy_o
+936.2	138K	10.1	2026-11-02	Planet_exe	Biologists Finally Know What's Hunting Canada Lynx In Maine — And Nobody Expected This	CVUjKTMC_N4
+744.6	271K	24.4	2026-10-07	Predator_Code	Why No Predator Attacks a Silverback Gorilla	F604Y3CT14w
+548.9	564K	16.6	2026-09-28	Poko	Why Do Wild Animals Follow Humans for Miles Without Attacking?	hhskzT5puRw
+401.7	1.0M	14.7	2026-10-25	Untamed_States	Texas Released 8 Cougars Into Land Infested with Feral Hogs — No One Expected These Results	gSJrVG0NdJc
+367.6	136K	25.4	2026-10-13	Wild_Realm	Canada’s Super Pigs Are Crossing Into America — And Hunting Them Only Makes It Worse	eIbngpRqgRU
+275.5	48K	15.7	2026-10-03	Backcountry_Casebook	Biologists Found Out What Some of the Bobcats in Maine Really Are	--4no5sXtzo
+248.3	43K	15.2	2026-10-10	Backcountry_Casebook	Biologists Finally Know What's Hunting Lynx in Maine — And No One Can Believe It	Askrvvua_cQ
+207.0	36K	15.4	2026-10-07	Backcountry_Casebook	Scientists Finally Found What's Hunting Wolves in Washington — And It's Not Other Wolves	pNpoaUT7MvU
+196.6	202K	15.2	2026-09-26	Poko	Why Do Predators Stop the Moment a Human Looks Back?	_gR0kVXlBGQ
+184.9	190K	15.3	2026-09-19	Poko	Why Do Lonely Humans Attract Wild Animals?	rzt3RJUq1Yk
+168.2	498K	10.5	2026-10-03	ANIMAL_LEGENDS	Scientists Finally Found Florida’s GIANT New Predator — And It’s NOT a Python	ZJNvuknOht4
+166.7	180K	21.8	2026-10-08	Range_Shift	Biologists Just Found Out What the Wild Hogs in the Smoky Mountains Actually Are	FESv2yYW8BU
+151.8	164K	16.3	2026-09-27	Range_Shift	Ohio's New Apex Predator Isn't a Coyote — And It Returned After 200 Years	Quliw9Yd4G4
+128.1	47K	22.9	2026-10-08	Predator_Code	Why Congo’s Giant Chimpanzees Are Known as Lion Killers	32hdJ9Kf2FE
+119.3	250K	17.5	2026-10-25	Wild_Files	Biologists Finally Know What's Hunting Saltwater Crocodiles In Australia—And No One Can Explain Why	OQ0BdDh28ps
+116.4	126K	23.5	2026-10-25	Range_Shift	Hunter Shot a "12-Foot" Wild Hog in Georgia — So Scientists Dug It Up	BUzsKgJREBw
+114.9	240K	17.1	2026-10-03	Wild_Files	Biologists Just Found Out What the Bull Sharks in Texas Actually Are	r90XOEiX9KI
+113.9	337K	11.3	2026-10-22	ANIMAL_LEGENDS	Scientists Finally Found What's KILLING Adult Tigers — It's NOT Another Predator!	EKWTsqhJ3HE
+102.8	111K	21.8	2026-11-06	Range_Shift	Arkansas Released 254 Bears Into Land Infested With Feral Hogs — No One Expected These Results	ZqeSv2MXWzI
+92.9	95K	9.4	2026-09-21	Poko	Why Don't Predators Attack Humans While We Sleep?	Kpl7kWw4gOI
+92.0	94K	7.7	2026-10-24	Poko	Why a Charging Bear Stops When You Don’t Run !!!	6FZqedzPelk
+76.3	82K	15.2	2026-10-07	Range_Shift	Biologists Finally Found What's Hunting Black Bears in Michigan — And It Shouldn't Be Possible	hKCTeTKPIM0
+59.6	125K	18.3	2026-10-15	Wild_Files	Biologists Just Found Out What the Alligators in Louisiana Actually Are	mFl6vhMCnF4
+58.7	754K	18.7	2026-10-31	Dark_Creatures	No Predator Wants to Fight a Silverback Gorilla... Here's Why	qiYsX-COMiI
+52.1	56K	21.6	2026-11-01	Range_Shift	A Deer Hunter Shot a 104-Pound "Coyote" in Missouri — So the State Tested Its DNA	lppdm9x2Pxg
+51.8	68K	24.3	2026-11-11	Hayes_Wild	Japan’s New Predator Isn’t a Grizzly — and It Hunts Humans	L-jDueHX4uU
+51.4	200K	17.3	2026-09-25	Dark_Wild_Archives	Biologists Just Found Out What the Coyotes in North Carolina Actually Are	_xQU0M8AKvI
+47.5	141K	15.0	2026-10-04	ANIMAL_LEGENDS	Scientists Finally Discovered the NEW Predator Threatening Florida's Waters — And It's NOT a Python	36otfCkXAKE
+47.4	51K	19.6	2026-11-07	Range_Shift	Colorado Wiped Out Every Feral Hog in the State — Using a Trick No One Expected	06j-6Cb8gUI
+46.3	111K	22.8	2026-10-04	American_Predators	The Joro Spider is Spreading Fast in North Carolina — And It's More Dangerous Than You Think	YGQB-7aRZpU
+44.5	16K	21.1	2026-10-18	Wild_Realm	Armadillos Are Marching North — And They've Already Reached Illinois	kNxG6FAw0iM
+43.9	288K	22.9	2026-10-11	Wilder_America	Biologists Just Found Out What the Wild Burros in Arizona Actually Are	e5bV7eplBgk
+37.8	712K	33.0	2026-10-14	Dr_Edmund_Hale	GEOLOGISTS Put A Sensor On Top Of DEVILS TOWER — What It Recorded Changes What It Is!	8doSfqETpV8
+37.7	14K	23.5	2026-10-20	Wild_Realm	Elk Should Be Gone From Appalachia — Now There Are Thousands	mdqC_z0Rxjs
+37.6	147K	16.9	2026-10-15	Dark_Wild_Archives	Scientists Just Found Out What Smoky Mountains Black Bears Actually Are	dMCOtE8ZGDU
+35.0	73K	18.0	2026-10-10	Wild_Files	Biologists Weighed South Carolina's Record Alligator—Divers Below the Dam Say It Wasn't the Big One	kbgdPDRmIuQ
+34.3	190K	13.0	2026-11-06	Against_Logic	Something Is Driving American Mink Out of Britain’s Rivers — And Scientists Finally Know WHAT	qPI11F6oorU
+33.2	98K	9.5	2026-10-21	ANIMAL_LEGENDS	Scientists Discover a MYSTERY CAT That KILLED an Indian Leopard — NOT a Tiger!	Yiy6aYYXokI
+32.9	69K	17.0	2026-09-29	Wild_Files	The Alligators Below Alabama River Dams Are Turning Into Giants — And No One Knows How Big They Get	KY7yvLMKo_w
+27.2	349K	19.3	2026-11-12	Dark_Creatures	Why Orangutans Get Creepier the More You Know Them	vvfZQXFk38U
+27.1	10K	24.0	2026-10-23	Predator_Code	The Siberian Tiger Is One Of The Most Powerful And Magnificent Creatures On The Planet	jePniza1f48
+25.9	4K	13.9	2026-11-16	Planet_exe	The Wild Pigs in Canada Are Not Who You Think They Are!	a7hJSiOP43U
+25.4	75K	11.0	2026-10-07	ANIMAL_LEGENDS	Scientists Discovered a NEW Predator Threatening Lynx — And It’s NOT a Wolf	qLBjxQANFSg
+24.9	27K	23.1	2026-10-26	Range_Shift	Hunter Shot an 880-Pound Black Bear in North Carolina — And It Never Made the Record Book	xtZE737cKq4
+24.4	95K	17.7	2026-10-05	Dark_Wild_Archives	Scientists Just Found Out What Pennsylvania Bobcats Actually Are	uXnMbyBe5oQ
+23.8	50K	16.3	2026-10-24	Wild_Files	The Bull Sharks Below Alabama River Dams Are Turning Into Giants — And No One Knows How Big They Get	x9YgzRaHJ_U
+23.5	24K	12.8	2026-10-07	Poko	Why Do Wolves Circle Humans But Never Attack?	NKShoXfuyO0
+22.9	368K	22.4	2026-10-07	Wilder_Australia	The Saltwater Crocodiles in Australia Are Turning Into Something Bigger — And Nobody Knows Why	UiUE8AdVeaI
+22.4	361K	22.9	2026-10-12	Wilder_Australia	The Banteng in Australia Are Multiplying Fast — And They Shouldn't Exist	NLdiTnNTU1k
+22.1	145K	26.6	2026-10-05	Wilder_America	Tigers Keep Turning Up Loose in Texas — And There Are More Than Anyone Will Admit	e32xksOFOpY
+21.3	51K	22.1	2026-10-24	American_Predators	Atlanta’s Coyotes Are Turning Into Something Different — And Scientists Know Why	KDuZqUQNLP8
+21.1	63K	12.1	2026-10-15	ANIMAL_LEGENDS	Scientists Finally Revealed a NEW Predator of Adult Rhinos!	_230zch1pyg
+19.8	373K	39.0	2026-11-01	Dr_Edmund_Hale	AUSTRALIA Abandoned 20 Cattle In 1849 — What Scientists Found In Their DNA Is Unsettling!	UsGovgiBGWU
+19.1	602K	19.9	2026-10-29	Wildly_Australia	Australia’s Feral Cats Are Getting Too Big for Dingoes — And Biologists Can’t Explain Why	UBjULPkEM3U
+17.7	6K	24.2	2026-10-22	Predator_Code	9 Predators Zoos Are Frightened to Keep	UQ3MAVH2hBs
+17.1	220K	18.9	2026-10-20	Dark_Creatures	Why You Should Never Raise a Chimpanzee Like a Human	S8j0OzCVhw4
+16.7	92K	11.8	2026-10-31	Against_Logic	15 Most Dangerous Animals in Britain You Never Knew Lived There	bGUr7aApUbQ
+15.5	292K	38.2	2026-10-20	Dr_Edmund_Hale	They Dropped A Cow To The Bottom Of The Sea: And Found What Nobody Knew Lived There...	momqHDpCA3A
+15.2	100K	23.8	2026-10-14	Wilder_America	Biologists Finally Found What's Hunting Coyotes in Pennsylvania — And It Shouldn't Be Possible	H1XHoQWP8AA
+14.2	15K	13.4	2026-10-20	Poko	Why Do Wild Animals Come Closer When You’re Alone?	OlvUbrKDUyQ
+12.9	2K	16.1	2026-10-17	Backcountry_Casebook	Biologists Finally Found What's Hunting Wild Horses in Nevada — And It Shouldn't Be Possible	mZEhBonyuEg
+12.6	83K	27.9	2026-11-11	Wilder_America	New York's Coyotes Are Turning Into Something Different — And Biologists Finally Know Why	0EdFrUkvDKE
+12.5	14K	20.9	2026-11-15	Range_Shift	A Hunter Shot an 84-Pound "Coyote" in Michigan — Then the State Investigated Him	Fw0DSk7oBhE
+12.4	233K	28.7	2026-10-12	Dr_Edmund_Hale	The Roadrunner Can’t Outrun A Rattlesnake Strike — What It Does Instead Is Genius!	e-iORXMg1Qs
+11.9	78K	25.4	2026-10-10	Wilder_America	Scientists Just Found Out What Montana’s Wild Horses Actually Are	PWCNgBv7WuI
+11.9	52K	9.4	2026-09-21	The_Untamed_North	Biologists Just Found Out What the Wolves in Algonquin Park Actually Are	NxcItJzJ_m0
+11.8	2K	9.7	2026-10-30	Planet_exe	The Wild Camel Invasion Hiding in Australia's Outback	XKFVr3uLgOs
+11.6	2K	15.4	2026-10-01	Backcountry_Casebook	Biologists Finally Found What Killed a Black Bear in Arizona — And It Makes No Sense	AXm4-Y1F604
+11.4	10K	20.9	2026-10-19	OddBiology	Why Do We Never Eat Hippo Meat?	CQv5-F7s0Z8
+11.2	48K	9.7	2026-10-05	The_Untamed_North	Ontario's New Apex Predator Isn't a Coyote — And It Returned After 100 Years	pvSBipxN0AI
+11.1	12K	24.5	2026-10-10	Range_Shift	Biologists Just Found Out What the Coyotes in Ohio Actually Are	PzbzmpQV6CY
+11.0	12K	21.3	2026-10-03	Range_Shift	Biologists Tested 15,364 American Deer — And the Results Shouldn't Be Possible	703Gev6JXsU
+10.8	42K	17.7	2026-10-03	Dark_Wild_Archives	Biologist Finally Found What's Hunting Jaguars in Arizona—And No One Can Believe It	0a7nW6XE_Eg
+10.8	204K	32.7	2026-11-06	Dr_Edmund_Hale	AUSTRALIA Finally Found A Way To Wipe Out FERAL PIGS — Using A Trick No One Expected!	wiE6y7ldUGA
+10.5	58K	13.1	2026-10-23	Against_Logic	A Puma Was Captured in the Scottish Highlands — And Then the Mystery Got WORSE	DosSzrJpAqw
+10.1	56K	11.7	2026-10-24	Against_Logic	Biologists Finally Found What’s Hunting Muntjac Fawns in England — And It Shouldn’t Be POSSIBLE	TSDZhsx-e7o
+9.7	38K	17.3	2026-10-25	Dark_Wild_Archives	Wild Fishers Are Invading Ohio And Nobody Knows Where They Came From	OuuzS8V1tOQ
+9.6	10K	12.8	2026-10-03	Poko	Why Do Predators Back Off When a Human Stands Tall?	KlQo1Imt4Cc
+9.4	62K	22.7	2026-10-14	Wilder_America	Cane Toads Are Vanishing Across Australia — And Biologists Finally Know What's Hunting Them	VHooOs4EF04
+9.4	10K	13.6	2026-10-05	Poko	Why Do Wild Animals Approach Humans Who Are Crying?	EXpSZobrdw8
+9.2	40K	10.0	2026-09-28	The_Untamed_North	Biologists Just Found Out What the Super Pigs in Saskatchewan Actually Are	MRItsf_H0p0
+9.1	146K	20.8	2026-11-04	Wilder_Australia	Australia’s Deadliest Bird Is Moving Into Towns — And It’s Not Afraid Of Anyone	JhPMoY71o_c
+8.8	26K	8.5	2026-10-30	ANIMAL_LEGENDS	Scientists Discover a NEW PREDATOR DECAPITATING Florida's Alligators!	JdSaA2gZUKM
+8.5	9K	11.9	2026-10-02	Poko	Why Don’t Predators See Humans as Prey?	qnWCCZc1IvQ
+8.4	108K	24.8	2026-10-01	Dark_Creatures	Why Saltwater Crocodiles Are The Most TERRIFYING Apex Predator	02kp-71RFyE
+8.3	25K	9.4	2026-10-24	ANIMAL_LEGENDS	Scientists Found a RARE Lion in Gabon — Now Gorillas May Be Its Prey!	rS9eHQx__Jo
+8.2	9K	22.4	2026-11-14	Range_Shift	Scientists Tested the Last Wild Texas Longhorn DNA — And Found Something That Shouldn't Be Possible	eU9DgoEhFY4
+8.2	54K	25.2	2026-10-24	Wilder_America	London's Foxes Are Turning Into Something Different — And Biologists Finally Know Why	p1d9eQ_KIm4
+7.9	19K	22.4	2026-10-15	American_Predators	Biologists Just Found Out What Georgia’s Black Panthers Actually Are	prKJf0fSVUU
+7.8	34K	9.0	2026-10-03	The_Untamed_North	Scientists Tested Thousands of Canadian Deer — And Found Something Nobody Expected	BJFTd59LZ6I
+7.7	33K	16.5	2026-10-29	The_Untamed_North	Toronto's Foxes Are Turning Into Something DIFFERENT — And Scientists Know Why	zqbMlBv4anE
+7.6	8K	13.5	2026-10-12	Poko	Why Wild Animals Are Using Humans as Bodyguards ?	c3bojuyp_uU
+7.6	7K	22.1	2026-10-31	OddBiology	Why Do We Never Eat Manatee Meat?	wjgJmuNaAmw
+7.5	141K	33.7	2026-10-22	Dr_Edmund_Hale	Mountain Goats Can Kill Grizzly Bears — But Something Else Kills Far More Of Them	xKGsugUxb6Y
+7.4	1K	16.0	2026-10-13	Backcountry_Casebook	Biologists Found Out What the Black Wolves in Yellowstone Actually Are	sthe3uRXFPg
+7.3	17K	22.3	2026-10-06	American_Predators	Scientists Just Found Out What Texas Bobcats Actually Are	wpGnvtBWN3g
+7.3	137K	36.1	2026-11-11	Dr_Edmund_Hale	A 600 kg Mako Was Cut Open In CALIFORNIA — What Was Inside Explains Everything!	MN_8j-P3rzM
+7.3	118K	20.8	2026-10-30	Wilder_Australia	Something Is Killing Australia’s Deadliest Snakes — Their Venom Can’t Stop It	XAt9b6Muk4A
+7.2	8K	21.5	2026-11-16	Range_Shift	Arkansas's "Extinct" Predator Is NOT Dead — And It's Hunting Hogs	9jsGwN_Vxa4
+7.2	7K	13.6	2026-10-13	Poko	Why Wild Animals Walk Right Up to Calm People ?	2fkTteuCRak
+7.2	31K	9.9	2026-10-04	The_Untamed_North	Scientists Tested Thousands of Canadian Wild Horses — And Their DNA Changed What We Know About Them	lz9yZQcq9io
+7.1	28K	18.0	2026-10-01	Dark_Wild_Archives	Scientists Tested Thousands of American Grizzly Bears — And Found Something Nobody Expected	hSzo5oIFyJc
+7.0	31K	9.1	2026-09-27	The_Untamed_North	Scientists Brought Canada's Dire Wolves Back From Extinction — But Something About Them Isn't Right	RVXRxV6HVAo
+7.0	15K	17.4	2026-10-06	Wild_Files	The Alligators Below Florida River Dams Are a Different Breed — And Divers Knew Before Scientists	ILPdnK3mjFs
+7.0	113K	21.6	2026-10-09	Wilder_Australia	Biologists Just Found Out What Thylacines in Tasmania Actually Are	Pe97HO5Jd30
+6.9	38K	14.2	2026-10-31	Against_Logic	Britain’s Largest Eagles Are Expanding Across the Country — And Nobody Expected THIS	jeScPKB230g
+6.9	110K	21.1	2026-11-02	Wilder_Australia	Giant Brahman Bulls Are Taking Over Australia — And They’re More Dangerous Than You Think	n_aGXekhLEU
+6.8	7K	21.6	2026-11-13	Range_Shift	A Trapper Cut Open a Wild Hog in California and the Meat Was "Neon Blue" — So the State Tested It	icKSIBG2G_Y
+6.5	7K	22.2	2026-11-12	Range_Shift	Michigan's New Predator Isn't a Wolf — And It Hunts Humans	5ol3Nzb6-VY
+6.5	28K	28.5	2026-10-20	The_Untamed_North	Scientists Tested Thousands of Canadian Black Bears — And Found Something Nobody Expected	o84dZz--t5Y
+6.5	123K	27.3	2026-10-30	Dr_Edmund_Hale	SCIENTISTS Sank A Pig To The Ocean Floor — Then The Camera Caught Something Strange!	gVUgKGY_414
+6.2	24K	17.8	2026-10-07	Dark_Wild_Archives	Biologists Just Found Out What the Mountain Lions in North Carolina Actually Are	q_zMmV0lgDg
+6.2	117K	33.4	2026-10-15	Dr_Edmund_Hale	AUSTRALIA Fed Worms Nothing But Styrofoam — What Scientists Found Inside Them Changes Everything!	KERBzD6t4Uc
+6.1	27K	8.5	2026-09-25	The_Untamed_North	The Coyotes in Newfoundland Are Turning Into Something Bigger — And Nobody Knows Why	RJC-yjWuF8c
+6.1	115K	35.6	2026-11-08	Dr_Edmund_Hale	Something Started Drowning Polar Bears In The Arctic — No One Believed It Until They Filmed It!	kWsah6vymK0
+6.0	39K	25.3	2026-10-27	Wilder_America	Biologists Just Found Out What the Javelinas in Arizona Actually Are	UNPozZoTlc0
+6.0	39K	20.6	2026-10-11	Wilder_America	Giant Joro Spiders Are Taking Over North Carolina — And It’s Already Too Late to Stop Them	3WJAiiRm6n4
+6.0	33K	14.5	2026-11-02	Against_Logic	Big Cats Have Been Reported Across Wales for Six Years — And Nobody Can Explain WHY	VVx5T8w63vM
+5.9	2K	20.2	2026-10-24	Wild_Realm	Wild Sheep From Africa Are Taking Over Texas — And Bighorns Are Dying	ltKB9zQ6pJA
+5.9	17K	8.8	2026-10-11	ANIMAL_LEGENDS	Scientists Found a NEW Crocodile Species Hiding in the SEA…	StZ_qZmh-G4
+5.9	111K	44.2	2026-11-12	Dr_Edmund_Hale	FLORIDA Ignored This Predator For 30 Years — Now Scientists Know Why It’s Spreading!	6Qena55CQxE
+5.8	2K	24.1	2026-11-16	Predator_Code	Why Nobody Could Catch This Giant Crocodile	P_NWPhftti8
+5.7	32K	13.0	2026-11-05	Against_Logic	Scientists Tracked Non-Native Snakes in North Wales — And Their Trail Led Somewhere Unexpected	i_nCiFIyyKU
+5.7	31K	13.2	2026-11-10	Against_Logic	Goshawks Are Spreading Across Britain — But Their Comeback Has a Hidden History	oZNl1zvDh4Y
+5.6	5K	17.0	2026-10-23	OddBiology	Why Do We Never Eat Elephant Meat?	bx3k76QtQzw
+5.6	5K	15.2	2026-10-03	OddBiology	Why Don't We Eat Canada Geese?	KKjFkanAXjo
+5.6	37K	24.4	2026-10-17	Wilder_America	Scientists Found an “Extinct” Bison Herd Still Alive in Canada — And It Shouldn’t Be Possible	XZYjih5cDNs
+5.6	2K	25.7	2026-10-17	Wild_Realm	Mountain Lions Are Moving East — And They’re Already Past the Mississippi	uk3DkMVQwn0
+5.4	6K	15.8	2026-09-30	Range_Shift	Florida's New Apex Predator Isn't a Python — And It Started Hunting Them	MHK9YqjNoWo
+5.3	5K	15.8	2026-09-24	Poko	Why Do Predators Pick One Human Out of a Crowd?	qXNTUZaPQd8
+5.2	16K	10.6	2026-10-03	ANIMAL_LEGENDS	Scientists Finally Found the NEW Predator Threatening Florida's Giant Alligators — NOT a Python	g8PY8IyzrL8
+5.1	5K	12.8	2026-10-15	Poko	Why Do Some Animals Trust Us With Their Babies?	Npny1Z8yj0c
+5.0	15K	8.9	2026-10-18	ANIMAL_LEGENDS	Scientists Discover an African Predator That Attacks the WEAKEST SPOT!	CAvIrj9vllE
+4.9	27K	12.2	2026-11-13	Against_Logic	Red Fox Numbers Across Britain Have Fallen Fast — And Something Isn't Right	wAhLpx6PM78
+4.8	21K	9.3	2026-10-07	The_Untamed_North	Wild Fishers Are Returning to Nova Scotia And What They Do Terrify Entire Towns	mm44Vr_TFSY
+4.7	5K	23.5	2026-10-20	Range_Shift	Biologists Finally Found What Is Hunting Grizzlies in Yellowstone — and It Should Be Impossible	ngJ9rPMF510
+4.7	10K	20.5	2026-10-11	Wild_Files	Biologists Just Found Out What the Piranhas in Lake Michigan Actually Are	PMFpKIQQf4g
+4.5	85K	40.6	2026-11-01	Dr_Edmund_Hale	DENMARK Is Digging Tons Of Mud From The Baltic Sea Floor, What They Found Will Change Everything!	e2nx0irVN8k
+4.4	19K	10.7	2026-10-01	The_Untamed_North	Canada's New Predator Isn't a Grizzly — And It Hunts Humans	EhOQqBtDJqI
+4.4	10K	25.2	2026-09-27	American_Predators	Jaguars Keep Being Reported Across Texas — And Officially They've Been Extinct There Since 1948	Gj1LGZEZdT0
+4.3	4K	14.3	2026-10-16	Poko	Why Do Wild Mothers Bring Their Babies Toward Humans ?	XUPi1MXAMPw
+4.2	2K	23.9	2026-10-13	Predator_Code	Why No Predator Attacks an Adult Walrus	1JIWsFpupFA
+4.2	27K	26.6	2026-11-09	Wilder_America	Mountain Lions Keep Turning Up in Alaska — And Biologists Finally Know Why	fWpycCOgq6Y
+4.2	18K	23.1	2026-11-11	The_Untamed_North	Edmonton's Coyotes Are Doing Something Scientists Didn't Expect — And It's Getting Worse	JuwqsAbp8nA
+4.1	23K	12.2	2026-11-14	Against_Logic	Britain's Heaviest Flying Bird Was Brought Back — And Now It's Breeding on Its Own	1wBAhKZok9g
+3.9	4K	15.4	2026-10-27	Range_Shift	Hunter Shot a “1,600-Pound” Grizzly in Alaska — So Alaska Sent Someone to Measure It	4tDDVjZjLMI
+3.9	4K	12.7	2026-10-06	Poko	Why Do Wild Animals Trust Some Humans Instantly?	iKGUCoT11PE
+3.9	25K	25.7	2026-10-19	Wilder_America	Black Bears Are Killing Feral Hogs in the Smoky Mountains — And It Shouldn't Be Possible	Q_0fiZPmtJg
+3.9	25K	22.9	2026-10-10	Wilder_America	Biologists Just Found Out What Florida’s Black Panthers Actually Are	svF3x7HuI2g
+3.9	17K	10.4	2026-10-02	The_Untamed_North	Wild Servals Are Invading Canada And Nobody Knows Where They Came From	7N0QmR3noW4
+3.8	21K	12.5	2026-10-27	Against_Logic	Chinese Water Deer Are Spreading Across England — And They’re More DANGEROUS Than You Think	tSgf3EPCIJc
+3.7	70K	35.6	2026-11-02	Dr_Edmund_Hale	8 TEXAS Cougars Were Released Into Feral Hog Country — No One Expected What Came Next	ISCDiYV57Ug
+3.7	60K	22.2	2026-10-13	Wilder_Australia	Biologists Finally Know What's Hunting Australia's Crocodiles — And No One Can Explain Why	leKBGqhbvNw
+3.7	4K	22.8	2026-10-31	Range_Shift	Missouri Banned Hunters From Shooting Feral Hogs — 10 Years Later, Nobody Expected This	n3ZYtAf0urE
+3.7	48K	20.6	2026-10-22	Dark_Creatures	Why Chimpanzees Wage War Just Like Humans	VPoaSWuteYs
+3.7	16K	10.4	2026-10-06	The_Untamed_North	Scientists Tested Every Bison in Canada — And the Result Doesn't Make Sense	gHlz9wg7wCE
+3.5	66K	35.6	2026-11-12	Dr_Edmund_Hale	Oregon’s New Predator Isn’t A Black Bear — The Lab Found Something Nobody Wanted To Hear	03lK2G8O2e4
+3.5	23K	24.3	2026-10-07	Wilder_America	Bobcats Are Spreading Fast Across Pennsylvania — And They're More Dangerous Than You Think	ettYoi0r86U
+3.5	1K	29.0	2026-10-17	Predator_Code	Why Almost No Predators Attack a Wolverine	azbHdJBNeoc
+3.5	10K	9.5	2026-11-06	ANIMAL_LEGENDS	Scientists FOUND the ONE Predator That Could DEFEAT the Amazon's KING!	MWeOXZj23Sk
+3.4	15K	8.9	2026-10-14	The_Untamed_North	Something Is Wrong With the Wolves in Banff — And No One Can Explain Why	F7GUJJ1CwqI
+3.3	22K	25.8	2026-10-08	Wilder_America	Scientists Finally Discovered the NEW Predator Threatening Florida's Waters — And It's NOT a Python	Lvq78ZUosNc
+3.2	21K	24.4	2026-10-06	Wilder_America	Biologists Finally Found the Black Predator Killing Siberian Tigers — And It Makes No Sense	9yS1NXjkbec
+3.2	1K	31.1	2026-10-18	Predator_Code	Chimpanzees Are Scary... And Here's Why	hoftOq87lYY
+3.1	9K	13.4	2026-10-17	ANIMAL_LEGENDS	Researchers Found 2 NEW Threats That Tore Hunting Dogs Apart!	ugJSxcovb4Q
+3.1	17K	12.8	2026-10-28	Against_Logic	11 Predators Hiding in the Scottish Highlands That Grow Far Bigger Than You Think	2MTjRua798A
+3.1	17K	12.5	2026-11-17	Against_Logic	London’s House Sparrows Were Disappearing — And Blood Tests Revealed a Hidden Burden	-t6sINJRzfw
+3.1	13K	8.5	2026-10-22	The_Untamed_North	Scientists Finally Discovered What's Hunting Wolves in Alberta — And It Makes No Sense	oycOtNxgnt4
+3.0	57K	34.0	2026-10-27	Dr_Edmund_Hale	SCIENTISTS Dropped Alligators Into The Deep Sea — What Took The Third One Is Still A Mystery!	O0SN5bR7kzU
+3.0	49K	23.4	2026-11-08	Wilder_Australia	They Appeared in Australia Out of Nowhere in 1966 — Now, Scientists Are Stunned by What DNA Shows	oDsxuluAQPM
