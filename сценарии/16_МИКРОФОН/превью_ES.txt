@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 16 «Micrófono»
+
+Ключевая мысль-крючок: на проводах на пенсию сын по микрофону объявляет, что уже забронировал матери комнату в доме престарелых, а её квартиру сдаст; мать берёт микрофон и одной фразой ставит его на место. Раскрытие — в первые 3 минуты (половина его дома по документу принадлежит ей, 2:31–2:52).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 66-year-old Southern European woman with a short ash-blonde bob, rimless glasses, pearl earrings and a plum-coloured twin set, holding a microphone close to her chest, calm, quietly determined, a faint dignified smile, looking straight at the viewer; behind her, softly blurred, a school canteen with children's paper garlands and colleagues. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+MI HIJO, POR EL MICRÓFONO,               — белый
+ME MANDÓ A UNA RESIDENCIA                — жёлтый
+DELANTE DE 40 COMPAÑEROS.                — белый, «40» жёлтый
+YO COGÍ EL MICRÓFONO                     — белый
+Y DIJE UNA SOLA FRASE.                   — белый, «UNA SOLA FRASE» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: SE LE CAYÓ EL MICRO
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding a microphone close to her chest, calm and determined, looking at the viewer; blurred school canteen with paper garlands behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: MI HIJO, POR EL MICRÓFONO,
+line 2 yellow: ME MANDÓ A UNA RESIDENCIA
+line 3 white with 40 in yellow: DELANTE DE 40 COMPAÑEROS.
+line 4 white: YO COGÍ EL MICRÓFONO
+line 5 white with UNA SOLA FRASE in green: Y DIJE UNA SOLA FRASE.
+Below the text, a red rectangle with white bold uppercase text: SE LE CAYÓ EL MICRO
+No other text, no logos. Check accents exactly (MICRÓFONO, MANDÓ, COMPAÑEROS, COGÍ, CAYÓ).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «RESIDENCIA», микрофон в руке и плашка. Если строки сливаются — убрать строку 3.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Mamá, ya te hemos reservado habitación», anunció mi hijo en mi jubilación. Luego hablé yo
+Название даёт обиду цитатой и обещание ответа («Luego hablé yo»). Превью добавляет публичность (микрофон, 40 коллег) и интригу «одной фразы». Плашка — реакция обидчика без объяснения: что сказала героиня, не ясно.
