@@ -1,0 +1,24 @@
+top 00 178.1x 383,000 | Why Were Animals Bigger In Prehistoric Times?
+top 01 146.7x 3,300,000 | Extinct Animals That Are RETURNING!
+top 02 136.3x 293,000 | Why Were Dinosaurs So Much Bigger Than Modern Animals?
+top 03 88.3x 3,400,000 | 12 Ancient Monsters That Ruled the Earth
+top 04 85.1x 183,000 | Why are there no aquatic dinosaurs?
+top 05 66.3x 12,000,000 | How Long You’d Last in Every Prehistoric Era
+top 06 61.9x 133,000 | What Ruled the Oceans During the Age of Dinosaurs?
+top 07 46.8x 1,800,000 | 15 Extinct Animals That Might STILL Be Alive Right Now !
+top 08 46.8x 1,800,000 | 42 Extinct Animals That Might Still Be Alive
+top 09 41.4x 931,000 | Scientists Are Bringing the Dodo Back to Life!
+top 10 39.3x 766,000 | 9 Incredibly Well-Preserved Prehistoric Fossil Discoveries! Documentary
+top 11 30.1x 1,700,000 | Every Spinosaurid, explained.
+top 12 28.6x 1,100,000 | 12 Ice Age Giants That Ruled the Earth
+top 13 25.9x 505,000 | ICE AGE: WHEN GIANT ANIMALS RULED THE EARTH
+top 14 24.2x 471,000 | Why Did This 150-Million-Year-Old Fossil Terrify Paleontologists? Documentary
+top 15 22.1x 4,000,000 | Would Orcas Dominate Every Prehistoric Ocean?
+low 00 0.0x 918 | DINOSAUR EXTINCTION: WHAT DOES SCIENCE KNOW ABOUT THE DAY OF THE IMPACT?
+low 01 0.0x 754 | Why Is This 150-Million-Year-Old Fossil So Valuable?
+low 02 0.0x 693 | T-REX: BIGGER, FEATHERED, AND WITH LIPS?  Dinosaur Documentary
+low 03 0.0x 41 | Dinosaurs Had Predators Nobody Expected
+low 04 0.0x 25 | Could a Saber Tooth Beat Every Ice Age Predator?
+low 05 0.0x 15 | The Prehistoric Place You Couldn't Escape
+low 06 0.1x 2,900 | 5 Extinct Animals People Saw ALIVE
+low 07 0.1x 2,100 | Fossils Found With Something Horrifying Inside
