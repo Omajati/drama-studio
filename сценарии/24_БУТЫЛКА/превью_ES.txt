@@ -1,0 +1,34 @@
+ПРЕВЬЮ ES — 24 «Botella»
+РАСКЛАДКА: F — Предмет крупно
+
+Ключевая мысль-крючок: отец лишил внука наследства «за то, что бросил отца», а бабушка в тот же вечер снимает с полки бутылку 1985 года «Para Feli. Cuando haga falta» — под ней спрятан документ на акции винодельни, о которых никто не знал. Раскрытие — в первые 3 минуты (2:30–2:58).
+
+СТИЛЬ ПРЕВЬЮ (раскладка F, отличается от 10–23)
+Предмет-мотив крупно в центре кадра на тёмном фоне, героиня небольшая слева сбоку, в полумраке. Текст двумя группами: вопрос сверху слева, ответ-обрыв снизу справа. Плашка жёлтая с чёрными буквами, внизу по центру. Цветовая схема 2: жёлтый основной + белый + одно красное слово. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9, dark warm background. In the centre, large and sharp, a dusty unlabelled red wine bottle lying on its side in an old wooden wine rack, a small handwritten paper tag on it (writing blurred), warm amber light on the glass. On the left edge, smaller and partly in shadow, a 69-year-old Southern European woman with short dyed copper-brown hair, warm hazel eyes and a beige cardigan, looking at the viewer with quiet determination, one hand resting on the rack. Empty dark space in the top-left corner and in the bottom-right corner for text, and a small empty strip at the bottom centre. No text, no letters, no logos, no wine label.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, две группы)
+A MI NIETO LO DESHEREDARON.              — белый, сверху слева
+¿Y LA BOTELLA?                           — жёлтый, сверху слева
+SU ABUELO LA GUARDÓ                      — жёлтый, снизу справа
+DESDE 1985.                              — белый, снизу справа, «1985» красный
+
+3. ПЛАШКА
+Жёлтый прямоугольник внизу по центру, чёрные буквы: MIRA DEBAJO
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9, dark warm background. Centre: the dusty unlabelled wine bottle from reference R8, large, lying in an old wooden wine rack, amber light. Left edge: the woman from reference R1, smaller, partly in shadow, looking at the viewer, one hand on the rack. Bold condensed uppercase text in two groups:
+top-left, two lines: line 1 white: A MI NIETO LO DESHEREDARON. / line 2 yellow: ¿Y LA BOTELLA?
+bottom-right, right-aligned, two lines: line 3 yellow: SU ABUELO LA GUARDÓ / line 4 white with 1985 in red: DESDE 1985.
+At the bottom centre, a yellow rectangle with black bold uppercase text: MIRA DEBAJO
+No other text, no logos, no wine label. Check accents and signs exactly (DESHEREDARON, ¿ ?, GUARDÓ).
+Файл: превью_ES.png — положить в папку проекта 24_БУТЫЛКА (программа возьмёт готовую картинку как есть; сама она пока рисует только раскладку A).
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: бутылка в центре, «¿Y LA BOTELLA?», «1985» и жёлтая плашка. Если тесно — убрать строку 1.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «A mi hijo Lucas lo desheredo», leyó el notario. Yo tenía algo que su padre nunca supo
+Название — фраза из завещания и тайна бабушки. Превью показывает предмет тайны (бутылка) и время (1985), но не что под ней. Плашка «MIRA DEBAJO» — приказ-обрыв.
