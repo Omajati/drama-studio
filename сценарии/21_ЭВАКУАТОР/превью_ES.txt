@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 21 «Grúa»
+
+Ключевая мысль-крючок: в годовщину смерти мужа председательница посёлка вывозит с участка вдовы его старый эвакуатор и вручает счёт — а на счёте логотип фирмы самой вдовы. Раскрытие — в первые 3 минуты (2:29–2:50).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 70-year-old Southern European woman with a short white bob, gold hoop earrings and a brown wool overcoat, holding an old black bakelite radio microphone, calm, quietly determined, a faint smile, looking straight at the viewer; behind her, softly blurred, a small sky-blue vintage tow truck with a white dove painted on the door beside a lemon tree. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+LA PRESIDENTA SE LLEVÓ                   — белый
+LA GRÚA DE MI MARIDO                     — жёлтый
+DE DENTRO DE MI CASA.                    — белый, «DENTRO» красный
+ME DIO LA FACTURA.                       — белый
+TENÍA MI LOGOTIPO.                       — белый, «MI LOGOTIPO» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: PALOMA, AQUÍ BASE
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R7)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding an old black bakelite microphone, calm and determined, looking at the viewer; the sky-blue tow truck from reference R7 blurred behind her by a lemon tree. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: LA PRESIDENTA SE LLEVÓ
+line 2 yellow: LA GRÚA DE MI MARIDO
+line 3 white with DENTRO in red: DE DENTRO DE MI CASA.
+line 4 white: ME DIO LA FACTURA.
+line 5 white with MI LOGOTIPO in green: TENÍA MI LOGOTIPO.
+Below the text, a red rectangle with white bold uppercase text: PALOMA, AQUÍ BASE
+No other text, no logos. Check accents exactly (LLEVÓ, GRÚA, TENÍA, AQUÍ).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «GRÚA», «MI LOGOTIPO», микрофон и голубой эвакуатор. Если строки сливаются — убрать строку 4.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «La chatarra de su marido ya no afea la urbanización», dijo la presidenta. La grúa era mía
+Название — оскорбление цитатой и ответ «эвакуатор был мой». Превью уточняет: вывезли с её участка, счёт с её логотипом. Плашка «PALOMA, AQUÍ BASE» — загадка-позывной.
