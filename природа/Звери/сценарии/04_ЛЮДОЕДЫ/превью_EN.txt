@@ -1,0 +1,20 @@
+ПРЕВЬЮ EN — 04 «Людоеды»
+РАСКЛАДКА: D — Подвал
+
+Ключевая мысль-крючок: два льва девять месяцев приходили в лагерь строителей железной дороги — каждую ночь, через любой забор, и остановили стройку.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic YouTube thumbnail, 16:9. Night, an unfinished railway line in dry African thorn scrub, a huge maneless male lion standing on the tracks in the beam of a lantern, staring straight at the viewer, amber eyes glowing; small in the lower left, a railway worker in an 1890s shirt and turban holding up the lantern, frozen. Behind the lion, dark canvas tents and a thorn fence lit by a dying fire. Warm lantern light against deep blue darkness. Bottom 30% darker and calm for text, top-right corner clear. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт)
+BACK              — белый, снизу
+EVERY NIGHT       — жёлтый, снизу
+
+3. ПЛАШКА
+Красная лента наискосок в правом верхнем углу, белые буквы: 1898
+
+4. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: глаза льва, фонарь, «EVERY NIGHT», плашка 1898.
+
+5. СВЯЗКА С НАЗВАНИЕМ
+Название: Two Lions Stopped a Railway. One Forest Still Hunts People. Превью не повторяет слов названия: показывает ночь, рельсы и год, слова — угроза «приходили снова каждую ночь».

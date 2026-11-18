@@ -1,0 +1,291 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 20-minute English-language wildlife documentary for adults, channel of land animals, titled "Two Lions Stopped a Railway. One Forest Still Hunts People". Story: in 1898 two maneless male lions raided the tent camps of workers building the Uganda Railway bridge over the Tsavo River in what is now Kenya, stopping construction for about three weeks, until the engineer shot them in December 1898; their skins are now stuffed in a museum in Chicago, and modern science (tooth damage, bone chemistry, hairs stuck in broken teeth) recounts the legend. Second story: the Sundarbans mangrove delta of India and Bangladesh, where Bengal tigers still take fishermen, crab collectors and honey collectors; tides, brackish water, back-to-front face masks, electrified dummies, nylon net fences, the forest goddess Bonbibi.
+
+Visual style (used for every image): cinematic wildlife documentary photograph, natural light, earthy muted palette with one warm accent (firelight, lantern, golden hour). Historical scenes of 1898 look like archival sepia photographs with period clothing. Size comparisons and maps are naturalist engraving-style illustrations on warm parchment with one human silhouette for scale.
+
+Recurring characters (keep identical across shots):
+LION ONE — a big maneless male lion, short sparse ginger ruff instead of a mane, heavy body, a scar on the muzzle, a broken lower canine visible only when the mouth is open.
+LION TWO — a second maneless male lion of the same size, slightly paler coat, no scars.
+TIGER — a large Bengal tiger, bright orange coat with dense black stripes, white chest, mud on the legs from the mangrove flats.
+ENGINEER — a British railway engineer of the 1890s in his thirties, khaki jacket, pith helmet, moustache, rifle; never a recognisable real face.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no signs, no flags. No blood, no wounds, no bodies, no animals fighting or killing in close-up: attacks are shown only before or after (an empty mat, a dropped lantern, pugmarks, a torn tent flap). Animals with true-to-species anatomy, never cartoonish. People are workers of the 1890s and villagers of the Sundarbans shown with dignity, no recognisable real people. Books, ledgers, notes and photographs are always blurred and unreadable.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet, side and three-quarter views, of a big maneless male lion: short sparse ginger ruff instead of a mane, heavy muscular body, tawny coat with red dust, a pale scar across the muzzle, amber eyes. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of a second maneless male lion of the same size: slightly paler sandy coat, almost no ruff, no scars, calm alert expression. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Reference sheet of a large Bengal tiger: bright orange coat, dense black stripes, white chest and face markings, grey mangrove mud on the legs, wet fur on the belly. Style: cinematic wildlife documentary photograph, neutral light, plain background, 16:9, no text.
+
+REFERENCE R4. Character reference of an 1890s British railway engineer in his thirties: khaki jacket, pith helmet, moustache, leather boots, rifle on the shoulder, face generic and not resembling any real person. Style: archival-look sepia photograph, plain background, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Extreme close-up inside a dark canvas tent at night, a worker's hand on a thin straw mat, faint orange firelight through the canvas. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Wide shot of an 1898 railway workers' tent camp in dry African thorn scrub at night, rows of canvas tents, a tall wall of thorn bushes around it, one fire by the gate. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S003. A small campfire burning low by a gap in a thorn fence at night, sparks rising, deep blue darkness beyond. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Inside a crowded tent, several sleeping railway workers in 1890s Indian work clothes and turbans under blankets, seen in dim firelight, peaceful. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S005. Close-up of tent canvas bulging inward slowly from outside, as if something large is leaning on it, firelight casting a huge soft shadow of a big cat's head on the canvas. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S006. The maneless male lion (R1: maneless male lion with a short sparse ginger ruff, heavy body, scar on the muzzle) seen from low in dry grass at night, only its eyes and muzzle lit by distant fire, staring towards the tents. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Dawn over the tent camp, one tent flap open and empty, a dropped lantern lying in the dust, workers gathered at a distance looking at it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S008. Two maneless male lions (R1 and R2: two maneless male lions, one with a scarred muzzle) walking side by side along an unfinished railway embankment at dusk, dry thorn bush around. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S009. A steam locomotive of the 1890s standing at a makeshift station in the African bush, crowds of workers with bundles climbing aboard in a hurry. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A grand nineteenth-century parliamentary chamber with red leather benches and dark wood, an elderly bearded statesman standing to speak, figures blurred, no recognisable face. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S011. A misty mangrove forest at dawn, stilt roots in grey water, a Bengal tiger (R3: large Bengal tiger, bright orange coat with dense black stripes, mud on the legs) half hidden among the roots watching a channel. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A small wooden fishing boat drifting on a brown mangrove channel, a lone fisherman with his back to the forest, the tiger's striped shape barely visible in the roots behind him. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S013. A museum storage drawer opened under cool light, a few small clumps of old hair lying on white tissue next to a large lion skull with a broken canine tooth. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S014. A woven rattan mask of a human face worn on the back of a man's head, seen from behind as he walks into mangroves, the mask's painted eyes looking at the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S015. An old yellowed ledger page and a leather-bound book lying on a desk, handwriting completely blurred and unreadable, a brass oil lamp beside them. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S016. The maneless male lion (R1: maneless male lion with a short sparse ginger ruff, heavy body, scar on the muzzle) lifting its head and looking directly into the camera, close portrait, dry thorn background, warm light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S017. Wide landscape of the Tsavo region, dry scrubland cut by a green river lined with doum palms, red earth, hazy hills. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S018. Indian railway workers in 1890s clothes laying iron rails and wooden sleepers across red earth, a long line of work receding into the scrub. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S019. Map-like naturalist illustration of East Africa from the coast to a large lake, a thin railway line drawn inland across dry country, small human silhouette for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S020. A long camp of canvas tents strung along an unfinished railway embankment, smoke from cook fires, men carrying water pots. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A young British railway engineer of the 1890s (R4: 1890s British railway engineer, khaki jacket, pith helmet, moustache) standing on a riverbank in a pith helmet and khaki, rolled plans under his arm, looking at the river. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S022. Stone piers of an unfinished railway bridge rising from a shallow river, wooden scaffolding, workers on the banks. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S023. Night in the camp, a worker's empty sleeping mat and an overturned water pot by a torn tent flap, footprints of a big cat in the dust beside it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S024. Workers gathered in a tight group at dawn, talking anxiously, one pointing towards the bush. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S025. Two railway workers arguing in a tent by lantern light, one holding a small knife on the table, tension, faces in shadow. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S026. The engineer (R4: 1890s British railway engineer, khaki jacket, pith helmet, moustache) at a camp table by lamplight, writing in a notebook, sceptical expression, rifle leaning against the table. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A tent at night with its door flap torn open, a lantern lying on its side in the dust, the camp silent. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S028. Inside a tent at dawn, a worker sitting up on his mat, staring at the empty mat beside him, frozen. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S029. Night, the maneless male lion (R1: maneless male lion with a short sparse ginger ruff, heavy body, scar on the muzzle) standing just outside a thorn fence, head low, body still, watching a tent lit from within. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S030. Workers at night huddled close around a fire, eyes wide, listening to something in the darkness beyond the fence. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S031. Two lionesses and a maneless male hunting together across open grass at dusk, spreading in a line, true-to-species group behaviour. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S032. Naturalist illustration of a lion pride's teamwork, three lion silhouettes spreading in a fan around a herd, one human silhouette for scale at the edge, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S033. Workers cutting and dragging armfuls of long thorn branches to build a fence, sweat, harsh midday sun. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S034. Close-up of the interwoven thorn fence, long white thorns, a strip of torn cloth caught on them. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A thick circular thorn fence around a cluster of tents seen from a low hill, fires at several points along it at dusk. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S036. Workers beating empty tin cans with sticks and a man firing a rifle into the air at night beside the fence. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S037. The lion (R1: maneless male lion with a short sparse ginger ruff, heavy body, scar on the muzzle) leaping over a thorn fence at night, mid-air, silhouetted against a faint moonlit sky, no prey shown. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S038. Naturalist illustration of a lion clearing a fence taller than a standing human silhouette, side view, scale comparison, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S039. Two maneless lions (R1 and R2: two maneless male lions, one with a scarred muzzle) walking along the railway line at night, moonlight on the rails, moving away from a fortified camp. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S040. The engineer (R4: 1890s British railway engineer, khaki jacket, pith helmet, moustache) sitting up in a thorny tree at night with a rifle across his knees, staring into the dark. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S041. A rough hospital tent with low cots and sick workers under blankets, a lantern hanging from the pole. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S042. Workers carrying cots and bundles to set up a new hospital tent in a different clearing at sunset. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S043. The lion (R2: second maneless male lion, slightly paler coat, no scars) walking towards the distant glow of the new hospital tent through the scrub at night. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S044. A steam train slowing on the line, dozens of workers running across the tracks waving their arms to stop it. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S045. Workers crammed into open train wagons with bundles and pots, the train pulling away from the bush camp. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S046. Workers building a wooden platform on tall poles, a ladder made of branches, rough and improvised. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A large acacia tree at dusk loaded with improvised beds and hammocks in its branches, absurdly many, silhouettes of men climbing up. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S048. A worker lowering logs over a hole dug in the floor of a tent, making a hiding place, lantern light. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S049. The unfinished bridge standing silent, tools abandoned on the stone piers, no one at work. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S050. A grand nineteenth-century parliamentary chamber, rows of gentlemen in dark coats listening, warm gaslight, faces blurred. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S051. The engineer (R4: 1890s British railway engineer, khaki jacket, pith helmet, moustache) and workers building a heavy cage-like trap out of railway sleepers and iron rails, two compartments, in daylight. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S052. Naturalist illustration of the two-room trap, a box of rails and sleepers with a sliding door on one side and a separate barred room for men, human silhouette for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S053. Night, inside the trap's barred compartment, armed men in 1890s clothes crouching with rifles, terrified faces in lantern light. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S054. The lion (R1: maneless male lion with a short sparse ginger ruff, heavy body, scar on the muzzle) walking calmly out through a broken trap door into the night, unhurt, the trap behind it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S055. A flimsy wooden platform on four thin poles in open scrub at night, the engineer (R4: 1890s British railway engineer, khaki jacket, pith helmet, moustache) sitting on it with a rifle, very exposed. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S056. Pitch-black scrub around the platform, only a faint shape of a big cat circling at the edge of the lantern light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S057. The engineer (R4: 1890s British railway engineer, khaki jacket, pith helmet, moustache) on the platform holding his breath, rifle raised, eyes straining into darkness. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S058. A rifle muzzle flash lighting up thorn bushes for an instant at night. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S059. Dawn in the scrub, workers walking cautiously in a line through the bushes, rifles ready. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S060. Naturalist illustration comparing a large maneless lion stretched out nose to tail beside a three-seat sofa and a standing human silhouette, side view, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S061. Eight men carrying a large lion on long poles across their shoulders back to camp, seen from a distance in sepia. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S062. Thick bush at dawn, the second maneless lion (R2: second maneless male lion, slightly paler coat, no scars) looking up through branches, eyes fixed on a tree. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S063. Workers returning to the camp with bundles, smiling, the bridge piers behind them. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S064. A finished iron railway bridge over the Tsavo River with a steam train crossing it, 1899, sepia. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S065. Portrait of a maneless male lion in Tsavo today, short sparse mane, heavy body, red dust on its coat, dry thorn bush. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S066. A modern Tsavo lion resting in shade under thorn bushes at midday, heat haze, red earth. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S067. Naturalist illustration of two male lions side by side, one with a full dark mane and one nearly maneless, the same size, human silhouette for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S068. A maneless male and a lioness walking together, showing how similar they look from a distance. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S069. A dry savanna littered with bleached cattle and buffalo bones under a white sky, plague years, no flesh, quiet and desolate. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S070. An old trade caravan of porters with loads on their heads walking a dusty path through thorn scrub, sepia, distant figures. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S071. Close-up of the lion skull with its broken lower canine and worn, damaged teeth, museum lighting, scientific and clean. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S072. Naturalist illustration of a lion skull from the side, one lower canine snapped, the root area darkened, beside a human hand for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S073. A healthy lion crouched low in tall grass stalking a buffalo herd, the buffalo turning their horns towards it, dust in the air. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S074. A man sleeping on a mat in a tent, peaceful, the canvas wall beside him glowing faintly. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S075. An extreme macro of a tooth surface under a microscope, fine scratches and pits, cool blue lab light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Aerial view of a vast river delta where muddy rivers spread into hundreds of green mangrove islands meeting the sea. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S077. Naturalist map-like illustration of a great delta with braided river channels and forested islands at the edge of a bay, small human silhouette for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S078. Inside the mangrove forest at low tide, stilt roots and pencil-like breathing roots poking out of grey mud. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S079. High tide in the mangroves, water up to the branches, the forest half drowned. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S080. Low tide, a wide channel drained to glistening grey mud, a boat stranded on it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S081. The Bengal tiger (R3: large Bengal tiger, bright orange coat with dense black stripes, mud on the legs) swimming across a wide brown channel, only its head above water, a mangrove island behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A village on the edge of the mangroves, mud houses with thatched roofs, a high mud embankment, a channel beyond. Style: archival-look sepia photograph, 1890s period clothing, realistic anatomy and true-to-species proportions, no recognisable real faces, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S083. Fishermen in narrow wooden boats on a misty channel at dawn, nets in hand, the forest wall close. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A crab collector bent over in grey mud at low tide among mangrove roots, alone, a basket on his back. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S085. Woodcutters loading cut branches into a wooden boat at the forest's edge. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S086. Honey collectors walking in single file into the mangroves carrying smoking torches of leaves, knives and pots. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S087. A wild beehive hanging from a mangrove branch, a honey collector lifting smoke towards it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A row of women in simple saris standing by a river embankment at dusk, looking towards the forest, faces turned away from the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S089. An elderly village woman sitting in a doorway, a framed photo in her lap, its image blurred, the forest across the river. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S090. The tiger (R3: large Bengal tiger, bright orange coat with dense black stripes, mud on the legs) on a muddy bank looking out over a channel, calm and alert. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S091. A tiger scent-marking a mangrove trunk, spraying it, tail raised, true-to-species behaviour. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S092. Tide water washing over the same trunk, the mud smoothed out, no trace left. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S093. Naturalist illustration of a tiger's territory as a shaded patch on a forest island, half of it washed by a wave, human silhouette at the edge for scale, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S094. The tiger (R3: large Bengal tiger, bright orange coat with dense black stripes, mud on the legs) drinking from a brackish channel, tongue lapping the water, mud on its paws. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S095. A tiger resting in mangrove shade with half-closed eyes, restless tail. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A man bent double in the mud pulling a net, his back to the forest, the tiger's face just visible in the roots behind him. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S097. A spotted deer drinking at the edge of a channel, head lowered, the same posture as the man. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S098. Naturalist illustration comparing an upright human silhouette and a crouching human silhouette next to a tiger and a deer, showing the crouching shape is closer to the deer's, no labels. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S099. A man walking into the mangroves wearing a rubber mask of a human face on the back of his head, seen from behind, the painted eyes facing the camera. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S100. Close-up of a pile of simple human-face masks in a forest office, painted eyes, slightly comic. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S101. The tiger (R3: large Bengal tiger, bright orange coat with dense black stripes, mud on the legs) behind a mangrove trunk, staring at a man's back where a mask looks back at it, a tense standoff. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A clay dummy of a man in a worker's lungi and shirt standing in mangrove mud, wires running from it to a car battery under a palm leaf. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A long nylon net fence stretched on bamboo poles along the edge of a mangrove forest, a village across the water. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A small forest-side shrine with clay figures of a goddess and a tiger, flower garlands, oil lamps, the figures stylised and calm. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S105. Fishermen with folded hands praying at the forest shrine at dawn before boarding their boats. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S106. A honey collector with an empty pot leaving the forest at dusk, unharmed, looking back over his shoulder. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S107. A dim museum hall, the two stuffed maneless Tsavo lions standing behind glass, one crouching, one standing, soft spotlight. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A leather-bound book on a desk lit by a lamp, the cover plain, a lion's shadow falling across it from the side. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S109. An office ledger of a railway company, rows of handwritten entries blurred, a pen resting on it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S110. A lion-skin rug on the wooden floor of a 1910s study, a fireplace, a leather armchair, ironic and quiet. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S111. A modern lab, a gloved hand using tweezers to place a tiny sample of lion hair into a vial. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S112. Naturalist illustration of a simple balance: on one side a large pile of small human silhouettes representing a legend, on the other a much smaller pile, a lion silhouette beside it, no labels, no numbers. Style: clean naturalist engraving-style illustration on warm parchment, fine ink lines with soft watercolor wash, single human silhouette for scale, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S113. Zoom into the cavity of the broken lion tooth in the museum skull, a compact clump of old hair visible inside. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S114. A scientist in a clean lab holding up a single hair with tweezers against a light. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S115. A savanna scene in soft light with giraffe, zebra, oryx, waterbuck and wildebeest grazing together, a lion watching from tall grass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A wildebeest standing alone on a dry red plain, looking slightly out of place, thorn bushes behind. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S117. The two maneless lions (R1 and R2: two maneless male lions, one with a scarred muzzle) resting together under a thorn tree, calm, ordinary. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S118. The lion (R1: maneless male lion with a short sparse ginger ruff, heavy body, scar on the muzzle) looking at the camera at dusk, a broken lower canine visible as it yawns. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S119. The tiger (R3: large Bengal tiger, bright orange coat with dense black stripes, mud on the legs) emerging from mangrove roots at low tide, mud on its legs, the tide line on the trunks. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A row of tents behind a low thorn fence at night, workers asleep, seen from outside in the grass, from a predator's height. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A tiger cub following its mother along a muddy bank, the mother glancing back at it. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A lion family resting at a distance from a passing safari vehicle in daylight, ignoring it, keeping away. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S123. Back inside the canvas tent at night, firelight through the canvas, the canvas still and quiet. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S124. The two stuffed Tsavo lions in the bright museum, visitors walking past them, blurred figures, a child with a hand on the glass. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S125. A final shot of the empty tent camp at night under stars, a single fire, a pair of eyes glinting in the grass beyond the fence. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A waterhole in a South African savanna at dusk, giraffes and zebras drinking, a small camouflaged speaker strapped to a tree. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S127. A leopard and a rhino running from a waterhole in the dusk, dust rising, the speaker on the tree in the foreground. Style: cinematic wildlife documentary photograph, natural light, realistic anatomy and true-to-species proportions, earthy muted palette with one warm accent, shallow depth of field, subtle film grain, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S127.png, R1.png … R4.png for references), one file per number, no UUID names, no numbers drawn inside the images, no blood, no wounds, no text anywhere.
