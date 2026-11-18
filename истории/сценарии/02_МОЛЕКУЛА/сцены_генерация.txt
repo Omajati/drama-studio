@@ -1,0 +1,284 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 30-minute Russian-language YouTube documentary for adults, channel «Истории RU», titled "Он понял, как в тебе ЗАПИСАНА жизнь, за 25 лет до разгадки ДНК. Его объявили ЛЖЕУЧЁНЫМ". Story: Soviet biologist Nikolai Koltsov. In December 1927, at a congress in Leningrad, he proposes that heredity is written in one giant molecule — a long thread with genes in a row — which copies itself by building a mirror copy on itself, link by link (the template principle, a quarter of a century before the double helix of 1953). His life: in 1920 he is sentenced to death in a show trial and released the same night; he builds his own Institute of Experimental Biology in a Moscow manor; he refuses to renounce genetics when Lysenko's campaign begins; in 1939 a newspaper letter and an Academy commission remove him as director; in December 1940 he dies in a Leningrad hotel, and his wife dies days later. His idea travels through his student Timofeev-Ressovsky in Berlin to Schrödinger's book and to Watson and Crick. Today: your cells copying the text right now, genetic tests, newborn screening, gene editing — and his honest mistakes (he thought the molecule was protein; he supported eugenics in the 1920s).
+
+Visual style (used for every image): photorealistic cinematic documentary stills of 1900s–1940s Moscow and Leningrad (muted colours, warm lamps, film grain); Western Europe and America 1930s–1950s in the same muted style; surreal glowing images of threads, cells and molecules on a dark background for the inner world of heredity; cool modern documentary photos for the present day.
+
+Recurring characters (keep identical across shots):
+KOLTSOV — at 31–34 (1903–1906) a slim man with thick dark hair, short dark beard and moustache, high collar, dark suit; at 47–57 (1919–1929) a solid man with a high balding forehead, neat short greying beard and moustache, calm attentive grey eyes, dark three-piece suit, white shirt, dark tie; at 65–68 (1937–1940) the same face with a white-grey beard, deeper lines, slightly stooped, dark suit and overcoat.
+MARIA — his wife, a woman of about 55–58, dark-grey hair in a low bun, intelligent kind face, dark wool dress with a white collar, shawl.
+TIMOFEEV — a tall broad-shouldered young man of 25–35, thick unruly dark hair, strong jaw, lively eyes, sweater or tweed jacket.
+LYSENKO — a thin man of about 37–41, short dark hair, gaunt face with sharp cheekbones, intense narrow eyes, plain dark jacket or peasant-style tunic, often with ears of wheat.
+VIEWER — a person in their 30s, casual clothes, seen in profile or from behind, modern apartment or office.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no shop signs, no flags, no political symbols, no license plates, no violence, no blood, no recognisable real people (historical figures are described by period appearance only). Documents, newspapers, journals, notes, chalkboards, gravestones, nameplates, lab reports and phone or laptop screens are always blurred and unreadable. No poison, no pills, no medicine bottles, no depiction of death or suicide — loss is shown only through empty rooms, light and objects. Recurring motifs: the two twisted glowing threads, the copy forming beside the original, the rostrum, the institute corridor, the hotel window.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Character reference sheet, front and three-quarter views, of KOLTSOV in three looks: at 34 — slim, thick dark hair, short dark beard and moustache, high collar, dark suit; at 55 — high balding forehead, neat short greying beard and moustache, calm grey eyes, dark three-piece suit, white shirt, dark tie; at 68 — white-grey beard, deeper lines, slightly stooped, dark overcoat. Style: photorealistic, neutral light, plain grey background, 16:9, no text.
+
+REFERENCE R2. Character reference sheet of MARIA at 56: dark-grey hair in a low bun, intelligent kind face, dark wool dress with a white collar, a knitted shawl. Style: photorealistic, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Character reference sheet of TIMOFEEV at 25 and at 35: tall, broad-shouldered, thick unruly dark hair, strong jaw, lively eyes; a rough sweater, later a tweed jacket. Style: photorealistic, neutral light, plain background, 16:9, no text.
+
+REFERENCE R4. Character reference sheet of LYSENKO at 40: thin, short dark hair, gaunt face with sharp cheekbones, intense narrow eyes, plain dark jacket over a peasant-style shirt. Style: photorealistic, neutral light, plain background, 16:9, no text.
+
+REFERENCE R5. The Institute of Experimental Biology in a classical Moscow manor house: exterior with white columns and snow; interior laboratory with tall windows, brass microscopes, glass milk bottles with fruit flies, dark wooden benches, green-shaded lamps. Style: photorealistic, film grain, 16:9, no text, no signs.
+
+REFERENCE R6. Motif: two thin glowing golden threads twisted around each other like a double helix, floating in deep darkness, small beads of light along each thread like letters in a line. Style: surreal photorealistic macro, dark background, 16:9, no text, no letters.
+
+REFERENCE R7. A large congress hall in 1927 Leningrad: classical columns, tall windows with winter light, wooden rows of seats full of scientists in dark suits, a speaker's rostrum with a lamp and a glass of water. Style: photorealistic, film grain, 16:9, no text, no banners with letters.
+
+REFERENCE R8. A grand Leningrad hotel in winter 1940: exterior facade with tall windows and street lamps in snow; interior room with high ceiling, heavy dark curtains, brass bed, writing desk with a lamp, two old suitcases. Style: photorealistic, film grain, 16:9, no text, no signs.
+
+REFERENCE R9. Character reference sheet of VIEWER: a person in their 30s, short dark hair, casual sweater, seen in three-quarter view and from behind. Style: modern documentary photo, neutral light, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Opening image: the two glowing twisted threads (R6) slowly turning in darkness, soft golden light along the strands. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S002. A modern school classroom: a plastic double helix model on the teacher's desk, students' blurred silhouettes in the background. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S003. Two young scientists in 1953 Cambridge, shirts with rolled sleeves, standing beside a tall metal rod-and-plate model of a double helix in a cluttered laboratory, seen from behind. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S004. KOLTSOV (R1, at 55) in profile in a dim study, lamp light on his high forehead and neat greying beard, thoughtful look. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S005. A dark 1920 courtroom at night: long table covered with cloth, a single hanging lamp, silhouettes of judges, a row of defendants on a bench. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S006. A crumpled 1939 newspaper lying on a dark floor, columns blurred and unreadable, a heavy shadow falling across it. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S007. VIEWER (R9) sitting on a sofa at night, looking at the palm of their own hand, phone face-down beside them. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S008. A small sample tube and a sealed envelope on a kitchen table in morning light, nobody in the frame. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S009. The congress hall in Leningrad, December 1927 (R7): rows of scientists in dark suits, tall windows with winter light, a speaker's rostrum. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S010. KOLTSOV (R1, at 55) at the rostrum, one hand raised, calm voice, the audience listening in silence. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S011. Close-up of a 1920s microscope slide under a lamp, stained chromosomes visible as dark blurred threads in the eyepiece glow. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S012. A single long glowing thread with small beads along it like letters in a line, floating in darkness. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S013. The glowing thread with a second thread forming beside it bead by bead, as if printed from a mould. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S014. The two glowing threads separating and drifting into two round glowing cells. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S015. Close-up of a person's forearm with a small healing scratch, soft daylight. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S016. Macro surreal view inside skin: thousands of tiny glowing cells, each with a faint double thread inside. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S017. A Moscow apartment door at night in February 1920, snow on the landing, men in long coats and caps knocking, seen from behind. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S018. KOLTSOV (R1, at 47) in a dressing gown, standing in his study doorway as men in coats search bookshelves, papers on the floor blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S019. KOLTSOV (R1, at 47) sitting on a narrow prison bunk, hands clasped, looking at a small barred window. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S020. The empty laboratory of his institute in 1920: microscopes under cloth covers, jars, a young assistant standing alone. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S021. The night courtroom (as in S005): the presiding judge reading a paper aloud under the single lamp, defendants standing. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S022. Close-up of the defendants' faces in shadow, KOLTSOV (R1, at 47) among them, eyes steady. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S023. KOLTSOV (R1, at 47) walking out of a prison gate onto a dusty Moscow street at night, coat over his arm. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S024. KOLTSOV (R1, at 47) back at his laboratory bench, removing the cloth from a microscope, morning light. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S025. YOUNG KOLTSOV (R1, at 34) at a desk in 1906, writing by a kerosene lamp, a thin brochure beside him, pages blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S026. The old Moscow University building in winter 1911, professors in fur coats walking out through the gate together. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S027. VIEWER (R9) at a modern office meeting, sitting silent while others talk, lips pressed together. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S028. KOLTSOV (R1, at 55) standing straight in a corridor, looking directly ahead, a stern calm face. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S029. The institute mansion on Vorontsovo Pole (R5), a classical Moscow manor house with columns in snow, lamplight in the windows. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S030. YOUNG KOLTSOV (R1, at 31) in 1903 at a marine station by the sea, looking through a microscope, jars with small crustaceans. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S031. Surreal inner view of a cell: a delicate glowing scaffold of thin elastic fibres holding its shape. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S032. Inside the institute (R5): a long laboratory with brass microscopes, glass jars with fruit flies, young researchers bending over benches. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S033. Macro of glass milk bottles with tiny fruit flies on a wooden rack, warm lamp light. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S034. KOLTSOV (R1, at 50) at the head of a table with young students arguing and gesturing, cups of tea, smoke in the air. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S035. TIMOFEEV (R3, at 25) shaking KOLTSOV's hand at a Moscow railway station in 1925, a suitcase at his feet. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S036. A bearded man in his 40s, round glasses, peering at a jar of flies in the institute laboratory (Chetverikov, period appearance only). Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S037. An empty desk in the institute in 1929, a coat still on the chair, papers neatly stacked and blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S038. A family photograph album open on a table: blurred photos of grandparents, parents and a child with the same face shape. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S039. A glowing thread with beads in a fixed order, like a map, small markers glowing along it. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S040. KOLTSOV (R1, at 55) at a blackboard covered in blurred chalk diagrams, holding chalk, deep in thought. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S041. The glowing original thread with a mirror-image thread assembling beside it, link by link. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S042. Callback: the two twisted glowing threads (R6) side by side, like a textbook picture brought to life. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S043. A jacket zipper being unzipped in close-up, the two sides parting. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S044. A DNA molecule unzipping into two strands, each strand gathering new glowing pieces to become a full double strand. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S045. One bead in a glowing thread flickering red among golden ones, a single wrong letter. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S046. Close-up of a freckled face in sunlight, a person smiling. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S047. Two people at a dinner table, one wincing at a bite of broccoli while the other eats happily. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S048. KOLTSOV (R1, at 60) writing at his desk late at night, a pile of manuscripts, lamp light, a cautious frown. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S049. A glass flask of white fibrous substance on a 1930s laboratory shelf, ignored and dusty, in soft light. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S050. LYSENKO (R4) standing in a wheat field in the 1930s, holding up ears of grain, a crowd of farmers around him. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S051. A 1930s newspaper photo wall: many blurred front pages with a portrait of a thin man in a field, nothing readable. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S052. The Kremlin congress hall in 1935: farmers in their best clothes in rows, a speaker at a red-draped rostrum seen from far away. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S053. LYSENKO (R4) at the rostrum, applause from a full hall, a figure in a light tunic clapping in the presidium, faces indistinct. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S054. A 1936 meeting hall of the agricultural academy: scientists in rows, a tense atmosphere, one man at the rostrum reading from a paper. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S055. A geneticist at the rostrum, head bowed, reading a confession from a paper, the hall silent. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S056. KOLTSOV (R1, at 65) rising from his seat in the hall, upright, white-grey beard, calm but firm face. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S057. KOLTSOV (R1, at 65) speaking at the rostrum, the audience frozen, some looking away. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S058. KOLTSOV (R1, at 65) walking home along a snowy boulevard at night alone, under street lamps. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S059. A hand holding the January 1939 issue of a large newspaper, columns blurred, a letter framed in the middle. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S060. Two elderly academics signing a typed letter at a desk, fountain pens, faces in shadow. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S061. KOLTSOV (R1, at 66) reading the newspaper at breakfast, his wife MARIA (R2) watching him across the table. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S062. A long table of the Academy presidium in March 1939: men in dark suits, green cloth, water carafes, documents blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S063. Commission members walking into the institute (R5) in winter coats, LYSENKO (R4) among them, staff watching from doors. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S064. Commission members leafing through old journals and folders in the institute library, papers blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S065. KOLTSOV (R1, at 66) sitting across the table from the commission, hands folded, silent. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S066. A brass nameplate being unscrewed from a heavy office door, the plate blurred and unreadable. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S067. KOLTSOV (R1, at 66) walking down the institute corridor carrying a box of books, young staff stepping aside. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S068. VIEWER (R9) standing in a modern office doorway, seeing a stranger sitting at their former desk. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S069. A small cramped laboratory room with one microscope and a window, KOLTSOV (R1, at 66) at work again. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S070. A dusty country road in western Ukraine in August 1940, a black car stopped by a field, men in hats beside it. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S071. VAVILOV (period appearance: 52-year-old man with dark moustache, wide-brimmed hat, field jacket) standing by a field of grain, looking back. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S072. KOLTSOV (R1, at 68) at home at night, sitting by the door in a chair, listening, a clock on the wall without visible numbers. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S073. KOLTSOV (R1, at 68) and MARIA (R2) on a night train compartment in November 1940, quiet, holding hands. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S074. The grand Leningrad hotel facade in 1940 winter (R8 exterior), snow, street lamps, a tram passing. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S075. The hotel room (R8): high ceiling, heavy curtains, two suitcases by the bed, a dim lamp. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S076. A hotel restaurant in 1940: white tablecloths, chandeliers, a plate of food and a glass of water, empty chairs. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S077. KOLTSOV (R1, at 68) lying in bed in the hotel room, pale, MARIA (R2) sitting beside him holding his hand. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S078. The hotel window at dawn on 2 December 1940, frost patterns on the glass, grey light. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S079. A folded handwritten note lying on a hotel desk under a lamp, words blurred and unreadable. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S080. Vvedenskoye cemetery in Moscow in winter, bare trees, a single dark stone with two blurred names, snow on it. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S081. Two thin threads lying side by side in the snow on the stone, catching the light — a quiet image of two lives. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S082. TIMOFEEV (R3, at 35) in a Berlin laboratory in 1935, working at an X-ray apparatus with two colleagues. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S083. A thin pamphlet with a green cover on a wooden desk, title blurred, beside an X-ray tube. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S084. A young bespectacled physicist (period appearance) and TIMOFEEV (R3) arguing at a blackboard with blurred formulas. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S085. A lecture hall in Dublin in 1943: a physicist with round glasses and a bow tie speaking to a crowded audience. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S086. A small book lying on a student's bed in 1940s America, a young lanky man reading it intently. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S087. A crystal with a complex non-repeating pattern glowing in darkness. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S088. A New York laboratory in 1944: an older scientist in a white coat holding a test tube with a white thread-like substance. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S089. A printed science journal page from 1953 with a simple double helix drawing, all text blurred. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S090. The two young scientists (as in S003) leaning over their metal double helix model, one pointing at the pairing in the middle. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S091. The two twisted glowing threads (R6) splitting and copying themselves into two identical pairs. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S092. A modern genetics laboratory: sequencing machines with blinking lights, a scientist in gloves loading samples. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S093. Surreal: an endless library of identical thick volumes stretching into darkness, glowing softly. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S094. Two adult twins in their 50s sitting on a park bench, same posture, different clothes, laughing at the same moment. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S095. A family dinner: an old woman pointing at a child and smiling, other relatives at the table. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S096. A maternity ward: a nurse gently taking a drop of blood from a newborn's heel onto a card. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S097. A doctor discussing results with a patient in a calm clinic office, a monitor turned away. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S098. The sample tube and envelope (as in S008) on the kitchen table, a hand sealing the envelope. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S099. VIEWER (R9) reading a long report on a laptop at night, worried face lit by the screen. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S100. VIEWER (R9) jogging in a park in the morning, looking determined. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S101. A 1920s Moscow meeting room: KOLTSOV (R1, at 49) giving a talk to a small audience in dark suits, a chart on an easel blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S102. A row of 1920s scientific journals on a shelf, spines blurred, dust in a sunbeam. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S103. A chicken farm in the 1920s with rows of hens, a farmer holding one up for inspection. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S104. A dark empty hospital corridor in 1930s Europe, cold light, a closed door at the end — a sense of dread without people. Style: photorealistic cinematic documentary still, Western Europe and America 1930s–1950s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S105. The commission's hands pulling old journals from a library shelf (as in the commission scene), dust rising. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S106. A modern laboratory: a scientist pipetting into a tiny dish under a microscope, a screen showing a magnified cell. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S107. Two empty baby cribs side by side in soft light, a thoughtful mood. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S108. Surreal: tiny glowing scissors cutting one bead out of a glowing strand. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S109. VIEWER (R9) looking out of a window, thoughtful, holding a cup of tea. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S110. Callback: the two twisted glowing threads (R6) in darkness, one bright, the other forming beside it. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S111. 1948 meeting hall: a young man with a black eye patch standing up in the audience to argue, others turning to look. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S112. A middle-aged scientist with glasses in the 1960s standing in a modern institute hall beside an old portrait in a frame, faces of the portrait blurred. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S113. A modern Moscow institute building on a sunny day, students walking in. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S114. A collage-like still: the Leningrad rostrum, the night courtroom lamp, the newspaper, the hotel window — four small lit spaces in darkness. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S115. Macro: a human cell dividing, two glowing threads parting and each building a new partner. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S116. VIEWER (R9) looking at their own hand in daylight, the scratch almost healed. Style: modern documentary photo, cool natural daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S117. KOLTSOV (R1, at 65) standing at the rostrum, looking straight ahead, grey beard, a calm unbending face. Style: photorealistic cinematic documentary still, Soviet era 1900s–1940s, muted colours with warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S118. Final image: the two twisted glowing threads (R6) slowly rising into a bright light. Style: surreal photorealistic science image, glowing strands on a deep dark background, cinematic, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … last scene, R1.png … for references), one file per number, no UUID names, no numbers drawn inside the images.

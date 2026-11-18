@@ -1,0 +1,32 @@
+ПРЕВЬЮ RU — 02 «Молекула»
+РАСКЛАДКА: F — Предмет крупно
+
+Ключевая мысль-крючок: обычная катушка ниток, а нитка с неё закручивается в светящуюся двойную спираль. Вопрос про зрителя — «Кто записал тебя?» — и плашка-обрыв про судьбу: институт у него отняли. Раскрытие: «одна книга, переписанная триллионы раз» — 2:42; «отняли институт» — сказано в хуке (0:20) и показано на 14:15.
+
+СТИЛЬ КАНАЛА (раскладка F, первая на канале; в 01 была A)
+Тёмный фон, в центре крупно абсурдный предмет: старая деревянная катушка, нить с которой поднимается вверх и сама закручивается в золотую двойную спираль. Герой справа, по пояс, занимает правую треть кадра (крупнее, чем обычно в F: лицо должно читаться на маленьком размере). Цветовая схема: белый + жёлтый, плашка жёлтая с чёрными буквами.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic cinematic YouTube thumbnail, 16:9, dark almost black background with warm film grain. In the centre, large: an old wooden sewing spool standing on a dark wooden table; a single thread rises from it and, in mid-air, twists into a glowing golden double helix of two threads with small beads of light along them, the glow lighting the table. On the right third of the frame, waist-up and clearly visible: a 55-year-old man from 1920s Moscow in three-quarter profile, high balding forehead, neat short greying beard and moustache, calm grey eyes, dark three-piece suit and tie, looking up at the glowing helix. Empty dark space in the upper left for text and at the bottom centre for a label. No text, no letters, no numbers, no logos.
+
+2. ТЕКСТ (капс, жирный узкий рубленый шрифт, одна группа строк сверху слева)
+КТО ЗАПИСАЛ, сверху слева                — белый
+ТЕБЯ?, сверху слева                      — жёлтый, крупнее
+
+3. ПЛАШКА
+Жёлтый прямоугольник внизу по центру, чёрные буквы: А ИНСТИТУТ ОТНЯЛИ
+
+4. ПРОМТ THUMB_RU ДЛЯ FLOW (с точным текстом; подключить R1 и R6)
+Photorealistic cinematic YouTube thumbnail, 16:9, dark background: in the centre a large old wooden sewing spool whose thread rises and twists into the glowing golden double helix from reference R6; on the right third, waist-up and clearly visible, the man from reference R1 at 55 in three-quarter profile looking up at it. Bold condensed uppercase text:
+upper left, line 1 white: КТО ЗАПИСАЛ
+upper left, line 2 yellow, larger: ТЕБЯ?
+Bottom centre, a yellow rectangle with black bold uppercase text: А ИНСТИТУТ ОТНЯЛИ
+No other text, no logos. Check the letters exactly.
+Файл: THUMB_RU.png — запасной вариант; с версии 214 программа сама рисует раскладку F.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до 168×94. Должны читаться: «ТЕБЯ?», светящаяся спираль над катушкой, лицо героя и жёлтая плашка. Если не читается — убрать «КТО ЗАПИСАЛ» и оставить «ТЕБЯ?» одним словом сверху.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: Он понял, как в тебе ЗАПИСАНА жизнь, за 25 лет до разгадки ДНК. Его объявили ЛЖЕУЧЁНЫМ
+Название — открытие и обещание про зрителя. Превью не повторяет ни «записана жизнь», ни дату: оно превращает обещание в странный предмет (нитка с катушки сама становится двойной спиралью) и задаёт вопрос зрителю. Плашка добавляет то, чего в названии нет: у него отняли институт. Всё правда: снятие с поста директора — весна 1939 года.
