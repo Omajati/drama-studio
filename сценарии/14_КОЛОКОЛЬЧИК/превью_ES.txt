@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 14 «Campanilla»
+
+Ключевая мысль-крючок: управляющий банком говорит героине, что её счёт ему невыгоден, а отделение стоит в бывшей лавке её отца, которую она сдаёт этому банку. На счёте осталось 112 €, хотя в январе было 38 000 €. Раскрытие главного обещания (кто хозяйка помещения) — в первые 3 минуты (2:36–2:53); куда делись деньги — новая линия сразу после.
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL». Суммы на превью цифрами — так читаются на 168×94.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 71-year-old Southern European woman with short silver hair in soft waves, pearl stud earrings, reading glasses on a chain, navy cardigan over a white blouse with a small brooch, holding a small brass shop bell by its worn leather strap at chest height, calm, quietly determined, a faint dignified smile, looking straight at the viewer; behind her, softly blurred, the glass door of a small bank branch with warm light. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+EN MI CUENTA QUEDABAN                    — белый
+112 €.                                   — жёлтый
+EN ENERO HABÍA 38.000 €.                 — белый, «38.000 €» жёлтый
+EL DIRECTOR SE RIÓ.                      — белый
+NO SABÍA QUIÉN LOS SACÓ.                 — белый, «QUIÉN» красный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: ¿Y LA CAMPANILLA?
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding the small brass shop bell from reference R8 by its leather strap at chest height, calm and determined, looking at the viewer; blurred glass door of a small bank branch behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: EN MI CUENTA QUEDABAN
+line 2 yellow: 112 €.
+line 3 white with 38.000 € in yellow: EN ENERO HABÍA 38.000 €.
+line 4 white: EL DIRECTOR SE RIÓ.
+line 5 white with the word QUIÉN in red: NO SABÍA QUIÉN LOS SACÓ.
+Below the text, a red rectangle with white bold uppercase text: ¿Y LA CAMPANILLA?
+No other text, no logos. Check accents and signs exactly (HABÍA, RIÓ, SABÍA, QUIÉN, SACÓ, ¿ ?, €).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «112 €», «38.000 €», колокольчик в руке и плашка. Если строки сливаются — убрать строку 4.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Con lo que usted tiene, señora, no nos compensa», dijo el director. No sabía de quién era el local
+Название даёт обиду цитатой и обещание («не знал, чей это зал»). Превью не повторяет его, а открывает второй вопрос: на счёте 112 € вместо 38 000 €, и кто их снял. Плашка «¿Y LA CAMPANILLA?» — обрыв: при чём тут колокольчик, не ясно, пока не посмотришь первые три минуты.
