@@ -1,0 +1,166 @@
+# Сводка по поднишам (18.11.2026). Окно: ролики с 20.08.2026. Подниша — по словам в названии (регулярки в конце). ≥5× — ролик набрал в 5+ раз больше медианы своего канала.
+
+===== es: роликов 979, медиана × 1.00, ≥5×: 128 у 27 каналов; каналов всего 33
+подниша	n	доля	мед×	≥5×	каналов≥5×	доля≥5×
+животное-ключ	49	5%	1.00	6	3	12%
+деревня/ранчо	104	11%	1.10	15	9	14%
+дед-рассказчик/герой	58	6%	1.10	7	6	12%
+дом престарелых	10	1%	2.30	3	2	30%
+праздник	35	4%	1.20	5	4	14%
+внуки	25	3%	0.90	8	5	32%
+служанка/прислуга	20	2%	1.55	3	3	15%
+миллионер/тайно богатая	67	7%	1.00	9	7	13%
+поздняя любовь/вдовец	35	4%	1.00	5	4	14%
+вернулся через годы	62	6%	0.80	10	8	16%
+находка/клад/билет	40	4%	1.20	7	3	18%
+мораль/рефлексия	4	0%	1.50	0	0	0%
+свекровь (сюжет)	33	3%	1.10	7	4	21%
+невестка/зять (обидчик)	98	10%	1.00	15	9	15%
+
+===== ru: роликов 536, медиана × 1.00, ≥5×: 56 у 9 каналов; каналов всего 13
+подниша	n	доля	мед×	≥5×	каналов≥5×	доля≥5×
+животное-ключ	8	1%	2.80	2	2	25%
+деревня/ранчо	27	5%	1.80	6	3	22%
+дед-рассказчик/герой	27	5%	1.00	1	1	4%
+праздник	14	3%	0.90	1	1	7%
+внуки	16	3%	0.70	0	0	0%
+служанка/прислуга	7	1%	1.10	0	0	0%
+миллионер/тайно богатая	64	12%	0.70	8	3	12%
+поздняя любовь/вдовец	19	4%	0.90	6	5	32%
+вернулся через годы	54	10%	0.80	4	4	7%
+находка/клад/билет	26	5%	1.00	5	4	19%
+мораль/рефлексия	1	0%	0.90	0	0	0%
+свекровь (сюжет)	125	23%	1.00	15	5	12%
+невестка/зять (обидчик)	29	5%	0.90	2	2	7%
+
+===== en: роликов 248, медиана × 1.00, ≥5×: 38 у 7 каналов; каналов всего 8
+подниша	n	доля	мед×	≥5×	каналов≥5×	доля≥5×
+животное-ключ	1	0%	0.80	0	0	0%
+деревня/ранчо	8	3%	2.05	1	1	12%
+дед-рассказчик/герой	39	16%	1.30	7	3	18%
+дом престарелых	2	1%	3.90	1	1	50%
+праздник	39	16%	0.80	6	4	15%
+внуки	8	3%	0.45	1	1	12%
+служанка/прислуга	5	2%	0.80	0	0	0%
+миллионер/тайно богатая	4	2%	1.00	1	1	25%
+свекровь (сюжет)	4	2%	1.40	0	0	0%
+невестка/зять (обидчик)	30	12%	0.90	7	3	23%
+
+===== de: роликов 388, медиана × 1.00, ≥5×: 30 у 5 каналов; каналов всего 8
+подниша	n	доля	мед×	≥5×	каналов≥5×	доля≥5×
+деревня/ранчо	8	2%	1.65	3	3	38%
+дед-рассказчик/герой	7	2%	2.10	1	1	14%
+праздник	31	8%	1.00	2	2	6%
+внуки	14	4%	1.10	2	2	14%
+служанка/прислуга	3	1%	1.10	0	0	0%
+миллионер/тайно богатая	7	2%	2.50	0	0	0%
+поздняя любовь/вдовец	1	0%	0.80	0	0	0%
+вернулся через годы	1	0%	0.80	0	0	0%
+находка/клад/билет	3	1%	1.90	0	0	0%
+мораль/рефлексия	1	0%	14.30	1	1	100%
+свекровь (сюжет)	11	3%	1.00	0	0	0%
+невестка/зять (обидчик)	122	31%	1.00	13	5	11%
+
+# Регулярки
+животное-ключ : \b(perr[oa]s?|perrito|gat[ao]s?|gallin|gallo|burr[oa]|mula|caball|yegua|vacas?|chiva|cabra|guajolote|loro|cuervo|paloma|abejas|cerd[oa]|puerco|oveja|borreg|toro)\b|собак|\bпс[аеу]\b|\bпёс|кошк|\bкот[аеу]?\b|коров|\bкоз[аыу]|лошад|петух|куриц|ворон|попуга|\b(dog|cat|horse|cow|goat|parrot|chicken|rooster|mule|donkey)s?\b|\b(Hund|Katze|Pferd|Kuh|Ziege|Papagei|Huhn|Esel)
+деревня/ранчо : rancho|hacienda|\bcampo\b|pueblo|sierra|granja|establo|corral|finca|oliv|agave|cosecha|milpa|cortijo|ranchero|деревн|\bдач|\bсел[оау]\b|хлев|ферм|изб[аеуы]|\b(farm|ranch|barn|cabin)|Bauernhof|\bHof\b|Dorf|Farm|Hütte
+дед-рассказчик/герой : abuelo|viejito|anciano\b|\bel viejo|padre solo|\bотц|\bотец|\bдед|старик|\bпап[аы]?\b|\b(grandpa|dad|father|old man)\b|\b(Opa|Vater|Großvater)\b|Vaters
+дом престарелых : asilo|residencia|geriátric|престарел|пансионат|интернат|nursing home|retirement home|assisted living|Pflegeheim|Altersheim|Seniorenheim
+праздник : navidad|nochebuena|año nuevo|d[ií]a de (las )?madres|d[ií]a de muertos|cumpleaños|reyes|acción de gracias|нов(ый|ым) год|рождеств|юбиле|день рождени|\b(christmas|thanksgiving|birthday|mother.?s day|new year)|Weihnacht|Heiligabend|Geburtstag|Silvester|Muttertag|Ostern|Gänseessen
+внуки : niet[oa]s?|внук|внучк|grand(son|daughter|kid|child)|Enkel
+служанка/прислуга : empleada|sirvienta|criada|muchacha|limpiadora|mucama|прислуг|домработниц|уборщиц|служанк|\bmaid\b|housekeeper|cleaner|the help|Haushälterin|Putzfrau|Dienstmädchen|Magd
+миллионер/тайно богатая : millonari|multimillon|millones|\bric[oa]\b|fortuna|миллион|миллиард|богач|богат|millionaire|billionaire|Millionär|Milliard|Mio\.
+поздняя любовь/вдовец : viudo|se cas[óo]|enamor|quedarnos|novio|вдовец|замуж|влюб|жених|widower|remarr|fell in love|Witwer|heirat|verliebt
+вернулся через годы : volvi[óo]|regres[óo]|años después|вернул|спустя|через (\d+|год|двадцать)|years later|came back|Jahre später|zurückkehr
+находка/клад/билет : billete|loter[ií]a|maleta|ba[uú]l|tesoro|enterr|escond|клад|сокровищ|сундук|чемодан|прятал|тайник|lottery|treasure|hidden|buried|Lotto|versteckt|Schatz
+мораль/рефлексия : reflexi|lección|moraleja|enseñanza|sabidur|урок|мудр|притч|\blesson|wisdom|Lektion|Weisheit
+свекровь (сюжет) : suegra|свекров|mother.in.law|Schwiegermutter
+невестка/зять (обидчик) : nuera|yerno|невестк|зят|daughter.in.law|son.in.law|Schwiegertochter|Schwiegersohn
+
+# Длина: доля роликов ≥5× по корзинам (без роликов ≤3 мин)
+es 25-40: n114 мед×0.90 ≥5× 9%  40-70: n217 мед×1.00 ≥5× 9%  70+: n405 мед×1.10 ≥5× 10%  <25: n200 мед×1.00 ≥5× 28%
+ru 25-40: n106 мед×1.00 ≥5× 7%  40-70: n56 мед×0.80 ≥5× 5%  70+: n217 мед×1.10 ≥5× 12%  <25: n156 мед×1.00 ≥5× 12%
+en 25-40: n36 мед×1.15 ≥5× 25%  40-70: n57 мед×0.90 ≥5× 2%  70+: n82 мед×1.05 ≥5× 18%  <25: n72 мед×1.00 ≥5× 18%
+de 25-40: n24 мед×1.35 ≥5× 12%  40-70: n17 мед×0.80 ≥5× 0%  70+: n83 мед×1.00 ≥5× 1%  <25: n264 мед×1.00 ≥5× 10%
+
+# Каналы по языкам: подписчики, медиана, ≥5× из последних
+es	Más Allá del Silencio Podcast	подп 1400000	мед 1200000	≥5×: 1/15	макс 7.8× 9600000 «Mi mamá me daba leche con pólvora tras MATAR: SICARIØ MÁS LETAL de Bucaramanga C»
+es	Abuela del Corazón	подп 38000	мед 248000	≥5×: 3/28	макс 6.7× 1700000 «Patrão demitiu o velho torrador e deu 40 reais por 40 Anos - Cinco anos depois,o»
+es	Alma en Historias	подп 94000	мед 164000	≥5×: 4/50	макс 22.9× 3800000 «"No quiero morir sola... le dejo todo", dijo la anciana a la joven madre que bus»
+es	Lección con reflexión de los abuelos	подп 43000	мед 153000	≥5×: 6/40	макс 31.6× 4800000 «Volvió millonario después de 25 años y encontró a su madre durmiendo en el corra»
+es	Destinos Inesperados • 133 mil vistas hace 40 min	подп 88000	мед 142000	≥5×: 2/48	макс 7.3× 1000000 «LA DEJARON PLANTADA EN EL ALTAR… HASTA QUE UN CABALLO LA LLEVÓ HASTA UN MISTERIO»
+es	Milagros del Cielo Reflexiones	подп 50000	мед 137000	≥5×: 1/22	макс 7.0× 961000 «Creyó que su ex era un simple repartidor hasta que descubrió que era millonario»
+es	Cine de Abuelos	подп 8000	мед 116000	≥5×: 4/16	макс 8.8× 1000000 «Su nieto le mandaba dinero desde Estados Unidos — su yerno se lo quedaba todo ha»
+es	TIEMPO CON LA ABUELA	подп 124000	мед 112000	≥5×: 9/35	макс 20.9× 2300000 «La Abuela Llegó con 2 Nietos y Nada Más - El Millonario Viudo Le Abrió Su Portón»
+es	Cuentos del Viejo Campo	подп 74000	мед 106000	≥5×: 3/50	макс 13.6× 1400000 «El Hacendado Fingió Ser un Peón Sin Dinero Para Probar su Amor...Que Hizo Despué»
+es	Historias de Señoras	подп 1000	мед 84000	≥5×: 1/11	макс 10.1× 847000 «Su hija dejó a la abuela sin silla en Navidad — sin saber que ella pagaba toda l»
+es	Cuentos del Rancho	подп 41000	мед 77000	≥5×: 3/50	макс 8.2× 628000 «"La Viuda más Pobre Recogió a 2 Viejitos… Sin Saber que Guardaban el Secreto de »
+es	Historias que Dejan Lección	подп 5000	мед 75000	≥5×: 2/11	макс 13.3× 1000000 «Sus Hijos Pelearon su Herencia Frente a Ella... Sin Saber que Ya Era del Nieto q»
+es	LA ABUELA TULIPA	подп 24000	мед 72000	≥5×: 7/36	макс 54.9× 4000000 «La Navidad de la familia que sí llegó»
+es	Cuando Hablan los Abuelos	подп 2000	мед 62000	≥5×: 0/5	макс 4.9× 302000 «Abandonaron a sus padres de 80 años en la sierra — sin saber qué guardaba la mal»
+es	Reflejоs del Alma	подп 7000	мед 45000	≥5×: 1/11	макс 6.4× 289000 «Su Padre No le Heredó Nada "por Ser Mujer"… Sin Saber que Sería la Única que Que»
+es	Historias Con el Abuelo	подп 3000	мед 39000	≥5×: 1/9	макс 5.4× 214000 «SU MARIDO LA GOLPEABA… Hasta que una Madrugada Desapareció con su Hijo de 3 Años»
+es	El Legado de las Abuelas	подп 2000	мед 39000	≥5×: 0/11	макс 4.5× 175000 «La Echaron Por Negarse A Casarse… Y Halló Un Rancho En Ruinas Que Nadie Se Atrev»
+es	Sabiduría de Abuelos	подп 8000	мед 37000	≥5×: 7/28	макс 21.8× 810000 «SUS HIJOS QUERÍAN VENDER SU CASA SIN PREGUNTARLE… PERO ELLA HIZO ALGO QUE NO ESP»
+es	Cuentos de Viuda	подп 18000	мед 23000	≥5×: 6/50	макс 13.7× 315000 «Huyó y se Escondió en un Sitio Abandonado Sin Saber que Ahí la Esperaba una Fort»
+es	Relatos de la Abuela	подп 2000	мед 13000	≥5×: 1/50	макс 7.8× 101000 «Le di la razón a mi hijo cuando dijo que se alegraba del engaño de su padre por »
+es	Historias que Conmueven	подп 2000	мед 7000	≥5×: 4/9	макс 62.7× 444000 «＂Solo le pido refugio para mis hijas… yo dormiré afuera＂， le suplicó el viudo a »
+es	Sabiduría de un Abuelo	подп 8000	мед 6000	≥5×: 4/50	макс 13.4× 75000 «Expulsado por sus hijos a los 85, el abuelo volvió al hogar en ruinas — lo del f»
+es	Lecciones de una Abuela	подп 37000	мед 4000	≥5×: 4/50	макс 61.5× 237000 «Sus hijos heredaron todo y expulsaron a la abuela — sin saber qué guardaba el ca»
+es	Historias De Fe y Vida	подп 10000	мед 4000	≥5×: 6/50	макс 43.9× 166000 «Sus tíos le robaron toda la herencia… pero el perro del abuelo desenterró la ver»
+es	Código Venganza	подп 2000	мед 4000	≥5×: 3/31	макс 20.7× 86000 «Tiraron mis cosas en bolsas negras… así que dejé de pagar su casa»
+es	Pasión Drama Español	подп 15000	мед 2000	≥5×: 9/50	макс 994.7× 1500000 «En mi sexto cumple, papá se fue con su primer amor y el hijo de ella; me dejó so»
+es	Mil Historias, Una Vida	подп 6000	мед 1000	≥5×: 4/50	макс 16.7× 18000 «Volví a mi país con una gran fortuna tras 7 años fuera, pero hallé a mi propio h»
+es	Cuentos de Tiempos Olvidados	подп 22000	мед 561	≥5×: 2/6	макс 824.3× 462000 «Su Madre Mintió 6 Años… y le Robó a su Hijo | Relatos de la noche»
+es	Relatos con Alma	подп 985	мед 397	≥5×: 6/19	макс 199.2× 79000 «Los Socios Humillaron Al Fundador Del Taller Por Viejo… Pero No Imaginaron Quién»
+es	Abuelos con Historias	подп 2000	мед 344	≥5×: 0/50	макс 4.6× 2000 «Una chica Desapareció Sin Dejar Rastro Hasta que su Madre Encontró Algo y Descub»
+es	Historias de Venganza Familiar	подп 5000	мед 314	≥5×: 0/50	макс 4.6× 1000 «Mi hijo me escribió: «Ya no formas parte de la familia. No vengas a ninguna reun»
+es	El Rincón de los Abuelos	подп 8000	мед 287	≥5×: 4/50	макс 14.5× 4000 «10 Años Viviendo Gratis Y Mi Hijo Me Echó De La Sala, Pero No Sabía Que»
+es	Venganza Oscura	подп 994	мед 224	≥5×: 6/48	макс 67.3× 15000 «Mi nuera intentó humillarme en la cena familiar, pero su madre salió corriendo a»
+es	Historias con Final Justo	подп 1000	мед 167	≥5×: 20/50	макс 158.4× 26000 «Cuidé A Mis 3 Nietos Durante 5 Años. Mi Hija Dijo: “Nunca Te Pedimos Nada”. Dejé»
+es	Heridas de Familia	подп 1000	мед 4	≥5×: 15/50	макс 58.2× 233 «Mis papás me abandonaron de niño… y años después tocaron mi puerta suplicando ay»
+ru	Трогательные истории с Ольгой	подп 19000	мед 155000	≥5×: 0/14	макс 4.6× 720000 «МУЖ-БОГАЧ ждал у КОЛОНИИ жену, отсидевшую за него. А когда она подошла, у неё по»
+ru	Закулисье брака	подп 9000	мед 61000	≥5×: 0/34	макс 4.0× 246000 «Свекровь позвонила моему отцу: «Заберите эту нахлебницу!» Через 20 минут все оце»
+ru	Истории, Которые Тронули / Диана Евлаш	подп 60000	мед 35000	≥5×: 0/49	макс 3.1× 108000 «Свекровь без спроса привезла ко мне на дачу 2х чужих внуков. На все лето. Но не »
+ru	Отверженная Судьбой	подп 8000	мед 9000	≥5×: 10/50	макс 34.4× 319000 «Бездомная Мать И Дочь Нашли Заброшенный Дом Бабушки! То, Что Было В Тайном Сейфе»
+ru	ИСТОРИИ ОТЦА	подп 8000	мед 6000	≥5×: 3/50	макс 13.7× 79000 «На свадьбе дочери я заметил, что с её глазами что-то не так. Потом жена схватила»
+ru	Russian World Tales	подп 2000	мед 4000	≥5×: 9/50	макс 26.8× 107000 «Свекровь Потребовала Ключи От Дома, Который Купили Мне Родители — Мой Ответ Заст»
+ru	Свекровь и Невестка: Истории из жизни	подп 3000	мед 2000	≥5×: 7/50	макс 48.4× 95000 ««Подарок оставишь у входа!» — Свекровь не пустила невестку на банкет, но счёт пр»
+ru	Истории Судьбы	подп 2000	мед 861	≥5×: 14/50	макс 212.4× 183000 «Её заставили выйти замуж за бедного фермера, не зная, что он тайный миллиардер |»
+ru	СВЕКРОВЬ VS НЕВЕСТКА	подп 6000	мед 623	≥5×: 10/50	макс 645.3× 402000 «До встречи в суде свекровь не знала, что я была прокурором»
+ru	Destinos y secretos	подп 5000	мед 340	≥5×: 6/50	макс 591.0× 201000 «Una alergia descubrió que su hijo no era suyo, ella se vengó y tomó el control»
+ru	Вечерняя закладка	подп 6000	мед 189	≥5×: 4/50	макс 8.9× 2000 «Меня 5 лет гнобили и выгнали, но наследство в 5 млрд заставило их ползать.»
+ru	Семейный Секрет	подп 1000	мед 158	≥5×: 5/50	макс 888.2× 141000 ««Она беременна, Оля, смирись!» — свекровь сказала это за моим же столом»
+ru	СЕМЕЙНЫЕ УСОБИЦЫ	подп 475	мед 127	≥5×: 3/21	макс 1302.5× 165000 «После похорон отца сын велел матери уйти из дома. Но ночью она нашла то, что муж»
+ru	Свекровь Перешла Все Границы	подп 4000	мед 58	≥5×: 0/50	макс 2.2× 127 ««Квартиру сегодня не покупаем — мы уже купили маме дом!» — сообщил муж»
+en	NYS Movie	подп 11000	мед 579000	≥5×: 1/4	макс 8.0× 4700000 «Billionaire Mother Disguised As A Nobody To Test Son's Bride: The $2M Extortion »
+en	Alpha Mom Stories	подп 24000	мед 43000	≥5×: 1/50	макс 9.5× 407000 «I Told My DIL I Had an Early Flight. At Midnight, My Door Slowly Opened…»
+en	FAVEE TV	подп 12000	мед 30000	≥5×: 2/7	макс 25.3× 770000 «The House They Threw Her Out Of Was Hers All Along | Emotional Story »
+en	Dad Family Revenge	подп 15000	мед 9000	≥5×: 6/50	макс 11.9× 112000 «My Son-in-Law Kicked My Chair Away At Christmas Dinner—He Never Expected What Ha»
+en	Grace Beyond Tears	подп 4000	мед 6000	≥5×: 12/47	макс 71.9× 430000 «At My Husband’s Will Reading, My Children Got Millions — I Got A Locked Phone Th»
+en	Toxic Revenge Stories	подп 2000	мед 1000	≥5×: 9/35	макс 141.7× 191000 «"Get Out of My House!" My Daughter-in-Law Told My Wife — Then 30 People Stood Up»
+en	Pa Family Revenge	подп 1000	мед 628	≥5×: 10/50	макс 34.7× 22000 «My Daughter-in-Law Told Me Her Parents Were Taking My Lake Cabin, Then Laughed "»
+en	Daily Story Life	подп 1000	мед 76	≥5×: 0/21	макс 3.1× 233 «My Daughter Said Wren Was Away—Then I Heard “Grandpa” From the Locked Cellar»
+de	Claras Geschichten	подп 49000	мед 21000	≥5×: 0/50	макс 4.3× 89000 «Mein Vater enterbte mich per Nachricht auf der Abschlussfeier, aber ich war scho»
+de	Mila Geschichten	подп 2000	мед 9000	≥5×: 2/10	макс 9.8× 84000 «„Meine Schwiegertochter wusste nicht, dass ich Japanisch spreche – beim Abendess»
+de	Mutters Wahrheit	подп 819	мед 6000	≥5×: 0/50	макс 4.6× 30000 «Mein Sohn nannte mein Essen altmodisch für Weihnachten – also gab ich 18 Fremden»
+de	LebensAkte	подп 1000	мед 3000	≥5×: 3/50	макс 6.6× 20000 «Mein Sohn beleidigte mich vor 22 Verwandten – dann trat mein Anwalt mit der Wahr»
+de	Mamas Grenze	подп 784	мед 3000	≥5×: 3/50	макс 14.1× 37000 «Meine Schwiegertochter warf meine Geschenke in den Schnee – also ließ ich ihr Fe»
+de	SchicksalsRache	подп 1000	мед 2000	≥5×: 0/50	макс 4.2× 9000 «Ich wollte mein Haus am See vermieten–Stattdessen fand ich dort plötzlich die ga»
+de	Vergolten Drama	подп 840	мед 1000	≥5×: 9/50	макс 16.6× 18000 «„Nur eine Woche“, bat ich meinen Sohn – dann sah er meine Konten und wurde blass»
+de	Werners Späte Rach	подп 7000	мед 943	≥5×: 1/50	макс 5.9× 6000 «„Für ihn zahlen wir nicht!“ Mein künftiger Schwiegersohn lachte, bis ich sagte: »
+de	Familienwende	подп 890	мед 119	≥5×: 3/50	макс 22.4× 3000 «Meine Schwiegertochter sagte, ich sei nur wegen der Rente hier  Ich packte alle »
+de	Erzähl mir Geschichten	подп 529	мед 104	≥5×: 9/50	макс 93.2× 10000 «Ich wollte die Hütte meines verstorbenen Mannes reparieren – doch ihr Bruder zog»
+de	Familien Karma	подп 837	мед 83	≥5×: 8/50	макс 176.9× 15000 «Meine Schwiegertochter sagte： ＂Wer nicht arbeitet, soll auch nicht essen ＂ Ich a»
+
+# Длина ES по размеру канала (без роликов ≤3 мин, с 20.08.2026)
+мед канала ≥30K: <25: n43 мед×0.90 ≥5× 19% (6 кан.) | 25-40: n77 мед×0.90 ≥5× 13% (11 кан.) | 40-70: n89 мед×1.20 ≥5× 17% (11 кан.) | 70+: n126 мед×1.25 ≥5× 10% (10 кан.)
+мед <30K:       <25: n157 мед×1.10 ≥5× 31% (6 кан.) | 25-40: n37 мед×0.70 ≥5× 0% | 40-70: n128 мед×0.90 ≥5× 4% | 70+: n279 мед×1.00 ≥5× 9%
+Вывод: высокая доля ≥5× у коротких — эффект крошечных каналов с медианой 4–400 просмотров; у каналов с медианой от 30 тыс. лучшая медиана × у 40–70 и 70+ мин.
+Cine de Abuelos (внутри канала): 95–111 мин — ×7,0 / ×7,2 / ×8,1 / ×8,8; 9–19 мин — ×0,1–×1,2.
+
+# Рынки по выдаче поиска (запросы разные, сравнение грубое)
+ru: роликов 178, ≥100K 21, ≥1M 1; каналов 2026 года 91 из 131; малые (<10K подп.) с роликом ≥100K: 13 каналов; медиана просмотров 13,5K; ИИ-кино/дорамы ~6%
+en: роликов 85, ≥100K 51, ≥1M 4; каналов 2026 года 48 из 77; малые с ≥100K: 11; медиана 131K; ИИ-кино/дорамы ~45%
+de: роликов 91, ≥100K 0, макс 86K; каналов 2026 года 29 из 44; малые с ≥100K: 0; медиана 10K; ИИ-кино ~10%
+es: роликов 101, ≥100K 51, ≥1M 13; каналов 2026 года 35 из 83; малые с ≥100K: 11; медиана 101K; ИИ-кино ~10%
