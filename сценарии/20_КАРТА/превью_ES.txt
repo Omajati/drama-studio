@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 20 «Tarjeta»
+
+Ключевая мысль-крючок: через четыре дня после похорон мужа невестка кричит из спа, что ей отклонили карту; это была дополнительная карта к счёту покойного, банк её заблокировал по свидетельству о смерти, и половина денег принадлежит вдове. Раскрытие — в первые 3 минуты (2:11–2:42).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 68-year-old Southern European woman with short dark-grey curly hair, strong weathered hands and a black mourning coat, holding a blue knitted fisherman's cap against her chest and a phone in the other hand, calm, quietly determined, looking straight at the viewer; behind her, softly blurred, a grey harbour with a small white wooden fishing boat. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+A MI MARIDO LO ENTERRAMOS                — белый
+EL LUNES.                                — белый
+EL JUEVES MI NUERA ME LLAMÓ              — белый
+DESDE UN SPA, GRITANDO.                  — жёлтый
+USABA SU TARJETA.                        — белый, «SU TARJETA» красный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: «LO DE SIEMPRE»
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding the blue knitted cap from reference R8 against her chest and a phone, calm and determined, looking at the viewer; blurred grey harbour with a small white fishing boat behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: A MI MARIDO LO ENTERRAMOS
+line 2 white: EL LUNES.
+line 3 white: EL JUEVES MI NUERA ME LLAMÓ
+line 4 yellow: DESDE UN SPA, GRITANDO.
+line 5 white with SU TARJETA in red: USABA SU TARJETA.
+Below the text, a red rectangle with white bold uppercase text: «LO DE SIEMPRE»
+No other text, no logos. Check accents and quotes exactly (LLAMÓ, « »).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «SPA», «SU TARJETA», шапка в руках и плашка. Если строки сливаются — объединить строки 1–2.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «¡Me han rechazado la tarjeta!», gritó mi nuera desde un spa. A mi marido lo enterramos el lunes
+Название — крик невестки и контраст с похоронами. Превью уточняет: это была карта мужа. Плашка «LO DE SIEMPRE» — загадочное назначение платежей: что это было, не ясно.
