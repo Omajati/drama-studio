@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 18 «Hotel»
+
+Ключевая мысль-крючок: управляющий отеля смотрит на старый чемодан пожилой гостьи и переселяет её в номер у лифта и прачечной, а она кладёт на стойку латунный ключ от номера 1 и уведомление о собрании участников, где она — владелица 40%. Раскрытие — в первые 3 минуты (2:38–2:53).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 70-year-old Southern European woman with white hair in a soft short perm, a small gold brooch and a burgundy cardigan, holding up an old brass room key with a pear-shaped wooden fob, calm, quietly determined, a faint smile, looking straight at the viewer; behind her, softly blurred, a small hotel reception desk. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+EL DIRECTOR VIO MI MALETA                — белый
+Y ME MANDÓ A LA 108,                     — жёлтый
+JUNTO AL ASCENSOR.                       — белый
+NO SABÍA QUE YO TENÍA                    — белый
+EL 40 % DE SU HOTEL.                     — белый, «40 %» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: YO TENÍA LLAVE
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding up the brass key from reference R8, calm and determined, looking at the viewer; blurred hotel reception behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: EL DIRECTOR VIO MI MALETA
+line 2 yellow: Y ME MANDÓ A LA 108,
+line 3 white: JUNTO AL ASCENSOR.
+line 4 white: NO SABÍA QUE YO TENÍA
+line 5 white with 40 % in green: EL 40 % DE SU HOTEL.
+Below the text, a red rectangle with white bold uppercase text: YO TENÍA LLAVE
+No other text, no logos. Check accents exactly (MANDÓ, SABÍA, TENÍA).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «108», «40 %», ключ в руке и плашка. Если строки сливаются — убрать строку 3.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Junto al ascensor estará más cómoda, señora», me dijo el director. Miró mi maleta, no mi apellido
+Название даёт унижение цитатой и намёк («не на фамилию»). Превью открывает козырь частично (40% отеля), но не объясняет, как и что будет дальше; плашка «YO TENÍA LLAVE» — обрыв про ключ.
