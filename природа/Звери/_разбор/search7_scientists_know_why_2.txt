@@ -1,0 +1,99 @@
+# search «scientists finally know why animals» за 3 мес., длина от 8 мин
+просм	подп	просм/подп	мин	дата	канал	название	id
+1.1M	75K	14.1×	17.2	2026-10-16	There's An AI For That	We Can Finally Talk To Animals	bs0qWWztyP8
+927K	59K	15.7×	18.7	2026-09-05	BlackWater	Scientists Finally Worked Out Why Fish Are Growing Legs	TgpS8btAh8Q
+895K	9K	103.5×	20.1	2026-08-23	Dark Wild Archives	Biologists Finally Know What's Hunting Black Bears in Smoky Mountains — And No One Can Believe It	ROVHp5HdVPU
+731K	67K	10.9×	28.6	2026-09-17	Dr. Edmund Hale	SCIENTISTS Finally Found What's Killing Pythons In The Everglades — Nobody Saw This Coming...	T566G1fzfVY
+662K	36K	18.5×	24.7	2026-08-23	Wilder America	Biologists Finally Know What's Hunting the Grizzlies in Yellowstone — And No One Can Explain Why	bPdBe5rphCA
+510K	6K	88.9×	18.8	2026-08-23	Wild Files	Biologists Finally Know What's Hunting Bull Sharks In Mississippi River — And No One Can Explain Why	btzgcgTTLYo
+498K	49K	10.2×	10.5	2026-10-03	ANIMAL LEGENDS	Scientists Finally Found Florida’s GIANT New Predator — And It’s NOT a Python	ZJNvuknOht4
+466K	36K	13.1×	23.1	2026-08-21	Wilder America	Scientists Finally Found What's Killing Pythons in the Everglades — And It Shouldn't Be Possible	RYn016o3zHE
+317K	44K	7.2×	30.5	2026-08-24	Phantom Expedition	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	GOocGE-zftw
+250K	6K	43.6×	17.5	2026-10-25	Wild Files	Biologists Finally Know What's Hunting Saltwater Crocodiles In Australia—And No One Can Explain Why	OQ0BdDh28ps
+230K	3K	77.9×	13.8	2026-09-15	Mr. Vee's Untamed Lens	We Finally Know What's Killing the Salmon in the Pacific Northwest - It's Not What Anyone Thought	HtbWZnkkb58
+192K	498	385.6×	14.5	2026-10-22	Rethink Wild 	Biologists Finally Know What the “Panthers” in Missouri Actually Are	XJTXxsVhy_o
+190K	3K	57.9×	13.0	2026-11-06	Against Logic	Something Is Driving American Mink Out of Britain’s Rivers — And Scientists Finally Know WHAT	qPI11F6oorU
+156K	118K	1.3×	21.6	2026-09-29	Ambrose Wild	Scientists Finally Found What's HUNTING Florida's Giant Pythons — Nature's Secret Predator	vEVRu-_mx-4
+138K	95	1448.7×	10.1	2026-11-02	Planet exe	Biologists Finally Know What's Hunting Canada Lynx In Maine — And Nobody Expected This	CVUjKTMC_N4
+119K	3K	37.1×	9.3	2026-09-04	The Untamed North	Scientists Finally Found What's Hunting Super Pigs in Saskatchewan — I'ts not a Cougar	QxbryprcgYU
+115K	3K	36.3×	13.9	2026-10-12	The Last Chronicler	We Finally Know Pterosaurs Weren't Dinosaurs — And Where They Came From.	TC_Q7sq47U4
+114K	36K	3.2×	20.2	2026-08-31	Wilder America	Scientists Finally Found What's Hunting the Super Pigs in North Dakota—And It Shouldn't Be Possible	MbOuguOCS_s
+79K	608	130.4×	14.2	2026-09-07	Cryptic Range	Marine Biologists Finally Know What's Killing the Orcas Off Washington — And It Isn't Ships	BE8cCS15jlw
+60K	5K	11.0×	22.2	2026-10-13	Wilder Australia	Biologists Finally Know What's Hunting Australia's Crocodiles — And No One Can Explain Why	leKBGqhbvNw
+58K	2K	34.3×	20.4	2026-10-21	Wildly Australia	Biologists Finally Know What’s Killing Water Buffalo in Australia — And It Shouldn’t Be Possible	aDPVRH4rSpw
+57K	67K	0.9×	29.8	2026-09-25	Dr. Edmund Hale	Biologists Finally Know Why Chital Deer Are Spreading Across Queensland — Nobody Saw It Coming	4EBzHDJzmxg
+57K	49K	1.2×	17.7	2026-09-06	ANIMAL LEGENDS	Scientists Finally Discovered Who Ruled Central Asia — Tigers, Lions or Bears?	r1wnoqsNTtU
+48K	67K	0.7×	35.7	2026-10-27	Dr. Edmund Hale	ALASKA'S Next Predator Isn’t A Grizzly — Scientists Finally Know Which Half Does The Hunting...	wUqI01K4rDw
+39K	10K	3.8×	20.9	2026-09-16	The Quiet Wild	Scientists Finally Found What's Killing Moose in Manitoba — And It Shouldn't Be Possible	A6Kn5aSQOZE
+36K	515	69.9×	15.4	2026-10-07	Backcountry Casebook	Scientists Finally Found What's Hunting Wolves in Washington — And It's Not Other Wolves	pNpoaUT7MvU
+33K	15K	2.2×	15.0	2026-09-11	Wildlife Updates	Scientists Finally Know What's Killing The Nilgai In Texas — And It’s Spreading Fast	hlZXyei-a8Q
+28K	5K	5.8×	23.7	2026-08-29	Blackwater America	Biologists Finally Know What's Hunting Bull Sharks in the Mississippi River — No One Can Explain Why	PAepwX1qgt8
+25K	36K	0.7×	20.9	2026-09-09	Wilder America	Scientists FINALLY Know What Is Driving Grizzlies Out of Yellowstone — And It Shouldn't Be Possible	FaPyBBdJCvw
+20K	9K	2.3×	18.2	2026-09-16	Dark Wild Archives	Scientists Finally Know What's Hunting Mountain Lions in Yellowstone — And No One Can Believe It	w0mOtlz7ZFw
+12K	15K	0.8×	18.9	2026-10-12	Wildlife Updates	Scientists Finally Know What's Hunting the Grizzlies in Yellowstone — And It Shouldn't Be Possible	Ddw-9IabFH8
+12K	118K	0.1×	27.1	2026-10-23	Ambrose Wild	Scientists Finally Discovered What's Killing Pythons in the Everglades — Nobody Expected This!	UYSK8SLJKog
+12K	2K	4.8×	21.6	2026-09-17	State of the Wild	Biologists Finally Know What's Killing the Muskox on Victoria Island	aAJcml9pzfs
+11K	67K	0.2×	30.9	2026-10-16	Dr. Edmund Hale	CANADA'S Sea Wolves Eat Things No Wolf Should — Scientists Finally Know Why!	aVYkvTIq004
+11K	37K	0.3×	17.1	2026-09-05	Aquatic Vault	Marine Biologists Finally Know Why Orcas Are TERRIFIED Of Sperm Whales	F9gFEkAYEOo
+10K	17K	0.6×	21.8	2026-08-22	Wild States	Scientists Finally Know Why Coyotes Are Getting Bigger  — And It's Terrifying	NhcBid2xPYI
+9K	36K	0.3×	25.7	2026-09-29	Wilder America	Scientists Finally Found What's Crushing Florida's Giant Pythons — And It's Been There All Along	2FVPsJ2r_ag
+8K	1K	6.4×	9.7	2026-10-07	Epic Facts Tv official 	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	Crn1cYluJvw
+7K	402	17.7×	19.5	2026-09-20	ATRON Travel	Scientists Finally Identified the Predator That ATE a Great White Shark Whole	7_Uf3i-txaA
+6K	2K	2.9×	19.7	2026-09-08	Predator Country	After 67 Years, Biologists Finally Know What's Killing Isle Royale's Moose	kiXPW0_ZB3o
+6K	37K	0.2×	23.7	2026-10-04	Gideon Discovery	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	-KkKLXtl8fA
+6K	135	44.3×	19.6	2026-09-10	The Animal File	Scientists FINALLY Know What Is Driving Grizzlies Out of Yellowstone — And It Shouldn't Be Possible	Q75TOsHWGkw
+5K	2K	2.2×	12.1	2026-10-05	Wild America Updates 	Florida’s Alligators Are Losing Their Legs — Scientists Finally Know What’s Happening	V9GAv-hDbs0
+5K	15K	0.4×	19.4	2026-10-31	Wildlife Updates	Scientists Finally Know What's Hunting Bull Sharks In Mississippi River — And No One Can Explain Why	tN65pL7GnIM
+5K	6K	0.9×	17.2	2026-09-02	Wild Files	Marine Biologists Finally Know What's Killing Orcas in the Atlantic — And It's Terrifying	YoHaA9ucS48
+4K	861	4.9×	13.4	2026-10-21	The Blue Unknown	Something Ate a Great White Shark — Scientists Finally Know What	2hYLkcK3U5E
+4K	4K	1.0×	19.6	2026-09-08	Wildlife States	Biologists Finally Know What's Hunting Great White Sharks — And No One Can Believe It	eHwwJd_BGyw
+4K	36K	0.1×	28.4	2026-10-17	Wilder America	Grizzlies Are Being Hunted in Wyoming — And Scientists Finally Know Why	1j7qRaonFV8
+4K	60	63.8×	22.1	2026-09-03	Abyss Protocol	Marine Biologists Finally Know the Mysterious Orca Boat Attacks - And It's Weird	PNY9d7AD7D0
+4K	118K	0.0×	27.1	2026-10-25	Ambrose Wild	Scientists Finally Know What's Killing the Devil Fish in Mexico — And Nobody Expected This	4ph5XIK_el4
+4K	1K	3.5×	10.8	2026-08-21	Wild Uncover	Scientists Finally Know What's Hunting Polar Bears In Churchill — And No One Can Understand How	l3H87cF2xbE
+4K	1K	2.8×	22.5	2026-10-02	TheNationStory	  A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	5U5EJej02xw
+4K	36K	0.1×	18.1	2026-09-17	Wilder America	Biologists Finally Know What's Killing the Musk Oxen in Alaska — And It Shouldn't Be Possible	RLVaVe3z9ow
+3K	22K	0.1×	39.7	2026-08-31	AI Discovery 	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	ca9ZZPHGPXw
+3K	36K	0.1×	23.6	2026-09-15	Wilder America	Scientists Finally Know What's Been Mutilating the Cattle in the West — And No One Can Believe It	h8ln9oQD1bM
+3K	3K	1.0×	20.8	2026-11-08	The Untamed North	Marine Biologists Finally Know What's Hunting Orcas In Vancouver — And It Shouldn't Be Possible	VBL8BWW2aWo
+3K	5K	0.6×	14.9	2026-10-17	Vern Hale Wildlife	Biologists Finally Know What's Hunting Lynx in Montana - And No One Can Believe It	Zqw-W1rVGzM
+3K	114	23.4×	19.9	2026-08-24	Wade Halloran	Biologists Finally Know What's Killing Grizzly Bears in the Rockies — And No One Can Believe It	QH2599_d0oI
+3K	24K	0.1×	11.3	2026-09-25	BEASTERS Wild	Scientists Finally Know What Killed These Orcas In The Atlantic — It's Not A  Predator	7a-Lbe2SPjg
+2K	94	25.9×	16.2	2026-09-17	Archevanta	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	cYrOGinDquE
+2K	2K	1.6×	31.7	2026-11-02	Secret Vault	Scientists Finally Know What Ate a Great White Shark Whole – And It’s Worse Than They Thought	CqjJDMV0aJc
+2K	224K	0.0×	31.5	2026-09-27	Optic Expedition	Scientists Finally Know Why Great White Sharks Are Returning to Europe	kSRvPBlR1G8
+2K	167	13.0×	26.0	2026-09-24	Phantom Wild Discoveries	Florida’s Crocodiles Kept Disappearing for Months — What Scientists Finally Discovered Is Terrifying	H8Jnkb0GVCE
+2K	6K	0.3×	25.0	2026-09-15	Wild Laura	Scientists Finally Know What's Killing Texas Bighorns — And It Was Brought Here on Purpose	5GYYchuvnBA
+2K	74	23.2×	16.1	2026-10-01	Discovery Vault	Scientists Finally Discovered What’s Killing Pythons in the Everglades — Nobody Saw This Coming!	z8S4eyvipA8
+2K	2K	0.8×	11.9	2026-10-24	Dark Logic	Wild Boars Are Turning Into Something DIFFERENT — And Scientists Finally Know Why	FbvSxd-UeTE
+2K	224K	0.0×	41.6	2026-09-12	Optic Expedition	Something Is Killing Africa's Deadliest Snake — Scientists Finally Know Why	AZrypCUTrY8
+1K	224K	0.0×	33.0	2026-10-05	Optic Expedition	Europe's Biggest Wild Cat Is Quietly Returning — Scientists Finally Know Why	mgbInwGRFCo
+1K	2K	0.9×	17.3	2026-10-03	Animals Unknown	Cats in America Kill Billions of Animals a Year — And Scientists Finally Know Why	zN0nn8_V5Mo
+1K	192	7.2×	11.1	2026-09-23	Masters Of Evolution	Scientists Finally Found the “Extinct” Barbary Lion — This Shouldn't Exist	aDu-RKQROD0
+1K	69	19.3×	12.1	2026-10-16	Mysteries Explained Official	Scientists Finally Know What Ate a Great White Shark Whole	dJ637zraAHw
+1K	89	14.7×	20.7	2026-09-25	Secret Explorer	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	vPN8-idMENQ
+1K	408K	0.0×	30.6	2026-09-04	The Secret	Africa’s Deadliest Snake Is Being Wiped Out — Scientists Finally Know What’s Killing It	nh2sHyuNU2c
+1K	638	1.8×	20.8	2026-11-07	Sinister Animals	Biologists Finally Know What’s Killing Mississippi River Alligators — Nobody Expected It	mFartyjCnDQ
+1K	5K	0.2×	24.2	2026-09-25	Blackwater America	Scientists Finally Know What's Killing the Salmon in Seattle — It's Not What Anyone Expected	8e_hUx_ZiJo
+1K	2K	0.6×	22.1	2026-10-27	Verna Discovery	Orcas Are Terrified of Humpback Whales — And Scientists Finally Found Out Why	V7nPLN74BvI
+1K	67	16.1×	34.8	2026-09-16	ClawCatalog	We Finally Know What This Predator Eats	lnKBnrgEkMo
+1K	408K	0.0×	31.9	2026-10-11	The Secret	Scientists Finally Know Why Creatures in the Ocean’s Forbidden Zone Keep Evolving Like This	Y3T2UVM_l5E
+1K	35K	0.0×	34.1	2026-08-28	Reef Discovery	Invasive Snakes Are Disappearing From the Everglades — Scientists Finally Know Why	3UvnvPNQVPM
+950	6K	0.2×	17.7	2026-11-06	Wild Files	Scientists Finally Know What's Hunting Alligators in Louisiana — And No One Can Explain Why	HwmA6fUVjcI
+929	75	12.4×	12.1	2026-09-05	Places Ground	Scientists Finally Know What Hunts Montana Grizzlies | Unexplained	4qfoVHDyReU
+857	28	30.6×	20.2	2026-10-13	ZoicLab	Scientists Finally Discovered Why Orcas Run Away From This Animal!	llYquTKttVE
+853	45	19.0×	14.9	2026-09-05	Marine Lens	Scientists Finally Know Whats Killing the Pacifics Gray Whales They're Starving on Their Own Migrati	mDehr3adxpk
+844	6K	0.2×	25.9	2026-09-26	Wild Laura	Bears Across America Are Becoming More Aggressive — And Scientists Finally Know Why	WC62l8qkiZY
+763	3	254.3×	16.6	2026-10-30	steal2gether04	Marine Biologists Finally Know What's Killing Australia's Orcas — And It's Not Great White Sharks	RfF7hGy7Xv0
+734	2K	0.3×	18.1	2026-09-23	State of the Wild	Biologists Finally Know Why Giant Rodents Are Overrunning America	NulnU1rL2FA
+706	60	11.8×	24.8	2026-10-09	Abyss Protocol	Marine Biologists Finally Know How Greenland Sharks Live 400 Years — And It's Weird	VT14joXjv7c
+694	7	99.1×	18.0	2026-10-30	Darlene Puckett	Biologists Finally Know Why Mountain Lions Are Moving East - And It Shouldn't Be Possible	D-P2N1KF5Fw
+692	555	1.2×	19.8	2026-08-23	History Unseen	Scientists Finally Found What Could Have Eaten a Great White Shark Whole	Z_Y-FNhxBnE
+655	2K	0.3×	24.8	2026-09-07	State of the Wild	Biologists Finally Know Why 7 Species Are Taking Over Canada — And Nothing Can Stop Them	ZEKOj9eotK0
+636	6K	0.1×	19.2	2026-09-14	Wild Files	Biologists Finally Know What's Hunting Dolphins in Florida — And No One Can Explain Why	1Ywa2b619YI
+629	114	5.5×	20.9	2026-08-22	Hidden Frontier	Asian Carp Are Suddenly Disappearing — Scientists Finally Know Why	QoE3ObSNz18
+602	71	8.5×	22.8	2026-11-04	Known Range	Why Don't Rattlesnakes Die From Their Own Venom? Scientists Finally Found the Answer	gVLMtgjptLA
+522	15	34.8×	21.8	2026-10-18	Untamed North Frontier	Super Pigs in North Dakota: Biologists Finally Know How They Survive - And It Shouldn't Be Possible	7vK8ndA5dT0
+456	638	0.7×	21.5	2026-11-06	Sinister Animals	Scientists Finally Know What’s Stalking Texas Nilgai — And It’s Deadlier Than Anyone Expected	8bPSUXTTiR8
+405	1K	0.4×	19.8	2026-09-13	Beyond Mystery	A Great White Shark Was Eaten Whole — Scientists Finally Know What Did It	P-YxrhJ1vtU
+369	3	123.0×	21.4	2026-10-06	Apex Wild Archives	Scientists Finally Found What's Killing Black Bears in North Carolina - And It Shouldn't Be Possible	6SOmuoyeYy4
