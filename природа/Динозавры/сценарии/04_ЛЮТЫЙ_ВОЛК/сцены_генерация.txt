@@ -1,0 +1,361 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 17-minute English science documentary for adults on the YouTube channel about dinosaurs and the prehistoric world, titled "Scientists Brought Back the Dire Wolf. Many Say It Isn't One". Story: in April 2025 the company Colossal Biosciences announced three pale "dire wolves" (two males born October 2024, one female born January 2025), made by editing 20 places in 14 genes of gray wolf cells, cloning them and using domestic dogs as surrogate mothers. The video follows the real Ice Age dire wolf (La Brea Tar Pits, horses, bison, ground sloths), the 2021 Nature study that placed it on a separate branch of the dog family about 5.7 million years ago, the 2025 genome preprint that drew the tree differently, the critics (IUCN Canid Specialist Group), and the animals today (2026): grown, about 60 kg, living as a pack on a fenced preserve. Ends on the fossil tooth from Ohio and a teaser about the Tasmanian tiger.
+
+Visual style (used for every image): painterly realism paleoart for Ice Age scenes; painterly realism wildlife art for the living pale wolves; documentary photograph look for museum, lab and field scenes; clean flat scientific illustration for size comparisons and family trees.
+
+Recurring characters (keep identical across shots):
+PALE WOLVES — three young adult wolves with very thick creamy-white fur, broad heads, heavy chests, amber eyes; they look like large, sturdy gray wolves with white coats, not giant and not cartoonish.
+DIRE WOLF — Ice Age Aenocyon dirus: about the length of a large gray wolf but stockier, broad skull, deep heavy jaws, large teeth hidden behind closed lips, thick tawny to grey-brown fur, shorter legs relative to the body.
+FOSSIL TOOTH — a single worn dark-brown fossil canid tooth with cracks.
+Scientists and keepers are generic figures in lab coats, scrubs or khaki, seen from behind or with faces out of frame.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no company names, no magazine titles, no signs, no flags, no blood, no wounds, no fighting, no cartoon style, no recognisable real people. Screens, papers, magazine covers and diagrams are always blurred and unreadable. Dire wolves are never drawn as giant monsters. Animal welfare: wolves look healthy and calm.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of three young adult wolves with very thick creamy-white fur, broad heads, heavy chests and amber eyes, two males and one slightly smaller female, front and side views, standing on grass. Style: painterly realism wildlife art, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of an Ice Age dire wolf (Aenocyon dirus), side and three-quarter views: the length of a large gray wolf but stockier, broad skull, deep heavy jaws with lips closed over the teeth, thick tawny grey-brown fur, slightly shorter legs, a plain adult human silhouette beside it for scale. Style: painterly realism paleoart, scientifically accurate reconstruction, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Prop close-up of a single worn dark-brown fossil canid tooth with fine cracks and a broken root, on a neutral grey surface. Style: documentary macro photograph, soft raking light, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Split-screen composition, the thumbnail image: on the left half a large dark-brown fossil dire wolf skull on a black museum background under a soft cold spotlight; on the right half a young pale white wolf with thick fur on straw in a dim enclosure looking straight at the viewer, cold blue rim light; a thin bright vertical line divides the halves (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Three young pale white wolves with thick fur standing together on a grassy rise at dusk inside a fenced enclosure, looking toward the viewer, cold blue rim light (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S003. A darkened press room seen from the back, a big blurred projection screen glowing white, rows of silhouetted reporters holding up phones, every screen unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S004. A huge Ice Age dire wolf (dire wolf from reference R2) standing alone on a frozen ridge under a pale sky, breath steaming, broad head lowered, mammoth steppe stretching behind. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S005. A magazine lying on a wooden table, its cover showing a close photo of a pale wolf pup face, all lettering completely blurred and unreadable, soft window light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S006. Close-up of a pale white wolf face behind wire mesh, amber eyes looking straight at the viewer, out-of-focus fence and grass behind (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Close-up of a worn fossil canine tooth lying in coarse wet gravel at the bottom of an old quarry pit, overcast light (the fossil tooth from reference R3). Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S008. Two silhouetted scientists in lab coats standing on opposite sides of a long table, each with a different hand-drawn branching tree diagram on large paper sheets, the lines unreadable, dramatic side light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S009. Macro view of a laboratory pipette over a petri dish under a microscope lamp, blue-white light, tiny droplets glowing. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A pale wolf silhouette on a hill under a huge moon, howling, thin fence posts below in the dark grass (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S011. Ice Age North American plain at sunset, herds of horses and bison in the distance, a lone dire wolf watching from tall golden grass in the foreground (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A modern genetics laboratory at night, rows of sequencing machines with soft indicator lights, a lone scientist silhouetted at a bench, no logos. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S013. A vial of dark red blood in a gloved hand, labelled only with a blank white sticker, cool lab light, shallow depth of field. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S014. An Ice Age dire wolf disappearing into blowing snow at the edge of a frozen forest, seen from behind, only its broad shoulders and tail visible (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S015. An old abandoned gravel pit in rural Ohio in late autumn, grey water pooling in the bottom, bare trees on the rim, overcast sky. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S016. The worn fossil tooth (the fossil tooth from reference R3) held between gloved fingertips against a black background, raking light showing every crack. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S017. A dusty canyon of pale volcanic rock along a wide river in southern Idaho, a small field team in hats kneeling at a dig site far below. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S018. Close-up of a dark brown fossil skull fragment with a dense inner ear bone visible, lying on a padded museum tray, soft cold spotlight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S019. A clean-room ancient DNA lab: a technician in a full white suit, mask and hood drilling a tiny sample from a fossil fragment under a hood, blue light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S020. An abstract glowing double helix made of fine light threads floating above a dark lab bench, painterly, scientific mood. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S021. Microscope view of rounded cells in pink culture fluid, soft focus, scientific photograph look. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S022. A wild gray wolf lying calmly under light sedation on a veterinary table outdoors, a vet in gloves gently taking blood from its foreleg, faces out of frame. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S023. Macro of a very fine glass needle approaching a single cell under a microscope, cyan and violet light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S024. Simple scientific illustration: a gray wolf silhouette on the left and a broader, heavier dire wolf silhouette on the right, a few soft arrows pointing to the head, jaws, chest and coat, flat light background. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S025. Side view of a reconstructed dire wolf head (dire wolf from reference R2): broad skull, deep jaws, heavy muzzle, thick winter fur, painterly museum-style portrait on dark background. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S026. Laboratory incubator with soft orange glow, a gloved hand placing a small dish inside, shallow focus. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A calm mid-sized mixed-breed domestic dog lying on a blanket in a clean veterinary room, a vet's hand resting on her side, warm light, no faces visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S028. A gentle domestic dog resting in a sunlit kennel, belly round, looking relaxed, soft focus straw behind her. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S029. Two newborn pale wolf pups pressed together on clean straw under a warm heat lamp, eyes closed, tiny and fluffy. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S030. A pet dog asleep on the end of a bed in a cosy bedroom, morning light, ordinary home life. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S031. A tiny pale wolf pup peeking out from a small wooden den box on straw, soft morning light. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S032. A slightly older pale female wolf pup sitting alone on straw, ears up, looking at the viewer, winter light. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S033. A newsstand-style rack of blurred magazines and phones showing a pale wolf pup photograph, all lettering blurred and unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S034. Close shot of a phone in a hand scrolling a news feed full of pale wolf pup photos, all text blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A middle-aged woman scientist seen from behind in a sunlit office with bookshelves, speaking into a microphone for a remote interview, face not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S036. A pale young wolf walking along a fence line, a normal gray wolf shadow cast long on the grass beside it (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S037. A museum archive drawer pulled open, rows of fossil canid jaws and skulls on foam, a magnifying lamp over them. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S038. Side-view size comparison: a large wild horse and a dire wolf silhouette next to a plain adult human silhouette and a gray wolf silhouette on a flat light background, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S039. A shaggy dire wolf the size of a pony with exaggerated fantasy proportions fading into grey mist, painted like an old book illustration, dreamlike and clearly unreal. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S040. A realistic dire wolf (dire wolf from reference R2) standing broadside on a grassy slope, normal large-wolf proportions, heavy chest, broad head, evening light. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S041. Side-view size comparison: a dire wolf silhouette standing next to a plain slim adult human silhouette and a gray wolf silhouette, the dire wolf only slightly taller than the gray wolf but stockier, flat light background, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S042. A dire wolf skull on black velvet in a museum, three-quarter view, enormous cheek teeth and deep jaw, cold spotlight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S043. Close-up of massive fossil carnassial teeth in a dire wolf jaw, cracks and wear visible, raking light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S044. Late Ice Age Southern California at golden hour: a dry grassland with scattered oaks, a shallow pond with black glossy asphalt seeping at its edge, distant mountains. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A Harlan's ground sloth the size of a small car stuck to its knees in sticky black asphalt at a pond's edge, struggling upward, dust in the air, no blood. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S046. Low, fast shapes of a dire wolf pack moving through dry golden grass toward a pond, seen from ground level, motion and dust (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A dozen dire wolves gathered at the edge of a glossy black tar seep, some stepping in cautiously, the trapped sloth in the background, evening light, no blood. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S048. Close-up of a dire wolf's paws sinking into shiny black asphalt, the wolf pulling back, tension in its legs, no blood. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S049. Twilight over the tar seep, several dark animal shapes motionless in the black pond, birds circling high, quiet and eerie. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S050. The La Brea Tar Pits in modern Los Angeles at sunrise, bubbling dark pond with palm trees and city towers behind, no signs, no logos. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S051. A museum wall display of hundreds of dire wolf skulls arranged in neat rows, warm amber backlight, a lone visitor silhouette for scale. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S052. A paleontologist's gloved hands measuring a fossil dire wolf jaw with calipers on a lab bench, notebook blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S053. Close-up of a broken fossil canine tooth beside a whole one on a grey tray, raking light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S054. Ice Age North America panorama: horses, bison, camels and a young mammoth grazing on a wide plain, a dire wolf pack resting on a ridge in the foreground (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S055. A dire wolf watching a herd of ancient bison crossing a cold river in fog, early morning light. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S056. An empty, quiet Ice Age plain at dusk after the giants are gone, a few bones in the grass, cold wind, melancholy mood. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S057. A lean gray wolf trotting away alone across snow at dawn, looking back over its shoulder, the survivor. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S058. An old early twentieth-century museum scene: yellowed specimen cards, a fossil wolf skull, an antique brass magnifier and an old leather notebook, all writing unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S059. A modern scientist's gloved hand lifting a fossil fragment from a sample tube in a sterile ancient-DNA lab, blue light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A woman researcher seen from behind in a European university office, stacks of papers and a laptop with a branching tree on screen, all text blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S061. Five different dark brown fossil canid bones laid out in a row on a grey lab tray, each with a blank tag, soft light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S062. Clean scientific illustration of a branching family tree drawn as glowing lines on a dark background, small animal silhouettes at the branch tips: gray wolf, coyote, jackal, African wild dog, and one dire wolf silhouette far apart on its own long branch, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S063. Portraits side by side in painterly style: a gray wolf, a coyote, a golden jackal and an African wild dog, each looking at the viewer, dark background. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S064. A dire wolf standing alone on a distant ridge, separated from a group of gray wolves by a wide misty valley, symbolic distance (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A long glowing timeline ribbon stretching into darkness, a small fork in the far distance, simple and abstract, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S066. Abstract illustration: two branching tree lines splitting far back in time, at one tip a human silhouette, at the other a chimpanzee silhouette, flat light background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S067. Two strangers seen from behind walking on a city street wearing identical grey wool coats, one tall and one stocky, autumn light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S068. A dire wolf and a gray wolf on opposite banks of the same Ice Age river, looking at each other but not crossing, cold dawn mist. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S069. A dire wolf pack and a gray wolf pack hunting on different sides of a wide snowy valley, far apart, Ice Age North America. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S070. A simple globe illustration showing the Americas lit in warm light and Eurasia in cool light, a small dire wolf silhouette over North America and a small gray wolf silhouette over Asia, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S071. Close-up of an old engraved scientific plate of a wolf skull, aged paper, all lettering blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S072. Painterly portrait of a dire wolf head (dire wolf from reference R2) in dramatic low light, grim and noble, the last of its line. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S073. Abstract illustration: a chimpanzee silhouette and a human silhouette side by side with a few glowing tool marks between them, ironic tone, flat background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S074. A laboratory at night lit by screens, two empty chairs facing a big blurred monitor with a tree diagram, mood of rival analysis. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S075. A computer screen with an unreadable scientific preprint page, a coffee cup and the fossil tooth in a small case beside the keyboard (the fossil tooth from reference R3). Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S076. A pair of hands holding two printed tree diagrams side by side, the branches drawn differently, all text blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S077. Clean scientific illustration of two ancient lineage lines of dog-like animals flowing together like two rivers into one, a dire wolf silhouette at the confluence, flat dark background, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S078. A simple pie-like circle split into one third and two thirds, each part filled with a faint different canid silhouette, flat light background, no text, no numbers. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S079. Two different ancient canids meeting on an open grassland millions of years ago, early Pliocene landscape, soft warm light. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S080. Branching tree illustration with the dire wolf branch now drawn much closer to the gray wolf and coyote branches, glowing lines on dark background, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S081. A scientist's desk with two open journals and a magnifying glass, a fossil jaw between them, warm lamp light, all text blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A peer reviewer's desk at night, a printed manuscript covered in red pen marks, all text blurred, single lamp. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S083. A high-tech sequencer close-up with glowing flow cell, cold blue light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A dire wolf standing on a hill in fog, half of it fading into mist, the question of its family still open (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S085. Pale white wolf pup on straw looking up at a shadow of a much bigger ancient wolf cast on the wall behind it (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S086. A slider-like illustration: a gray wolf silhouette on the left, a dire wolf silhouette on the right, a glowing marker in between, flat background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S087. A theatrical wolf costume hanging on a rack in a dim dressing room, symbolic, no faces. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A gloved hand holding a tiny strip of DNA sequencing gel against a light box, glowing bands, no text. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S089. An endless library shelf of identical thick encyclopedia volumes vanishing into darkness, a single bookmark sticking out of one volume, warm light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S090. An abstract field of billions of tiny glowing dots like a starfield, with a handful of brighter dots highlighted in warm gold, no text, no numbers. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S091. A close-up of an old book page with a few words circled in pencil, all words blurred and unreadable, the rest untouched. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S092. Simple scientific illustration: a single glowing switch on a dark background with lines branching out to a wolf silhouette's head, body and coat, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S093. Side-view illustration of a canid skull morphing from a narrower gray wolf shape to a broader dire wolf shape, three overlapping outlines, flat light background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S094. A wolf fur sample swatch book: several patches of fur from grey to cream to white laid on a lab table, soft daylight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S095. A researcher's gloved hand pointing at a glowing genome browser on a monitor, colourful bars, all text blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S096. An illustration of a strand of DNA where a few short segments glow amber as exact ancient copies and a few glow pale blue as substitutes, dark background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S097. A white dog with pale blue eyes lying in a garden, gentle and calm, soft daylight, health caution mood. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S098. A vet examining the ears of a white puppy with an otoscope in a bright clinic, faces out of frame. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S099. Close-up of thick creamy white wolf fur rippling in the wind, sunlight shining through the guard hairs (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S100. A pale white wolf posing on a rock like a legend, misty backdrop, beautiful and slightly too perfect (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A collection of modern spare parts on a workbench next to an antique wooden clock, symbolic of rebuilding an old thing with new components. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A dire wolf pack chasing a herd of horses across an Ice Age plain under a huge sky, motion blur, no blood (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S103. An adult dire wolf teaching two cubs at the edge of a den in a grassy bank, Ice Age dusk (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A keeper in khaki seen from behind kneeling by a pale wolf pup on straw, holding a feeding bottle, face not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S105. A pale young wolf alone in a big grassy enclosure at dusk, no adults of its kind anywhere, lonely mood (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S106. A small conference room with a round table, several silhouetted experts leaning over printed papers, serious mood, all text blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S107. A field biologist seen from behind watching a gray wolf through binoculars across a snowy valley, cold morning. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A wild gray wolf standing in snowy forest, looking at the viewer, ordinary and real. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S109. A row of wild canids in painterly style: arctic fox, red fox, golden jackal and gray wolf standing in a line on neutral ground, like a field-guide plate without labels. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S110. A printed statement on a desk under a reading lamp, all text completely blurred, a pen lying across it. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S111. Two wolves side by side: a pale edited wolf and an ordinary grey wolf, standing in the same snowy clearing, nearly the same shape (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S112. An empty conservation field station at a remote forest edge, radio collars hanging on hooks, maps blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S113. A lecturer seen from behind standing at a podium in a university hall, a large blurred slide behind him showing a wolf. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S114. A close-up of a pale wolf coat beside a reddish-brown fur swatch on a lab table, the true colour question. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S115. Three painterly dire wolf portraits side by side in different possible coat colours: tawny red-brown, grey and pale cream, each uncertain, dark background. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A pair of scales in a dim library, one pan holding a DNA strand model, the other a small wolf skull, perfectly balanced, symbolic. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S117. Two side-by-side illustrations on a light background: on the left a branching family tree of lines, on the right a row of animal outlines compared by shape, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S118. A woman scientist seen from behind gesturing at a fossil skull and a living wolf photo on a lab wall, explaining, faces not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S119. A pale wolf trotting across a meadow, looking exactly like an illustration of a legendary wolf, golden light (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A packed academic auditorium seen from the back, hands raised with questions, blurred slide on the stage. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A pale edited wolf standing next to a carved museum model of a dire wolf in a dark hall, the two nearly mirror images (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A CT scanner in a veterinary hospital, a wolf skull model on the bed, blue light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S123. A pale wolf sitting on a hill at sunset, looking out over a valley, contemplative (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S124. A quiet morning on a large fenced preserve: tall grass, oak trees, a long fence line glowing in low sun, no people. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S125. Two big pale wolves walking side by side along a grassy ridge at sunrise, adult and powerful (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A slightly smaller pale female wolf resting under an oak tree, alert ears (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S127. A security camera on a wooden post watching over an empty grassy enclosure at dawn, dew on the lens. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S128. An earthen den dug into a grassy bank with fresh paw prints at the entrance, morning light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S129. A team of keepers in khaki seen from far away walking along a fence with buckets, faces not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S130. A veterinary team in scrubs around a sedated large white wolf on an exam table, faces out of frame, calm clinical light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S131. Side-view size comparison: a pale adult wolf silhouette standing next to a reconstructed dire wolf silhouette and a plain adult human silhouette, the two wolves nearly the same size, flat light background, no labels, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S132. An X-ray light box showing a canid leg bone with closed growth plates, soft blue glow. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S133. Close-up of a stethoscope on thick white fur, a gloved hand holding it, warm clinic light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S134. A microscope slide under a lens showing tiny round gut parasites, scientific photograph look. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S135. A pale wolf slinking away from the camera into tall grass, ears back, shy and wild (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S136. Three pale wolves eating together at dusk in grass, calm, no blood visible, natural pack scene (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S137. Two pale wolves playing, one pouncing on the other in snowy grass, joyful motion (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S138. A pale wolf in a low stalking crouch watching a rabbit in tall grass, morning light, no blood (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S139. Three pale wolves trotting in a line toward a group of white-tailed deer at the far edge of a meadow, the deer alert, no blood (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S140. A huge grey male wolf from the Canadian north standing in deep snow, heavy and powerful, comparable in size to the pale wolves. Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A side-view comparison: a large northern gray wolf silhouette and a pale edited wolf silhouette standing level, the same height and bulk, flat light background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S142. Only three pale wolves on a huge empty grassland seen from high above, tiny figures, symbolic of a population of three (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S143. A woolly-haired lab mouse with long golden fur sitting in a gloved palm, soft lab light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S144. A woolly mammoth calf standing beside an Asian elephant mother in a snowy forest clearing, gentle and hopeful. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S145. A pair of red wolves in a southern pine forest at dusk, slender, reddish coats, alert. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S146. A row of painterly silhouettes on a misty horizon: a dodo, a giant moa and a striped Tasmanian tiger, waiting. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S147. A freezer room in a biobank with rows of steel tanks breathing white vapour, blue light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S148. A pale wolf standing at the fence at night, looking out, the fence lit by a single lamp (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S149. A split view of a fossil dire wolf skull and a living pale wolf face, both in cold light, symbolic of two truths. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S150. A last panoramic Ice Age scene: horses, camels and a giant ground sloth crossing a wide plain at sunset, a dire wolf pack following, a world now gone (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S151. The same Ice Age plain empty and silent at dusk, only wind in the grass. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S152. A pale wolf in profile under a starry sky, new and unfamiliar, cool light (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S153. A clean illustration of a dire wolf outline being traced over a gray wolf outline with a glowing pen, the tracing almost matching, dark background, no text. Style: clean scientific illustration, flat light background, side view, plain human silhouette where scale is shown, 16:9, no text, no letters, no labels, no numbers, no watermark.
+
+SCENE S154. A gloved hand holding a photo print of a pale wolf next to an old engraved drawing of an ancient wolf, both unlabelled. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S155. The old Ohio gravel pit again under grey sky, rain rippling a puddle at the bottom, bare trees. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S156. The fossil tooth in close-up on wet gravel, one drop of rain on its surface (the fossil tooth from reference R3). Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S157. A slow pull-back from the fossil tooth (the fossil tooth from reference R3) on a black museum stand, a single spotlight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S158. A ghostly dire wolf running across a misty plain, half translucent, painted like a memory, never to be seen again (dire wolf from reference R2). Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S159. An old black-and-white style scene of an empty zoo enclosure with wire fence and a small wooden hut, nineteen-thirties feel, no signs. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S160. A striped Tasmanian tiger standing in Tasmanian bush at dusk, side view, its tiger-striped back and stiff tail visible. Style: painterly realism paleoart, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S161. A car's headlights on a dark rural road in Tasmanian bush, a blurry striped shape crossing at the edge of the beam. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S162. A trail camera strapped to a eucalyptus trunk in deep forest, its tiny red light glowing at night. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S163. Three pale wolves howling together on a hill under the moon, silhouettes against a deep blue sky (the three pale wolves from reference R1). Style: painterly realism wildlife art, natural documentary lighting, cool northern palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S163.png, R1.png … R3.png for references), one file per number, no UUID names, no numbers or text drawn inside the images. Check: dire wolves are only slightly larger and stockier than big gray wolves, never giant; no blood, no fighting, no logos, no recognisable real people.

@@ -1,0 +1,27 @@
+ПРЕВЬЮ EN — 04 «Лютый волк»
+РАСКЛАДКА: G — Разделённый экран
+
+Ключевая мысль-крючок: в 2025 году объявили, что лютого волка вернули; учёные спорят, что это на самом деле. Превью сравнивает древний череп и живого белого волка — тот же зверь или нет. Ответ («это серые волки с правками», слова главного учёного компании) — в ролике около 2:50.
+
+СТИЛЬ ПРЕВЬЮ (раскладка G, первая G на канале)
+Слева древний череп лютого волка на тёмном музейном фоне, справа живой белый волк смотрит в камеру. Тонкая светлая граница посередине. Схема 1: белый + жёлтый + одно красное слово (плашка). Кадр превью — сцена S001, появляется в первые 5 секунд.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Painterly realistic split-screen thumbnail, 16:9. Left half: a large fossil dire wolf skull, dark brown and cracked, on a black museum background, soft cold spotlight. Right half: a young pale white wolf with thick fur in a dim enclosure on straw, looking straight at the viewer, cold blue rim light. A thin bright vertical line divides the halves. Empty dark space at the top of each half for text and a small empty area at the centre of the dividing line. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт)
+ICE AGE                  — белый, слева
+OR 2025?                 — жёлтый, справа
+
+3. ПЛАШКА
+Красный прямоугольник по центру на границе, белые буквы: 20 EDITS?
+
+4. ПРОМТ ДЛЯ FLOW (с точным текстом)
+Same image as above. Bold condensed uppercase text: above the left half, white: ICE AGE; above the right half, yellow: OR 2025?; a red rectangle at the centre of the dividing line with white text: 20 EDITS? No other text.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: череп, белый волк, 20 EDITS?. Если тесно — убрать строку слева.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: Scientists Brought Back the Dire Wolf. Many Say It Isn't One
+Превью не повторяет слова названия: показывает древний череп и живого волка, плашка намекает на ответ (двадцать правок генов у серого волка, Colossal 2025), но не раскрывает его. Всё обещанное раскрыто в первые 3 минуты: правки (1:30), «это серые волки» (≈2:50).
