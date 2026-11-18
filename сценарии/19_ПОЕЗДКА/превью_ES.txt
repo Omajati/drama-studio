@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 19 «Viaje»
+
+Ключевая мысль-крючок: мать оплатила всей семье поездку к 20-летию свадьбы дочери, а дочь говорит, что её номер займёт мать зятя; бронь — на имя героини, и уступить место может только она. Раскрытие — в первые 3 минуты (2:44–2:58).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 67-year-old Southern European woman with short silver wavy hair, small gold stud earrings and a teal wool cardigan, holding a travel booking folder in one hand and a small brass compass in the other, calm, quietly determined, looking straight at the viewer; behind her, softly blurred, a family dining table with a cake. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+PAGUÉ EL VIAJE                           — белый
+DEL ANIVERSARIO DE MI HIJA.              — жёлтый
+MI CAMA SE LA DIERON                     — белый
+A SU SUEGRA.                             — белый, «SUEGRA» красный
+NO HABÍAN LEÍDO EL CONTRATO.             — белый, «CONTRATO» зелёный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: LA TITULAR SOY YO
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding a travel booking folder and the brass compass from reference R8, calm and determined, looking at the viewer; blurred family dining table with a cake behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: PAGUÉ EL VIAJE
+line 2 yellow: DEL ANIVERSARIO DE MI HIJA.
+line 3 white: MI CAMA SE LA DIERON
+line 4 white with SUEGRA in red: A SU SUEGRA.
+line 5 white with CONTRATO in green: NO HABÍAN LEÍDO EL CONTRATO.
+Below the text, a red rectangle with white bold uppercase text: LA TITULAR SOY YO
+No other text, no logos. Check accents exactly (PAGUÉ, HABÍAN, LEÍDO).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «ANIVERSARIO», «SUEGRA», папка в руке и плашка. Если строки сливаются — убрать строку 3.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Mamá, tu habitación la usará la madre de Iñaki», dijo mi hija. El viaje lo había pagado yo
+Название — обида цитатой и несправедливость (за её деньги — свекровь дочери). Превью продолжает: годовщина дочери, кровать отдали «её свекрови», «не читали договор». Плашка «LA TITULAR SOY YO» — ответ-намёк, но что героиня сделает (отменит всё? поедет?) — не ясно.
