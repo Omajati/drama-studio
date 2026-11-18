@@ -1,0 +1,27 @@
+ПРЕВЬЮ EN — 05 «Тилацин»
+РАСКЛАДКА: F — Предмет крупно
+
+Ключевая мысль-крючок: последний известный тилацин умер в 1936 году, вид объявлен вымершим, но его продолжают видеть. Превью — ночная дорога: тилацин целиком в профиль в свете фар. Сверху слева факт «GONE 1936», снизу справа вопрос-обрыв «THEN WHAT?» — что же тогда в фарах? Ответ превью не подсказывает: в ролике честно разобрано, что видят люди (куницы, падемелоны), что показала модель Брука (мог дожить до 1980–2000-х) и каков шанс сейчас (около одного процента). «Последний известный умер 90 лет назад» и «более тысячи наблюдений» — в первые 15 секунд, свежие сообщения 2016–2019 — к ≈2:20, 1936 год — к ≈4:15.
+
+СТИЛЬ ПРЕВЬЮ (раскладка F, в 04 была G)
+В центре крупно — тилацин целиком в профиль на краю гравийной дороги: волчья голова повёрнута к зрителю, глаза отражают свет, полосы на задней половине тела, прямой жёсткий хвост. Тёплый свет фар, высокий контраст, чёрный буш позади. Масштаб — сама дорога и придорожный столбик-отражатель рядом со зверем (по колено человеку). Тёмный спокойный угол сверху слева под слова, свободное место снизу справа под плашку. Схема: белый + жёлтый акцент + жёлтая плашка с чёрными буквами. Кадр превью — сцена S001, появляется в первые 5 секунд.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Painterly realistic night thumbnail, 16:9. In the centre, large and sharp: a full side-profile thylacine (Tasmanian tiger) standing on the edge of a gravel road, caught in warm yellow car headlights, its long wolf-like head turned toward the viewer with eyes reflecting the light, sandy-brown coat with bold dark stripes across the back half of the body, thick stiff straight tail. A white roadside reflector post beside it for scale. Deep black eucalyptus bush behind, strong contrast, warm light on the animal. Calm empty dark space in the upper left corner and a clear dark area in the lower right. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт)
+GONE                     — белый, сверху слева
+1936                     — жёлтый, сверху слева
+
+3. ПЛАШКА
+Жёлтый прямоугольник снизу справа, чёрные буквы: THEN WHAT?
+
+4. ПРОМТ ДЛЯ FLOW (с точным текстом)
+Same image as above. Bold condensed uppercase text in the upper left corner on two lines: first line white: GONE; second line yellow: 1936. In the lower right corner a yellow rectangle with black text: THEN WHAT? No other text.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: силуэт тилацина с полосами и прямым хвостом, светящиеся глаза, «GONE 1936» и жёлтая плашка THEN WHAT?. Если столбик теряется — масштаб держит дорога.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: The Tasmanian Tiger Was Declared Extinct. People Keep Seeing It
+Превью не повторяет слов названия: название говорит «объявлен вымершим, а его видят», превью добавляет год и вопрос «тогда что это?» — ответ не угадать. Обещание честное: смерть последнего известного и наблюдения — в хуке (0:00–0:17); фактом (8 сообщений 2016–2019) — к ≈2:20; объявление вымершим — гл. 5; что видят на самом деле — гл. 6, шансы — гл. 6 и финал.

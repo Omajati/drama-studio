@@ -1,0 +1,369 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 17-minute English science documentary for adults on the YouTube channel about dinosaurs and the prehistoric world, titled "The Tasmanian Tiger Was Declared Extinct. People Keep Seeing It". Story: the thylacine, a striped, dog-sized marsupial predator, the last of its family, survived only on the island of Tasmania. A government bounty (1888–1909) paid for more than 2,180 dead animals; it was protected in July 1936, 59 days before the last known thylacine died at the Hobart zoo on 7 September 1936. The famous 1933 film by naturalist David Fleay may show a different animal: in 2022 researchers found the remains of the real last thylacine, an old female, stored in the Tasmanian Museum. It was declared extinct in 1982 and 1986, but sightings never stopped: rewards, trail camera claims (most likely quolls and pademelons), a 2023 study of more than 1,200 sightings suggesting survival into the 1980s–2000s. A 2026 skull study shows it hunted small prey, not sheep. Colossal Biosciences and the University of Melbourne are trying to rebuild it from a dunnart. Opens and ends on a night road in Tasmania; teaser for a frozen Ice Age wolf pup from the Yukon.
+
+Visual style (used for every image): painterly realism wildlife art for living thylacines and landscapes; sepia archival documentary look for the 1880s–1930s; documentary photograph look for museum, lab and field scenes; grainy night or infrared look for roads and trail cameras; clean flat scientific illustration for size comparisons, maps and family trees.
+
+Recurring characters (keep identical across shots):
+THYLACINE — Thylacinus cynocephalus: a lean, dog-sized marsupial about the size of a medium dog, short sandy-brown to yellow-brown coat, about fifteen to twenty dark brown stripes only across the back half of the body, the rump and the base of the tail; a long wolf-like head with a pale muzzle, short rounded upright ears, dark eyes; a thick, stiff, tapering tail that blends smoothly into the body; slightly sloping back. Never a big cat, never a giant, never a dog with stripes painted on.
+OLD FEMALE THYLACINE — the same animal, older, thinner, with a greying muzzle and a worn, duller coat.
+NIGHT ROAD — a narrow gravel road through tall Tasmanian eucalyptus bush and tree ferns, seen at night in car headlights.
+ZOO ENCLOSURE — a small 1930s zoo pen: wire mesh fence, bare concrete floor, small wooden shelter hut with a door.
+DUNNART — fat-tailed dunnart: a tiny mouse-sized marsupial with grey-brown fur, large dark eyes, pointed snout and a thick carrot-shaped tail.
+Scientists, farmers, trappers and searchers are generic figures seen from behind or with faces out of frame.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no company names, no magazine titles, no signs, no flags, no blood, no wounds, no fighting, no dead animal bodies (museum skeletons, skins and taxidermy only), no cartoon style, no recognisable real people. Screens, papers, ledgers, magazine covers and diagrams are always blurred and unreadable. Animal welfare: animals look calm; hunting is shown without contact or injury.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of an adult thylacine (Thylacinus cynocephalus), side and three-quarter views: lean dog-sized marsupial, short sandy-brown coat, about fifteen to twenty dark stripes on the back half, rump and tail base, long wolf-like head, short rounded upright ears, thick stiff tapering tail, a plain adult human silhouette beside it for scale. Style: painterly realism wildlife art, scientifically accurate reconstruction, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of an old female thylacine: same species as R1 but thinner, with a greying muzzle, duller worn coat and slightly stiff posture, side and front views. Style: painterly realism wildlife art, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Location reference: a narrow gravel road through tall Tasmanian eucalyptus bush and tree ferns at night, lit by car headlights from the driver's point of view. Style: documentary photograph, night scene, cold headlight light, natural grain, 16:9, no text.
+
+REFERENCE R4. Location reference: a small 1930s zoo pen with wire mesh fence, bare concrete floor and a small wooden shelter hut with a door, overcast light. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, 16:9, no text.
+
+REFERENCE R5. Reference sheet of a fat-tailed dunnart: tiny mouse-sized marsupial, grey-brown fur, large dark eyes, pointed snout, thick carrot-shaped tail, side and front views. Style: painterly realism wildlife art, neutral light, plain background, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Thumbnail image: a full side-profile thylacine (Tasmanian tiger) standing on the edge of a gravel road at night, caught in warm car headlights: long wolf-like head turned toward the viewer with eyes reflecting the light, sandy-brown coat with bold dark stripes across the back half, thick stiff straight tail; deep black bush behind, high contrast, empty dark space top left and a clear area bottom right (thylacine from reference R1). Style: documentary photograph, night scene, warm headlight light, high contrast, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S002. A dark gravel road through Tasmanian eucalyptus bush after midnight, seen from the driver's seat, warm headlights cutting a cone of light, tall ferns on both sides (the night road from reference R3). Style: documentary photograph, night scene, warm headlight light, high contrast, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S003. In the warm headlight beam, a dog-sized striped animal crossing the gravel road, its thick stiff tail held straight out like a stick as it slips into the roadside ferns, slight motion blur (thylacine from reference R1). Style: documentary photograph, night scene, warm headlight light, high contrast, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S004. A sepia nineteen-thirties zoo enclosure at dusk, empty, wire fence and wooden shelter, the end of a species (zoo enclosure from reference R4). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S005. A wooden desk covered with hundreds of old handwritten sighting cards and newspaper clippings spanning a century, all blurred and unreadable, lamp light from above. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A loose scatter of hundreds of small dots on a dark map shape of Tasmania, appearing across the island over time, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S007. A thylacine standing alone at the edge of a misty Tasmanian rainforest at dawn, looking back over its shoulder, ghostly and still (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S008. An old black film reel and a vintage wooden movie camera on a tripod in a dim room, dust in a beam of light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S009. A dark museum storage cupboard with its door slightly open, a cardboard specimen box glowing faintly inside. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A trail camera strapped to a mossy eucalyptus trunk deep in the forest, its small red light glowing at night. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S011. A thylacine head close-up in profile in soft forest light, long wolf-like snout, rounded upright ears, calm amber eye (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S012. Side-by-side clean anatomical drawing of a wolf head, a tiger flank pattern and a kangaroo pouch merging into one thylacine silhouette in the middle, light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S013. A thylacine and a koala shown in the same eucalyptus woodland scene, the thylacine on the ground and the koala in a tree above, both calm (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S014. Side-view size comparison: a thylacine silhouette next to a border collie silhouette and a standing adult human silhouette, plain light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S015. Side-view diagram of a large thylacine stretched out nose to tail tip, beside a lying adult human silhouette of the same length, plain light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S016. A thylacine walking across a grassy clearing in late afternoon light, showing about fifteen dark stripes running from mid-back across the rump to the base of the thick tail (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S017. Close-up of the thylacine's thick, stiff, tapering tail and striped rump in dappled light (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S018. A female thylacine resting in a rock den, the rear-opening pouch visible as a fold of fur with small furry young peeking out, gentle light (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S019. Clean scientific illustration of a female thylacine's underside showing the pouch opening toward the hind legs, with a small diagram of four teats, light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S020. A male thylacine trotting through dense scrub, low branches brushing its body, natural soft light (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A thylacine skull and a wolf skull side by side on black velvet in a museum, almost identical in shape, soft spotlight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S022. Split composition in one scene: a thylacine and a gray wolf standing in the same pose on a rocky ridge at dusk, mirrored, showing their similar body shape. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S023. A thylacine hunting at dusk, low to the ground and moving fast through tussock grass, focused gaze (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S024. A map shape of Australia, New Guinea and Tasmania on a light background, the mainland shaded out and only Tasmania still highlighted, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S025. Dingoes trotting across red mainland Australian scrub under a pale sky, a lone thylacine watching from far away, about three thousand years ago. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S026. Aerial view of Tasmania's wild coast and rainforest, an island cut off by a stormy sea, dramatic clouds. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S027. Early nineteenth-century sailing ships anchored in a quiet Tasmanian bay, rowboats coming ashore, misty hills behind, no flags. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S028. A single thylacine standing on a rock at sunset watching distant smoke from a new settlement in the valley below (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S029. A government office desk with a thin folder of reports, every page blurred and unreadable, a window onto eucalyptus trees. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S030. A kitchen table with a mobile phone showing a blurred night photo of a dark animal shape, a cup of tea beside it, unreadable screen. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S031. A lonely farm hut and sheep paddock carved into Tasmanian bush, nineteenth-century feel, smoke from a chimney. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S032. An old colonial wooden counter with a pile of coins and a blurred unreadable ledger book, oil lamp light. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S033. A rural government office of the late eighteen hundreds, a clerk's hands counting coins at a desk, face out of frame, blurred papers. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S034. A trapper's wooden hut in the bush with steel traps hanging on the outer wall, empty and quiet, late nineteenth century. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A long dusty archive shelf filled with bound ledgers, all spines blank, soft side light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S036. A simple bar of small identical thylacine silhouettes stretching across the frame in rows, each one fading to grey, no numbers, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S037. A flock of sheep grazing on cleared Tasmanian farmland, nineteenth-century feel, stumps of felled trees all around. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S038. A shepherd silhouetted against the dawn on a fenced hill, looking out over his flock, face not visible. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S039. An old photographer's studio with a stuffed thylacine mounted on a wooden stand and a large vintage camera pointed at it, sepia tones. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S040. A museum taxidermy thylacine in a glass case, posed mid-stride with glass eyes, cold museum light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S041. Tasmanian bush being cleared by axemen for new farms, smoke rising from burning stumps, faces not visible. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S042. A pack of feral dogs running along the edge of a cleared paddock at dusk, nineteenth-century feel. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S043. A thin, tired thylacine lying in a hollow log, looking unwell, quiet melancholy light, no wounds (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S044. A rough farmyard in northwest Tasmania near a henhouse, nineteen-thirties feel, a farmer seen from behind holding a rifle pointed at the ground, his dog at his side, no animal visible. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A faded vintage photograph on a wooden table showing a blurred farmer and his dog posing outdoors, details unreadable. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S046. A government chamber of the nineteen-thirties, an empty wooden desk with an ink pen and a blurred unreadable document, winter light through tall windows. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A wall calendar of the nineteen-thirties with the pages blurred and unreadable, blowing slightly in a draught, a clock beside it. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S048. A lone thylacine walking away into a misty forest, its striped back fading into the fog (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S049. A small nineteen-thirties city zoo on a hillside above a harbour town, wire enclosures and wooden huts, overcast sky, no signs. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S050. A thylacine enclosure of the nineteen-thirties: wire mesh fence, concrete floor, small wooden shelter, a striped thylacine standing inside (the zoo enclosure from reference R4, thylacine from reference R1). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S051. A young naturalist in a nineteen-thirties suit seen from behind, setting up a large wooden movie camera on a tripod inside a wire enclosure, face not visible. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S052. A thylacine pacing along the wire fence of its pen, sniffing the air, sepia film look with soft grain (thylacine from reference R1, zoo enclosure from reference R4). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S053. A thylacine turning its head toward the camera lens inside the pen, alert eyes, sepia film look (thylacine from reference R1). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S054. A thylacine opening its jaws in a huge slow yawn, mouth stretched very wide, lips and teeth natural, no blood, sepia film look (thylacine from reference R1). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S055. A cameraman hunched under a dark cloth behind a vintage camera, while a thylacine quietly walks up behind him in the pen, gentle humour, faces not visible (thylacine from reference R1). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S056. A few old film canisters lined up on an archive shelf, one open with a short strip of black and white film curling out, unreadable labels. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S057. A strip of old black and white film frames held up against a light table, each frame showing a blurred striped animal, details unreadable. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S058. The same zoo enclosure on a freezing winter night, frost on the concrete floor, the door of the wooden shelter closed, moonlight (zoo enclosure from reference R4). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S059. An empty thylacine pen at dawn, mist over the wire fence, the concrete floor bare and cold (zoo enclosure from reference R4). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A cracked old studio portrait frame lying face down on a dusty table, symbolising a story falling apart, soft side light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S061. A nineteen-sixties newspaper office desk with a typewriter and a folded newspaper, all print blurred and unreadable. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S062. A researcher seen from behind going through stacks of old zoo record books in an archive, pages blurred and unreadable, warm lamp light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S063. A modern museum collection room with tall grey cabinets and drawers, two researchers seen from behind walking between them, faces not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S064. Close-up of an old yellowed typed report on a desk, its text blurred and unreadable, a magnifying glass resting on it. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A cupboard door opening in a museum storage room revealing a pale thylacine skeleton laid out on foam, cool light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S066. A flat thylacine skin with dark stripes stored on a museum tray, seen from above, careful archival lighting. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S067. An unremarkable cupboard in a museum education room, its door open, a cardboard box and teaching props inside, ordinary daylight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S068. An old female thylacine with a greying muzzle and worn coat resting in a rocky gully in the rugged south of Tasmania, tired but calm (old female thylacine from reference R2). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S069. A trapper in nineteen-thirties clothing seen from behind walking along a misty bush track carrying a wooden crate, face not visible. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S070. A wooden crate on the back of an old cart on a muddy road toward a small town at dusk, nineteen-thirties feel. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S071. The old female thylacine sitting in the zoo enclosure, grey around the muzzle, looking at the wire fence (old female thylacine from reference R2, zoo enclosure from reference R4). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S072. A thylacine skull from the last animal held in gloved hands under museum light, worn teeth visible, face of the person out of frame. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S073. Two thylacines in separate frames of the same enclosure, one younger and one older with a greying muzzle, as if two different moments in time (thylacine from reference R1, old female thylacine from reference R2). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S074. A short walk view across a small city from a hillside park toward a museum building at sunset, no signs. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S075. A modern glass museum display case showing a thylacine skeleton and skin in a quiet gallery, visitors seen from behind, soft light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Dense, wet Tasmanian rainforest seen from above, endless and untouched, mist in the valleys. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A conservation meeting room of the nineteen-eighties, empty chairs around a table with a blurred unreadable document and a coffee cup. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S078. An archive folder stamped closed sitting on a desk, the stamp shape blurred and unreadable, harsh office light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S079. A remote Tasmanian highland moorland at sunset, button grass and twisted trees, no animals visible. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S080. A bushwalker seen from behind stopping on a forest trail, looking intently into the trees, face not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S081. A thylacine moving with a stiff, rocking walk through tussock grass at dusk (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A forest ranger in a khaki uniform seen from behind kneeling to look at footprints on a muddy track, face not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S083. A large luxury yacht moored in a harbour at night, city lights on the water, nineteen-eighties feel, no names on the hull. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A stack of banknotes on a polished table next to an old telephone, nineteen-eighties feel, notes blurred and unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S085. A magazine on a newsstand with its cover blurred and unreadable, a striped animal shape on it, two thousand five feel. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S086. Several searchers seen from behind with backpacks and cameras walking into the Tasmanian bush, morning light, faces not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S087. An empty wooden crate with an open door waiting in a forest clearing, unused, overgrown with moss. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A roadside at night with a blurry four-legged shape at the very edge of a car's headlight beam, impossible to identify. Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S089. A spotted-tailed quoll and a red-necked pademelon and a fox standing in the same forest clearing in soft dusk light, natural and calm. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S090. A researcher seen from behind scrolling through hundreds of trail camera images on a laptop, all images small and blurred, night office light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S091. Infrared trail camera frames of Tasmanian devils, quolls and wallabies at night, grainy grey images in a grid, no thylacine. Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S092. An infrared trail camera frame showing a blurry striped animal half behind a log at night, ambiguous and grainy. Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S093. A spotted-tailed quoll on a fallen log at night, white spots on its brown coat, alert, in torchlight. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S094. A grainy infrared trail camera frame showing two adult-sized blurry animals and a smaller one in the undergrowth, impossible to identify. Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S095. An expert's hands holding printed trail camera photos under a desk lamp in a museum office, a magnifying glass, images blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A Tasmanian pademelon, a small stocky wallaby, sitting upright in the undergrowth at dusk, thick tail resting on the ground. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S097. An infrared flash lighting a forest at night, a pale blurry shape with dark patches on its back caught mid-step, ambiguous. Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S098. A red fox with patchy mangy fur on its back crossing a forest track at night in torchlight, no wounds, ambiguous striped look. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S099. A wallaby seen from behind at a strange angle on a dim forest track, its thick tail looking stiff and long, ambiguous silhouette. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S100. A geneticist's gloved hand holding a small unlabelled tube under laboratory light, a DNA sequencer blurred in the background. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A university research office at night, piles of old newspapers, museum catalogues and letters spread across a large table, all print unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A plain timeline from left to right as a thin line with many small dots of different sizes along it, the dots thinning toward the right, no labels, no numbers. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S103. An old leather-bound diary open on a desk with handwriting blurred and unreadable, next to a modern laptop with a blurred chart. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A set of small symbols in a row on a light background: a skull, a footprint, a pair of eyes, a car silhouette, each in a different shade of strength, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S105. A smooth curved line on a light background rising and then falling away to the right, a soft shaded band around it showing uncertainty, no labels, no numbers. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S106. A map shape of Tasmania with only the wild southwest corner softly glowing, the rest grey, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S107. The wild southwest of Tasmania: jagged mountains, deep river gorges and endless rainforest under brooding clouds. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A thylacine walking along a riverbank deep in southwest Tasmania at dusk, nineteen-eighties era hinted only by a distant vapour trail in the sky (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S109. A typewritten obituary card on an office desk beside a vintage computer, print blurred and unreadable, nineteen-eighties office light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S110. A desk with a calculator, a pencil and scraps of paper covered in scribbled shapes, everything blurred and unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S111. An empty forest clearing in morning fog where something might once have stood, quiet and still. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S112. A thylacine trotting through moonlit eucalyptus forest, focused and quick, hunting small animals (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S113. A modern biology lab with a thylacine skull on a turntable beside a 3D scanner, a blurred computer screen behind, cool light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S114. A digital 3D mesh model of a thylacine skull rotating against a dark background, clean wireframe lines, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S115. Many mammal skulls of different shapes arranged in neat rows on a long museum table: wolves, foxes, big cats and marsupials, soft overhead light. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A thylacine skull silhouette with its front half overlaid by a fox skull outline and its back half by a marsupial skull outline, light background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A fox skull and a jackal skull beside the front of a thylacine skull on black velvet, museum spotlight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S118. Side-view size comparison: a thylacine body silhouette with an oversized skull outline above it, next to a gray wolf and a leopard silhouette, plain light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S119. Side-view size comparison: a thylacine silhouette beside a medium dog silhouette and a standing adult human silhouette, plain light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A thylacine making a fast snapping lunge at a bandicoot in the undergrowth at night, the bandicoot escaping, no blood (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A brushtail possum on a low branch at dusk with a thylacine watching from below, tense but calm, no attack (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A thylacine standing in a paddock near a flock of large sheep, looking small beside them, the sheep calm and unbothered (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S123. A computer screen with a blurred colourful jaw stress model of a skull, soft lab light, unreadable details. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S124. Feral dogs moving through a sheep paddock at night under a dim moon, nineteenth-century feel, sheep scattering, no blood. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S125. A struggling colonial farm in a harsh winter, a farmer seen from behind looking over a thin flock, sepia tones. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A tall pile of old bounty ledgers stacked on a colonial desk, spines blank, dust in the light. Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S127. A thylacine chasing a bandicoot through ferns at night, playful in tone, moonlight (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S128. A glass laboratory jar holding a preserved thylacine pup in clear liquid on a museum shelf, soft backlight. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S129. A modern genetics lab with sequencing machines and scientists in white coats seen from behind, cool blue light, all screens blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S130. A pale gray wolf with a white coat standing in a fenced preserve at dusk, a brief callback to the previous video. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S131. An old glass jar with a preserved thylacine head in ethanol on a museum shelf, amber liquid, careful lighting. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S132. A long spiral strand of DNA nearly complete, with only a few tiny gaps glowing along it, dark background, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S133. A fat-tailed dunnart, a tiny mouse-sized marsupial with a thick tail and big dark eyes, sitting on a leaf at night (dunnart from reference R5). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S134. Side-view size comparison: a tiny dunnart silhouette next to a thylacine silhouette and a human hand silhouette, plain light background. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S135. A futuristic artificial womb device in a lab: small transparent chambers connected by tubes to a machine, soft blue light, no screens readable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S136. A close-up of a tiny transparent chamber holding a minute marsupial embryo in fluid, scientific and gentle. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S137. A company executive seen from behind standing on a stage in front of a large blurred screen, audience silhouettes, no logos. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S138. Four sugar cubes on a kitchen scale beside a tiny dunnart model, soft daylight, scale display blurred. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S139. A natural history museum gallery with marsupial skeletons in cases, a scientist seen from behind deep in thought, faces not visible. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S140. A simple branching family tree as clean lines splitting very early into two long branches, one ending in a dunnart silhouette and one in a thylacine silhouette, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A striped thylacine pup curled up alone in a lab nursery basket, a keeper's gloved hands nearby, faces out of frame (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S142. A modern Tasmanian landscape with roads, farms and power lines cutting into the bush at sunset, a changed island. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S143. The same night road from the opening, empty now, headlights fading into the dark ferns (the night road from reference R3). Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S144. Several searchers' torches sweeping across dense forest at night, seen from far away, no faces. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S145. The museum cupboard door slowly opening to reveal the pale thylacine skeleton inside, warm light falling across it. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S146. The old female thylacine's skull resting on a cushion in a quiet museum gallery, a single beam of light (old female thylacine from reference R2). Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S147. An old yellowed taxidermist's report lying on a museum desk under a lamp, text blurred and unreadable. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S148. A thylacine moving through a remote southwest valley at dawn, decades after it was declared gone, a hidden survivor (thylacine from reference R1). Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S149. A nineteen-eighties living room with a video recorder and a boxy personal computer, blue glow from a television, no readable screens. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S150. A vast, untouched southwest wilderness seen from a high ridge, rivers glinting, impossible to search fully. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S151. A single thylacine footprint pressed into wet mud by a forest creek, early light, ambiguous and lonely. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S152. A dark gravel road in Tasmanian bush at night twenty years from now, a striped animal crossing the headlights, an eerie modern glow (the night road from reference R3, thylacine from reference R1). Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S153. A modern lab nursery at night, an empty heated basket with soft blankets under a warm lamp, waiting for a striped pup that does not exist yet, gentle and eerie. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S154. A car's headlights catching a pair of distant glowing eyes and a blurred striped back at the edge of the beam (thylacine from reference R1). Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S155. A thylacine's silhouette formed by moving shadows of ferns on a forest floor, a shape the mind wants to see. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S156. The nineteen-thirties zoo enclosure with the striped thylacine yawning at the camera, sepia film look (thylacine from reference R1, zoo enclosure from reference R4). Style: documentary photograph with a nineteen-thirties archival feel, muted sepia tones, soft film grain, 16:9, no text, no letters, no watermark.
+
+SCENE S157. A small wolf pup curled up as if asleep, perfectly preserved in frozen mud, fur and skin intact, gentle cold light. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S158. A hydraulic water cannon spraying a muddy permafrost cliff at a gold mine in the Yukon, misty northern light, workers seen from behind. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S159. Ice Age Yukon landscape with grassy steppe, distant mammoths and a she-wolf with her pups by a riverbank, rich earthy palette. Style: painterly realism wildlife art, scientifically accurate reconstruction, natural documentary lighting, rich earthy palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S160. A person seen from behind at a desk at night, typing on a laptop, a dark window with the bush outside, unreadable screen. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S161. The empty night road with the car stopped, hazard lights blinking, a dark gap in the roadside ferns (the night road from reference R3). Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S162. A trail camera strapped to a tree in the southwest at night, its small red light blinking in the dark. Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+SCENE S163. A museum cupboard at night lit only by a faint blue night glow, the thylacine skeleton resting inside, quiet and still. Style: documentary photograph, museum, lab or field lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S164. The final shot: the edge of a trail camera's infrared view in the forest, a faint striped shape just outside the frame, ambiguous (thylacine from reference R1). Style: documentary photograph, night scene, cold headlight or infrared light, natural grain, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S164.png, R1.png … R5.png for references), one file per number, no UUID names, no numbers or text drawn inside the images. Check: the thylacine is a dog-sized striped marsupial, never a big cat and never a giant; stripes only on the back half, rump and tail base; tail thick and stiff; no blood, no wounds, no fighting, no logos, no recognisable real people.
