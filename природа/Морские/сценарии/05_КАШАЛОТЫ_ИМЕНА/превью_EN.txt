@@ -1,0 +1,26 @@
+ПРЕВЬЮ EN — 05 «Кашалоты: семейные имена»
+РАСКЛАДКА: E — Кино-кадр
+
+Ключевая мысль-крючок: кашалоты у Доминики, всплывая к семье, первым делом выстукивают ритм своего клана — что-то вроде фамилии. Превью — встреча лицом к лицу: огромная голова кашалота и крошечный дайвер, и кит будто спрашивает «а ты кто?». Раскрытие — в первые 2–3 минуты (хук: «животное, которое сначала представляется» ритмом своего клана; 2005 год, Шейн Джеро, семьи с именами).
+
+СТИЛЬ ПРЕВЬЮ (раскладка E, отличается от 04 — C)
+Кинокадр во весь экран без чёрной стены: кашалот в три четверти справа, его глаз ловит свет фонаря дайвера слева, мягкая виньетка, нижние 35% темнее под текст. Две огромные строки внизу по центру, без плашки. Цветовая схема 1: белый + жёлтый.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Photorealistic cinematic YouTube thumbnail, 16:9, full frame, dark underwater scene. A huge adult female sperm whale in three-quarter front view, her massive blunt square head with wrinkled dark grey-brown skin and pale scars filling the right two thirds of the frame, her eye catching the diver's torchlight. On the left, a tiny scuba diver in a dark wetsuit and mask, face hidden, holding a torch pointed at her, facing her. Faint shafts of light from far above, deep navy water fading to black. Soft dark vignette at the edges; the lower 35% of the frame darker and calm, empty for text. No text, no letters, no logos, no watermark.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, 2 строки внизу по центру, очень крупно)
+WHO'S                                    — белый
+ASKING?                                  — жёлтый
+
+3. ПЛАШКА — нет (убрана по перепроверке; раздел пустой, чтобы программа ничего не рисовала)
+
+4. ПРОМТ ДЛЯ FLOW (с точным текстом, запасной путь)
+Same image as section 1. Bottom centre, bold condensed uppercase text, two very large lines: line 1 white: WHO'S / line 2 yellow: ASKING? No other text.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: квадратная голова кашалота с бликом в глазу, крошечный дайвер с лучом, «ASKING?» жёлтым.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: Sperm Whales Have Family Names. We Just Learned to Hear Them
+Превью — реплика кита «а кто спрашивает?»: кашалот сам представляется и спрашивает, кто ты. Слова не повторяют название. Что именно звучит в «имени» (ритм клана, семейный акцент, а личные имена — пока гипотеза) — по ходу ролика, честный ответ — в финале. Кадр превью = сцена S001 (первые 5 секунд).

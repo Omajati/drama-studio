@@ -1,0 +1,375 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: an 18-minute English YouTube documentary for adults, channel "Sea Creatures" (ocean animals network), titled "Sperm Whales Have Family Names. We Just Learned to Hear Them". Story: off the Caribbean island of Dominica, scientists have followed the same sperm whale families since 2005. The whales live in matriarchal families, hunt squid up to two kilometers deep with the loudest clicks of any animal, and at the surface trade short rhythmic click patterns called codas. Each vocal clan has its own identity rhythm, like a family name; Project CETI found that codas are built from parts (rhythm, tempo, stretching, an extra click) and even vowel-like sounds. In July 2023 the team filmed a sperm whale birth in which unrelated females helped lift the newborn. The video ends with ship noise, the shrinking population and the world's first sperm whale reserve. Calm blue Caribbean water near the surface, black depths, research boat, drones, hydrophones.
+
+Visual style (used for every image): dark cinematic underwater photorealism, deep navy and black water, shafts of light from above, natural bioluminescence where it exists in nature, documentary wildlife photography. Surface scenes: dark cinematic ocean photorealism with natural daylight or moody evening light. Scale diagrams: clean scientific illustration on dark navy background without labels.
+
+Recurring characters (keep identical across shots):
+FEMALE SPERM WHALE — an adult female sperm whale of the Dominica families, about eleven meters long, dark grey-brown wrinkled skin, a huge blunt box-shaped head about a third of the body, a narrow underslung lower jaw with a pale lining, a small eye low on the side of the head, a single blowhole at the front left of the head, a low rounded dorsal hump followed by a row of knuckle-like bumps, broad triangular tail flukes with small nicks on the trailing edge, pale scars on the head.
+CALF — a young sperm whale about four meters long, lighter grey, wrinkled skin, rounder smaller head, same body plan.
+THE RESEARCH BOAT — a small white research boat about twelve meters long with a low cabin and a black hydrophone cable over the side, no name, no flag, no logos.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no boat names, no flags with symbols, no blood, no wounds, no animals being torn apart, no recognisable real people. People appear only as silhouettes, from behind or in diving gear with faces hidden. Below 200 meters light comes only from torches or bioluminescence. Phone screens, newspapers, journals, notebooks and screens are always blurred and unreadable. Sperm whales always have realistic anatomy: one blowhole on the front left, a low dorsal hump, two small pectoral fins, a horizontal tail fluke, a narrow lower jaw; never a toothy mouth like a shark.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of an adult female sperm whale in side view and three-quarter front view: about eleven meters long, dark grey-brown wrinkled skin, huge blunt box-shaped head, narrow underslung lower jaw, small eye low on the side, single blowhole at the front left, low dorsal hump with knuckle-like bumps behind it, broad triangular flukes with small nicks on the trailing edge, a few pale scars on the head. Style: photorealistic, clear blue water, even light, 16:9, no text.
+
+REFERENCE R2. Reference sheet of a sperm whale calf in side and top view: about four meters long, lighter grey wrinkled skin, rounder smaller head, same body plan as the adult. Style: photorealistic, clear blue water, even light, 16:9, no text.
+
+REFERENCE R3. Reference of a small white twelve-meter research boat with a low cabin, a black hydrophone cable running over the side into the water, no name, no flag, no logos, seen on calm blue sea. Style: photorealistic, neutral light, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+
+SCENE S001. A huge adult female sperm whale (R1) in three-quarter front view in deep navy water, her massive square wrinkled head filling the right two thirds of the frame, her eye catching the diver's torchlight, a tiny scuba diver on the left with a torch facing her, faint shafts of light from far above, soft dark vignette, the lower part of the frame darker and calm. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Extreme close-up of the wrinkled dark grey-brown skin of a sperm whale's head (R1), fine ridges like crumpled cloth, a faint beam of light grazing across it, deep navy water around. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S003. A sperm whale (R1) diving vertically into black water, seen from above, her tail flukes already disappearing into the dark, the last pale light from the surface fading around her body. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Deep ocean at about one kilometer: total darkness, a sperm whale (R1) barely visible as a dark shape, faint blue bioluminescent sparks drifting in the water around her head, no sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S005. A lone scuba diver (faceless, in mask and dark wetsuit) hanging in blue water, hands pressed to his chest as if feeling a vibration, a huge dark sperm whale shape passing far below in the gloom. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S006. A newborn sperm whale calf (R2) being gently lifted at the surface by the heads of two adult females (R1), seen from underwater, sunlight breaking through the surface above them, bubbles, calm blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S007. A simple visual rhythm diagram: five glowing white dots on a dark navy background, two widely spaced dots followed by three closely spaced dots, soft glow, like a pulse of sound. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S008. Two adult sperm whales (R1) side by side near the surface, heads almost touching, small ripples of sound shown only as faint rings in the water between them, sunbeams from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S009. Close view of the narrow lower jaw and the front of a sperm whale's head (R1) at the surface, water streaming off, a soft mist of breath above, cinematic blue-grey light. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S010. Aerial view of a green mountainous Caribbean island with steep forested slopes dropping into deep blue sea, a few clouds over the peaks, a small white research boat (R3) far offshore. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S011. A small white research boat (R3) on calm deep-blue water off a green island at golden hour, a thin black hydrophone cable running over its side into the sea, two people seen only from behind wearing headphones. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S012. A family of five sperm whales (R1 and one calf R2) resting vertically just below the surface, like huge logs standing upright in the water, sunlight above, deep blue below. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S013. A sperm whale (R1) and her calf (R2) face to face in blue water, the calf's small head near the mother's huge head, an intimate moment, soft light. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S014. Silhouette of a sperm whale (R1) passing slowly over the camera against the bright surface, the shape of her body black against shimmering light. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S015. A scuba diver (faceless) floating calmly at a respectful distance from a resting sperm whale (R1), both small against a vast blue space, gentle mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S016. A small white research boat (R3) alone on the open Caribbean sea at dawn, the coast of a green island behind it, flat water, early pink light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S017. Over-the-shoulder view from behind of a researcher in a cap and sunglasses holding binoculars on the deck of the research boat (R3), a whale's misty blow on the horizon, face not visible. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S018. A sperm whale's bushy, forward-angled blow rising from the sea surface near the boat, the left-tilted spout lit by morning sun, green island coast in the background. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S019. The west coast of a green Caribbean island seen from the sea, small coastal villages and a calm bay, deep blue water dropping off steeply close to shore. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S020. A photorealistic recreation of a nineteenth-century wooden whaling ship on a stormy grey sea at dusk, sails torn, no people visible, dark dramatic mood. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A lone large male sperm whale, much bigger and scarred, cruising alone through dark blue water, scars as pale lines on his head, cold mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S022. A family of sperm whales underwater: several adult females (R1) of different sizes and two calves (R2) swimming close together in a loose group through clear blue water, sunbeams above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S023. An old female sperm whale (R1, more scarred) leading the family, a younger female and a calf (R2) following just behind her in a line, deep blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S024. Scale illustration on dark navy background: side view of an adult female sperm whale about eleven meters long next to a city bus of the same length and a small human silhouette at the same scale, realistic proportions, soft glow, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S025. Side view of a female sperm whale (R1) gliding past the camera, showing the huge box-shaped head taking up about a third of her body, the narrow lower jaw underneath, deep blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S026. Cross-section style view inside a sperm whale's head rendered realistically: the large oil-filled organ above, the skull at the back, soft warm glow inside dark tissue, no gore, educational mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S027. Scale illustration on dark navy background: a large sperm whale brain shape next to a much smaller human brain shape, realistic proportions, soft glow, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S028. A sperm whale (R1) lifting her broad triangular tail flukes high out of the water as she dives, water pouring off the trailing edge, blue sky and sea. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S029. Close view of the trailing edge of a sperm whale's tail fluke above the water, a unique pattern of nicks and notches clearly visible, droplets in sunlight. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S030. From behind, a researcher (face not visible) holding a camera with a long lens on the research boat (R3), pointing at a raised whale tail in the distance. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S031. Three adult female sperm whales (R1) swimming in a tight row near the surface, seen slightly from below, each with slightly different scars on the head. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S032. Two female sperm whales (R1) at the surface, rolling gently against each other, one showing her pale lower jaw, playful and calm mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S033. Research boat deck at sunset: an open notebook with blurred unreadable handwriting, a pair of headphones and a camera lying on a bench, the sea in the background. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S034. A sperm whale (R1) hanging still just below the surface, her eye in close-up, calm and watchful, light rippling over her skin. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A group of sperm whales (R1) descending into darker water, their bodies fading one by one into the deep blue. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S036. A sperm whale (R1) in near darkness emitting a click, shown as a faint ring of pressure distortion in the water spreading forward from her head, particles in the water shivering. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S037. Close-up of the front of a sperm whale's head in dark blue water, small particles and plankton vibrating in a cone in front of her, cinematic tension. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S038. A dim nineteenth-century whaling-ship galley at night, old tallow candles and an oil lamp burning on a wooden table, warm glow, no people. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S039. Clean scientific illustration of a sperm whale head in side view on dark navy background, the long oil-filled organ glowing softly, a thin line of light bouncing back and forth inside it and leaving the front as a beam, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S040. A sperm whale (R1) hunting in pitch-black water at depth, a faint cone of sound shown as rippling distortion ahead of her, only bioluminescent specks for light. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S041. A large deep-sea squid hanging in black water, lit only by its own faint bioluminescent glow, tentacles spread, seen from a distance. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S042. Far below in total darkness, a sperm whale (R1) turning toward a faint glowing squid, the whale lit only by bioluminescence, no sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S043. A rocket launch on a distant launch pad at dusk, a huge column of smoke and fire, seen from far away across water, no logos. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S044. A scuba diver (faceless) hovering in blue water with his head tilted as if listening, a faint ripple of pressure passing through the water around him, a sperm whale shape far away. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A scuba diver (faceless) in blue water flinching slightly, hand on his chest, a sperm whale (R1) several body lengths away facing him, tension but no danger. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S046. Close-up of a diver's gloved hand pressed flat against the chest of his wetsuit, blue water and bubbles around, face not visible. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A sperm whale (R1) calmly swimming past a diver at a distance, ignoring him, peaceful mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S048. Wide shot of a diver floating in a beam of sunlight, a sperm whale family passing below him, calm and safe atmosphere. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S049. Sperm whales (R1, R2) gathering close together at the surface between dives, bodies touching, sunlight dappling their backs. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S050. Underwater view of several sperm whale heads close together just below the surface, faint concentric ripples of sound between them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S051. A small group of sperm whales resting at the surface in calm water, blows drifting in soft afternoon light, the research boat (R3) at a respectful distance. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S052. Two sperm whales (R1) facing each other head to head just below the surface, as if in conversation, sun rays falling between them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S053. Close-up of a female sperm whale (R1) and a calf (R2) side by side, the calf's head turned toward the mother, intimate exchange. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S054. A researcher seen from behind in headphones in the cabin of the research boat (R3), a laptop screen showing a blurred unreadable sound waveform, sea through the window. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S055. A family of sperm whales (R1) moving together along a steep underwater slope near the island, deep blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S056. A sperm whale (R1) rising from the deep toward the bright surface, seen from below, her body black against the light, bubbles streaming. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S057. Rhythm illustration on dark navy background: two separate glowing white dots, a gap, then three tight glowing dots in a row, like a heartbeat pattern, soft glow, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S058. A sperm whale (R1) surfacing beside two others, the three heads close together, sunlight breaking on the water above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S059. Map-like aerial view of the Caribbean island chain at dusk seen from very high altitude, dark sea and small green islands, no labels, no text. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A city-bus-sized sperm whale (R1) gliding past a diver in open blue water, the diver tiny next to her, scale and calm. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S061. A sperm whale family (R1, R2) swimming through open blue sea far from any coast, endless water below them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S062. Two separate sperm whale family groups in the same stretch of blue sea, one in the foreground and one farther away, not mixing, soft haze between them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S063. Aerial drone view of two groups of sperm whales at the surface, far apart from each other on calm blue water, the island coast at the edge of the frame. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S064. A sperm whale (R1) from one group passing at a distance from another family, the two groups ignoring each other, deep blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S065. Deep water with a faint glowing squid and two sperm whales from different families hunting in the same darkness far apart, lit only by bioluminescence. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S066. A smaller family of sperm whales (R1) swimming in a tight line, slightly different scars and markings, moving away into the blue. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S067. A colorful Caribbean market street seen from a distance at golden hour, blurred crowd of anonymous people, no readable signs, no faces. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S068. Two hillside neighborhoods of colorful houses on opposite sides of a green valley on a Caribbean island, the sea beyond, warm evening light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S069. A vast Pacific Ocean seen from high altitude at sunset, curved horizon, scattered clouds, deep blue water. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S070. Many sperm whale groups scattered across the open ocean shown in one wide underwater panorama, small dark shapes in different directions in the blue. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S071. Clean illustration of the Pacific Ocean on dark navy background showing seven softly glowing colored zones of whale groups, some overlapping, no labels, no text, no borders. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S072. A research hydrophone being lowered on a cable from the side of a boat into dark blue water, a gloved hand guiding it, no face visible. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S073. Two sperm whale families meeting where their ranges overlap, each group tightly bunched, a clear space of blue water between them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S074. Aerial view of two tightly bunched groups of sperm whales at the surface close to each other but clearly separate, a strip of calm blue water between them. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S075. Two old harbor flagpoles side by side on a windy coastline at dusk, plain colored flags without any symbols or text flapping, sea behind. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S076. A lone family of sperm whales in a remote stretch of empty ocean, swimming slowly, no other whales anywhere. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A sperm whale (R1) breaking the surface with a burst of blow near the green island coast, morning light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S078. Close-up of two sperm whales (R1) touching heads gently just below the surface, a moment of recognition. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S079. A whole sperm whale family (R1, R2) hanging together in blue water in a loose circle, sunbeams falling through them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S080. A single sperm whale (R1) in close-up from the side, her small dark eye looking toward the camera, deep blue water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S081. A blurred stack of newspapers and phone screens with unreadable headlines on a table, a whale photo vaguely visible on one page, everything out of focus. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S082. A sperm whale (R1) turning away from the camera into darker water, ambiguous and mysterious mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S083. Two bottlenose dolphins swimming together in clear turquoise water, one with its mouth slightly open as if whistling, sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A sperm whale (R1) and a smaller female hanging near each other in blue water, neither moving, a question in the air. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S085. Close-up of an old cassette recorder and headphones on a wooden table in a small field station by the sea, warm lamp light, nothing readable. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S086. A hand with a pen writing on paper next to blurred unreadable lines resembling handwriting, close-up, warm desk light, face not visible. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S087. Illustration on dark navy background: three rows of five evenly spaced glowing dots, each row with slightly different spacing and brightness, like the same word in three handwritings, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S088. Three individual sperm whales (R1) side by side in blue water, each with visibly different scars and skin marks. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S089. A family unit of sperm whales (R1, R2) swimming in formation near the surface, the mother in front, sun rays from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S090. Wide underwater panorama of several sperm whale families in the same blue water, each family a separate tight cluster, sunbeams. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S091. A female sperm whale (R1) with her calf (R2) pressed against her side, close and protective. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S092. From behind, a researcher in a cap on the research boat (R3) looking out to sea, headphones around his neck, the island behind, face not visible. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S093. Wide view of a sperm whale family against the blue, a single whale slightly apart from the others, seen from below. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S094. Extreme close-up of a sperm whale's eye (R1) half-closing in blue water, light rippling over the wrinkled skin around it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S095. A calf sperm whale (R2) swimming toward its family group in blue water, the adults turning toward it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A sperm whale (R1) diving straight down into black water, a diver above her with a torch whose beam doesn't reach her. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S097. Total darkness at depth, only the faint outline of a sperm whale's head lit by tiny bioluminescent specks, impossible to follow. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S098. Shelves of hard drives and labelled boxes in a small research station, labels blurred and unreadable, a window to the sea, soft light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S099. A modern research boat with a drone hovering above it at sunrise off the green island, calm sea, no logos. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S100. A computer workstation in a dim lab at night, several screens showing blurred unreadable spectrograms in blue and orange, an empty chair, no people. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S101. Underwater view of a hydrophone listening station anchored on a cable in deep blue water, small blinking light, a whale shape in the distance. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S102. A small research drone flying low over the sea above a group of sperm whales at the surface near the island, morning light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S103. A wall of monitors in a dark lab showing thousands of tiny blurred unreadable marks in rows, blue glow, an empty chair, no people. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A group of about a dozen sperm whales (R1, R2) together at the surface seen from below, a dense social gathering. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S105. Close-up of a sperm whale's head (R1) near the surface sending out a series of faint overlapping rings of sound, sunlight dappling the water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S106. Close-up of plain wooden building blocks of different shapes being stacked into a long chain on a dark table, warm light, no letters or symbols on them. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S107. Illustration on dark navy background: the same row of five glowing dots shown twice, once spaced widely and once compressed tightly, soft glow, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S108. Close-up of a pianist's hands on piano keys in dim warm light, slowing down at the end of a phrase, no face visible. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S109. Close-up of a calligraphy brush adding one small final flourish at the end of a stroke of black ink on paper, the shapes abstract and unreadable, warm light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S110. Two sperm whales (R1) exchanging clicks near the surface, faint overlapping rings of sound between their heads. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S111. A night sky crowded with countless stars over a calm dark sea, the Milky Way reflected in the water, a sense of endless combinations. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S112. A blurred newspaper front page with an unreadable headline and a picture of a whale tail, lying on a café table by the sea. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S113. A sperm whale (R1) looking straight at the camera in blue water, enigmatic and silent. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S114. A sperm whale family disappearing into the deep blue, sound rings fading behind them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S115. Close-up of the front of a sperm whale's head (R1) in blue water, a soft shimmering ripple flowing from it like a voice rather than a sharp click. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A linguist seen from behind wearing headphones in a dark room, leaning toward a monitor with blurred unreadable sound patterns, face not visible. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S117. Two sperm whales (R1) face to face near the surface, one with a wide relaxed mouth and one with a narrow closed one, sound ripples between them, sunlight. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S118. A sperm whale (R1) with her mouth slightly open near the surface, light playing over her head, as if mid-call. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S119. An ancient unreadable stone tablet with mysterious carved symbols half in shadow, blurred so nothing is legible, warm museum light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A sperm whale family gathering at the surface around a small calf (R2), adults turning toward it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A huge sperm whale (R1) hanging still in blue water, a small calf (R2) appearing beside her for the first time. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A pregnant female sperm whale (R1), her belly visibly rounded, swimming slowly near the surface with other females close around her. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S123. An old field notebook with blurred unreadable handwritten notes lying on a ship's rail, the sea behind, soft overcast light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S124. Sperm whale females (R1) circling slowly near the surface, restless movement, sunbeams cutting through bubbles. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S125. The west coast of the green Caribbean island on a bright July morning, the research boat (R3) on calm water, sperm whale blows nearby. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S126. Aerial drone view from straight above: eleven sperm whales, adults and calves, bunched tightly together at the surface in a restless knot, white water around them, deep blue sea. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S127. A small drone lifting off from the deck of the research boat (R3), the sea and a group of whale blows behind it, morning light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S128. A hydrophone on a cable sinking into blue water beside a tight group of sperm whales, bubbles and sunbeams. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S129. Underwater, a female sperm whale (R1) in labor surrounded closely by other females, bodies pressed together, swirling water and bubbles, no blood, tasteful documentary framing. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S130. Scale illustration on dark navy background: a newborn sperm whale calf about four meters long next to a small car of the same length and a human silhouette, realistic proportions, soft glow, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S131. A newborn sperm whale calf (R2), pale grey and wrinkled, floating awkwardly near the surface with its tail flukes still soft and curled. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S132. Two adult female sperm whales (R1) pushing the newborn calf (R2) up toward the surface with their heads, sunlight above, bubbles. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S133. Aerial view of the whale group at the surface with the small grey calf held up in the middle of them, white water, deep blue sea. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S134. A different female, slightly smaller and with different scars, taking her turn to lift the calf (R2) to the surface. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S135. A young sperm whale (Ariel), smaller than the adults, staying right beside the newborn calf (R2) and nudging it upward, attentive and gentle. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S136. A stack of scientific journals on a desk with blurred unreadable covers, a whale photograph out of focus on top, soft daylight. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S137. The adult females (R1) clustered tightly around the newborn, heads close together, tense and focused, light from above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S138. The newborn calf (R2) taking its first breath at the surface, a tiny puff of mist above the water, adults close around it. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S139. The whale family relaxing around the calf (R2), bodies spreading out calmly, sunbeams through the water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S140. A mother sperm whale (R1, Rounder) with her newborn calf (R2) resting against her side, peaceful and quiet. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S141. A sperm whale calf (R2) swimming beside its mother (R1), mouth slightly open as if trying to make a sound, playful and clumsy. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S142. A young calf (R2) between two adult females (R1), listening, its small head turned toward one of them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S143. A calf (R2) alone at the surface waiting while the adults dive far below, the dark shapes of the adults fading in the depth. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S144. A large cargo ship passing along the coast of the green Caribbean island at dusk, heavy wake, no name, no logos, no flags. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S145. Underwater view of a ship's propeller churning white water near the surface, a sperm whale family visible at a distance in the blue, tense mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S146. A white cruise ship and a ferry crossing the deep water off the island, seen from far away, no names, no logos. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S147. Illustration on dark navy background: a clean row of glowing dots being blurred and distorted by a wide band of grey noise, no labels. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S148. A sperm whale (R1) turning her head away from a distant ship shape above, her family bunched close. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S149. A small calf (R2) pressed against an older female in murky blue water, the faint outline of a ship hull far above. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S150. A green Caribbean island seen from the sea at golden hour, small sperm whale blows near the coast, peaceful and fragile mood. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S151. A family of sperm whales swimming in open blue water, fewer of them than before, wide empty space around them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S152. A lost fishing net drifting in blue water like a ghostly curtain, a sperm whale passing at a safe distance, no injury. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S153. A mother sperm whale (R1) with a single calf (R2) in a large empty stretch of blue sea, sunbeams. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S154. Aerial view of the protected stretch of deep blue sea along the west coast of the island, the green coast and calm bays, a small research boat (R3), no labels, no lines. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S155. Scale illustration on dark navy background: the outline of a coastal marine area next to the outline of a large city of similar size, soft glow, no labels, no text. Style: clean scientific illustration on dark navy background, realistic proportions, soft glow, 16:9, no text, no letters, no labels, no watermark.
+
+SCENE S156. A sperm whale (R1) facing the camera in deep blue water, calm and enormous. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S157. Two sperm whale families at a distance from each other in the same water, each group close-knit. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S158. A family unit (R1, R2) swimming together, the mother in front, sun shafts. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S159. A single sperm whale (R1) in profile, her scarred skin and small eye visible, quiet mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S160. Two sperm whales (R1) side by side near the surface exchanging clicks, faint sound rings between them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S161. A sperm whale family hanging still at the surface in a loose circle, seen from below, the light above them. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S162. A sperm whale (R1) rising from the deep black water toward the faint blue light above, alone. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S163. Close view of the female sperm whale (R1) nearing the surface, light rippling over her head, bubbles streaming. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S164. The female sperm whale (R1) breaking the surface beside her family near the green island, a bushy blow in the evening light. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S165. The same female sperm whale (R1) beside her family under the surface, heads close together, five faint rings of sound spreading in the water. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S166. The small white research boat (R3) on dark evening water, one person seen from behind with headphones, a whale blow in the distance, quiet and humble mood. Style: dark cinematic ocean photorealism, deep navy, black and grey sea tones, natural daylight or moody evening light, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S167. A huge sperm whale (R1) in three-quarter front view in deep navy water, her eye catching the torchlight of a tiny diver on the left, the same composition as the opening shot. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S168. Dark icy Arctic water under a ceiling of sea ice, pale blue light filtering through cracks, empty and cold. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S169. A large slow Greenland shark gliding through dim cold water under the ice, grey-brown skin, small pale eye, seen from a distance. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+SCENE S170. Close-up of a Greenland shark's head in near darkness, a small pale worm-like parasite attached to its eye, cold green-grey water, eerie mood. Style: dark cinematic underwater photorealism, deep navy and black water, soft shafts of light from above, natural bioluminescence where it exists in nature, realistic anatomy and natural colors, documentary wildlife photography, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S170.png, R1.png … R3.png for references), one file per number, no UUID names, no numbers or text drawn inside the images.
