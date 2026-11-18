@@ -1,0 +1,37 @@
+ПРЕВЬЮ ES — 22 «Apta»
+
+Ключевая мысль-крючок: сын говорит в банке, что у матери проблемы с памятью, и просит не выдавать ей 30 000 €; управляющая звонит ей спросить, кто врёт, — мать приносит свежую медсправку водителя «APTA». Раскрытие — в первые 3 минуты (2:02–2:41).
+
+СТИЛЬ НИШИ ES
+Чёрный фон слева (60%) с мини-историей капсом, портрет справа (40%), красная плашка внизу слева. Без «HISTORIA REAL».
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic YouTube thumbnail, 16:9. On the right 40%, head-and-shoulders portrait of a 70-year-old Southern European woman with a short grey pixie cut, tanned face, small silver earrings and a navy quilted jacket, holding up a document with a blue stamp (blurred) and a set of motorhome keys, calm, quietly determined, a faint smile, looking straight at the viewer; behind her, softly blurred, a bank office. Left 60% plain black and empty for text. No text, no letters, no logos.
+
+2. ТЕКСТ СЛЕВА (капс, жирный рубленый шрифт, 5 строк)
+MI HIJO LE DIJO AL BANCO                 — белый
+QUE YO NO ESTOY BIEN                     — жёлтый
+DE LA CABEZA.                            — белый
+LA DIRECTORA ME LLAMÓ:                   — белый
+¿QUIÉN DE LOS DOS MIENTE?                — белый, «MIENTE» красный
+
+3. ПЛАШКА
+Красный прямоугольник внизу слева, белые буквы: APTA
+
+4. ПРОМТ THUMB_ES ДЛЯ FLOW (с точным текстом; подключить R1 и R8)
+Photorealistic YouTube thumbnail, 16:9. Right 40%: the woman from reference R1, head and shoulders, holding up the stamped document from reference R8 (blurred) and motorhome keys, calm and determined, looking at the viewer; blurred bank office behind her. Left 60%: solid black background with five lines of bold condensed uppercase text, left-aligned, exactly:
+line 1 white: MI HIJO LE DIJO AL BANCO
+line 2 yellow: QUE YO NO ESTOY BIEN
+line 3 white: DE LA CABEZA.
+line 4 white: LA DIRECTORA ME LLAMÓ:
+line 5 white with MIENTE in red: ¿QUIÉN DE LOS DOS MIENTE?
+Below the text, a red rectangle with white bold uppercase text: APTA
+No other text, no logos. Check accents and signs exactly (LLAMÓ, ¿QUIÉN…?).
+Файл: THUMB_ES.png. Если Flow искажает буквы — сгенерировать картинку по промту 1 и наложить текст в редакторе.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до размера сайдбара (~168×94). Должны читаться: «NO ESTOY BIEN», «MIENTE» и плашка APTA. Если строки сливаются — объединить строки 2–3.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: «Mi madre ya no se acuerda de las cosas», le dijo mi hijo al banco. El banco me llamó a mí
+Название — ложь сына цитатой и ход банка. Превью ставит вопрос «кто врёт?». Плашка «APTA» — одно слово-ответ, но откуда и зачем деньги — не ясно.
