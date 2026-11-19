@@ -1,0 +1,51 @@
+# Выбросы ниши «доисторические люди» — свод на 19.11.2026 (цифры YouTube Data API из сырья 18.11: ленты каналов и поиск search9; ×мед = просмотры / медиана последних ≤50 роликов канала; ≈ — ролик вне окна 50; ×подп = просмотры / подписчики)
+# Новых запросов API 19.11 нет: первый поиск вернул HTTP 429 — по правилу остановились.
+×мед	просм	мин	дата	канал (подп., медиана)	название
+×3123	920K	13.4	2026-09-23	Stickstory (3K, 294)	What Did Ancient Humans Do For Pleasure?
+≈×578	2.9M	135.6	2026-01-01	Sleepy Time Historian (176K, 5K)	What Did Early Humans ACTUALLY Do All Day? | History for Sleep
+×395	781K	16.6	2026-11-12	Boneink (8K, 2K)	The Shocking 6 Inch Difference Between Us and Neanderthals
+×183	966K	11.5	2026-05-12	Whatly (18K, 5K)	What Happened to the Other Human Species? Why are we the only ones left?
+≈×147	734K	21.8	2026-06-07	Mack (95K, 5K)	How Did Ancient Humans Survive Predators?
+×70	1.0M	9.7	2026-08-13	The Curious Kid (20K, 15K)	What Hunted Humans Before We Became the Apex Predator?
+≈×63	754K	20.7	2026-04-30	The Origin Atlas (25K, 12K)	What Ancient DNA Revealed About Neanderthal Women Is Extremely Disturbing
+×62,5	124K	30.7	2026-10-24	Boneink	Why Did Neanderthals Disappear While Humans Survived?
+×62	19.0M	11.2	2026-08-21	Ink Explainer (174K, 308K)	What Did Ancient Humans Actually Do All Day?
+×51	15K	15.8	2026-09-17	Stickstory	How The Ancient Humans Survived Ice Age? Top Creaziest Methods.
+×29	8K	12.7	2026-09-22	Stickstory	How Did Ancient Women Handle Their Periods?
+×19	95K	20.8	2026-10-28	Mack	The 7 Things Ancient Humans Could Do That We Can No Longer Do
+×16	5K	9.1	2026-09-15	Stickstory	What Did Ancient Humans Actually Do All Day?
+×15,7	31K	30.2	2026-10-28	Boneink	Why Do Ancient Humans Have Chins but Neanderthals Didn't?
+×14	1.7M	19.8	2026-09-13	Fossil (58K, 123K)	Which Human Species Could You Beat in a Fight?   ← «fight», не наш формат
+×13,3	4K	12.3	2026-09-19	Stickstory	Ancient Humans Were Easy Prey — Why Animals Still Fear Humans
+×12,0	142K	40.5	2026-10-16	The Origin Atlas	What Yamnaya DNA Revealed About Us Is Extremely Disturbing
+×6,6	2.0M	11.6	2026-07-03	Ink Explainer	What Did Ancient Humans Do When It Rained All Week?
+×6,2	73K	25.9	2026-10-06	The Origin Atlas	What Denisovan Women's DNA Revealed About Us Is Extremely Disturbing
+×6,0	945K	70.5	2026-03-26	Chronicles of Planet Earth (27K)	The Humans Who Came Before Us: Neanderthals, Denisovans and More
+×5,9	1.8M	8.1	2026-06-14	Ink Explainer	Why Are We the Only Human Species Left?
+×5,5	1.7M	11.5	2026-07-16	Ink Explainer	The Disturbing Ways Ancient Humans Survived Winter
+×4,1	8K	16.4	2026-10-11	Boneink	How Did Ancient Humans Survive Months of Endless Rain?
+×3,6	446K	16.1	2026-09-26	Fossil	How Long You'd Last on Every Ice Age Continent
+# Только ×подп (лент нет):
+167×подп	2.4M	23.9	2025-12-01	Sameer Belim (14K)	Prehistoric ice age survival | Neanderthals   ← реализм, мамонт в снегу
+175×подп	128K	15.1	2026-07-14	Epochra (728)	Why Neanderthal Men Kept Mating With Human Women — More Than the Other Way Around
+27,6×подп	880K	61.5	2026-07-19	WUFO Earth (32K)	Neanderthals: The Strongest Humanity That Ever Existed!
+24,1×подп	769K	133.4	2026-08-29	WUFO Earth	Earth 20,000 Years Ago, How did the Ice Age shaped humanity?
+18,5×подп	589K	60.4	2026-07-16	WUFO Earth	The First 'Humans': How Did Homo Habilis Struggle and Survive?
+107×подп	216K	21.2	2026-08-29	WildExtinct (2K)	Humans Wiped Out the Only Eagle That Hunted Them   (из Зверей)
+113,8×подп	180K	91.6	2026-05-30	Journal Field & Fossil (2K)	10 Prehistoric Predators That Hunted Humans   (из Зверей)
+#
+# ВОЛНА КЛОНОВ «6 Inch» (за 1–5 дней после Boneink 12.11): paglu stick (267 подп.) 81K; Primitive Secrets «The Half Inch That Beat the Neanderthals» 95K; Primoral (900) 35K; Ancient Humans (136) «Half Inch» 20K; human os (30) 7K; The Simple Explainer (114) 7K.
+#
+# ПРОВАЛЫ (×мед ≤0,3):
+×0,1	182	19.4	2026-11-18	Boneink	What Really Happened to the Last Neanderthal Family?
+×0,2	53K	12.9	2026-11-12	Ink Explainer	Your Entire Life as an Ancient Human   ← 2-е лицо в названии
+×0,2	63K	12.2	2026-10-27	Ink Explainer	Why Did Ancient Humans Evolve In Africa?
+×0,2	67	10.4	2026-08-12	Stickstory	Could You Survive an Ice Age Winter?   ← 2-е лицо в названии
+×0,7	204	12.7	2026-08-23	Stickstory	What Hunted Us Before We Had Fire?   ← повтор чужого хита
+×0,1	1K	37.6	2026-11-12	The Origin Atlas	What Neanderthal DNA Is Still Doing to Us Is Extremely Disturbing   ← формула выгорела
+×0,1	1K	16.6	2026-07-23	Land of Giants	Humans vs. Neanderthals: Who Would Dominate the Olympics?
+×0,3	573	14.5	2026-11-06	Boneink	How Did Ancient Humans Sleep When the Sun Never Set?
+# Большие институции в выдаче: BBC Timestamp 0,1–0,8×подп, New Scientist 0,4–2,9×, NOVA 0,7× — спрос не на «лекцию», а на вопрос.
+# Сон: у Sleepy Time Historian после хита 2,9M свежие доисторические фильмы ×0,7–2,2 (Earth 40,000 Years Ago 3K; Africa 100,000 Years Ago 10K; Something Reset Humanity 60,000 Years Ago 10K; 39,000 Years Ago a Super-Eruption… Neanderthals Were Gone 8K; Why Did Earth's Giant Animals Vanish When Humans Arrived? 4K).
+#
+# ПОИСК search9 (12 мес. до 18.11, ≥8 мин): 87 роликов, у 45 просмотры ≥5× подписчиков; медиана длины таких — 20,7 мин; за последние 90 дней — 21 ролик, у 14 ≥5×подп.

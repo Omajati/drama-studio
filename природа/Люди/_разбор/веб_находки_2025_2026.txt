@@ -1,0 +1,25 @@
+# Свежие находки 2025–2026 — источник тем (WebSearch 19.11.2026). Всё [CHECK] по первоисточнику перед сценарием.
+# Формат: находка · журнал/дата · что спорно · ссылка
+
+1. Самый старый «огонь, добытый человеком»: Барнем (Саффолк, Англия), ≈400 тыс. лет; прокалённая глина очага, треснувшие от огня рубила, два кусочка пирита (искра о кремень). Davis, Ashton и др., Nature, 10.12.2025. Прежний рекорд ≈50 тыс. лет (неандертальцы, север Франции). Спор: «намеренно» — трактовка авторов; кто это был — вероятно ранние неандертальцы (Стрингер), не доказано.
+   https://www.ucl.ac.uk/news/2025/dec/british-discovery-shows-humans-made-fire-350000-earlier-thought · https://www.natureasia.com/en/info/press-releases/detail/9185
+2. Самое старое наскальное искусство: трафарет руки ≥67 800 лет, пещера Лианг Метандуно, о. Муна (Сулавеси). Nature, 21.01.2026 (Обер, Октавиана и др.); Guinness подтвердил 26.05.2026. Прежний рекорд — Мальтравьесо (Испания) 66 700 (неандертальцы?). Сцена «люди и свинья» на Сулавеси ≥51 200 лет (2024).
+   https://www.aljazeera.com/news/2026/1/22/worlds-oldest-cave-art-discovered-in-indonesias-muna-island · https://www.guinnessworldrecords.com/news/2026/5/cave-art-from-at-least-67800-years-ago-sets-new-record-as-oldest-non-figurative-painting
+3. «Человек-дракон» (череп из Харбина, ≈146 тыс. лет) — денисовец: белки (95, из них 4 с денисовскими вариантами) и мтДНК из зубного камня. Fu Qiaomei и др., Science и Cell, 18.06.2025. Спор: Ni Xijun — возможна загрязнённая мтДНК; «пока один случай» (сама Фу).
+   https://www.nationalgeographic.com/history/article/controversial-dragon-man-skull-confirmed-to-be-a-denisovan · https://www.sciencenews.org/article/skull-first-denisovan-human-cousin
+4. Пещера Бяньфу (Юньнань, Китай): кости и зубы денисовцев 167–134 тыс. лет, опознаны по белкам (ДНК не сохранилась), орудия, жизнь в хвойных лесах. Две статьи Nature, ≈09.09.2026. Третье место, где денисовцы известны точно. Осторожно: в одной перепечатке ошибочно «новый вид по ДНК» — неверно.
+   https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/ · https://krdo.com/cnn-other/2026/09/09/cave-fossils-in-china-reveal-lives-of-mysterious-human-relatives/
+5. Последние неандертальцы северо-запада Европы: ДНК 26 особей (Бельгия, Франция), пятый геном высокого покрытия — Гойе, ≈45 тыс. лет; конец не был «биологическим коллапсом», группы смешивались до конца. Nature, июнь 2026.
+   https://www.sci.news/othersciences/anthropology/western-neanderthals-14873.html · https://archaeologymag.com/2026/06/last-neanderthals-were-genetically-diverse-and-connected/
+6. Зуб из Чагырской пещеры (Алтай), ≈59 тыс. лет — следы самого раннего «вмешательства в зуб» (стоматология неандертальцев), май 2026 (по Jerusalem Post — найти статью-первоисточник!).
+7. «Хоббиты» (Homo floresiensis), 2026: (а) Science Advances, июль — скорее падальщики после комодских варанов, не охотники на стегодонов; огня в их слоях не нашли (Точери и др.; не все согласны); (б) февраль — засуха у Лианг-Буа как одна из причин исчезновения (Вуллонгонг; даты 61 и ≈50 тыс. расходятся в источниках); (в) август — таз LB1 человечнее, чем думали.
+   https://archaeologymag.com/2026/07/homo-floresiensis-was-scavenger-not-hunter/ · https://sciencedaily.com/releases/2026/02/260218031601.htm · https://archaeologymag.com/2026/08/hobbits-walked-more-like-humans/
+8. Когда скрещивались с неандертальцами: ≈45–49 тыс. лет (геномы Раниса и Златы-Кунь, Nature, 12.2024) и ≈43,5–50,5 тыс. (59 древних геномов, Science, 12.2024); у людей Раниса нет живых потомков. «47 000» — пересказ СМИ, не цифра статьи.
+   https://www.scientificamerican.com/article/when-did-neandertals-and-humans-interbreed-genomics-closes-in-on-a-date/ · https://gizmodo.com/prehistoric-hookups-landmark-studies-pinpoint-when-humans-and-neanderthals-interbred-2000537171
+9. Следы Уайт-Сэндс (Нью-Мексико): 2025 Science Advances — датировка по органике озёрных илов (независимые лаборатории); 2026 USGS — 23,5–21,7 тыс. лет. Спор: нет орудий и стоянок рядом (Холлидей). ВНИМАНИЕ: тема уже сдана у Динозавров (ролик 03) — у нас только как улика в ролике о миграциях, не отдельным роликом.
+   https://pubs.usgs.gov/publication/fs20253046
+10. Эфиопия: ранний Homo и неназванный австралопитек жили рядом 2,6–2,8 млн лет (ScienceDaily, май 2026 — дату проверить); челюсть парантропа далеко на севере (Афар), Nature, 21.01.2026.
+   https://sciencedaily.com/releases/2026/05/260515234644.htm · https://news.uchicago.edu/story/scientists-unearth-26-million-year-old-hominin-fossil-ethiopia
+11. Сводка Смитсоновского института «Top human evolution discoveries of 2025».
+   https://www.smithsonianmag.com/smithsonian-institution/the-top-human-evolution-discoveries-of-2025-from-the-intriguing-neanderthal-diet-to-the-oldest-western-european-face-fossil-180987936/
+Ненадёжное (не брать): blog.jingtea.com («98 % точности ИИ-реконструкций», безымянный «консорциум»).
