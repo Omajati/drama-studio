@@ -93,6 +93,9 @@ def main():
             errors.append(f"{p.name}:{ln}: цифра в озвучке — «{l}»")
         if len(digits) > 10:
             errors.append(f"{p.name}: ещё {len(digits) - 10} строк с цифрами")
+        abbr = sorted(set(re.findall(r"\b[А-ЯЁA-Z]{2,}\b", text)))
+        if abbr:  # решение владельца 19.11.2026: голос читает сокращения странно
+            errors.append(f"{p.name}: сокращения в озвучке — {', '.join(abbr[:10])} (писать словами: «Советский Союз», «госбезопасность»; «загс», «вуз» — строчными)")
         for ln, l in enumerate(text.splitlines(), 1):
             if re.match(r"\s*(#|\[|глава|chapter|cap[ií]tulo|kapitel|SCENE|S\d{3})", l, re.I):
                 errors.append(f"{p.name}:{ln}: служебная пометка в озвучке — «{l.strip()[:60]}»")
