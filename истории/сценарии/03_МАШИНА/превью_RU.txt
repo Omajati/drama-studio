@@ -1,33 +1,33 @@
 ПРЕВЬЮ RU — 03 «Машина» («Как работали в СССР твои родители?»)
 РАСКЛАДКА: C — Шапка
 
-Ключевая мысль-крючок: название обещает «цену опоздания», превью называет её — двадцать минут и суд. Масштаб (полгода работ с вычетом до четверти зарплаты, миллион дел за три месяца, шестнадцать лет действия указа) остаётся в ролике. Зритель 50+ узнаёт проходную с большими часами и трудовую книжку; молодой — примеряет на себя своё утро. Раскрытие: 0:15 (хук), подробно указ 26.06.1940 — 14:10.
+Ключевая мысль-крючок: название обещает «цену опоздания», превью называет её — двадцать одна минута, и дальше суд (прогулом считалось опоздание больше двадцати минут). Масштаб (полгода работ с вычетом до четверти зарплаты, миллион дел за три месяца, шестнадцать лет действия указа) остаётся в ролике. Зритель 50+ узнаёт проходную с большими часами и трудовую книжку; молодой — примеряет на себя своё утро. Раскрытие: 0:15 (хук), подробно указ 26.06.1940 — 14:10.
 
 СТИЛЬ КАНАЛА (раскладка C, на канале впервые; в 01 была A, в 02 F)
-Программа рисует C так: тёмная полоса сверху на 35 %, 2–3 строки по центру, плашка белая внизу справа. Поэтому в картинке: верхняя треть — небо и часы (под текст), человек и книжка — в нижней левой и центральной части, правый нижний угол свободен под плашку. Тёплый рассветный свет, тон не мрачный.
+Программа рисует C так: тёмная полоса сверху на 35 %, 2–3 строки по центру, плашка белая внизу справа. Поэтому в картинке: верхняя треть — только небо и пар (под текст); часы — справа на высоте 40–65 % кадра, ниже полосы; человек — крупно слева и в центре, лицо в три четверти к камере. Плашка короткая, чтобы не уходить под значок длительности YouTube в правом нижнем углу. Тёплый рассветный свет, тон не мрачный.
 
 1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
-Photorealistic cinematic YouTube thumbnail, 16:9, a Soviet factory gate at dawn in 1940: a big round clock above the checkpoint with clear black hands at twenty past seven and no numerals, warm orange sunrise light and steam; in the lower left and centre, large and sharp, a 28-year-old Russian worker with short fair hair, short fair moustache, flat cap and dark work jacket running towards the gate, worried face turned up to the clock, holding a grey-blue labour book tightly in his raised hand; other workers blurred behind. The top third of the frame is sky and the clock only (space for text), the lower right corner is calm and empty (space for a label). No text, no letters, no numbers, no logos, no flags, no slogans.
+Photorealistic cinematic YouTube thumbnail, 16:9, a Soviet factory gate at dawn in 1940. On the right side of the frame, at mid-height (between 40% and 65% of the frame height), a big round clock above the checkpoint with clear black hands at twenty-one minutes past seven and no numerals. On the left and centre, large and sharp, a 28-year-old Russian worker with short fair hair, short fair moustache, flat cap and dark work jacket running towards the camera and the gate, face in three-quarter view to the camera, worried eyes glancing sideways at the clock, a grey-blue labour book clutched in his hand; other workers blurred behind. The top third of the frame is only sky with warm sunrise light and steam (space for text). No text, no letters, no numbers, no logos, no flags, no slogans.
 
-2. ТЕКСТ (капс, жирный узкий рубленый шрифт, сверху по центру)
-ОПОЗДАЛ НА, сверху по центру           — белый
-20 МИНУТ?, сверху по центру             — жёлтый, крупнее
+2. ТЕКСТ (капс, жирный узкий рубленый шрифт, сверху по центру, в тёмной полосе)
+ВСЕГО, сверху по центру                — белый
+21 МИНУТА, сверху по центру            — жёлтый, крупнее
 
 3. ПЛАШКА
-Белый прямоугольник внизу справа, чёрные буквы: ПОД СУД
+Белый прямоугольник внизу справа (как рисует программа), чёрные буквы: А ДАЛЬШЕ — СУД
 
 4. ПРОМТ THUMB_RU ДЛЯ FLOW (с точным текстом; подключить R1 и R6)
-Photorealistic cinematic YouTube thumbnail, 16:9: a Soviet factory gate at dawn in 1940 with a big round clock without numerals, hands at twenty past seven, warm sunrise light; in the lower left and centre, large and sharp, the man from reference R1 at 27 running towards the gate, worried face turned to the clock, the grey-blue labour book from reference R6 in his raised hand. Dark band across the top third with bold condensed uppercase text, centred:
-line 1 white: ОПОЗДАЛ НА
-line 2 yellow, larger: 20 МИНУТ?
-Bottom right, a white rectangle with black bold uppercase text: ПОД СУД
+Photorealistic cinematic YouTube thumbnail, 16:9: a Soviet factory gate at dawn in 1940; on the right at mid-height a big round clock without numerals, hands at twenty-one past seven; on the left and centre, large and sharp, the man from reference R1 at 27 running towards the camera, face in three-quarter view, worried eyes glancing at the clock, the grey-blue labour book from reference R6 in his hand. Dark band across the top third with bold condensed uppercase text, centred:
+line 1 white: ВСЕГО
+line 2 yellow, larger: 21 МИНУТА
+Bottom right, a small white rectangle with black bold uppercase text: А ДАЛЬШЕ — СУД
 No other text, no logos. Check the letters exactly.
 Файл: THUMB_RU.png — запасной вариант; программа сама рисует раскладку C.
 
 5. ПРОВЕРКА ЧИТАЕМОСТИ
-Уменьшить до 168×94. Должны читаться: «20 МИНУТ?», лицо бегущего человека, стрелки часов, плашка «ПОД СУД». Слов на картинке — четыре плюс плашка из двух. Если не читается — убрать «ОПОЗДАЛ НА» и оставить одну жёлтую строку «20 МИНУТ?».
+Уменьшить до 168×94. Должны читаться: «21 МИНУТА», лицо бегущего человека, часы справа (не под тёмной полосой), плашка. Слов на картинке — три плюс плашка. Если не читается — убрать «ВСЕГО» и оставить одну жёлтую строку «21 МИНУТА».
 
 6. СВЯЗКА С НАЗВАНИЕМ
 Название: Как работали в СССР твои родители? Норма по секундомеру, ТРИНАДЦАТАЯ и цена ОПОЗДАНИЯ
-Название — про зрителя и его родителей, три обещания, последнее — тайна «цена опоздания». Превью не повторяет слов названия: показывает утро, часы, бегущего человека с трудовой книжкой и называет цену — суд. Всё правда: опоздание больше чем на двадцать минут приравняли к прогулу (разъяснение Верховного суда, июль 1940), прогул по указу от 26.06.1940 — суд и исправительные работы до шести месяцев.
+Название — про зрителя и его родителей, три обещания, последнее — тайна «цена опоздания». Превью не повторяет слов названия (ни «опоздания», ни «нормы»): показывает утро, часы, бегущего человека с трудовой книжкой и называет точную цифру — двадцать одна минута, которой уже хватало для прогула; плашка «А ДАЛЬШЕ — СУД» — обрыв: что именно дальше (полгода работ с вычетом, миллион дел, шестнадцать лет) — в ролике. Всё правда: опоздание больше чем на двадцать минут приравняли к прогулу (разъяснение Верховного суда, июль 1940), прогул по указу от 26.06.1940 — суд и исправительные работы до шести месяцев.
 Запасные: (1) G — слева цех 1930 года с инструктором и секундомером, справа сегодняшний склад со сканером на запястье: «ТОГДА / СЕЙЧАС», плашка «КТО СТРОЖЕ?»; (2) F — трудовая книжка крупно рядом с конвертом с деньгами: «13-Я ЗАРПЛАТА», плашка «ЕСЛИ БЕЗ ПРОГУЛОВ».
