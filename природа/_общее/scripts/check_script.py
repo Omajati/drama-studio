@@ -113,7 +113,7 @@ def main():
     expected = {"озвучка_EN.txt", "сцены_генерация.txt", "загрузка_YouTube_EN.md"}
     for n in sorted(expected - names):
         errors.append(f"Нет файла {n}")
-    for n in sorted(names - expected - {"вставки.txt", "привязка.txt"} - {"превью_EN.txt"}):
+    for n in sorted(names - expected - {"вставки.txt", "привязка.txt", "ударения.txt"} - {"превью_EN.txt"}):
         warns.append(f"Лишний файл {n}: в архиве только файлы формата")
     check_inserts(root, errors, warns)
     check_binding(root, errors, warns)

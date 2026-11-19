@@ -114,7 +114,7 @@ def main():
                 (("озвучка", ".txt"), ("превью", ".txt"), ("загрузка_YouTube", ".md"))}
     for n in sorted(expected - set(names)):
         errors.append(f"Нет файла {n}")
-    for n in sorted(set(names) - expected - {"вставки.txt", "привязка.txt"}):
+    for n in sorted(set(names) - expected - {"вставки.txt", "привязка.txt", "ударения.txt"}):
         warns.append(f"Лишний файл {n}: в архиве должны быть только файлы формата.")
     check_inserts(root, errors, warns)
     check_binding(root, errors, warns)
