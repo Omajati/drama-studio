@@ -67,6 +67,39 @@ def check_inserts(root, errors, warns):
     if seen:
         print(f"Вставок заказано: {len(seen)}")
 
+
+def check_binding(root, errors, warns):
+    """привязка.txt: «S014 | первые слова сцены» — программа кладёт сцену точно на эти слова озвучки."""
+    f = root / "привязка.txt"
+    if not f.is_file():
+        return
+    scenes_file = root / "сцены_генерация.txt"
+    ids = re.findall(r"(?m)^\s*SCENE\s+(S\d{3})", scenes_file.read_text("utf-8")) if scenes_file.is_file() else []
+    voice = next(iter(sorted(root.glob("озвучка_*.txt"))), None)
+    words = [w for w in re.findall(r"[\wё]+", voice.read_text("utf-8").lower().replace("ё", "е"))] if voice else []
+    got, pos = {}, 0
+    for n, line in enumerate(f.read_text("utf-8").splitlines(), 1):
+        if not line.strip() or line.strip().startswith("#"):
+            continue
+        m = re.fullmatch(r"\s*(S\d{3})\s*\|\s*(.+?)\s*", line)
+        if not m:
+            errors.append(f"привязка.txt, строка {n}: нужен вид «S014 | первые слова сцены»")
+            continue
+        got[m.group(1)] = m.group(2)
+        seq = re.findall(r"[\wё]+", m.group(2).lower().replace("ё", "е"))[:6]
+        found = next((i for i in range(pos, len(words) - len(seq) + 1) if words[i:i + len(seq)] == seq), None) if seq else None
+        if found is None:
+            errors.append(f"привязка.txt, строка {n}: слов «{m.group(2)[:40]}» нет в озвучке после прошлой сцены (порядок или опечатка)")
+        else:
+            pos = found + 1
+    missing = [s for s in ids if s not in got]
+    if ids and missing:
+        errors.append(f"привязка.txt: нет строк для сцен {', '.join(missing[:8])}{' …' if len(missing) > 8 else ''}")
+    extra = [s for s in got if s not in ids]
+    if extra:
+        errors.append(f"привязка.txt: сцен {', '.join(extra[:8])} нет в сцены_генерация.txt")
+    print(f"Привязка сцен к словам: {len(got)} строк")
+
 def main():
     args = sys.argv[1:]
     if not args:
@@ -80,9 +113,10 @@ def main():
     expected = {"озвучка_EN.txt", "сцены_генерация.txt", "загрузка_YouTube_EN.md"}
     for n in sorted(expected - names):
         errors.append(f"Нет файла {n}")
-    for n in sorted(names - expected - {"вставки.txt"} - {"превью_EN.txt"}):
+    for n in sorted(names - expected - {"вставки.txt", "привязка.txt"} - {"превью_EN.txt"}):
         warns.append(f"Лишний файл {n}: в архиве только файлы формата")
     check_inserts(root, errors, warns)
+    check_binding(root, errors, warns)
     th = root / "превью_EN.txt"
     if th.is_file():
         tt = th.read_text("utf-8")
