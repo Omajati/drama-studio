@@ -1,0 +1,29 @@
+ПРЕВЬЮ RU — 00 «Трейлер» (приветствие канала «Сан Саныч из Союза»)
+РАСКЛАДКА: E — Две огромные строки
+
+Ключевая мысль: превью трейлера — это лицо канала, только без лица. Сан Саныч со спины за кухонным столом 1970-х у окна, подстаканник, трудовая книжка, тёплая лампа. Одна огромная фраза от его имени. Это же изображение — образец для шапки канала.
+
+СТИЛЬ КАНАЛА (раскладка E, на канале впервые; в 01–03 были A, F, C)
+Программа рисует E так: мягкая виньетка, 1–2 огромные строки по центру снизу, маленькая плашка над ними. Поэтому человек и стол — в верхней и центральной части кадра, низ спокойнее и темнее под строки.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
+Photorealistic cinematic YouTube thumbnail, 16:9: a Soviet kitchen in the late 1970s in the evening, warm light from a fabric lampshade; at the table by the window an elderly man over seventy seen from behind and slightly from the side, face not visible, flat eight-panel cap, horn-rimmed glasses visible in outline, grey hair at the neck, knitted cardigan; on the oilcloth a glass of tea in a metal holder and a grey-blue labour book; through the window a courtyard of panel blocks at dusk with lit windows. The lower third is darker and calm (space for text). No text, no letters, no numbers, no logos, no flags.
+
+2. ТЕКСТ (капс, жирный узкий рубленый шрифт, по центру снизу)
+Я ИЗ СОЮЗА, по центру снизу            — белый, огромный
+
+3. ПЛАШКА
+Над строкой, маленькая, жёлтая с чёрными буквами: САН САНЫЧ
+
+4. ПРОМТ THUMB_RU ДЛЯ FLOW (с точным текстом; подключить R1 и R2)
+Photorealistic cinematic YouTube thumbnail, 16:9: a late-1970s Soviet kitchen in the evening, the elderly man from reference R1 seen from behind at the table by the window, face not visible, a glass of tea in a metal holder and the labour book from reference R2 on the oilcloth, warm lamp light, dusk courtyard outside. Soft dark vignette. Bold condensed uppercase text, bottom centre, huge, white: Я ИЗ СОЮЗА
+Above it, a small yellow label with black bold uppercase text: САН САНЫЧ
+No other text, no logos. Check the letters exactly.
+Файл: THUMB_RU.png — запасной вариант; программа сама рисует раскладку E.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+Уменьшить до 168×94. Должны читаться: «Я ИЗ СОЮЗА», силуэт в кепке, лампа и окно. Три слова и плашка.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: Здравствуй, я Сан Саныч из Союза. Как жили в СССР на самом деле — честно и с цифрами
+Название — знакомство и обещание канала, превью — образ: человек за кухонным столом, к которому приходят «посидеть и вспомнить». Повтора слов нет, кроме имени на плашке (это имя канала, так и задумано).

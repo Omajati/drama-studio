@@ -1,0 +1,79 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 75-second Russian-language channel trailer (welcome video) for the YouTube channel «Сан Саныч из Союза» (folder «Истории RU»), titled "Здравствуй, я Сан Саныч из Союза. Как жили в СССР на самом деле — честно и с цифрами". Fast, dynamic cuts (about 3 seconds per image): four surprising facts about Soviet life (being late to work as a court matter in 1940, a car costing 45 average salaries, collective farmers without passports, the thirteenth salary once a year), then the narrator SAN SANYCH introduces the channel: money, festive tables, flats awaited for years, New Year, work, childhood — every price with a source, then and now. He is a character (the channel's narrator image), never shown with a visible face.
+
+Visual style (used for every image): photorealistic cinematic documentary stills; 1940 in muted colours; 1970s in warm natural colours with lamp light; cool modern documentary photos for the present day. Interiors, clothes, cars and objects strictly of their decade.
+
+Recurring characters (keep identical across shots):
+SAN SANYCH — an elderly Soviet man over seventy: flat eight-panel cap, horn-rimmed glasses, thick grey moustache, grey hair at the neck, knitted cardigan over a checked shirt, big working hands. ALWAYS shown from behind, as a silhouette against light, or only his hands — his face is never visible.
+VIEWER — a person in their 30s, casual clothes, modern apartment.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no shop signs, no flags, no political symbols or portraits of leaders, no slogans, no license plates, no violence, no blood. Documents, labour books, passports, newspapers, notebooks, books and phone screens are always blurred and unreadable. SAN SANYCH's face never appears.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Character reference sheet of SAN SANYCH: an elderly man over seventy shown from behind, in three-quarter rear view and as a side silhouette against a window; flat eight-panel cap, horn-rimmed glasses, thick grey moustache visible only in silhouette, grey hair at the neck, knitted cardigan over a checked shirt; plus a close-up of his big working hands. Face not visible in any view. Style: photorealistic, warm lamp light, 16:9, no text.
+
+REFERENCE R2. Object: a small worn Soviet labour book with a grey-blue cardboard cover, closed and open; handwritten entries and round stamps, all blurred and unreadable. Style: photorealistic macro, warm light, 16:9, no text, no letters.
+
+REFERENCE R3. Character reference sheet of VIEWER: a person in their 30s, short dark hair, casual sweater, three-quarter view and from behind. Style: modern documentary photo, neutral light, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Dawn, 1940: a Soviet factory gate with a big round clock without numerals, hands at twenty-one past seven; a young worker in a flat cap running towards the gate, dynamic motion, steam in cold air. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S002. A small district courtroom in 1940: a young worker in a cap standing before a judge's table with a cloth cover, stern faces, single lamp. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S003. A brand-new small white 1970s Soviet sedan in a sunny courtyard of panel blocks, a family and neighbours gathered around admiring it (no license plate). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S004. An elderly village woman in a headscarf in her 1970s cottage, holding her first passport in both hands, a quiet smile. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S005. A queue of workers at a factory cashier's window in winter, a man receiving a paper envelope with a smile. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S006. SAN SANYCH (R1) seen from behind at a 1970s kitchen table by the window in the evening, warm fabric lampshade above, courtyard lights outside. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S007. Close-up of SAN SANYCH's (R1) big working hands on an oilcloth: a glass of tea in a metal holder, horn-rimmed glasses, a grey-blue labour book (R2). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S008. Pages of a family photo album from the 1970s being turned: black-and-white and faded colour photos (faces small and blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S009. Soviet coins and a crumpled paper rouble on a kitchen oilcloth next to a string shopping bag, warm light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S010. A 1970s festive table for guests: Olivier salad, sprats, herring under a fur coat, crystal glasses, a family laughing around it. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S011. A young 1970s family receiving keys at the door of a new panel apartment block, joy on their faces, boxes and a fig tree pot. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S012. New Year's Eve in a 1970s apartment: a decorated fir tree with glass ornaments, children in costumes, a TV glowing in the corner. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S013. A bright 1970s machine-building shop: rows of lathes, workers in blue overalls, sparks, motion. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S014. Soviet children of the late 1970s playing in a courtyard of panel blocks: a girl with a skipping rope, boys with a ball, a key on a string around one boy's neck. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S015. SAN SANYCH's (R1) hand with a pencil writing figures in a notebook beside an open thick statistical yearbook (pages blurred), lamp light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S016. Split frame: on the left a 1970s Soviet shop counter with abacus and scales in warm film-grain colours; on the right a bright modern supermarket checkout in cool daylight. Style: photorealistic documentary split frame, left half warm 1970s film look, right half modern cool daylight, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S017. An elderly couple on a sofa looking at old photos together and laughing, modern apartment, warm light. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S018. A young woman and her mother at a kitchen table looking at an old grey-blue labour book (R2) together, curious faces. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S019. SAN SANYCH (R1) as a dark silhouette against a bright window in the evening, flat cap and glasses visible in outline, an old radio on the sill. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S020. A Soviet city of the late 1970s at dusk seen from a hill: panel blocks, wide avenues, trolleybuses, lights coming on. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S021. VIEWER (R3) at a modern kitchen table typing a comment on a phone, smiling, a cup of tea beside. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S022. SAN SANYCH's (R1) hands closing the labour book (R2) and reaching for the flat cap on the table. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S023. Final image: the same 1970s kitchen window at night, the lamp still on, an empty chair with a flat cap and glasses on the table, courtyard lights outside. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … last scene, R1.png … for references), one file per number, no UUID names, no numbers drawn inside the images.

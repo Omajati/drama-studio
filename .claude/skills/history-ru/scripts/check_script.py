@@ -67,6 +67,7 @@ def main():
     root = Path(args[0])
     wpm = int(args[args.index("--wpm") + 1]) if "--wpm" in args else 120
     errors, warns = [], []
+    trailer = "ТРЕЙЛЕР" in root.name.upper()  # короткий ролик-приветствие канала: своя норма слов и сцен
     names = [p.name for p in root.iterdir() if p.is_file() and not p.name.startswith(".")]
     if not re.fullmatch(r"\d{2,3}_[A-ZА-ЯЁ0-9_]+", root.name):
         warns.append(f"Имя папки «{root.name}»: ожидается NN_КЛЮЧ капсом (10_РЕЦЕПТЫ).")
@@ -100,7 +101,10 @@ def main():
                 warns.append(f"{p.name}: ИИ-оборот «{m.group(0)[:60]}»")
         paras = len([x for x in re.split(r"\n\s*\n", text) if x.strip()])
         
-        if not 3300 <= words <= 4900:
+        if trailer:
+            if not 120 <= words <= 260:
+                warns.append(f"{p.name}: {words} слов, норма трейлера 60–100 с — 130–230 слов")
+        elif not 3300 <= words <= 4900:
             warns.append(f"{p.name}: {words} слов, норма 30–40 мин — 3 600–4 800")
         print(f"{p.name}: {words} слов ≈ {words / wpm:.0f} мин при {wpm} сл/мин, абзацев {paras}")
         up = root / f"загрузка_YouTube_{lang}.md"
@@ -162,8 +166,9 @@ def main():
             w = len((root / f"озвучка_{langs[0]}.txt").read_text("utf-8").split())
             per = w / wpm * 60 / max(len(ids), 1)
             print(f"   ≈ {per:.0f} с на сцену")
-        if ids and not 90 <= len(ids) <= 130:
-            errors.append(f"сцены_генерация.txt: сцен {len(ids)}, нужно от 90 до 130 (канал «Истории RU»)")
+        lo, hi = (15, 40) if trailer else (90, 130)
+        if ids and not lo <= len(ids) <= hi:
+            errors.append(f"сцены_генерация.txt: сцен {len(ids)}, нужно от {lo} до {hi} (канал «Истории RU»{', трейлер' if trailer else ''})")
 
     for w in warns:
         print("ПРЕДУПРЕЖДЕНИЕ:", w)
