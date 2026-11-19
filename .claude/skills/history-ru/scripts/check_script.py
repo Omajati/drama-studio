@@ -3,7 +3,7 @@
 
 python3 check_script.py истории/сценарии/01_ПАМЯТЬ [--wpm 120]
 
-Канал «Истории RU» («Как жили в СССР», с 19.11.2026): 30–40 мин ≈ 3 600–4 800 слов, сцен 90–130.
+Канал «Истории RU» («Как жили в СССР», с 19.11.2026): 30–40 мин ≈ 3 600–4 800 слов, сцен 110–180 (первые ~4–5 минут — сцена на предложение, решение 19.11.2026).
 
 Проверяет: набор файлов и их имена; в озвучке нет цифр и служебных пометок; объём и хронометраж;
 ИИ-обороты; сцены S001… подряд без пропусков, каждая отдельным абзацем, со Style и запретом текста;
@@ -32,6 +32,7 @@ INSERT_KINDS = {"цифра", "число", "цифра на фото", "чис�
 def check_inserts(root, errors, warns):
     f = root / "вставки.txt"
     if not f.is_file():
+        warns.append("нет вставки.txt: моушен-вставки заказываются в каждом сценарии (_общее/вставки_моушен.md)")
         return
     scenes_file = root / "сцены_генерация.txt"
     ids = set(re.findall(r"(?m)^\s*SCENE\s+(S\d{3})", scenes_file.read_text("utf-8"))) if scenes_file.is_file() else set()
@@ -169,7 +170,7 @@ def main():
             w = len((root / f"озвучка_{langs[0]}.txt").read_text("utf-8").split())
             per = w / wpm * 60 / max(len(ids), 1)
             print(f"   ≈ {per:.0f} с на сцену")
-        lo, hi = (15, 40) if trailer else (90, 130)
+        lo, hi = (15, 40) if trailer else (110, 180)
         if ids and not lo <= len(ids) <= hi:
             errors.append(f"сцены_генерация.txt: сцен {len(ids)}, нужно от {lo} до {hi} (канал «Истории RU»{', трейлер' if trailer else ''})")
 

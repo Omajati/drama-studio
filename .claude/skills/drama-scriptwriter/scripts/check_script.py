@@ -29,6 +29,7 @@ INSERT_KINDS = {"цифра", "число", "цифра на фото", "чис�
 def check_inserts(root, errors, warns):
     f = root / "вставки.txt"
     if not f.is_file():
+        warns.append("нет вставки.txt: моушен-вставки заказываются в каждом сценарии (_общее/вставки_моушен.md)")
         return
     scenes_file = root / "сцены_генерация.txt"
     ids = set(re.findall(r"(?m)^\s*SCENE\s+(S\d{3})", scenes_file.read_text("utf-8"))) if scenes_file.is_file() else set()
@@ -146,8 +147,8 @@ def main():
             w = len((root / f"озвучка_{langs[0]}.txt").read_text("utf-8").split())
             per = w / wpm * 60 / max(len(ids), 1)
             print(f"   ≈ {per:.0f} с на сцену")
-        if ids and not 50 <= len(ids) <= 100:
-            errors.append(f"сцены_генерация.txt: сцен {len(ids)}, нужно от 50 до 100 (решение 18.11)")
+        if ids and not 80 <= len(ids) <= 150:
+            errors.append(f"сцены_генерация.txt: сцен {len(ids)}, нужно от 80 до 150 (решение 19.11: первые ~3 минуты — сцена на предложение)")
 
     for w in warns:
         print("ПРЕДУПРЕЖДЕНИЕ:", w)

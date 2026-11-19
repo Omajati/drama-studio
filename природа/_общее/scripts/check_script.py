@@ -38,6 +38,7 @@ INSERT_KINDS = {"цифра", "число", "цифра на фото", "чис�
 def check_inserts(root, errors, warns):
     f = root / "вставки.txt"
     if not f.is_file():
+        warns.append("нет вставки.txt: моушен-вставки заказываются в каждом сценарии (_общее/вставки_моушен.md)")
         return
     scenes_file = root / "сцены_генерация.txt"
     ids = set(re.findall(r"(?m)^\s*SCENE\s+(S\d{3})", scenes_file.read_text("utf-8"))) if scenes_file.is_file() else set()
@@ -180,14 +181,14 @@ def main():
         if words and ids:
             per = words / wpm * 60 / len(ids)
             trailer = "--trailer" in args
-            print(f"   ≈ {per:.1f} с на сцену (норма сети 7–8" + ("; трейлер — 1–4)" if trailer else ")"))
+            print(f"   ≈ {per:.1f} с на сцену (норма сети 5–9: начало по 3–6 с, дальше 7–9" + ("; трейлер — 1–4)" if trailer else ")"))
             if trailer:
                 if not 1 <= per <= 4:
                     errors.append(f"сцены_генерация.txt: {per:.1f} с на сцену, для трейлера нужно 1–4 "
                                   "(одна короткая фраза = одна сцена)")
-            elif not 6 <= per <= 10:
-                errors.append(f"сцены_генерация.txt: {per:.1f} с на сцену, нужно 6–10 (одна картинка на 7–8 с) — "
-                              f"для этого текста ≈ {round(words / wpm * 60 / 7.5)} сцен")
+            elif not 5 <= per <= 9:
+                errors.append(f"сцены_генерация.txt: {per:.1f} с на сцену, нужно в среднем 5–9 (первые ~4–5 минут — "
+                              f"сцена на предложение по 3–6 с, дальше 7–9 с) — для этого текста ≈ {round(words / wpm * 60 / 6.5)} сцен")
 
     for w in warns:
         print("ПРЕДУПРЕЖДЕНИЕ:", w)
