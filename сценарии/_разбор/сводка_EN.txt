@@ -1,0 +1,70 @@
+СВОДКА EN-РЫНКА СЕМЕЙНЫХ ДРАМ (19.11.2026) — сырьё для references/12_канал_EN.md
+
+ИСТОЧНИКИ И КВОТА
+- search: 1 попытка («daughter in law revenge story», 3 мес.) → HTTP 429 (дневной лимит поисковых запросов ключа). Поиски возобновили после снятия лимита владельцем — см. п. 11 (5 успешных).
+- Вместо поиска: выдача 18.11 (выдача_поиск_подниши.tsv, строки 309–396: «my son and daughter in law kicked me out story», US, 6 мес.; выдача_en_90дн_из_yt_search.tsv: family drama story, inheritance family betrayal story, revenge story family, mother in law story).
+- channel: 51 EN-канал по 50 последних роликов → каналы_EN.tsv (1 850 строк); Calm Drama Stories полностью (616) → канал_Calm_Drama_Stories_полный_EN.tsv.
+- video: YGHOGHYQt0s, h57cqJJIJMA (BonSuper), ESdY0XLB1YU (Grace Beyond Tears), -xyqGnEImkg (Inheritance Secrets).
+- thumbs: превью_хиты_EN.jpg (20 хитов), превью_хиты_EN_2.jpg (8).
+- channels forHandle: проверка имён (см. ниже).
+
+ОКНО: ролики с 20.09.2026 (60 дней). «Выброс» — ×3 и больше к медиане своего канала (как в каталогах), «сильный» — ×5+.
+ИИ-кино (персонажи двигаются, миллиардеры, дорамы): NYS Movie, Asher Uncovers, Nightfall Drama, Blaze Twist, FAVEE TV, Crimson Rose Drama, Her Worth Studios. Остальные 44 канала — дикторские рассказы (портрет/сцены + голос), из них 37 выпускали ролики за 60 дней. Страна в профиле: US — 37 из 51, не указана — 9, PK 2, AU, CA, BR по 1.
+
+1. ЛИЦО В НАЗВАНИЯХ (60 дн.)
+дикторские: роликов 1 261, каналов 37; первое лицо (My/I/Me/Our/We) — 93% всех, 94% выбросов ≥3× (209 выбросов, фон 17%).
+ИИ-кино: роликов 169, каналов 7; первое лицо — 25%, среди выбросов — 22% (55 выбросов, фон 33%).
+Третье лицо у дикторских с выбросами: Inheritance Secrets (создан 06.09.2026) — «Her Brothers Took Grandpa's Millions—She Got His Old Farm, Then Found What He Hid Below» 112K ×286,6; «Dead Trapper's Lodge Bought for $3…» 46K ×116,5; «Unaware of Her $200 Million Inheritance, A Homeless Single Mom… "Worthless" Hotel» 40K ×103,4; «Kicked Out by Family, She Bought a Creepy Old House…» 26K ×65,3. Heartfelt Storytelling «Ex Left Her Homeless — She Took Her Son to Dad's Abandoned Mobile Home…» 74K ×3,4. FAVEE TV «The House They Threw Her Out Of Was Hers All Along» 770K ×25,3 (29.08).
+Третье лицо у ИИ-кино: «Billionaire Mother Disguised As A Nobody To Test Son's Bride…» 4,7M ×8,0; «Billionaire Grandma Pretends To Be A Poor Widow…» 3,9M ×17,3; Her Worth Studios «"64 and Still Mopping"—He Humiliated the Wrong Woman» 2,4M ×34,4.
+
+2. ДЛИНА (дикторские, 60 дн.): медиана всех 24,2 мин, выбросов 22,4 мин.
+доля выбросов ≥3× по корзинам: <15 мин 17% (368 роликов) · 15–25 20% (274) · 25–40 23% (203) · 40–70 12% (236) · 70+ 10% (180).
+Большие медианы — у длинных: Calm Drama Stories 120K подп., медиана 55K, ролики ~57 мин; Alpha Mom Stories 24K, медиана 43K, ~62 мин; Grace Beyond Tears 4K, медиана 6K, 88–111 мин; Dad Family Revenge 15K, медиана 9K, ~180 мин. Самый близкий нам новичок BonSuper Revenge Stories (создан 19.10.2026, 15 роликов, медиана 12K) — 23–34 мин.
+ИИ-кино: медиана 52 мин.
+
+3. РАССКАЗЧИК (каналы, 60 дн.)
+мама/бабушка 60+ (Alpha Mom, Grace Beyond Tears, Silent Mom, Julianaa Calm Drama, Inner Mind Truths): 5 каналов, 110 роликов, выбросов 17%; медиана длины 25 мин; медианы каналов 43K, 6K, 4K, 756, 7K (Inner Mind Truths за 60 дней роликов не выпускал).
+папа/дед 60+ (Dad Family Revenge, Aged Dad Revenge, Father's True Revenge, Pa Family Revenge, Dad Prevails, Revenge Dad, Wise Old Dad, BROKEN DAD, Grandpa Ned): 9 каналов, 326 роликов, выбросов 15%; медиана длины 40 мин; четыре из них созданы 21–28.10.2026.
+смешанные родители 60+ (BonSuper, Toxic Revenge, The Betrayed Parent, Eric's, @QuietRevenge, Emma Story Tales): 6 каналов, 203 ролика, выбросов 22%; медиана длины 13,7 мин.
+взрослая дочь 30–50 против родни (Calm, Aspen, Lamplight, Family Line, Family Drama US, HR Revenge, Chokeberry, Pie): 8 каналов, 277 роликов, выбросов 15%; медиана длины 51 мин.
+
+4. НОВИЧКИ: из 51 канала 16 созданы с 01.09.2026; у 14 из них за 60 дней есть ролик ×5+ и от 10K просмотров.
+
+5. МОТИВЫ В НАЗВАНИЯХ (дикторские, 60 дн.; роликов / выбросов ≥3× / доля / макс. просм.; фон 17%)
+Рождество 54 / 13 / 24% / 135K
+Thanksgiving 27 / 7 / 26% / 146K
+день рождения 53 / 6 / 11% / 116K
+свадьба 97 / 21 / 22% / 421K
+невестка (DIL) 180 / 29 / 16% / 407K
+зять 41 / 4 / 10% / 112K
+свёкры/сваты (in-laws, MIL, FIL) 134 / 36 / 27% / 240K
+«my son» 329 / 51 / 16% / 245K
+«my daughter» 140 / 25 / 18% / 135K
+внуки 53 / 11 / 21% / 73K
+дом у воды/хижина/лодж 61 / 16 / 26% / 329K
+дом/deed/trust 62 / 17 / 27% / 231K
+заброшенный дом/ферма/наследство-находка 87 / 16 / 18% / 112K
+больница/операция 52 / 13 / 25% / 199K
+счёт/карта/оплата 91 / 15 / 16% / 421K
+сумма $ в названии 168 / 37 / 22% / 231K
+полиция/911 55 / 10 / 18% / 245K
+животные (dog/cat/horse…, все 1 850 строк каталогов): 13 названий; за 60 дней выбросов ≥3× нет (макс. ×2,2); единственный выброс раньше окна — Forgotten Blessings «Abandoned Elderly Couple Followed a Stray Cat — It Led Them to a Mansion Under the Hill» 50K ×9,4 (09.07). Обычно животное в EN — жертва («gave my dog away»), а не проводник к бумаге.
+
+6. РОЖДЕСТВО (дикторские, 60 дн., ×2+): Grace Beyond Tears 22.09 135K ×22,5; Dad Family Revenge 01.10 112K ×11,9 (стул на рождественском ужине); Alpha Mom 01.10 102K ×2,4; Silent Mom 02.10 23K ×6,3 («Not This Year, Mom»); HR Revenge 13.10 100K ×925,7 («I Faked Going Broke Before Christmas… Only My 9-Year-Old Niece Showed Up»); Father's True Revenge 04.11 40K ×12,0; Aged Dad Revenge 16.11 52K ×3,7 и 45K ×3,2; Family Line Drama 03.11 67K ×3,4.
+Calm Drama Stories за год: 40 названий с Christmas/Thanksgiving из 616, выходят каждый месяц с декабря 2025 по ноябрь 2026; лучшие — «My Family Excluded Me From Christmas to Sell a House — They Forgot Whose Name Was on the Deed» 262K ×4,8 (28.05.2026), «On Thanksgiving, My Parents Gave Me A $2 Lottery Ticket…» 205K ×3,8 (27.01.2026), «My Parents Gifted Every Grandchild But Mine At Thanksgiving…» 175K ×3,2 (13.05), «My Mom Set the Table for 8 and Left My Thanksgiving Plate on the Porch…» 161K ×3,0 (18.07). Медиана × праздничных названий у Calm ≈1,0 — в EN праздник = круглогодичная декорация, а не сезонный буст.
+
+7. ИИ-КИНО В ВЫДАЧЕ («my son and daughter in law kicked me out story», US, 6 мес., 18.11): англоязычных строк 72, из них ИИ-кино/дорамы ≈46 (по названию канала); среди роликов от 100K — ≈42 из 51; в топ-30 по просмотрам — ≈26. Дикторские от 100K: FAVEE TV 770K, Alpha Mom 459K, Grace Beyond Tears 261K, Daily Story Life 217K, Toxic Revenge 191K, Hidden Black Stories 147K, Sir Gentle's 143K, Pa Family Revenge 131K, Dad Family Revenge 112K. (Классификация грубая, по каналу.)
+
+8. ПРЕВЬЮ (превью_хиты_EN.jpg, 20 хитов 60 дней): стена текста + портрет — 13 (Alpha Mom 407K и 146K, Calm Drama 329K, Julianaa Calm Drama 142K, Aged Dad 245K, Aspen 240K, Father's True 231K, Betrayed Parent 199K, Toxic 191K, Dad Family 112K, HR Revenge 100K, Gold Lion 69K, Wise Old Dad 50K); кино-кадр без текста — 6 (BonSuper 781K и 421K, Grace 135K, Inheritance Secrets 112K со стрелкой, ИИ-кино 3,9M и 4,7M); кино-кадр с 3 словами — 1 (Lamplight «HER MONEY IS OURS!» 100K). Плашка «-TRUE STORY-»/«TRUE LIFE STORY»/«FAMILY STORY» — у 6 стен из 13. превью_хиты_EN_2.jpg: Grace Beyond Tears — пожилая героиня крупно с ключом/чемоданом, обидчик на втором плане, без текста (334K ×55,9; 95K ×15,9; 43K ×7,2); BonSuper — мужчина с ключом «13», без текста (171K ×13,9).
+
+9. ОПИСАНИЯ ХИТОВ
+BonSuper «"Did You Even Read What You Signed, Mom?"» (781K, 23,6 мин): рассказ от первого лица («At six o'clock on a Monday morning… I smiled instead»), в описании — завязка в 3 абзаца, вопрос в комментарии «if someone you loved put a paper in front of you… would you sign?», «tell me where you're watching from tonight», дисклеймер «fictional story… Visuals and voices are created with AI tools».
+Grace Beyond Tears «After My Husband Died, I Found A Key In His Coat…» (334K, 97,7 мин): описание в третьем лице (Shirley Allen, storage unit B-317, forged signatures), вопрос «Would you forgive Marcus?».
+
+10. ИМЕНА КАНАЛА (forHandle, 19.11): @TheQuietMatriarch — занят («Quiet Strength», 10 подп.); @QuietMatriarchStories — занят («The Quiet Matriarch», 1 подп.); @TheWidowsLedger — занят (0); @HerNameOnTheDeed — занят (10); @PorchlightStories — занят (18). Свободны: @GrandmaKeptTheReceipts, @SundayDinnerStories, @SheReadEveryWord, @TheLastWordMom, @MotherKeptTheDeed.
+
+11. ПОИСК (добран после снятия лимита, 19.11): 5 запросов за 3 мес. — «daughter in law revenge story», «christmas family revenge story», «grandma revenge story», «my son put me in a nursing home story», «old woman revenge story» → выдача_поиск_EN.tsv. Всего search за день: 6 вызовов (1 → 429, 5 успешных).
+- уникальных роликов 451; от 100K — 97, из них с маркерами ИИ-кино в названии (billionaire/CEO/millionaire/reborn/full movie/#drama/mafia/heiress) — 35 (медиана 79 мин).
+- малые каналы (<10K подп.) с роликом от 50K: 61; первое лицо в названии у 37. Без слов movie/drama/cinema в канале или названии (≈ дикторские): 41, первое лицо у 30 (73%), медиана длины 23 мин; все 61 — медиана 31 мин.
+- примеры: BonSuper 781K (1K подп.); Soulplay Movie «Son Locks Mother in a Nursing Home to Sell Her House, Not Knowing Her Neighbor Is a Judge» 373K + часть 2 179K (6K подп., 65 мин, третье лицо); AHS Revenge Stories «Grandma Left My Cousins $90K Each and Me a Sewing Machine—The Repairman Whispered…» 202K (820 подп.); Lify Drama Stories «My Parents Left Grandma at a Nursing Home…» 149K (1K подп.); Quiet Dad Revenge «"You Eat After My In-laws."…» 202K; Caring Dad Stories «"The Lake House Is Family Only This Year."» 121K; @QuietRevenge «"You're not coming on the cruise"—by noon, I sold the house» 133K; Ebony Drama Stories «I Was Banned From Christmas—60 Minutes Later…» 222K (27.09).
+- Рождество в названии от 50K: 11 роликов, даты выхода 12.09–17.11 (Ebony Drama 222K от 27.09, Velvet Thorn 132K от 25.09, TheRevengeVaultUSA 77K от 11.11 при 311 подп., Patient Revenge Stories 60K от 28.10 при 839 подп.).
