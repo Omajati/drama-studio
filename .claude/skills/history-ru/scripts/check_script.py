@@ -21,6 +21,45 @@ AI = {
 }
 UPLOAD_HEADS = ["## 1. Название", "## 2. Превью", "## 3. Описание", "## 4. Теги", "## 5. Категория", "## Служебное", "## Проверка"]
 
+
+# --- вставки.txt: заказ моушен-вставок (см. _общее/вставки_моушен.md) ---
+INSERT_KINDS = {"цифра", "число", "цифра на фото", "число на фото", "термометр", "календарь", "сетка", "сетка-календарь",
+                "проценты", "шкала", "слой", "слой и человек", "график", "столбцы", "сравнение", "против",
+                "линия времени", "даты", "карта", "карта рельефа", "глобус", "место", "плашка места", "документ",
+                "цитата", "список"}
+
+
+def check_inserts(root, errors, warns):
+    f = root / "вставки.txt"
+    if not f.is_file():
+        return
+    scenes_file = root / "сцены_генерация.txt"
+    ids = set(re.findall(r"(?m)^\s*SCENE\s+(S\d{3})", scenes_file.read_text("utf-8"))) if scenes_file.is_file() else set()
+    seen = []
+    for n, line in enumerate(f.read_text("utf-8").splitlines(), 1):
+        if not line.strip() or line.strip().startswith("#"):
+            continue
+        m = re.fullmatch(r"\s*(S\d{3})\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*", line)
+        if not m:
+            errors.append(f"вставки.txt, строка {n}: нужен вид «S012 | вид | что показать»")
+            continue
+        sid, kind, what = m.group(1), " ".join(m.group(2).lower().replace("ё", "е").split()), m.group(3)
+        if ids and sid not in ids:
+            errors.append(f"вставки.txt, строка {n}: сцены {sid} нет в сцены_генерация.txt")
+        if kind not in {k.replace("ё", "е") for k in INSERT_KINDS}:
+            errors.append(f"вставки.txt, строка {n}: неизвестный вид «{m.group(2)}» (список — _общее/вставки_моушен.md)")
+        if sid in [s for s, _ in seen]:
+            errors.append(f"вставки.txt, строка {n}: на сцену {sid} уже есть вставка")
+        if len(what) < 4:
+            errors.append(f"вставки.txt, строка {n}: не написано, что показать")
+        seen.append((sid, kind))
+    nums = sorted(int(s[1:]) for s, _ in seen)
+    for a, b in zip(nums, nums[1:]):
+        if b - a == 1:
+            warns.append(f"вставки.txt: вставки на соседних сценах S{a:03d} и S{b:03d} — лучше не подряд")
+    if seen:
+        print(f"Вставок заказано: {len(seen)}")
+
 def main():
     args = sys.argv[1:]
     if not args:
@@ -40,8 +79,9 @@ def main():
                 (("озвучка", ".txt"), ("превью", ".txt"), ("загрузка_YouTube", ".md"))}
     for n in sorted(expected - set(names)):
         errors.append(f"Нет файла {n}")
-    for n in sorted(set(names) - expected):
+    for n in sorted(set(names) - expected - {"вставки.txt"}):
         warns.append(f"Лишний файл {n}: в архиве должны быть только файлы формата.")
+    check_inserts(root, errors, warns)
 
     for lang in langs:
         p = root / f"озвучка_{lang}.txt"
