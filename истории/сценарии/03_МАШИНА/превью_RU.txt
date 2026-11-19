@@ -9,9 +9,9 @@
 1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА (ChatGPT / любой генератор)
 Photorealistic cinematic YouTube thumbnail, 16:9, a Soviet factory gate at dawn in 1940. On the right side of the frame, at mid-height (between 40% and 65% of the frame height), a big round clock above the checkpoint with clear black hands at twenty-one minutes past seven and no numerals. On the left and centre, large and sharp, a 28-year-old Russian worker with short fair hair, short fair moustache, flat cap and dark work jacket running towards the camera and the gate, face in three-quarter view to the camera, worried eyes glancing sideways at the clock, a grey-blue labour book clutched in his hand; other workers blurred behind. The top third of the frame is only sky with warm sunrise light and steam (space for text). No text, no letters, no numbers, no logos, no flags, no slogans.
 
-2. ТЕКСТ (капс, жирный узкий рубленый шрифт, сверху по центру, в тёмной полосе)
-ВСЕГО, сверху по центру                — белый
-21 МИНУТА, сверху по центру            — жёлтый, крупнее
+2. ТЕКСТ (капс, жирный узкий рубленый шрифт; раскладка C сама ставит его в тёмную полосу сверху)
+ВСЕГО — белый
+21 МИНУТА — жёлтый, крупнее
 
 3. ПЛАШКА
 Белый прямоугольник внизу справа (как рисует программа), чёрные буквы: А ДАЛЬШЕ — СУД

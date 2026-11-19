@@ -10,7 +10,7 @@ Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applie
 The number goes only into the file name. Never draw the number or any other text inside the image itself.
 
 PROJECT CONTEXT:
-Project: a 30-minute Russian-language YouTube documentary for adults, channel «Истории RU» («Как жили в СССР»), titled "Как работали в СССР твои родители? Норма по секундомеру, ТРИНАДЦАТАЯ и цена ОПОЗДАНИЯ". Story: how ordinary people worked in the USSR, told through one family. YOU — a village boy who comes to a factory construction site in 1930 at 18, learns his trade in a few months on courses where workers were trained to strike a chisel with a hammer by an instructor's stopwatch, lives through rate-setters, passports that collective farmers did not get, Stakhanov's record of 1935, labour books (1939) and the decree of June 1940 that made being twenty minutes late a court matter. THE SON — a lathe operator in 1975 Kuibyshev: five-day week, average pay, engineers on 120 roubles, provincial "limit" workers in dormitories, the "thirteenth salary" in December, payday queues, canteen fish Thursdays, free milk for hazardous work, holiday food parcels, summer building crews. Then and now: working hours, vacation, retirement, sick pay, control by stopwatch versus apps. At the very end: the poet turned engineer who invented the courses, arrested in 1938 and shot in 1939.
+Project: a 33-minute Russian-language YouTube documentary for adults, channel «Истории RU» («Как жили в СССР»), titled "Как работали в СССР твои родители? Норма по секундомеру, ТРИНАДЦАТАЯ и цена ОПОЗДАНИЯ". Story: how ordinary people worked in the USSR, told through one family. YOU — a village boy who comes to a factory construction site in 1930 at 18, learns his trade in a few months on courses where workers were trained to strike a chisel with a hammer by an instructor's stopwatch, lives through rate-setters, passports that collective farmers did not get, Stakhanov's record of 1935, labour books (1939) and the decree of June 1940 that made being twenty minutes late a court matter. THE SON — a lathe operator in 1975 Kuibyshev: five-day week, average pay, engineers on 120 roubles, provincial "limit" workers in dormitories, the "thirteenth salary" in December, payday queues, canteen fish Thursdays, free milk for hazardous work, holiday food parcels, summer building crews. Then and now: working hours, vacation, retirement, sick pay, control by stopwatch versus apps. At the very end: the poet turned engineer who invented the courses, arrested in 1938 and shot in 1939.
 
 Visual style (used for every image): photorealistic cinematic documentary stills; 1920s–1940s in muted colours with warm lamp light and film grain; 1960s–1970s in warm natural colours; cool modern documentary photos for the present day. Interiors, clothes, cars and objects strictly of their decade.
 
@@ -44,190 +44,484 @@ REFERENCE R8. Character reference sheet of VIEWER: a person in their 30s, short 
 
 SCENES (one image each, in this exact order):
 
-SCENE S001. A cardboard box on a wardrobe shelf full of old family documents; on top lies a small worn grey-blue Soviet labour book (R6), a warm lamp lighting it. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S001. Close-up: a small worn grey-blue Soviet labour book (R6) lying on top of old family documents in a cardboard box on a wardrobe shelf, warm lamp light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S002. Dawn, 1940: the gate of a big Soviet factory, a large round clock above the checkpoint, workers in caps and padded jackets hurrying through, one man running. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S002. A wardrobe shelf with a cardboard box of family papers: three labour books (R6) of different wear side by side — a mother's, a father's and a newer one — next to old photos and envelopes. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S003. VIEWER (R8) at a modern kitchen table holding an old grey-blue labour book (R6) with both hands, looking at it thoughtfully, phone face down beside it. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S003. A personnel office in early 1939: a woman clerk at a wooden desk handing a brand-new grey-blue labour book (R6) to a young worker in a cap, stacks of identical booklets on the desk. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S004. Still life on a dark wooden table: a miner's helmet lamp, a lump of coal, a round clock face without numerals and a paper pay envelope, warm side light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S004. Dawn, 1940: the gate of a big Soviet factory, a large round clock above the checkpoint, workers in caps and padded jackets hurrying through, one man running. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S005. Autumn 1930: the gate of a huge factory under construction, scaffolding and cranes behind, crowds of peasants with bundles arriving in the mud. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S005. Split composition: on the left a 1930s training hall with young men at workbenches; on the right a closed factory gate with a guard in the booth, grey morning. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S006. YOU (R1, at 18) at the construction site with a small wooden trunk and a canvas bag, holding a folded paper, looking up at the scaffolding. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S006. VIEWER (R8) at a modern kitchen table holding an old black-and-white photo of his parents in work clothes, looking at it thoughtfully. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S007. The training hall (R7): long rows of identical workbenches with vises, young men in caps each holding a hammer over a chisel; in front the INSTRUCTOR (R4) raises a hand with a stopwatch. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S007. A 1970s factory shop: a woman in a headscarf at a machine with a box of identical finished parts beside her, a man counting them; textile, metal and coal in the background hint at different trades. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S008. Close-up of a young worker's hands: a hammer frozen just above a chisel clamped in a vise, metal chips in the air, the instructor's stopwatch blurred in the background. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S008. Close-up of a person's hands typing on a smartphone at a kitchen table in the evening, an old labour book (R6) beside the phone (screen blurred). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S009. A vast training workshop seen from a gallery: hundreds of trainees at rows of benches, instructors walking between the rows, light from tall windows. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S009. Split frame: on the left a 1970s lathe operator in blue overalls under warm lamps; on the right a modern warehouse worker with a wrist scanner under cold light. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S010. A grey stone institute building in 1920s Moscow at dusk, one lit window high up, a silhouette of a man at the window. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S010. Still life on a dark wooden table: a miner's helmet lamp, a lump of coal, a round clock face without numerals and a paper pay envelope, warm side light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S011. YOU (R1, at 19) at a lathe; beside him a rate-setter in a grey jacket with a stopwatch and a clipboard writing a figure (blurred); YOU works carefully, not hurrying. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S011. Night, 1935: the headframe of a Donbass coal mine lit by lamps against a dark sky, miners with helmet lamps walking towards it. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S012. A passport office around 1933: a queue of city workers at a wooden counter, a clerk handing out small booklets (blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S012. Macro: the hands of a big round clock above a factory gate without numerals, the minute hand just past the quarter, cold dawn light. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S013. Collective farm women in headscarves at the edge of a field, resting on their hoes and looking down a long road towards a distant town. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S013. A small 1960s courtroom seen from the back: a thin young man in a sweater standing alone before the judges' table, people in coats on benches. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S014. An elderly village woman in a headscarf in her 1970s cottage, holding her first passport in both hands, a quiet smile. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S014. A plain paper pay envelope on a snowy windowsill in December, frost patterns on the glass, warm room light behind. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S015. A collective farm office: a team leader in a cap writing tally marks in a large ledger (blurred) by lamp light, farmers waiting at the door. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S015. An old family album open on a kitchen table: black-and-white photos of factory workers, a labour book (R6) and a pair of reading glasses. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S016. Autumn at a collective farm: sacks of grain being weighed and handed out to families from a barn, carts waiting. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S016. Autumn 1930: the gate of a huge factory under construction, scaffolding and cranes behind, crowds of peasants with bundles arriving in the mud. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S017. A factory gate around 1931 with a board of handwritten notices (blurred), men reading them, smoke from chimneys behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S017. YOU (R1, at 18) at the edge of his village near Ryazan at sunrise, wooden huts behind, a small wooden trunk at his feet, looking down the road. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S018. Night in Donbass, 1935: the entrance to a coal mine, headframe lit by lamps, miners with helmet lamps walking in. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S018. Clumsy young hands holding a steel file over a piece of metal on a bench, unsure grip, sawdust and shavings. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S019. THE MINER (R5) at a coal face in a narrow tunnel, a pneumatic pick in his hands, coal dust in the beam of his helmet lamp. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S019. A clerk at a plank table at the construction site writing a name in a ledger (blurred) while YOU (R1, at 18) stands with his cap in his hands. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S020. A dark mine tunnel piled with heaps of freshly cut coal, coal carts lined up on rails, lamps glowing. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S020. The training hall (R7): long rows of identical workbenches with vises, young men in caps each holding a hammer over a chisel clamped in the vise. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S021. Miners helping: two men setting timber props, another loading coal into a cart behind THE MINER (R5). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S021. THE INSTRUCTOR (R4) on the small platform of the training hall (R7) raising a hand with a brass stopwatch, rows of trainees waiting. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S022. A street newspaper stand in 1935 crowded with workers reading (newspapers blurred), one man pointing excitedly. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S022. Close-up of a young worker's hands: a hammer coming down on a chisel clamped in a vise, metal chips in the air, the stopwatch blurred in the background. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S023. A 1930s textile mill: a young woman weaver in a headscarf walking between long rows of running looms, threads shining. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S023. A trainee in the training hall (R7) frozen in a precise stance, the INSTRUCTOR (R4) adjusting the angle of his elbow and the grip on the hammer. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S024. A 1930s field: a brigade of young women in overalls and headscarves standing proudly beside their tractors. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S024. Two rows of trainees striking in perfect unison, hammers all at the same height, motion blur, tall windows behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S025. YOU (R1, at 23) working faster at the lathe, sweat on his forehead; in the background the rate-setter crossing out a figure on a card (blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S025. A vast training workshop seen from a gallery: hundreds of trainees at rows of benches, instructors walking between the rows, light from tall windows. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S026. THE SON (R2, at 30) at a lathe in a large bright machine-building shop in 1975, blue overalls, concentrating. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S026. An old master craftsman with a grey beard at a bench in a small pre-revolutionary workshop, a boy apprentice handing him a tool and watching closely. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S027. A Saturday by a river: THE SON (R2) with his wife and a first-grader son on a picnic blanket, a small car in the background. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S027. A wall calendar of the 1930s with torn-off pages flying, a young trainee at a bench in the background (pages blank, no numbers). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S028. A factory cashier's window with a queue of workers, banknotes being counted out on the counter. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S028. A crowd of hundreds of young workers in caps leaving a training school through a wide gate, factory chimneys behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S029. A young engineer in a modest suit at a drawing board in a design office, tired face, rows of drawing boards behind. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S029. YOU (R1, at 19) standing at a lathe in a big workshop next to older bearded workers in aprons, proud and a little nervous. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S030. A rate-setter in a 1970s grey suit with a stopwatch standing beside THE SON (R2) at his lathe; THE SON works calmly and evenly; behind them a board of honour with blurred portrait photos and a red velvet banner with fringe (no lettering). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S030. A grey stone institute building in 1920s Moscow at dusk, one lit window high up. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S031. Factory workers in autumn in a potato field, sacks and buckets, a factory bus parked at the edge. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S031. THE DIRECTOR (R3, at 45) in a dark jacket and tie at a desk covered with drawings of hand movements, looking at a stopwatch in his palm. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S032. Young men with suitcases in a busy 1970s factory shop next to THE SON (R2), looking around, new to the place. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S032. An empty office at night in the 1930s: a desk lamp still on, a chair pushed back, papers left on the desk (blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S033. A 1970s passport desk: a stern woman official stamping a page of a passport (blurred), a young man waiting. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S033. YOU (R1, at 19) at his lathe in a 1930s workshop, a finished part in his hand, looking at it carefully. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S034. Young workers from the provinces at a 1970s Moscow construction site: concrete, cranes, panel blocks rising. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S034. A rate-setter in a grey jacket with a stopwatch and a clipboard walking along a row of lathes, workers glancing at him. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S035. A 1970s workers' dormitory room: four iron beds, a table with a kettle, a strict watchwoman at the entrance desk in the corridor. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S035. Close-up: the rate-setter's stopwatch in one hand and a card on a clipboard (blurred) in the other, YOU (R1) working at the lathe behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S036. A young woman driver at the wheel of a 1970s trolleybus on a Moscow street, morning light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S036. A pay window at a 1930s factory: a worker receiving a few banknotes and coins from a cashier (banknotes not readable). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S037. A young man with a suitcase stepping off a train at a big Moscow railway station in the 1970s, crowds, looking up. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S037. The rate-setter writing a new figure on a card (blurred) beside a worker who works fast, sweat on his forehead. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S038. THE SON (R2) at the window of his Kuibyshev apartment in the evening, the Volga far below, thoughtful. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S038. Older workers at their lathes working evenly and calmly while the rate-setter watches, one of them giving a sideways glance to YOU (R1). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S039. A personnel office in 1939: a stack of new grey labour books (R6) on a wooden desk, a woman clerk with a pen, filing cabinets. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S039. A young peasant woman in a headscarf, YOU's sister, standing at a village fence with a bucket, watching a cart leave for the town. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S040. Workers with bundles and suitcases walking out through a factory gate towards another plant on the horizon. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S040. A passport office around 1933: a queue of city workers at a wooden counter, a clerk handing out small booklets (blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S041. A stern personnel officer in glasses leafing through a labour book (R6), stopping at a page with a stamp (blurred). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S041. Collective farm women in headscarves at the edge of a field, resting on their hoes and looking down a long road towards a distant town. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S042. YOU (R1, at 27) with his young wife and a small daughter in a barracks room in winter, an iron stove, a shelf with a few dishes. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S042. A collective farm chairman at a table in a log office refusing a young man with a bundle, shaking his head, a lamp on the table. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S043. A 1930s factory crèche: rows of small cots, a nurse in a white headscarf holding a baby. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S043. A village council office in the late 1970s: an old woman in a headscarf receiving a passport (blurred) from a clerk across a desk. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S044. Late night in a barracks kitchen: a young woman washing laundry in a tin tub by lamplight, tired. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S044. An elderly village woman in a headscarf in her cottage, holding her first passport in both hands, a quiet smile. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S045. A crowded tram at dawn in 1939, workers hanging on the steps, YOU (R1) among them looking at his watch. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S045. VIEWER (R8) on a video call with an elderly grandmother on a tablet in a modern kitchen (screen content blurred). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S046. June 1940: a crowd standing under a street loudspeaker on a pole and beside a wall newspaper stand (blurred), serious faces. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S046. An elderly couple at a village table in silence, a teapot between them, old photos on the wall. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S047. A small district courtroom in 1940: a young worker in a cap standing before a judge's table with a cloth cover, two assessors beside the judge. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S047. A collective farm office: a team leader in a cap writing tally marks in a large ledger (blurred) by lamp light, farmers waiting at the door. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S048. An empty tram stop at dawn, rails disappearing into the fog, a few people waiting and looking at their watches. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S048. Autumn at a collective farm: sacks of grain and potatoes being weighed and handed out to families from a barn, carts waiting. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S049. A court archive: tall wooden shelves filled with thousands of thin case folders tied with string, a single lamp. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S049. An old woman's hand tracing a row of short pencil strokes in a worn ledger (blurred), close-up. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S050. YOU (R1, at 28) running towards the factory checkpoint at dawn, the big clock above the gate, breath visible in the cold air. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S050. A collective farm cashier in 1966 counting out banknotes to a line of farmers at a window, sunlight. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S051. A wartime factory around 1942: women in headscarves and teenage boys standing on boxes at lathes, dim light. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S051. Split frame: on the left YOU (R1) receiving pay at a factory window; on the right his sister in a headscarf in a field at harvest. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S052. A modern courier on an electric scooter checking a rating on his phone at a red light, insulated delivery bag on his back. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S052. A factory gate around 1931 with a board of handwritten notices (blurred), men in caps reading them, smoke from chimneys behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S053. Spring 1956: workers walking out of a factory gate in sunlight, some laughing, coats open. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S053. A crowd of job seekers being let into a factory yard, a foreman waving them in, construction cranes behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S054. A 1964 courtroom in Leningrad seen from the back rows: a thin young man in a sweater standing alone, people in coats on benches. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S054. A factory gate in 1940 shut, a guard in a booth, a worker with a suitcase standing outside looking at it. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S055. A northern village in winter: log huts in deep snow, a young man in a padded jacket with a pitchfork near a cattle barn. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S055. YOU (R1, at 22) at the lathe working evenly, the rate-setter in the background walking away. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S056. A Moscow street in 1961: two volunteer patrolmen with armbands checking a young man's documents, passers-by glancing. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S056. A tear-off calendar on a workshop wall at the end of August, a lathe and a worker behind (no numbers visible). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S057. A young musician of the 1960s with a guitar in a small room, a stern district policeman standing in the doorway. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S057. Night in Donbass, 1935: the entrance to a coal mine, headframe lit by lamps, miners with helmet lamps walking in. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S058. A personnel clerk frowning at an open labour book (R6) with a long blank gap between entries (blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S058. A cage of miners descending into the shaft, helmet lamps glowing in the dark. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S059. THE SON (R2) at his lathe, a framed certificate of merit on the shop wall behind him (blurred), confident. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S059. THE MINER (R5) at a coal face in a narrow tunnel, a pneumatic pick in his hands, coal dust in the beam of his helmet lamp. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S060. December 1975: a queue of workers at a factory cashier's window, snow falling outside the tall windows, festive mood. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S060. A single coal cart filled to the top beside a measured pile, an official with a notebook (blurred) in the tunnel. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S061. An accountant with an abacus beside stacks of pay envelopes on a table in a factory accounting room. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S061. A dark mine tunnel piled with heaps of freshly cut coal, coal carts lined up on rails, lamps glowing. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S062. A brigade meeting in a factory shop: a foreman scolding a guilty young worker, the brigade looking on unhappily. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S062. Mine foremen and a party organiser with lamps discussing a plan over a table in a pit office at night (papers blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S063. THE SON (R2) and his wife carrying a rolled carpet up the stairs of an apartment block. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S063. Two miners setting timber props, another loading coal into a cart behind THE MINER (R5), all in the light of helmet lamps. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S064. A brand-new small white 1970s Soviet sedan in a snowy courtyard, a family and neighbours gathered around admiring it (no license plate). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S064. A street newspaper stand in 1935 crowded with workers reading (newspapers blurred), one man pointing excitedly. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S065. THE SON (R2) walking home in the snow in the evening, hand on his coat pocket, streetlights. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S065. YOU (R1, at 23) at his lathe looking up worriedly as the rate-setter approaches with a stopwatch. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S066. A kitchen table in the evening: a wall calendar, a pay envelope and a small savings book, a cup of tea. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S066. A workshop meeting in 1936: a manager at a table reading out a paper (blurred), workers in caps listening with crossed arms. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S067. Payday at a factory gate: a long queue at the cashier window inside, wives waiting outside the checkpoint. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S067. A shock worker in a clean jacket receiving a bouquet and a certificate (blurred) on a stage in a factory club, applause. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S068. A worker signing a payroll ledger (blurred) and counting banknotes at a cashier's counter. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S068. YOU (R1) at the lathe, sweat on his forehead, working faster; behind him the rate-setter crossing out a figure (blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S069. A foundry worker in a protective jacket drinking milk from a glass bottle with a foil cap, molten metal glowing behind. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S069. A 1930s textile mill: young women weavers in headscarves walking between long rows of running looms, threads shining. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S070. A 1970s factory canteen: a tray with a bowl of soup, a cutlet with mashed potatoes, a glass of compote and slices of bread, workers at long tables. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S070. Two young women weavers in headscarves tending dozens of looms at once in a vast mill hall. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S071. A canteen counter on a Thursday: plates of fried fish and fish cutlets in rows, a canteen lady in a white cap serving. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S071. A 1930s field: a brigade of young women in overalls and headscarves standing proudly beside their tractors. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S072. A holiday food parcel on a kitchen table: a stick of cervelat sausage, a tin of sprats, a jar of green peas, a box of chocolates, wrapping paper. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S072. A young woman, YOU's future wife, at a factory meeting in a headscarf, listening to a speaker, other weavers around her. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S073. A worker passing a factory checkpoint with a bulging bag, the guard in the booth looking away. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S073. YOU (R1, at 23) at his lathe, confident, moustache, cap, a precise part in the chuck. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S074. Summer in a village: a team of bearded men in vests building a brick cowshed, sweat, a collective farm chairman watching. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S074. YOU (R1) working late, a big stack of finished parts beside the lathe, the shop half-empty. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S075. THE SON (R2) at the kitchen table in the evening counting money from an envelope, his wife beside him with a notebook. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S075. The rate-setter at the lathe again with a stopwatch, YOU (R1) frowning at a new card (blurred). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S076. Split frame: on the left 1975 factory workers leaving the shift through the gate; on the right modern office workers leaving a glass building. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S076. A row of workers at lathes all working at the same calm pace, a clock on the wall without numerals. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S077. A 1970s factory farewell: an older worker with flowers and a gift clock, colleagues applauding in the shop. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S077. A 1970s family dinner in a small kitchen: an older father in a cardigan and THE SON (R2, at 30) talking over plates, warm lamp. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S078. A doctor's sick note and a thermometer on a bedside table in a 1970s apartment, a cup of tea (note blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S078. A wide view of Kuibyshev in 1975: the Volga, factory chimneys and new panel blocks under a pale sky. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S079. A modern open-space office: people at laptops, a recruiter on a video call (screen blurred). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S079. THE SON (R2, at 30) at a lathe in a large bright machine-building shop in 1975, blue overalls, concentrating. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S080. A modern factory: a young welder in a mask at work, sparks flying, clean bright workshop. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S080. THE SON (R2) with his wife, a schoolteacher, and their first-grader son in a school uniform in the hallway of their apartment in the morning. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S081. A modern warehouse picker with a handheld scanner on her wrist, a timer glowing on its screen (blurred), tall shelves. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S081. An open labour book (R6) with a first handwritten entry and a stamp (blurred), a young apprentice's hands holding it. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S082. A grandfather and his adult grandson at a kitchen table, arguing warmly, tea cups, an old photograph between them. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S082. A black-and-white photo of a baby in 1945 propped against a 1970s window, spring light outside. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S083. A modern CIS city at dusk: apartment blocks, wide avenue, mountains far behind, people walking home. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S083. A Saturday by the Volga: THE SON (R2) with his wife and son on a picnic blanket, a small car in the background. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S084. The same cardboard box on the wardrobe shelf (R6 on top), now lit by evening light, as at the beginning. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S084. A 1967 factory shop: workers gathered round a foreman reading an announcement (blurred), smiles. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S085. Old hands turning the pages of the labour book (R6): handwritten entries in different inks and round stamps, all blurred and unreadable. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S085. THE SON (R2) in a knitted sweater on a Saturday morning carrying a fishing rod out of an apartment block, sunshine. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S086. Macro: an enamel labour badge with a gear wheel and a red banner (no lettering) lying on the open labour book (R6) on dark velvet. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S086. A factory cashier's window in 1975 with a queue of workers, banknotes being counted out on the counter. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S087. Still life: a hammer, a chisel and a brass stopwatch next to the open labour book (R6) on a workbench, dust in the light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S087. A wall clock without numerals in a 1970s workshop above a row of lathes, a worker glancing at it. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S088. THE DIRECTOR (R3) as a young man of 28 in a Paris factory, in a worker's blouse at a machine, lathes and belts behind him. Style: photorealistic cinematic documentary still, Paris 1900s–1910s, muted colours, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S088. THE SON (R2) receiving a pay slip (blurred) from a forewoman, a satisfied nod. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S089. A darkened laboratory: a worker with tiny light bulbs fixed on his wrist and elbow strikes a chisel; a camera on a tripod records glowing curved light trails in the air. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S089. A young engineer in a modest suit at a drawing board in a design office, tired face, rows of drawing boards behind. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S090. A printed memo sheet pinned on a factory wall (text blurred and unreadable), a young worker in a cap stopping to read it. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S090. Teenage boys in 1970s jackets entering a factory gate together after school, one carrying a school bag. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S091. A birch forest in early spring, fog between the trees, melting snow, empty and silent. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S091. A rate-setter in a 1970s grey suit with a stopwatch and a clipboard standing beside THE SON (R2) at his lathe. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S092. VIEWER (R8) at the kitchen table at night writing on a phone; beside it an old photo of a young worker at a lathe, a 1970s photo of a man in blue overalls and the open labour book (R6). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S092. THE SON (R2) working calmly and evenly at the lathe while the rate-setter watches, close-up of his steady hands. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
-SCENE S093. The empty training hall (R7) in evening light: every workbench tidied, hammers and chisels laid out neatly in rows, dust floating in a sunbeam. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+SCENE S093. A flashback-like warm image: an older man (YOU, R1, at 63) and THE SON (R2) at a dinner table, the father saying something with a half-smile. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S094. A 1970s office of scientific labour organisation at a plant: engineers with charts and slide rules (charts blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S095. A factory honour board with rows of small portrait photos (faces blurred, no lettering), a worker looking at it. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S096. A red velvet banner with gold fringe (no lettering) standing in a corner of a factory club room, a foreman shaking a brigade leader's hand. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S097. Factory workers in autumn in a potato field, sacks and buckets, a factory bus parked at the edge. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S098. A spring Saturday cleanup in a factory yard: workers with rakes, buckets of paint, painting a fence. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S099. A young graduate with a suitcase stepping off a bus in a small industrial town, a new factory in the distance. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S100. A trade union office: a woman handing THE SON (R2) a resort voucher (blurred), a poster-free wall, a fern on the windowsill. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S101. Young men with suitcases in a busy 1970s factory shop next to THE SON (R2), looking around, new to the place. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S102. Two young provincial workers in a Moscow factory canteen, eating quietly, others glancing at them. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S103. A 1970s workers' dormitory room: four iron beds, a table with a kettle, a strict watchwoman at the entrance desk in the corridor. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S104. A 1970s passport desk: a stern woman official stamping a page of a passport (blurred), a young man waiting. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S105. A 1970s Moscow factory gate with a long blank board for job notices (blurred), a few people reading. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S106. A young woman driver at the wheel of a 1970s trolleybus on a Moscow street, morning light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S107. A dormitory commandant in a cardigan checking a register (blurred) at a desk by the stairs. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S108. A young worker with a suitcase standing at a dormitory window at night, looking at the lights of the city. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S109. Young workers from the provinces at a 1970s Moscow construction site: concrete, cranes, panel blocks rising. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S110. A young man with a suitcase stepping off a train at a big Moscow railway station in the 1970s, crowds, looking up. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S111. THE SON (R2) at the window of his Kuibyshev apartment in the evening, the Volga far below, thoughtful. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S112. A dark corridor of a 1940 district court, a bench, a cap left on it, dim light. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S113. Close-up of a closed grey-blue labour book (R6) on an empty table, a single lamp. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S114. A personnel officer's pen hovering over an open labour book (R6), a round stamp beside it (writing blurred). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S115. A personnel office in 1939: a stack of new grey labour books (R6) on a wooden desk, a woman clerk with a pen, filing cabinets. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S116. Hands filling in a labour book (R6) with a fountain pen, ink bottle, blotting paper (writing blurred). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S117. Workers with bundles and suitcases walking out through a factory gate towards another plant on the horizon. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S118. A metal filing cabinet in a personnel office with rows of labour books (R6) on edge, a clerk closing the drawer. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S119. A stern personnel officer in glasses leafing through a labour book (R6), stopping at a page with a stamp (blurred). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S120. Winter 1939: a workers' barracks in snow, smoke from stovepipes, a path trodden to the door. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S121. YOU (R1, at 27) with his young wife and a small daughter in a barracks room in winter, an iron stove, a shelf with a few dishes. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S122. YOU (R1) signing his name in a labour book (R6) at a personnel desk, the clerk holding the page (writing blurred). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S123. YOU's wife hanging washing in a barracks yard in spring, the little daughter playing nearby. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S124. A 1930s factory crèche: rows of small cots, a nurse in a white headscarf holding a baby. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S125. Late night in a barracks kitchen: a young woman washing laundry in a tin tub by lamplight, tired. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S126. A crowded tram at dawn in 1939, workers hanging on the steps, YOU (R1) among them looking at his watch. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S127. YOU (R1, at 27) at the barracks window at night looking at the dark factory, his labour book (R6) on the sill. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S128. June 1940: a crowd standing under a street loudspeaker on a pole and beside a wall newspaper stand (blurred), serious faces. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S129. A worker with a suitcase stopped at a factory checkpoint by a guard, the gate closed. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S130. A grim brick wall with a closed iron gate and a guard tower, grey sky, an empty road in front. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S131. A pay window in 1940: a worker staring at a smaller stack of coins and notes than usual (not readable). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S132. A small district courtroom in 1940: a young worker in a cap standing before a judge's table with a cloth cover, two assessors beside the judge. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S133. An empty tram stop at dawn, rails disappearing into the fog, a few people waiting and looking at their watches. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S134. A young mother in a headscarf in a barracks doorway at dawn with a crying toddler, looking at the clock. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S135. A long bread queue in front of a bakery at dawn in 1940, women in headscarves, breath in the cold air. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S136. A court archive: tall wooden shelves filled with thousands of thin case folders tied with string, a single lamp. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S137. A shop chief in a jacket signing a paper at his desk with a heavy face, a list of names beside him (blurred). Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S138. Dawn, 1940: the tram rails empty, YOU (R1, at 28) looking down the street, no tram in sight. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S139. YOU (R1, at 28) running towards the factory checkpoint at dawn, the big clock above the gate, breath visible in the cold air. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S140. Close-up of the big round clock above the factory gate without numerals, a running man reflected small in the window below. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S141. A pen entering a line in an open labour book (R6) on a personnel desk (writing blurred), a stamp beside it. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S142. YOU's wife and little daughter at the barracks window, waiting, morning light. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S143. The factory gate with the big round clock in grey winter light, wartime sandbags stacked by the wall, the gate empty. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S144. A wartime factory around 1942: women in headscarves and teenage boys standing on boxes at lathes, dim light. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S145. An elderly man in a 1970s cardigan at a kitchen table, his grandson asking something, the old man looking away. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S146. VIEWER (R8) sitting at a kitchen table at night, looking straight into the camera, an old labour book (R6) in front of him. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S147. A modern courier on an electric scooter checking a rating on his phone at a red light, insulated delivery bag on his back. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S148. Split frame: the 1940 factory clock on the left, a smartphone with a timer (screen blurred) on the right. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S149. Spring 1956: workers walking out of a factory gate in sunlight, some laughing, coats open. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S150. A 1961 district police office: a policeman with a register (blurred) and a list of addresses on a desk. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S151. A 1964 courtroom in Leningrad seen from the back rows: a thin young man in a sweater standing alone, people in coats on benches. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S152. A small room with a typewriter, piles of manuscripts and books, a thin young man smoking at the window (manuscripts blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S153. A northern village in winter: log huts in deep snow, a young man in a padded jacket with a pitchfork near a cattle barn. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S154. A snowy northern field at sunset, an empty bench by a log hut, a long shadow. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S155. A heavy official decree with a seal lying on a desk in 1961 (text blurred), a pen and a glass of tea. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S156. A Moscow street in 1961: two volunteer patrolmen with armbands checking a young man's documents, passers-by glancing. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S157. A train with people and bundles leaving a city platform for the north, a policeman on the platform. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S158. A prosecutor's office: stacks of files on a desk, a clerk counting folders (blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S159. A workers' meeting in a factory club in 1961: a man standing in front of a raised hands vote, tense faces. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S160. A young musician of the 1960s with a guitar in a small room, a stern district policeman standing in the doorway. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S161. A personnel clerk frowning at an open labour book (R6) with a long blank gap between entries (blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S162. THE SON (R2) at his lathe, a framed certificate of merit on the shop wall behind him (blurred), confident. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S163. December 1975: a factory shop decorated with a small fir tree and tinsel, workers glancing at the clock. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S164. December 1975: a queue of workers at a factory cashier's window, snow falling outside the tall windows, festive mood. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S165. An accountant with an abacus beside stacks of pay envelopes on a table in a factory accounting room. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S166. A 1965 meeting of planners and economists at a long table with charts (blurred), cigarette smoke. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S167. A thick pay envelope in a worker's hand at the cashier's window, close-up. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S168. A brigade leader and a foreman looking at a big planning chart on a wall (blurred), nodding. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S169. A brigade meeting in a factory shop: a foreman scolding a guilty young worker, the brigade looking on unhappily. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S170. Workers of a brigade around a guilty young colleague in a smoking room, half angry, half worried. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S171. An older man (YOU, R1, at 63) and THE SON (R2) side by side at the factory gate, the same big clock above them. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S172. THE SON (R2) and his wife carrying a rolled carpet up the stairs of an apartment block. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S173. A new 1970s furniture wall unit in an apartment, a small savings book (blurred) on the shelf, a woman wiping it proudly. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S174. A brand-new small white 1970s Soviet sedan in a snowy courtyard, a family and neighbours gathered around admiring it (no license plate). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S175. A long list of names pinned in a factory union office (blurred), THE SON (R2) running his finger down it. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S176. THE SON (R2) walking home in the snow in the evening, hand on his coat pocket, streetlights. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S177. A kitchen table in the evening: a wall calendar, a pay envelope and a small savings book, a cup of tea. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S178. Payday at a factory gate: wives in coats and headscarves waiting outside the checkpoint at the end of the shift. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S179. THE SON's wife (a schoolteacher in a coat) among other women at the factory checkpoint, smiling as he comes out. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S180. A long queue at the cashier window inside a factory hall on payday, workers in overalls. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S181. A worker signing a payroll ledger (blurred) and counting banknotes at a cashier's counter. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S182. A savings bank office in the 1970s: a woman at the counter handing a small savings book (blurred) to a customer. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S183. A foundry in 1975: molten metal pouring, workers in protective jackets and face shields. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S184. A foundry worker drinking milk from a glass bottle with a foil cap, molten metal glowing behind. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S185. A worker coming home with a milk bottle with a foil cap, a small child running to meet him in the hallway. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S186. An older chemical worker's farewell party in a small shop, colleagues with flowers, he is in his early fifties. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S187. A 1970s factory canteen: workers at long tables, a queue with trays along the counter. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S188. A tray with a bowl of soup, a cutlet with mashed potatoes, a glass of compote and slices of bread. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S189. A canteen counter on a Thursday: plates of fried fish and fish cutlets in rows, a canteen lady in a white cap serving. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S190. An elderly man in a modern kitchen frying fish cakes, smiling at a memory. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S191. A trade union office before a holiday: people queuing with string bags, boxes on a table. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S192. A holiday food parcel on a kitchen table: a stick of cervelat sausage, a tin of sprats, a jar of green peas, a box of chocolates, wrapping paper. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S193. Empty shelves in a 1970s grocery store, a bored shop assistant, a few jars of pickles. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S194. A port in the 1970s: cranes, dockers in quilted jackets, a ship being unloaded. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S195. A worker passing a factory checkpoint with a bulging bag, the guard in the booth looking away. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S196. A dacha shed with tins of paint, nails and boards stacked inside, sunlight through the slats. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S197. Summer in a village: a team of bearded men in vests building a brick cowshed, sweat, a collective farm chairman watching. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S198. The chairman and the crew leader shaking hands over a table under a tree, a bottle of kvass, papers (blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S199. THE SON (R2) at the kitchen table in the evening counting money from an envelope, his wife beside him with a notebook. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S200. A modern kitchen: a laptop, a payslip on a phone (blurred) and an old labour book (R6) side by side. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S201. Split frame: on the left 1975 factory workers leaving the shift through the gate; on the right modern office workers leaving a glass building. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S202. A 1970s factory farewell: an older worker with flowers and a gift clock, colleagues applauding in the shop. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S203. A doctor's sick note and a thermometer on a bedside table in a 1970s apartment, a cup of tea (note blurred). Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S204. A modern doctor's office: a nurse printing an electronic sick-leave form (blurred). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S205. THE SON (R2) at a factory gate with a lunch box, a calm morning, other workers around. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S206. A modern open-space office: people at laptops, a recruiter on a video call (screen blurred). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S207. Two workers at neighbouring lathes, one fast and one slow, the same pay envelopes on the shelf above them. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S208. A modern factory: a young welder in a mask at work, sparks flying, clean bright workshop. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S209. The big round clock above the factory gate at dawn, the same as in 1940. Style: photorealistic cinematic documentary still, Soviet era late 1930s–1940s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S210. A modern warehouse picker with a handheld scanner on her wrist, a timer glowing on its screen (blurred), tall shelves. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S211. A memo sheet pinned on the wall of a modern warehouse (text blurred), a worker passing by. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S212. A grandfather and his adult grandson at a kitchen table, arguing warmly, tea cups, an old photograph between them. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S213. VIEWER (R8) at a window with a cup of tea, thinking, city lights behind. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S214. A modern CIS city at dusk: apartment blocks, wide avenue, mountains far behind, people walking home. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S215. The same cardboard box on the wardrobe shelf (R6 on top), now lit by evening light, as at the beginning. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S216. Old hands turning the pages of the labour book (R6): handwritten entries in different inks and round stamps, all blurred and unreadable. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S217. An old black-and-white photo of a whole factory shop crew posing by their machines. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S218. Macro: different inks and faded round stamps on yellowed pages of the labour book (R6), all blurred and unreadable. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S219. An empty chair by a window with an old cardigan hanging on it, afternoon light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S220. Macro: an enamel labour badge with a gear wheel and a red banner (no lettering) lying on the open labour book (R6) on dark velvet. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S221. Still life: a hammer, a chisel and a brass stopwatch next to the open labour book (R6) on a workbench, dust in the light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S222. Still life on a workbench: a hammer on a chisel, a brass stopwatch, a tram ticket, a few potatoes and a pay envelope, warm light. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S223. The empty training hall (R7) at dusk, a single lamp above the instructor's platform. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S224. THE DIRECTOR (R3, at 45) standing in the training hall (R7), hands behind his back, watching the trainees. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S225. THE DIRECTOR (R3) as a young man of 28 in a Paris factory, in a worker's blouse at a machine, lathes and belts behind him. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S226. THE DIRECTOR (R3, at 40) at the entrance of a newly opened institute in Moscow in 1920, people carrying in benches. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S227. A darkened laboratory: a worker with tiny light bulbs fixed on his wrist and elbow strikes a chisel; a camera on a tripod records glowing curved light trails in the air. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S228. A printed memo sheet pinned on a factory wall (text blurred and unreadable), a young worker in a cap stopping to read it. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S229. Close-up of the memo sheet on a workshop wall, a worker's finger following the lines (text blurred and unreadable). Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S230. A young office worker reading a productivity book in a modern coffee shop (pages blurred). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S231. A dark staircase of a Moscow apartment building at night, an open door to an empty room, light falling on the floor. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S232. A birch forest in early spring, fog between the trees, melting snow, empty and silent. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S233. A 1956 office: a clerk placing a thin folder into an archive box (blurred), spring light. Style: photorealistic cinematic documentary still, Soviet everyday life 1960s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S234. YOU (R1, at 19) at the workbench in the training hall, hammer raised, the stopwatch behind. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S235. THE SON (R2) at his lathe with the rate-setter and his stopwatch nearby, 1975. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S236. A young man looking at a fitness app with steps and minutes on his phone (screen blurred) on a morning commute. Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S237. VIEWER (R8) at the kitchen table at night writing on a phone; beside it an old photo of a young worker at a lathe and the open labour book (R6). Style: modern documentary photo, cool daylight, shallow depth of field, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S238. A Soviet one-rouble coin lying on a 1970s kitchen table next to a shopping list and a string bag. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S239. Split frame: a Moscow department store in the 1970s and a small district-town shop of the same years. Style: photorealistic cinematic documentary still, Soviet everyday life 1970s, warm natural colours, soft lamp or window light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
+
+SCENE S240. The empty training hall (R7) in evening light: every workbench tidied, hammers and chisels laid out neatly in rows, dust floating in a sunbeam. Style: photorealistic cinematic documentary still, Soviet era 1920s–1930s, muted colours, warm lamp light, film grain, 16:9, no text, no letters, no numbers, no logos, no watermark.
 
 FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … last scene, R1.png … for references), one file per number, no UUID names, no numbers drawn inside the images.
