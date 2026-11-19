@@ -1,0 +1,93 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a one-minute English channel trailer for adults on the YouTube channel about prehistoric humans. Fast cuts: one image every one to two seconds, each image must be bold, readable at a glance, with one clear subject and strong light. Story: a child's fingerprint in clay 30,000 years ago; "they were not cavemen, they were us"; flour, bone needles, mammoth-bone houses, fire-making 400,000 years ago, long Ice Age nights; other humans (Neanderthals, Denisovans, the small people of Flores) and only one kind left; the Taung Child killed by an eagle almost three million years ago; first Europeans with no descendants and ancient DNA; the evidence (a tooth, a footprint, a hand stencil, new studies); fact, reconstruction, guess; ends with the same child and a line of people walking out of the dawn.
+
+Visual style (used for every image): painterly realism, scientifically grounded reconstruction of prehistoric life, dramatic cinematic composition, high contrast, warm firelight against cold blue; documentary photograph look for fossils, museums and labs.
+
+Recurring characters (keep identical across shots): THE CHILD and THE WOMAN exactly as in references R1 and R2 (the same people as in the channel's first video). People wear fitted sewn fur clothing, never loincloths. Neanderthals are stocky and upright, never ape-like. Scientists are generic figures seen from behind.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no blood, no wounds, no fighting, no hunting contact, no nudity, no cartoon or stick-figure style, no recognisable real people. Hands have five fingers. Screens and papers are blurred and unreadable.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of THE CHILD: a child about nine years old, early modern human, weathered light-brown skin, dark tangled hair, dark curious eyes, hooded parka of reindeer and fox fur with neat sewn seams, fur boots; front, side and three-quarter views. Style: painterly realism, scientifically grounded reconstruction, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of THE WOMAN: an adult woman about thirty, early modern human, strong hands, dark hair in a simple braid, weathered skin, sewn fur parka, necklace of pierced fox teeth and small shells; front, side and working poses (scraping a hide, sewing). Style: painterly realism, scientifically grounded reconstruction, neutral light, plain background, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Thumbnail image, extreme close-up: a child's small fingertip pressing into soft yellow-grey clay, warm firelight raking across, a child's face in fur hood soft-focused behind looking at the camera (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Extreme close-up of an ancient fingerprint pressed into dark fired clay, ridges sharp under a hard museum light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S003. Epic wide shot: a vast Ice Age valley at dawn, a tiny camp of hide huts with smoke, a herd of woolly mammoths with small ears crossing a frozen river, golden light breaking through clouds. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Hands in finely sewn fur sleeves carefully knapping a thin, perfect flint blade, flakes flying in firelight, precise and skilled. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S005. Close portrait of an Upper Paleolithic woman in a sewn fur hood looking straight into the camera, frost on the fur, intelligent calm eyes, firelight on her face (woman from reference R2). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S006. Fast action close-up: hands pounding pale roots on a flat stone with a stone pestle, white powder flying in firelight. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S007. Close-up of fingers pushing a bone needle with an eye through fur and leather, tight sinew stitches. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S008. A round house built of mammoth jaws, tusks and long bones in a snowstorm at night, warm light glowing from inside. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S009. Macro shot: a flint striking a lump of pyrite, a burst of bright sparks landing on dry tinder in the dark. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S010. A family huddled under furs around a small fire inside a hut while a blizzard rages in the black night outside. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S011. A lone figure in furs on a ridge looking at distant smoke on the far side of the valley, wind, snow. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S012. Several human figures of different heights and builds standing far apart on a misty ridge above a glacial valley, seen from behind. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S013. Close portrait of a Neanderthal man by firelight: broad nose, strong brow ridge, upright posture, sewn hide clothing, thoughtful expression, scientifically grounded reconstruction. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S014. A mysterious Denisovan face half in shadow in a Siberian cave mouth, one possible reconstruction based on a large skull, heavy brow, wide face, fur clothing. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S015. A small-bodied hominin about one metre tall walking through tall tropical grass on a jungle island, a large Komodo dragon far behind for scale. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S016. A single modern human figure standing alone on a hill at dusk, long shadow, the other figures gone. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S017. Low angle: a huge dark eagle silhouette with spread wings sweeping over an African grassland at dawn, a tiny early hominin group far below. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S018. Museum close-up: a small fossil child's skull with a natural stone brain cast, held in gloved hands, dark background. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S019. Extreme close-up of small holes and cracks inside the eye socket of a fossil skull, dramatic side light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S020. A crowned eagle diving out of the bright sky straight toward the camera, talons forward, no prey visible. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A cave mouth in a frozen landscape at dusk, an empty campsite with a dying fire, footprints in snow leading away and fading. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S022. A glowing DNA double helix made of light floating above an ancient skull in a dark lab, scientist's gloved hand. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S023. An archaeologist's brush sweeping dust from a trench in fast motion, sun flare, figure seen from behind. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S024. Macro of a single ancient human tooth on black velvet, hard light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S025. A preserved ancient human footprint in hardened mud, low raking light, a ruler-free clean frame. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S026. A red ochre hand stencil on a cave wall lit by a moving torch, the shadow of a modern hand approaching it. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A scientist seen from behind in a lab looking at a blurred screen with a skull scan, blue light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S028. Split frame: on the left a real fossil skull in a museum, on the right the same face reconstructed in flesh, warm light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S029. A painterly reconstruction of an Ice Age camp at dusk, people working, fire, mammoth bones. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S030. The same Ice Age camp scene half sketched, faded and unfinished at the edges like a painting being made. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S031. The child from the opening looking into the camera at dawn, snow falling, fire behind, soft smile (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+SCENE S032. Final shot: a long line of human figures of all ages in fur clothing walking toward the camera out of a snowy dawn, the child in front, heroic and warm (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, dramatic cinematic composition, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S032.png, R1.png and R2.png for references), one file per number, no UUID names, no numbers or text drawn inside the images. Check: bold single subject in every frame; sewn fur clothing; Neanderthals upright; woolly mammoths with small ears; no blood, no wounds, no nudity, no logos, no recognisable real people.

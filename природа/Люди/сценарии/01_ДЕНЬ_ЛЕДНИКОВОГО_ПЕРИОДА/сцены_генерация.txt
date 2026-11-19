@@ -1,0 +1,296 @@
+MANDATORY RULE — SCENE NUMBERING (read first, applies to everything below):
+Every scene in this project has its own fixed number: S001, S002, S003 and so on. Each scene prompt below starts with its number.
+Generate one 16:9 image per scene, strictly in this numerical order. Each image belongs to exactly one scene number and must be named and labelled with it: S001, S002, S003…
+Never skip, merge, split or reorder numbers, and never combine two scenes in one image. If a scene is regenerated, it keeps its original number.
+The numbers define the editing order of the final video: S001 is the first shot, the highest number is the last.
+
+MANDATORY RULE — FILE NAMES:
+Save and export every generated image with a file name that is exactly its scene number: S001.png, S002.png, S003.png and so on (three digits, capital S). Reference images are named R1.png, R2.png and so on.
+Do not use automatic IDs, UUIDs, prompt text or dates in file names. This applies to every image, including regenerated ones and every image inside a batch download or ZIP archive.
+The number goes only into the file name. Never draw the number or any other text inside the image itself.
+
+PROJECT CONTEXT:
+Project: a 17-minute English science documentary for adults on the YouTube channel about prehistoric humans, titled "What Did Ice Age People Actually Do All Day? A Child Left Proof". Story: one winter day, hour by hour, in an open-air camp of mammoth hunters about 30,000 years ago at Dolní Věstonice and Pavlov (South Moravia, Czech Republic), on a slope above a river under limestone hills. Every hour has a real clue: hut outlines with hearths sealed by wind-blown loess; toe bones that show they wore shoes (Trinkaus, 2005); a grinding stone with starch of cattail and ferns from Pavlov VI (Revedin et al., PNAS, 2010); fur animals and nets, woven impressions on clay (Adovasio, Soffer, Klíma, 1996); the oldest ceramic workshop with a clay oven and thousands of fired clay figures, many burst in the fire (Vandiver et al., Science, 1989); the Venus of Dolní Věstonice with a child's fingerprint (Králík et al.) and a micro-CT scan showing she was made of local loess from one piece (Neruda et al., 2024); a woman from Isturitz Cave in France with ancestry linked to central and eastern Europe (Gelabert, Pinhasi et al., Science Advances, October 2026); the contested "dog" of Předmostí; the triple burial with red ochre and the woman buried under mammoth shoulder blades. Through-question: did they have any free time? Twist: the first fired clay on Earth was made for figures, not for pots. Opens and ends with the same child at dawn and a fingerprint in clay; teaser for a video about four kinds of humans 40,000 years ago.
+
+Visual style (used for every image): painterly realism, scientifically grounded reconstruction of Upper Paleolithic life (Gravettian culture), warm firelight inside huts, cold blue-white winter daylight outside; documentary photograph look for excavations, museums and labs; stylized Ice Age relief map for routes; clean flat scientific illustration for simple comparisons.
+
+Recurring characters (keep identical across shots):
+THE CHILD — a child about nine years old, early modern human, weathered light-brown skin, dark tangled hair, dark curious eyes, a hooded parka of reindeer and fox fur with neat sewn seams, fur boots. Calm and curious, never frightened.
+THE WOMAN — an adult woman about thirty, early modern human, strong hands, dark hair in a simple braid, weathered skin, a sewn fur parka, a necklace of pierced fox teeth and small shells. Usually working: scraping hides, grinding roots, sewing.
+THE CAMP — an open-air winter camp of five low round huts of hides on a gentle slope above a frozen river, edges weighted with mammoth bones, tusks and stones, a hearth inside each hut, a long limestone ridge behind. No caves.
+THE VENUS — a small dark-grey fired clay figurine about the height of a hand, a rounded abstract female form, faceless head with two small holes, always shown as a museum object at a respectful distance.
+People wear fitted sewn fur clothing, hoods and boots (never loincloths). Tools are Upper Paleolithic: flint blades, bone needles with eyes, antler picks, spears with stone points, nets of twisted plant fibre. Woolly mammoths have small ears. Scientists, archaeologists and modern people are generic figures seen from behind or with faces out of frame.
+
+Hard rules: 16:9, no text or letters or numbers in the image, no watermarks, no logos, no signs, no flags, no blood, no wounds, no fighting, no hunting contact, no nudity, no cartoon or stick-figure style, no "cave man with a club", no recognisable real people. Hands have five fingers; count people exactly as described. Screens, papers and charts are always blurred and unreadable. Graves are shown with respect, ornaments and ochre in focus, never as gore.
+
+CHARACTER AND OBJECT REFERENCES (generate these first and reuse them for consistency):
+
+REFERENCE R1. Reference sheet of THE CHILD: a child about nine years old, early modern human, weathered light-brown skin, dark tangled hair, dark curious eyes, hooded parka of reindeer and fox fur with neat sewn seams, fur boots; front, side and three-quarter views. Style: painterly realism, scientifically grounded reconstruction, neutral light, plain background, 16:9, no text.
+
+REFERENCE R2. Reference sheet of THE WOMAN: an adult woman about thirty, early modern human, strong hands, dark hair in a simple braid, weathered skin, sewn fur parka, necklace of pierced fox teeth and small shells; front, side and working poses (scraping a hide, sewing). Style: painterly realism, scientifically grounded reconstruction, neutral light, plain background, 16:9, no text.
+
+REFERENCE R3. Location reference of THE CAMP: five low round huts of hides on a gentle snowy slope above a frozen river, edges weighted with mammoth bones, tusks and stones, smoke rising, a long limestone ridge behind, winter dawn. Style: painterly realism, cold Ice Age daylight, atmospheric depth, 16:9, no text.
+
+REFERENCE R4. Object reference of THE VENUS: a small dark-grey fired clay figurine about the height of a hand, rounded abstract female form, faceless head with two small holes, front and back views in a museum case. Style: documentary photograph, museum lighting, plain dark background, 16:9, no text.
+
+SCENES (one image each, in this exact order):
+
+SCENE S001. Thumbnail image, cinematic close shot at dawn in snow: a child about nine years old in a fur hood stands in the foreground and looks straight into the camera, calm and curious, face lit by warm firelight from the left; behind, slightly out of focus, a woman kneels scraping a stretched reindeer hide; behind her a low round hut of hides with mammoth bones and tusks holding down its edges, smoke rising, pink cold dawn sky over limestone hills; the upper part of the frame is calm and darker for large text (child from reference R1) (woman from reference R2) (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S002. Darkness inside a low round hut, a few glowing embers in a hearth, the faint shapes of sleeping people under piles of furs, breath visible in the cold air (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S003. Inside the hut by faint ember light: a child sits up in the furs, wide awake, watching the viewer with curious eyes (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S004. Close-up of a child's small fingertip pressing gently into a lump of soft grey-yellow clay, warm firelight. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S005. A lone hunter in fur clothing walking along a snowy ridge at dawn with a spear, a vast frozen valley below, tiny against the landscape. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S006. Exterior at first light: a cluster of low hide huts weighted with mammoth bones on a snowy slope above a frozen river, limestone hills behind, frost in the air (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S007. A grinding stone and a pestle beside a hearth, a heap of pale pounded roots on a hide, steam rising in cold air. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S008. Night scene: clay figures in a glowing hearth, one cracking apart in a small burst of sparks, faces of watching people only as silhouettes. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S009. A field archaeologist's gloved hands brushing soil from a burnt hearth layer in a trench, a trowel beside it, the face out of frame. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S010. Wide view of a quiet Ice Age valley at sunrise, a thin line of smoke rising from a camp on the slope, mammoths far away by the river (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S011. A dark empty cave mouth in snow, cold and abandoned, no people. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S012. Close view from a sleeper's eye level: thick fur blankets, a sleeping adult's hand and a child's shoulder very close, embers glowing red in the background. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S013. Wide establishing shot: an open-air camp of five low hide huts on a gentle slope above a river, limestone ridge behind, people moving between huts (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S014. A herd of woolly mammoths with small ears and long shaggy hair crossing a river valley below a limestone ridge, reindeer and wild horses in the distance. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S015. Two hunters crouching on the hillside above a valley, watching a herd pass through a narrow gap between the hills. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S016. A cold dry wind carrying clouds of fine yellow dust across an Ice Age steppe valley, grass bending, low sun. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S017. A layered cross-section of the ground: a dark band with a hearth, bones and stone tools sealed under thick pale yellow loess layers, grass on top. Style: layered cross-section of sediment with dated layers shown as plain colour bands, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S018. Nineteenth-century countryside, a farmer seen from behind with a horse-drawn plough in a field, a large pale mammoth bone turned up in the furrow. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S019. An archaeological excavation on a vineyard slope in the Czech countryside, rows of trenches, workers seen from behind, limestone hills behind. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S020. Top-down view of an excavated hut outline: a ring of large mammoth bones and stones with a dark hearth in the centre, measuring tapes laid across. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S021. A lab bench with a small piece of charcoal in a sample bag and a vial, a blurred lab instrument behind, a scientist's gloved hands. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S022. Thin dark horizontal line with three soft glowing marks along it on a plain background, like a calm timeline, no labels. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S023. Inside the hut: a woman kneeling at the hearth blowing gently on embers, a small flame catching on dry twigs, her face warm in the light (woman from reference R2). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S024. A man pushing aside the hide door flap and stepping out into the blue cold morning, looking at the sky, breath steaming. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S025. Close-up of hands lacing soft fur-lined leather boots with a thong at the hearth, felt and fur visible, warm firelight. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S026. Dim museum storage: small human toe bones laid in a row on a padded tray beside a ruler, soft light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S027. A researcher seen from behind measuring a small bone with digital calipers at a desk, a blurred screen with bone outlines. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S028. Two plain foot outlines side by side: on the left a bare foot with thick strong lesser toes, on the right a foot inside a simple shoe outline with thinner toes. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S029. A group of people in fur clothing and boots walking out of camp into deep snow, footprints behind them. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S030. A frosty dawn landscape with ice crystals on dry grass and a hide hut in the background, breath clouds from a person at the door. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S031. A hearth with cuts of meat drying on a wooden rack above it, and in the shadow beside it a small basket of roots almost unseen. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S032. Big scattered bones of large animals by a hearth in the snow, and beside them, almost unseen, a small basket of roots. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S033. A scientist's gloved hands holding a worn oval grinding stone under a lamp in a lab. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S034. Microscope view: tiny round starch grains glowing under polarised light, black background. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S035. A frozen marsh at the edge of a river with tall dry cattails and fern clumps, a woman digging roots with a pointed stick (woman from reference R2). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S036. A woman pounding roots on a flat stone with a stone pestle, white powder on the stone, a child watching (woman from reference R2) (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S037. Close-up of a pale paste being spread on a flat hot stone at the edge of a hearth, steam and smoke. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S038. A thick flat cake cooking on a hot stone, edges browning, firelight. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S039. A family sitting close around the hearth sharing warm flat cakes, snow visible through the hut door. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S040. Two women in a frozen marsh breaking ice with antler picks to reach roots, slow patient work. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S041. A calm camp scene at mid-morning: some people working, some resting and talking by the fire, a child playing with a small stick. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S042. A slice of toast on a plate on a modern kitchen table in morning light, a coffee cup beside it. Style: documentary photograph, soft morning window light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S043. Split composition: on the left a modern loaf of bread, on the right a flat cake on a hot stone by a prehistoric hearth. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S044. A huge heap of mammoth bones, tusks and jaws in an excavation trench, archaeologists seen from behind for scale. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S045. A woolly mammoth with small ears and long shaggy hair standing beside the plain silhouette of an adult human for scale. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S046. A group of hunters with long spears at a distance watching a single woolly mammoth at a river crossing, tense, no contact. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S047. A mammoth carcass lying naturally on a frozen riverbank in winter, ravens nearby, no people, no blood. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S048. Spear points of flint and ivory laid on a dark cloth in a museum case. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S049. Arctic foxes in white winter fur and mountain hares on a snowy slope at dusk. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S050. A woman sewing pale fox and hare pelts together into a hood, bone needle in hand, firelight (woman from reference R2). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S051. A long knotted net of twisted plant fibre stretched between stakes in the snow. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S052. Close-up of a small fragment of fired clay with a clear impression of twisted cord and woven pattern on its surface, raking light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S053. Researchers seen from behind examining tiny clay fragments under a magnifier at a desk. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S054. Hands twisting plant fibres into string on a thigh, a coil of finished cord beside them. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S055. Children in fur clothes running and shouting across a snowy meadow, driving hares ahead of them (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S056. An elderly woman and an elderly man holding the edge of a long net in the snow, smiling. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S057. A whole family pulling a net through deep snow and laughing as a hare escapes over the top. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S058. Early afternoon at camp: a pile of pelts and a few hares by a hut, people sitting down to rest, low winter sun. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S059. A fire burning unusually bright and hot in a small clay-walled pit, sparks rising, a figure watching from the side. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S060. A small hut up the slope away from the main camp, smoke rising, the main camp below in the valley (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S061. Excavation photograph: a black and white style archaeological trench with the remains of a horseshoe-shaped clay-walled hearth, an archaeologist kneeling from behind. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S062. Thousands of tiny fragments of fired clay laid out in rows on trays in a museum storeroom. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S063. Close-up of small fired clay pieces: a broken animal head, a little clay ball with a fingertip mark, rough surfaces. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S064. Hands shaping a small clay bear by firelight, no pots anywhere around. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S065. A row of small fired clay figures on a stone ledge by a hearth: a lion head, a mammoth, a bear, a wolf, warm light. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S066. Museum case lit softly: a small dark prehistoric clay figurine of a female figure, rounded abstract form, faceless head, seen from a respectful distance (clay figurine from reference R4). Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S067. Broken clay figurines with sharp crack lines, lying in ash. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S068. A scientist seen from behind placing small clay test pieces into a modern laboratory kiln. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S069. A wet clay figure placed into glowing embers, steam hissing around it. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S070. The same clay figure bursting apart in the fire with a shower of sparks, people's faces lit in surprise around the hearth. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S071. An elder with a painted ochre line on the cheek holding a clay figure above the fire, others watching in silence. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S072. A teenager frowning at a cracked clay animal in their hands, an older woman laughing beside them. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S073. A child in fur clothes sitting by the fire with clay-covered fingers, looking at a small figure drying on a stone (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S074. A small prehistoric clay figurine lying inside a medical CT scanner ring, technicians' hands only (clay figurine from reference R4). Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S075. Extreme close-up of a fingerprint impression in dark fired clay, ridges visible, raking light. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S076. Comparison of a small child's fingertip ridges and an adult's ridges as two simple patterns side by side. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S077. A child reaching for a soft clay figure on a stone while an adult's back is turned (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S078. A blurry computer screen in a lab showing a grey cross-section scan of a small figurine, researchers seen from behind (clay figurine from reference R4). Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S079. Crushed mammoth ivory and bone powder in a stone bowl beside lumps of clay, a question left hanging, soft light. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S080. Microscopic view of loess soil grains, tiny shell-like microfossils and limestone specks. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S081. A hand scooping a handful of yellow loess soil from a hillside. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S082. Hands pressing and smoothing one single lump of yellow clay into a small rounded figure by firelight. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S083. Children sitting around adults at a fire, watching a woman carve ivory, one child copying with a stick (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S084. A child shaping a tiny clay mammoth next to an adult working on a bigger figure. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S085. A modern child's fingerprint in wet blue paint on a door frame, soft daylight. Style: documentary photograph, soft home daylight, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S086. A traveller in furs walking alone across a vast white plain toward a distant camp smoke. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S087. Close-up of a necklace of pierced seashells and fox teeth on fur clothing. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S088. A limestone cave entrance in green foothills of the western Pyrenees, mist, the scene as it might look today. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S089. A lab in clean-room suits: a scientist drilling a tiny sample from an ancient bone fragment, face covered by mask. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S090. A woman about thirty thousand years ago standing at a cave mouth in the west, fur clothing, looking east over a cold valley. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S091. Ice Age Europe map with a glowing line from the Moravian hills in the centre to the western Pyrenees. Style: stylized relief map of Europe as it was during the Ice Age, lower sea level, ice sheets in the north, glowing route line, no labels, no text, 16:9, no letters, no watermark.
+
+SCENE S092. Two groups of people in different styles of fur clothing meeting at a fire at a cave mouth, exchanging shell beads. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S093. Three small bone fragments laid on a dark tray in a lab, numbered tags blurred. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S094. A scientist seen from behind looking at a blurred chart on a screen, thinking. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S095. Generations of travellers shown as small figures crossing a frozen continent, a long line of them fading into distance. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S096. A modern person on a sofa reading a message on a phone, warm lamp light, face not visible. Style: documentary photograph, warm home lamp light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S097. A stranger in furs arriving at the edge of an Ice Age camp at dusk, children running to meet him. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S098. Late afternoon, the low sun dropping behind the limestone hills, long blue shadows over the camp (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S099. Inside the hut: the hide door being pulled shut, the hearth in the centre glowing, people settling in. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S100. Near the edge of the firelight, the dim shape of a large wolf-like canid lying down, eyes reflecting the fire. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S101. A museum skull of a large canid lying on a padded cloth, a piece of bone placed between its front teeth. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S102. Researchers seen from behind measuring a canid skull in a lab. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S103. Two plain skull outlines side by side, one wolf, one dog, simple shapes. Style: clean flat scientific illustration, light neutral background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S104. A wild Ice Age wolf standing in the snow at night, watching the camp from a distance. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S105. A half-tame wolf lying near the hearth while a child holds out a scrap of food, cautious. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S106. A modern dog asleep at a person's feet on a rug by a fireplace. Style: documentary photograph, warm fireplace light, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S107. A woman sewing a fur coat by firelight with a bone needle and sinew thread (woman from reference R2). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S108. A hunter walking back to camp at dusk with a bundled reindeer hide and a pair of antlers tied on his back, snow falling. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S109. A child wrapped in a well-fitted fur parka with a hood, only the face showing, snow falling. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S110. Close-up of a carefully sewn seam on a fur boot, tight stitches. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S111. An old man telling a story by the fire, hands raised, children listening with open mouths. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S112. An excavation of a grave with three skeletons lying side by side, red ochre staining around the skulls, archaeologists' hands only. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S113. Close-up of pierced animal teeth and small ivory pendants lying in red-stained soil. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S114. Two huge mammoth shoulder blades lying over a grave in an excavation trench. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S115. A small carved ivory head in a museum case, the face drooping on one side. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S116. A woman's carved likeness being shaped from ivory by firelight, the carver's hands only. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S117. A night burial by torchlight: people placing ornaments and sprinkling red ochre into a grave, faces in shadow, respectful, no bodies visible. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S118. Mourners standing quietly around a hearth after the burial, heads bowed, dawn light coming. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S119. A simple clock face made of stones in the snow with no hands, flat light. Style: clean flat scientific illustration, snow white background, simple shapes, no labels, 16:9, no text, no letters, no watermark.
+
+SCENE S120. A wide still life on a hide: a grinding stone, a coil of net, clay figures, a shell necklace, a bone needle. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S121. A family resting in the sun outside their hut, one person carving, one sleeping, children playing. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S122. A collage-like scene: a stack of modern clay bricks, a ceramic cup and a clay pot on a plain surface, soft daylight. Style: documentary photograph, soft daylight, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S123. The first fired clay figures glowing in the embers of an Ice Age hearth, a lion and a small human figure. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S124. People watching sparks burst from a fire with delight, faces lit orange. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S125. The fire is low, adults busy in the background, a small clay figure drying on a stone by the hearth, a child's finger touching its back (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S126. A modern museum lab: a researcher seen from behind leaning over a small dark clay figurine with a magnifying lens, a fingerprint just visible on its back. Style: documentary photograph, museum or excavation lighting, shallow depth of field, 16:9, no text, no letters, no watermark.
+
+SCENE S127. The child from the beginning looking into the camera at dawn, snow falling, fire behind (child from reference R1). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S128. Several human figures of different heights and builds standing far apart on a ridge above a glacial valley, seen from behind, misty. Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+SCENE S129. Final shot: the camp on the slope at night, a single warm light glowing from one hut under the stars (camp from reference R3). Style: painterly realism, scientifically grounded reconstruction of Paleolithic life, warm firelight or cold Ice Age daylight, earthy natural palette, atmospheric depth, 16:9, no text, no letters, no watermark.
+
+FINAL CHECK BEFORE EXPORT: every file is named by its scene number (S001.png … S129.png, R1.png … R4.png for references), one file per number, no UUID names, no numbers or text drawn inside the images. Check: people wear sewn fur clothing, no loincloths, no clubs; hands have five fingers; woolly mammoths have small ears; the Venus figurine is a small abstract museum object; no blood, no wounds, no nudity, no fighting, no logos, no recognisable real people; what the image shows matches the scene description exactly.
