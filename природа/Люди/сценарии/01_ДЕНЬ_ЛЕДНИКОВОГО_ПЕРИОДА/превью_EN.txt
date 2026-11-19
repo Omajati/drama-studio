@@ -1,0 +1,27 @@
+ПРЕВЬЮ EN — 01 «День ледникового периода»
+РАСКЛАДКА: E — Кино-кадр
+
+Ключевая мысль-крючок: обычный день людей ледникового периода — и вопрос, было ли у них хоть немного свободного времени. Превью — кино-кадр «лицом к лицу»: ребёнок в меховом капюшоне на рассвете смотрит прямо в камеру, за ним женщина скоблит шкуру у хижины, придавленной костями мамонта. Крупная жёлтая строка FREE TIME? — сквозной вопрос ролика; белая строка 30,000 YEARS AGO — время. Ответ превью не подсказывает: его дают улики по главам, итог — финал (≈15:31). Ребёнок, хижина и «тридцать тысяч лет назад» — в первые 15 секунд, вопрос «был ли у них свой час» — к ≈0:40.
+
+СТИЛЬ ПРЕВЬЮ (раскладка E, первая на канале)
+Кадр во весь экран без чёрной стены, мягкое затемнение по краям. Справа, крупно, по пояс — ребёнок лет девяти в капюшоне из оленьего и песцового меха, взгляд в камеру, спокойный и любопытный, лицо освещено тёплым светом костра слева. Слева за ним, не в фокусе, — женщина на коленях скоблит растянутую шкуру; позади низкая круглая хижина из шкур, по краю — бивни и кости мамонта, дым, розовый холодный рассвет над известняковыми холмами, снег. Верхняя левая половина кадра спокойная и темнее — под крупные строки. Кадр превью — сцена S001, появляется в первые 5 секунд.
+
+1. ПРОМТ КАРТИНКИ БЕЗ ТЕКСТА
+Cinematic painterly realism thumbnail, 16:9, full frame, soft dark vignette. On the right, large, waist-up: a child about nine years old in a hood of reindeer and fox fur, looking straight into the camera, calm and curious, face lit by warm firelight from the left, frost on the fur. Behind on the left, slightly out of focus: a woman kneeling and scraping a stretched reindeer hide, and a low round hut of hides with mammoth tusks and bones holding down its edges, smoke rising, pink cold dawn sky over limestone hills, snow on the ground. The upper left half of the frame is calm and darker for large text. Scientifically grounded Upper Paleolithic reconstruction, sewn fur clothing. No text, no letters, no logos, no blood.
+
+2. ТЕКСТ (капс, жирный рубленый шрифт, очень крупно)
+FREE TIME?               — жёлтый, сверху слева, самая крупная строка
+30,000 YEARS AGO         — белый, под ней, вдвое мельче
+
+3. ПЛАШКА
+Нет. Кадр держится на лице ребёнка и жёлтой строке.
+
+4. ПРОМТ ДЛЯ FLOW (с точным текстом)
+Same image as above. In the upper left, one very large bold condensed uppercase line in yellow: FREE TIME? Under it, a smaller bold white line: 30,000 YEARS AGO. No other text.
+
+5. ПРОВЕРКА ЧИТАЕМОСТИ
+На 168×94 читаются: лицо ребёнка в меховом капюшоне (тёплый свет, взгляд в камеру), силуэт хижины с бивнями, жёлтое FREE TIME?. Белая строка мельче — читается на большом экране, на телефоне держится жёлтая.
+
+6. СВЯЗКА С НАЗВАНИЕМ
+Название: What Did Ice Age People Actually Do All Day? A Child Left Proof
+Превью не повторяет слов названия (нет ICE, AGE, PEOPLE, DAY, CHILD, PROOF) и не отвечает на вопрос: добавляет второй — было ли у них свободное время. Обещание честное: день по часам — весь ролик, отпечаток пальца ребёнка — анонс 0:27 и глава ≈9:29, ответ про свободное время — финал.

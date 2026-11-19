@@ -1,0 +1,7 @@
+# Моушен-вставки, 01 День ледникового периода (S номер | вид | что показать)
+S013 | место | Dolní Věstonice and Pavlov, South Moravia · about 30,000 years ago
+S022 | цифра | Radiocarbon dates: 31,000–29,000 years ago, when most of the camp was lived in
+S030 | термометр | A winter night at the camp: −20 °C (−4 °F), a winter night (estimate)
+S063 | линия времени | Fired clay: about 30,000 years ago — clay figures, Dolní Věstonice; about 10,000 years later — first pottery for cooking, far side of the world; today — now
+S076 | цифра | Fingerprint on the Venus: 7–15 years old, the age of the child who touched the clay
+S091 | карта | Ice Age Europe: Isturitz Cave, France — Dolní Věstonice, Czech Republic; ancestry linked west and east, about 30,000 years ago
